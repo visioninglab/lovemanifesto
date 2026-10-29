@@ -205,12 +205,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "eurovision.com",
-        "url": "https://www.eurovision.com/eurovision-song-contest/athens-2006/participants/andorra/"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=UffvRSmRYEk"
       },
       {
         "label": "formulatv.com",
         "url": "https://www.formulatv.com/eurovision/2006/andorra/"
+      },
+      {
+        "label": "Earlier link: eurovision.com",
+        "url": "https://www.eurovision.com/eurovision-song-contest/athens-2006/participants/andorra/"
       }
     ]
   },
@@ -309,7 +313,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "worldradiohistory.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=sBohO1zr7jw"
+      },
+      {
+        "label": "Earlier link: worldradiohistory.com",
         "url": "https://www.worldradiohistory.com/Archive-All-Music/Musician/1980/1985/Musician-1985-06.pdf"
       }
     ]
@@ -633,7 +641,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "folkways.si.edu",
+        "label": "Listen to the song",
         "url": "https://folkways.si.edu/nat-saunders/lynn/world/music/track/smithsonian"
       }
     ]
@@ -944,12 +952,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "realworldrecords.com",
-        "url": "https://realworldrecords.com/features/blogs/darandi-track-by-track/"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=iuaDQ4FSnp4"
       },
       {
         "label": "stonetreerecords.com",
         "url": "https://www.stonetreerecords.com/music/laru-beya/"
+      },
+      {
+        "label": "Earlier link: realworldrecords.com",
+        "url": "https://realworldrecords.com/features/blogs/darandi-track-by-track/"
       }
     ]
   },
@@ -1195,7 +1207,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "dailynews.gov.bw",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=bTbJLAbUhRY"
+      },
+      {
+        "label": "Earlier link: dailynews.gov.bw",
         "url": "https://dailynews.gov.bw/common_up/dailynews/dailynews_pdf/06-02-2023_07-37-23_1675661843_dailynews_pdf.pdf"
       }
     ]
@@ -1426,7 +1442,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "notjustok.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=fWFl_Ylo51s"
+      },
+      {
+        "label": "Earlier link: notjustok.com",
         "url": "https://notjustok.com/eastafrica/pallaso-joins-iry-tiny-on-nakupenda-2/"
       }
     ]
@@ -1581,7 +1601,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "unorthodoxreviews.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=RYCHdIIp2sg"
+      },
+      {
+        "label": "Earlier link: unorthodoxreviews.com",
         "url": "https://unorthodoxreviews.com/muss-official-and-seppo-ndolo-toi-et-moi"
       }
     ]
@@ -1677,7 +1701,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "abdulchampion.bandcamp.com",
+        "label": "Listen to the song",
         "url": "https://abdulchampion.bandcamp.com/album/oumou"
       },
       {
@@ -1941,12 +1965,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "nawali.com",
-        "url": "https://nawali.com/music/"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=GlMnSbEVVOk"
       },
       {
         "label": "mediatheques.agglo-larochelle.fr",
         "url": "https://mediatheques.agglo-larochelle.fr/doc/SYRACUSE/632029/aman-nawal-comp-chant-gambusi-et-guit"
+      },
+      {
+        "label": "Earlier link: nawali.com",
+        "url": "https://nawali.com/music/"
       }
     ]
   },
@@ -2324,7 +2352,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "youtube.com",
+        "label": "Listen to the song",
         "url": "https://www.youtube.com/watch?v=sbyDneLqLcg"
       },
       {
@@ -2371,7 +2399,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "busylife.bandcamp.com",
+        "label": "Listen to the song",
         "url": "https://busylife.bandcamp.com/track/etali-nga-te"
       }
     ]
@@ -2471,7 +2499,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "glitterbeat.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=otpL8LNrrwY"
+      },
+      {
+        "label": "Earlier link: glitterbeat.com",
         "url": "https://glitterbeat.com/yanna-momina/"
       }
     ]
@@ -2510,7 +2542,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "dominicanewsonline.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=kiYGUB3s8eA"
+      },
+      {
+        "label": "Earlier link: dominicanewsonline.com",
         "url": "https://dominicanewsonline.com/news/wcmf/2012-wcmf-artistes-bios/"
       }
     ]
@@ -2777,7 +2813,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "afrikalyrics.com",
+        "label": "Read the lyrics",
         "url": "https://afrikalyrics.com/maele-mading-ma-wok-lyrics"
       }
     ]
@@ -2913,7 +2949,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=bGRFOa9kx74"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "https://texxandthecity.com/2020/10/mzwaa-releases-bold-video-for-his-soulful-love-song-lutsandvo/"
       }
     ]
@@ -3163,7 +3203,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "popnable.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=j8zKB0FUCCg"
+      },
+      {
+        "label": "Earlier link: popnable.com",
         "url": "https://popnable.com/gabon/songs/1403372-shanl-ton-amour"
       }
     ]
@@ -3202,7 +3246,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "musicinafrica.net",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=EmkFMccV0lg"
+      },
+      {
+        "label": "Earlier link: musicinafrica.net",
         "url": "https://musicinafrica.net/magazine/gambian-group-nobles-releases-debut-video-kokom/"
       }
     ]
@@ -3473,12 +3521,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "jeversonsound.com",
-        "url": "https://www.jeversonsound.com/"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=B3YsIuRalFA"
       },
       {
         "label": "music.apple.com",
         "url": "https://music.apple.com/us/artist/jeverson/1549783848"
+      },
+      {
+        "label": "Earlier link: jeversonsound.com",
+        "url": "https://www.jeversonsound.com/"
       }
     ]
   },
@@ -3573,7 +3625,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "old.afropop.org",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=wiNHFQ0idpI"
+      },
+      {
+        "label": "Earlier link: old.afropop.org",
         "url": "https://old.afropop.org/articles/habib-koite-on-his-2007-album-afriki"
       }
     ]
@@ -4645,7 +4701,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "fadhiliwilliam.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=UI9ajy6TrLU"
+      },
+      {
+        "label": "Earlier link: fadhiliwilliam.com",
         "url": "https://fadhiliwilliam.com/about/"
       }
     ]
@@ -4841,7 +4901,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "folkways.si.edu",
+        "label": "Listen to the song",
         "url": "https://folkways.si.edu/love-songs/world/music/album/smithsonian"
       }
     ]
@@ -5279,8 +5339,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://gouvernement.lu/dam-assets/fr/actualites/communiques/2016/05-mai/24-cedom-arendt/05149_BNL_ADAPT_DEPLI_LITTY-3_A3.pdf"
+        "label": "Read about it",
+        "url": "https://lb.wikipedia.org/wiki/D%27Mumm_S%C4%9Bs"
       },
       {
         "label": "Reuse basis / copyright duration",
@@ -5297,6 +5357,10 @@ window.ARCHIVE = [
       {
         "label": "Additional evidence",
         "url": "https://www.philharmonie.lu/media/f4epppnb/rainydayskatalog_2023.pdf"
+      },
+      {
+        "label": "Earlier link: Work / source text",
+        "url": "https://gouvernement.lu/dam-assets/fr/actualites/communiques/2016/05-mai/24-cedom-arendt/05149_BNL_ADAPT_DEPLI_LITTY-3_A3.pdf"
       }
     ]
   },
@@ -5377,7 +5441,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "music.apple.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=TC73l9m1rE8"
+      },
+      {
+        "label": "Earlier link: music.apple.com",
         "url": "https://music.apple.com/us/artist/kim-of-diamonds/1446488490"
       }
     ]
@@ -5473,7 +5541,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "open.spotify.com",
+        "label": "Listen to the song",
         "url": "https://open.spotify.com/track/1Pte35IwrE0KkvftaAofgw"
       },
       {
@@ -5516,7 +5584,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "old.afropop.org",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=wiNHFQ0idpI"
+      },
+      {
+        "label": "Earlier link: old.afropop.org",
         "url": "https://old.afropop.org/articles/habib-koite-on-his-2007-album-afriki"
       }
     ]
@@ -5612,7 +5684,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "youtube.com",
+        "label": "Listen to the song",
         "url": "https://www.youtube.com/watch?v=cMPVzkHxhNc"
       }
     ]
@@ -5709,7 +5781,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=qfFFuc4G2zc"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "http://maurisique.com/histoire-de-la-musique-mauricienne/ti-frere-forever-jeunes-generations/"
       }
     ]
@@ -5901,12 +5977,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "eurovision.com",
-        "url": "https://www.eurovision.com/eurovision-song-contest/vienna-1967/participants/minouche-barelli/"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=aPwd6IKgGQQ"
       },
       {
         "label": "eurovision-spain.com",
         "url": "https://eurovision-spain.com/participante/minouche-barelli-1967/"
+      },
+      {
+        "label": "Earlier link: eurovision.com",
+        "url": "https://www.eurovision.com/eurovision-song-contest/vienna-1967/participants/minouche-barelli/"
       }
     ]
   },
@@ -6180,7 +6260,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "mdn.gov.mm",
+        "label": "Read about the poet",
+        "url": "https://en.wikipedia.org/wiki/Kyi_Aye"
+      },
+      {
+        "label": "Earlier link: mdn.gov.mm",
         "url": "https://www.mdn.gov.mm/newspaper/public/ebooks/download/11909"
       }
     ]
@@ -6219,7 +6303,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "namibian.com.na",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=OEng3K5qfbg"
+      },
+      {
+        "label": "Earlier link: namibian.com.na",
         "url": "https://www.namibian.com.na/teqla-patrick-sikiliza-team-up-on-love-song/"
       }
     ]
@@ -6541,7 +6629,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "areweonair.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=IxMvKqUC93o"
+      },
+      {
+        "label": "Earlier link: areweonair.com",
         "url": "https://areweonair.com/awoa-interviews/etran-de-lair"
       }
     ]
@@ -6581,7 +6673,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=7l22qaD31iE"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "https://www.okayafrica.com/ckay-love-nwantiti-trending-tiktok"
       }
     ]
@@ -6903,12 +6999,7 @@ window.ARCHIVE = [
       "creator": "Traditional; collected Osamu Yamaguchi",
       "language": "Palauan"
     },
-    "links": [
-      {
-        "label": "openmuseum.tw",
-        "url": "https://openmuseum.tw/muse/exhibition/511cb4fc5aba69444930733eec3ce72e"
-      }
-    ]
+    "links": []
   },
   {
     "refId": "ML-134",
@@ -7557,12 +7648,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "mdundo.com",
-        "url": "https://mdundo.com/news/27657"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=8_kLaHOMYMw"
       },
       {
         "label": "music.apple.com",
         "url": "https://music.apple.com/rw/album/this-is-love-single/1633257685"
+      },
+      {
+        "label": "Earlier link: mdundo.com",
+        "url": "https://mdundo.com/news/27657"
       }
     ]
   },
@@ -7679,7 +7774,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "soundcloud.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=GP3Exc5tCtc"
+      },
+      {
+        "label": "Earlier link: soundcloud.com",
         "url": "https://soundcloud.com/kevinlyttlemusic"
       }
     ]
@@ -7719,7 +7818,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Read the lyrics",
         "url": "https://www.huapala.org/Samoa/Le_Teine_Ea.html"
       }
     ]
@@ -7758,7 +7857,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "eurovision.de",
+        "label": "Read the lyrics",
         "url": "https://www.eurovision.de/teilnehmer/Songtext-Valentina-Monetta-Maybe%2Csongtext319.html"
       }
     ]
@@ -8006,7 +8105,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "seychellesnewsagency.com",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=12-R1xUHHIs"
+      },
+      {
+        "label": "Earlier link: seychellesnewsagency.com",
         "url": "https://www.seychellesnewsagency.com/articles/4979/view_news.php"
       }
     ]
@@ -8046,7 +8149,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=ksoa7jSimtI"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "https://en.wikipedia.org/wiki/S._E._Rogie"
       }
     ]
@@ -8474,7 +8581,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "youtube.com",
+        "label": "Listen to the song",
         "url": "https://www.youtube.com/watch?v=OpRO2yQL5OI"
       }
     ]
@@ -8570,8 +8677,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://wikisource.org/wiki/කව්සිළුමිණ/සංඥාපනය"
+        "label": "Read the text",
+        "url": "https://wikisource.org/wiki/%E0%B6%9A%E0%B7%80%E0%B7%8A%E0%B7%83%E0%B7%92%E0%B7%85%E0%B7%94%E0%B6%B8%E0%B7%92%E0%B6%AB"
       },
       {
         "label": "Reuse basis / copyright duration",
@@ -8588,6 +8695,10 @@ window.ARCHIVE = [
       {
         "label": "Additional evidence",
         "url": "https://books.google.com/books/about/Kavsilumiṇa.html?id=ZpHczAEACAAJ"
+      },
+      {
+        "label": "Earlier link: Work / source text",
+        "url": "https://wikisource.org/wiki/කව්සිළුමිණ/සංඥාපනය"
       }
     ]
   },
@@ -9038,7 +9149,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "tatoli.tl",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=82TyzOo_L8U"
+      },
+      {
+        "label": "Earlier link: tatoli.tl",
         "url": "https://tatoli.tl/2022/02/11/marvi-liki-single-iluzaun-iha-odan-11-fevereiru-2022/"
       }
     ]
@@ -9077,7 +9192,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "youtube.com",
+        "label": "Listen to the song",
         "url": "https://www.youtube.com/watch?v=H7692OeT8GY"
       },
       {
@@ -9293,12 +9408,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "science.gov.tm",
-        "url": "https://science.gov.tm/files/journals/109.pdf"
+        "label": "Read about the poet",
+        "url": "https://en.wikipedia.org/wiki/Mollanepes"
       },
       {
         "label": "search.rsl.ru",
         "url": "https://search.rsl.ru/ru/record/01005894656"
+      },
+      {
+        "label": "Earlier link: science.gov.tm",
+        "url": "https://science.gov.tm/files/journals/109.pdf"
       }
     ]
   },
@@ -9336,7 +9455,7 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "open.spotify.com",
+        "label": "Listen to the song",
         "url": "https://open.spotify.com/track/4aE4MJxD5Zck58Q9dN9vd4"
       }
     ]
@@ -9432,7 +9551,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "bigeye.ug",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=0mMIzeffM-4"
+      },
+      {
+        "label": "Earlier link: bigeye.ug",
         "url": "https://bigeye.ug/juliana-kanyomozi-has-released-a-brand-new-love-song-listen-to-it-here/?amp=1&noamp=mobile"
       }
     ]
@@ -9532,12 +9655,16 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "ich.unesco.org",
-        "url": "https://ich.unesco.org/doc/src/20435-EN.pdf"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=Cd3g3o2Wq0Y"
       },
       {
         "label": "ich.unesco.org",
         "url": "https://ich.unesco.org/en/RL/al-taghrooda-traditional-bedouin-chanted-poetry-in-the-united-arab-emirates-and-the-sultanate-of-oman-00744"
+      },
+      {
+        "label": "Earlier link: ich.unesco.org",
+        "url": "https://ich.unesco.org/doc/src/20435-EN.pdf"
       }
     ]
   },
@@ -10023,16 +10150,7 @@ window.ARCHIVE = [
       "creator": "Bemba boys; collector Hugh Tracey",
       "language": "Bemba"
     },
-    "links": [
-      {
-        "label": "saiabcommons.ru.ac.za",
-        "url": "https://saiabcommons.ru.ac.za/vital/access/manager/Repository?f1=sm_type%3A\"sound+recordings\"&f2=sm_subject%3A\"Africa+Zambia+Kwawambua+f-za\"&sort=sort_ss_sm_creator+asc&view=list"
-      },
-      {
-        "label": "hdl.handle.net",
-        "url": "http://hdl.handle.net/10962/205749"
-      }
-    ]
+    "links": []
   },
   {
     "refId": "ML-195",
@@ -10069,7 +10187,11 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=Y2nmxwMrcQ8"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "https://africanarguments.org/2019/01/rest-in-power-oliver-mtukudzi-tuku-music-legend-pan-african-trailblazer/"
       }
     ]

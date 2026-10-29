@@ -76,10 +76,17 @@ window.Poem = (function () {
     return note;
   }
 
+  // Labels from the spreadsheet that say what the reader will find; anything else is a research note
+  const READER_LABELS = new Set([
+    "Listen to the song", "Watch the video", "Read the lyrics", "Read the text",
+    "Read about it", "Read about the poet",
+  ]);
+
   function sourceLink(entry) {
     const link = entry.links[0];
     if (!link) return null;
-    const a = el("a", "", entry.passage ? "Read the whole work" : "Find this work");
+    const fallback = entry.passage ? "Read the whole work" : "Find this work";
+    const a = el("a", "", READER_LABELS.has(link.label) ? link.label : fallback);
     a.href = link.url;
     a.target = "_blank";
     a.rel = "noopener";
