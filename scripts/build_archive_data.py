@@ -99,14 +99,49 @@ def reader_text(text):
     return "; ".join(p for p in parts if p and not EDITORIAL.search(p))
 
 
+# The site is written in UK English; the spreadsheet's own prose sometimes isn't
+UK_WORDS = {
+    "toward": "towards", "fulfill": "fulfil", "fulfills": "fulfils", "fulfillment": "fulfilment",
+    "color": "colour", "colors": "colours", "colored": "coloured", "colorful": "colourful",
+    "favor": "favour", "favorite": "favourite", "honor": "honour", "honored": "honoured",
+    "behavior": "behaviour", "center": "centre", "centered": "centred", "theater": "theatre",
+    "gray": "grey", "traveled": "travelled", "traveling": "travelling", "traveler": "traveller",
+    "catalog": "catalogue", "jewelry": "jewellery", "defense": "defence", "skeptical": "sceptical",
+    "neighbor": "neighbour", "neighbors": "neighbours", "labor": "labour", "humor": "humour",
+    "rumor": "rumour", "splendor": "splendour", "ardor": "ardour", "vigor": "vigour",
+    "savior": "saviour", "endeavor": "endeavour", "candor": "candour", "valor": "valour",
+    "harbor": "harbour", "flavor": "flavour", "modeled": "modelled", "marveled": "marvelled",
+}
+IZE_WORD = re.compile(r"\b\w+(?:iz|yz)(?:e|es|ed|ing|ation|ations)\b", re.I)
+NOT_IZE = {"size", "sizes", "sized", "sizing", "prize", "prizes", "prized", "seize", "seized",
+           "seizes", "seizing", "capsize", "capsized", "maize", "baize", "belize", "oversized"}
+
+
+def uk_spelling(text):
+    def word(m):
+        w = m.group(0)
+        uk = UK_WORDS.get(w.lower())
+        return (uk[0].upper() + uk[1:] if w[0].isupper() else uk) if uk else w
+
+    def ize(m):
+        w = m.group(0)
+        if w.lower() in NOT_IZE:
+            return w
+        return re.sub(r"(i|y)z(?=e|ed|es|ing|ation)", r"\1s", w, count=1, flags=re.I)
+
+    text = re.sub(r"\b[A-Za-z]+\b", word, text)
+    return IZE_WORD.sub(ize, text)
+
+
 def add_display_fields(entry):
     title = reader_title(entry["title"]) or entry["title"]
-    english = reader_title(entry["titleEnglish"])
+    english = uk_spelling(reader_title(entry["titleEnglish"]))
+    entry["description"] = uk_spelling(entry["description"])
     entry["display"] = {
         "title": title,
         "english": english if english and english.lower() != title.lower() else "",
         "creator": reader_title(reader_text(entry["creator"])),
-        "language": reader_text(entry["language"]),
+        "language": uk_spelling(reader_text(entry["language"])),
     }
 
 

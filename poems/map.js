@@ -1,4 +1,4 @@
-// World map of the archive. Each country links to its entry in archive.html.
+// World map of the archive, shown on the home page. Clicking a country shows its poem below the map.
 
 (function () {
   const WORLD_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json";

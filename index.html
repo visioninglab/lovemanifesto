@@ -1,14 +1,87 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Love Manifesto</title>
-  <!-- Until the home page exists, send visitors to the archive -->
-  <meta http-equiv="refresh" content="0; url=poems/archive.html">
-  <link rel="canonical" href="poems/archive.html">
+  <meta name="description" content="A love poem, song or story from every country in the world, read in its own language and in English.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <p><a href="poems/archive.html">Go to the Love Poetry Archive</a></p>
+  <nav class="site-nav" aria-label="Site">
+    <a href="index.html" aria-current="page">Map</a>
+    <a href="poems/archive.html">Poems</a>
+    <a href="#about">About</a>
+  </nav>
+
+  <header class="home-hero">
+    <p class="eyebrow">Love Manifesto</p>
+    <h1>Love, in every language</h1>
+    <p class="lede">A love poem, song or story from every country in the world. Choose a highlighted country on the map to read its poem in the language it was written in, side by side with English.</p>
+  </header>
+
+  <main class="map-page">
+    <div class="map-tools">
+      <label class="country-picker">
+        <span>Go to a country</span>
+        <select id="country-select">
+          <option value="">Choose…</option>
+        </select>
+      </label>
+      <ul class="legend" id="legend" aria-label="Map colours"></ul>
+    </div>
+
+    <div class="map-frame" id="map-frame">
+      <svg id="map" viewBox="0 0 960 480" role="img" aria-label="World map of love poems. Use the country list above to choose a country with the keyboard."></svg>
+      <div class="map-zoom">
+        <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+        <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+        <button type="button" id="zoom-reset" aria-label="Reset map">⟲</button>
+      </div>
+      <div class="map-tooltip" id="tooltip" hidden></div>
+      <p class="map-status" id="map-status">Loading map…</p>
+    </div>
+    <p class="map-hint">Scroll or pinch to zoom. Small countries are shown as dots.</p>
+
+    <section class="map-card" id="map-card" aria-live="polite" hidden></section>
+
+    <section class="about" id="about" aria-labelledby="about-title">
+      <h2 id="about-title">About this project</h2>
+      <p class="about-intro">Love Manifesto gathers writing about love from all 195 countries of the world: poems, songs, ballads and stories, from medieval Persian verse to modern pop songs. Love is one of the things every culture writes about, and reading these side by side shows how differently, and how alike, people have put it into words.</p>
+
+      <ol class="about-steps">
+        <li>
+          <h3>One for every country</h3>
+          <p>Each country has one chosen work. Some are famous, some are folk songs or oral traditions that are rarely heard outside their home.</p>
+        </li>
+        <li>
+          <h3>Read it in two languages</h3>
+          <p>Countries highlighted on the map have a poem you can read here, in its original language beside an English version.</p>
+        </li>
+        <li>
+          <h3>Explore the rest</h3>
+          <p>For the other countries, we describe the work and link to where you can read or listen to it.</p>
+        </li>
+      </ol>
+
+      <p class="about-actions">
+        <a class="button" href="poems/archive.html">Read the poems</a>
+        <a class="button button-quiet" href="poems/archive.html?explore">Explore more poems</a>
+      </p>
+    </section>
+  </main>
+
+  <footer class="archive-footer">
+    <p>English versions of poems not written in English are new translations made with AI assistance. Map borders from <a href="https://www.naturalearthdata.com/">Natural Earth</a>.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+  <script src="data/archive.js"></script>
+  <script src="poems/poem.js"></script>
+  <script src="poems/map.js"></script>
 </body>
 </html>

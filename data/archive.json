@@ -968,7 +968,7 @@
     "genderDetails": "Man author",
     "originalDate": "First edition 1929, Paris, La Dépêche Africaine; rewritten serial version 1962 is separate",
     "editionDate": "1929 original; modern collected edition 2005 is a locating reference only",
-    "description": "Akoéba’s adulterous love for Mawoulawoé becomes entangled with murder, inheritance and remorse. A tragic moralizing account of romantic passion.",
+    "description": "Akoéba’s adulterous love for Mawoulawoé becomes entangled with murder, inheritance and remorse. A tragic moralising account of romantic passion.",
     "provenance": "Couchoro was born in Dahomey, now Benin, and later became a Togolese citizen. Scholarship places this novel on both sides of the Mono in Benin/Togo. Western University lists the original novel in its collected works; Strasbourg thesis describes the lovers. Full 1929 copy still needs locating.",
     "location": "Entire 1929 novel; obtain original edition before choosing a passage",
     "translation": "Country link is birth and shared Benin/Togo setting, not exclusive national ownership. Not a freely licensed 2005 edition. The 1962 serial revises the 1929 novel and must not be substituted without separate review. This row establishes a US-public-domain original lead, not current full-text availability. Passage update (29 October 2026): Not filled: no accessible, verified 1929 original text was located for passage selection. A search result for a 1983 reprint does not establish that it reproduces the 1929 wording unchanged. Supply relevant 1929 pages. Keep the existing territorial rights note.",
@@ -1787,7 +1787,7 @@
     "refId": "ML-205",
     "country": "China",
     "continent": "Asia",
-    "title": "Trysting Time (Jing nü / 靜女)",
+    "title": "靜女 / Trysting Time",
     "titleEnglish": "The Quiet Maiden (also translated Trysting Time)",
     "creator": "Anonymous; Shijing tradition",
     "openOriginal": "Yes",
@@ -1795,7 +1795,7 @@
     "form": "Poetry",
     "genderGroup": "Unknown",
     "year": "",
-    "language": "English, rendered from Chinese",
+    "language": "Classical Chinese",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Unknown / anonymous",
@@ -1803,17 +1803,22 @@
     "editionDate": "1909 (English rendering)",
     "description": "A lover waits for a girl and treasures her gifts.",
     "provenance": "A Lute of Jade; L. Cranmer-Byng; New York edition, 1909",
-    "location": "The Odes of Confucius: Trysting Time, stanzas I–III",
-    "translation": "Specifically Cranmer-Byng’s 1909 rendering (translator died 1945). The traditional collection title does not mean Confucius authored the poem; modern translations are separate.",
+    "location": "Complete poem, arranged as 12 lines",
+    "translation": "Specifically Cranmer-Byng’s 1909 rendering (translator died 1945). The traditional collection title does not mean Confucius authored the poem; modern translations are separate. Passage update (29 October 2026): Complete poem, arranged as 12 lines, original Chinese with English. The precise identity of 彤管, rendered “red reed”, is uncertain. In the last stanza, the speaker addresses the gift.",
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "china",
     "formGroup": "Poem",
     "display": {
-      "title": "Trysting Time",
+      "title": "靜女 / Trysting Time",
       "english": "The Quiet Maiden",
       "creator": "Anonymous; Shijing tradition",
-      "language": "English, rendered from Chinese"
+      "language": "Classical Chinese"
+    },
+    "passage": {
+      "original": "靜女其姝，\n俟我於城隅，\n愛而不見，\n搔首踟躕。\n靜女其孌，\n貽我彤管，\n彤管有煒，\n說懌女美。\n自牧歸荑，\n洵美且異，\n匪女之為美，\n美人之貽。",
+      "english": "The quiet maiden is lovely;\nshe waits for me by the city wall.\nShe hides and does not appear;\nI scratch my head and pace about.\nThe quiet maiden is beautiful;\nshe gives me a red reed.\nThe red reed shines;\nI delight in your beauty.\nFrom the pasture she brings a tender shoot,\ntruly lovely and unusual.\nIt is not the shoot itself that is beautiful:\nit is a gift from my beautiful one.",
+      "status": "translation"
     },
     "links": [
       {
@@ -2108,7 +2113,7 @@
     "genderDetails": "Woman",
     "originalDate": "19th century; linked text categorized as published in 1871",
     "editionDate": "1871 publication category; underlying edition not identified",
-    "description": "Passionate recognition: the beloved fulfills a long-held ideal; devotion is mixed with awareness of danger.",
+    "description": "Passionate recognition: the beloved fulfils a long-held ideal; devotion is mixed with awareness of danger.",
     "provenance": "Wikisource distinguishes this poem from the other A él beginning No existe lazo ya",
     "location": "Complete poem; En la aurora lisonjera opening",
     "translation": "Cuban-born writer with a major literary career in Spain; not a modern nationality claim about a colonial-era author. Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material.",
@@ -4321,7 +4326,7 @@
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "",
-    "language": "Romanized Japanese and English",
+    "language": "Romanised Japanese and English",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -4339,7 +4344,7 @@
       "title": "Shinoburedo",
       "english": "Though I concealed it",
       "creator": "Taira no Kanemori",
-      "language": "Romanized Japanese and English"
+      "language": "Romanised Japanese and English"
     },
     "passage": {
       "original": "しのぶれど\n色に出でにけり\nわが恋は\n物や思ふと\n人の問ふまで",
@@ -4712,7 +4717,7 @@
     "genderDetails": "Woman",
     "originalDate": "Before 1943; first-publication date not established",
     "editionDate": "Undated online transcription",
-    "description": "Joyful desire: every feeling turns toward the beloved, flowering like spring.",
+    "description": "Joyful desire: every feeling turns towards the beloved, flowering like spring.",
     "provenance": "Original poem reproduced by Dzejoli; National Library of Latvia archive independently identifies the named poem and author",
     "location": "Complete poem",
     "translation": "Scope is Aspazija’s Latvian words. The linked archival sound recording and later song settings are separate. US first-publication basis remains unverified; first-edition citation still needed.",
@@ -7871,7 +7876,7 @@
     "genderDetails": "Woman",
     "originalDate": "1895 (Z vesny života collection)",
     "editionDate": "Online text; modern print source requires edition check",
-    "description": "Affirmative: a shared glance under falling stars fulfills the speaker’s wish for love.",
+    "description": "Affirmative: a shared glance under falling stars fulfils the speaker’s wish for love.",
     "provenance": "Z vesny života; Zlatý fond SME transcription; Slovak Academy of Sciences confirms 1895 collection",
     "location": "Chapter 8, complete poem",
     "translation": "Scope is the 1895 poem. Modern editorial matter and presentation are separate; no English translation is cleared.",
