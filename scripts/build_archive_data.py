@@ -1,9 +1,9 @@
-"""Build the poetry archive data from the source spreadsheet.
+"""Build the poetry archive data from the master spreadsheet.
 
-Reads data/source/Manifesto_for_Love_195_Country_Reference.xlsx and writes:
+Reads data/source/Manifesto_for_Love_MASTER.xlsx and writes:
   data/archive.json  - for tools and anything served over HTTP
-  data/archive.js    - the same data as a script, so the archive page also
-                       works when opened directly from disk (file://)
+  data/archive.js    - the same data as a script, so the archive pages also
+                       work when opened directly from disk (file://)
 
 Usage:
   python scripts/build_archive_data.py [path/to/spreadsheet.xlsx]
@@ -13,43 +13,101 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 import openpyxl
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_SOURCE = ROOT / "data" / "source" / "Manifesto_for_Love_195_Country_Reference.xlsx"
-HEADER_ROW = 4
+DEFAULT_SOURCE = ROOT / "data" / "source" / "Manifesto_for_Love_MASTER.xlsx"
+HEADER_ROW = 6
 
 # Spreadsheet header -> field name in the output
 COLUMNS = {
+    "Reference ID": "refId",
     "Country": "country",
-    "Work or tradition": "title",
+    "Continent": "continent",
+    "Work title / identifier": "title",
+    "Title in English": "titleEnglish",
+    "Creator / performer": "creator",
+    "Open original": "openOriginal",
+    "Reference type": "referenceType",
     "Form": "form",
-    "Creator or performer": "creator",
+    "Gender group": "genderGroup",
+    "Year for sorting": "year",
     "Language / community": "language",
-    "Provenance / edition": "provenance",
+    "Tradition / repertoire": "tradition",
+    "Form details": "formDetails",
+    "Gender / role details": "genderDetails",
+    "Original work date": "originalDate",
+    "Edition / translation date": "editionDate",
     "Description / context": "description",
-    "Translation notes": "translation",
-    "Rights / cultural considerations": "rights",
+    "Provenance / edition": "provenance",
+    "Location within source": "location",
+    "Translation / version notes": "translation",
+    "Original rights / reuse basis": "rights",
     "Source details": "source",
 }
-LINK_COLUMNS = ["Source link", "Additional link 1", "Additional link 2"]
+PASSAGE_COLUMNS = {
+    "Selected passage — original language": "original",
+    "Selected passage — English": "english",
+}
+LINK_COLUMNS = [
+    "Source link",
+    "Rights / catalogue link",
+    "Date evidence link",
+    "Creator / country evidence link",
+    "Additional link 1",
+    "Additional link 2",
+]
 
 
 def form_group(form):
     """Collapse the many specific forms into a few browsable groups."""
     f = form.lower()
-    if any(w in f for w in ("epic", "romance", "narrative", "performance")):
-        return "Epic & romance"
-    if "oral" in f:
-        return "Oral tradition"
-    is_song = any(w in f for w in ("song", "ballad"))
-    is_poem = any(w in f for w in ("poem", "waka", "ghazal"))
+    is_song = "song" in f
+    is_poem = "poetry" in f or "poem" in f
     if is_song and is_poem:
         return "Poem & song"
     if is_song:
         return "Song"
-    return "Poem"
+    if is_poem:
+        return "Poem"
+    return "Narrative & oral"
+
+
+def translation_status(entry, passage):
+    """How the English passage relates to the original."""
+    if passage["original"] == passage["english"]:
+        return "english-original"
+    if "chatgpt" in entry["translation"].lower():
+        return "draft"
+    return "translation"
+
+
+# Research notes that matter to editors but not to readers
+EDITORIAL = re.compile(r"confirm|verify|establish|disputed|unspecified|uncertain|unknown|not stated|attribution", re.I)
+
+
+def reader_title(title):
+    """Drop bracketed cataloguing notes: "(incipit)", "(first line; ...)"."""
+    return re.sub(r"\s*[(\[][^)\]]*[)\]]", "", title).strip(" ,;")
+
+
+def reader_text(text):
+    """Keep only the parts of a ;-separated field that aren't editorial notes."""
+    parts = [p.strip() for p in text.split(";")]
+    return "; ".join(p for p in parts if p and not EDITORIAL.search(p))
+
+
+def add_display_fields(entry):
+    title = reader_title(entry["title"]) or entry["title"]
+    english = reader_title(entry["titleEnglish"])
+    entry["display"] = {
+        "title": title,
+        "english": english if english and english.lower() != title.lower() else "",
+        "creator": reader_title(reader_text(entry["creator"])),
+        "language": reader_text(entry["language"]),
+    }
 
 
 def slugify(text):
@@ -78,15 +136,25 @@ def restore_spaces(token):
 def clean(value):
     if value is None:
         return ""
+    if isinstance(value, float) and value.is_integer():
+        value = int(value)
     text = re.sub(r"\s+", " ", str(value)).strip()
     return " ".join(restore_spaces(t) for t in text.split(" "))
+
+
+def clean_passage(value):
+    """Poem text: keep the line breaks, touch nothing else."""
+    if value is None:
+        return ""
+    lines = str(value).replace("\r\n", "\n").split("\n")
+    return "\n".join(line.rstrip() for line in lines).strip()
 
 
 def build(source):
     ws = openpyxl.load_workbook(source, data_only=True).worksheets[0]
     headers = [clean(c.value) for c in ws[HEADER_ROW]]
     col = {h: i for i, h in enumerate(headers)}
-    missing = [h for h in [*COLUMNS, *LINK_COLUMNS] if h not in col]
+    missing = [h for h in [*COLUMNS, *PASSAGE_COLUMNS, *LINK_COLUMNS] if h not in col]
     if missing:
         sys.exit(f"Spreadsheet is missing expected columns: {missing}")
 
@@ -96,14 +164,26 @@ def build(source):
             continue
         entry = {field: clean(row[col[h]].value) for h, field in COLUMNS.items()}
         entry["id"] = slugify(entry["country"])
+        entry["title"] = entry["title"] or entry["titleEnglish"] or entry["tradition"]
         entry["formGroup"] = form_group(entry["form"])
+        add_display_fields(entry)
+
+        passage = {field: clean_passage(row[col[h]].value) for h, field in PASSAGE_COLUMNS.items()}
+        if passage["original"] and passage["english"]:
+            passage["status"] = translation_status(entry, passage)
+            entry["passage"] = passage
+        elif passage["original"] or passage["english"]:
+            print(f"Warning: {entry['country']} has only one of the two passages; skipped")
+
         entry["links"] = []
         for h in LINK_COLUMNS:
             cell = row[col[h]]
             label = clean(cell.value)
             url = cell.hyperlink.target if cell.hyperlink else ""
-            if url or label:
-                entry["links"].append({"label": label or url, "url": url})
+            if url:
+                if not label or label.startswith("http"):
+                    label = urlparse(url).hostname.removeprefix("www.")
+                entry["links"].append({"label": label, "url": url})
         entries.append(entry)
 
     entries.sort(key=lambda e: e["country"])
@@ -121,10 +201,13 @@ def main():
         f"window.ARCHIVE = {payload};\n",
         encoding="utf-8",
     )
-    no_url = [e["country"] for e in entries if not any(l["url"] for l in e["links"])]
+    with_text = [e for e in entries if "passage" in e]
+    drafts = sum(1 for e in with_text if e["passage"]["status"] == "draft")
     print(f"Wrote {len(entries)} entries to data/archive.json and data/archive.js")
+    print(f"{len(with_text)} with original and English passages ({drafts} English drafts awaiting review)")
+    no_url = [e["country"] for e in entries if not e["links"]]
     if no_url:
-        print(f"Entries without a source URL: {', '.join(no_url)}")
+        print(f"Entries without any link: {', '.join(no_url)}")
 
 
 if __name__ == "__main__":

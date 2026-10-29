@@ -10,6 +10,10 @@
   --accent-soft: #f3e3df;
   --serif: "Cormorant Garamond", Georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
+  /* Map: countries with a poem to read stand out; the rest recede */
+  --cat-poem: #a34a4a;
+  --cat-listed: #d9ccbf;
+  --no-entry: #f0ebe4;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,6 +25,9 @@
     --line: #3a332e;
     --accent: #e08e85;
     --accent-soft: #3b2724;
+    --cat-poem: #e08e85;
+    --cat-listed: #4a403a;
+    --no-entry: #2e2825;
   }
 }
 
@@ -46,6 +53,19 @@ a { color: var(--accent); }
   white-space: nowrap;
 }
 
+/* Navigation between archive views */
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 1.25rem 1rem 0;
+  font-size: 0.95rem;
+}
+
+.site-nav a { color: var(--muted); text-decoration: none; }
+.site-nav a[aria-current="page"] { color: var(--ink); border-bottom: 1px solid var(--accent); }
+
 /* Archive */
 
 .archive-header,
@@ -56,7 +76,7 @@ a { color: var(--accent); }
   padding: 0 1rem;
 }
 
-.archive-header { padding-top: 4rem; padding-bottom: 2rem; text-align: center; }
+.archive-header { padding-top: 2.5rem; padding-bottom: 2rem; text-align: center; }
 
 .eyebrow {
   margin: 0;
@@ -99,8 +119,7 @@ a { color: var(--accent); }
 
 .search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-.form-groups { margin: 0.75rem 0 0; padding: 0; border: 0; }
-.form-groups > div { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.view-switch { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
 
 .chip {
   padding: 0.3rem 0.85rem;
@@ -144,6 +163,9 @@ a { color: var(--accent); }
   scroll-margin-top: 11rem;
 }
 
+/* Highlight the entry a map link points to */
+.entry:target { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+
 .entry-head {
   display: flex;
   justify-content: space-between;
@@ -169,20 +191,13 @@ a { color: var(--accent); }
   font-style: italic;
   font-weight: 500;
   line-height: 1.2;
+  text-align: left;
   overflow-wrap: anywhere;
 }
 
 .entry-creator { margin: 0; font-weight: 600; }
 .entry-language { margin: 0; color: var(--muted); font-size: 0.95rem; }
 .entry-description { margin: 0.9rem 0 0; }
-
-.entry-more { margin-top: 0.9rem; }
-.entry-more summary { color: var(--muted); font-size: 0.9rem; cursor: pointer; }
-
-.details { margin: 0.75rem 0 0; font-size: 0.95rem; }
-.detail + .detail { margin-top: 0.6rem; }
-.details dt { font-weight: 600; }
-.details dd { margin: 0; color: var(--muted); }
 
 .entry-links {
   display: flex;
@@ -200,4 +215,181 @@ a { color: var(--accent); }
   padding-bottom: 4rem;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+/* Map */
+
+.map-page {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.map-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.country-picker { display: flex; gap: 0.6rem; align-items: center; font-size: 0.95rem; }
+
+.country-picker select {
+  max-width: 14rem;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  background: var(--card);
+  color: var(--ink);
+  font: inherit;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.9rem;
+}
+
+.legend li { display: flex; gap: 0.4rem; align-items: center; }
+.legend-count { color: var(--muted); }
+.swatch { width: 0.8rem; height: 0.8rem; border-radius: 3px; }
+.swatch.cat-poem { background: var(--cat-poem); }
+.swatch.cat-listed { background: var(--cat-listed); }
+
+.map-frame {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--card);
+}
+
+#map { display: block; width: 100%; height: auto; cursor: grab; touch-action: none; }
+#map:active { cursor: grabbing; }
+
+#map .country {
+  stroke: var(--card);
+  stroke-width: 0.6;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+#map .country.no-entry { fill: var(--no-entry); }
+#map .cat-poem { fill: var(--cat-poem); }
+#map .cat-listed { fill: var(--cat-listed); }
+
+#map .country:not(.no-entry), #map .dot { cursor: pointer; }
+#map .country:not(.no-entry):hover { opacity: 0.8; }
+#map .country.selected { stroke: var(--ink); stroke-width: 1.5; }
+
+#map .dot-hit { fill: transparent; }
+#map .dot-mark { stroke: var(--card); stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+#map .dot:hover .dot-mark,
+#map .dot.selected .dot-mark { stroke: var(--ink); }
+
+.map-zoom {
+  position: absolute;
+  right: 0.75rem;
+  bottom: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.map-zoom button {
+  width: 2.25rem;
+  height: 2.25rem;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  background: var(--card);
+  color: var(--ink);
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.map-tooltip {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  max-width: 16rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  background: var(--card);
+  box-shadow: 0 4px 16px rgba(46, 38, 34, 0.12);
+  font-size: 0.875rem;
+  line-height: 1.35;
+  pointer-events: none;
+}
+
+.map-tooltip span { color: var(--muted); }
+
+.map-status {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  padding: 1rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+.map-hint { margin: 0.5rem 0 1.5rem; color: var(--muted); font-size: 0.875rem; }
+
+.map-card {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--card);
+  scroll-margin-bottom: 1rem;
+}
+
+@media (max-width: 40rem) {
+  .map-zoom { right: 0.4rem; bottom: 0.4rem; gap: 0.2rem; }
+  .map-zoom button { width: 1.75rem; height: 1.75rem; font-size: 0.95rem; }
+}
+
+/* Poem passages */
+
+.entry-title-english { margin: 0 0 0.35rem; color: var(--muted); font-family: var(--serif); font-size: 1.2rem; }
+
+.passage {
+  margin: 1.25rem 0 0;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.passage-pair { display: grid; gap: 1.5rem; }
+
+@media (min-width: 40rem) {
+  .passage-pair { grid-template-columns: 1fr 1fr; }
+}
+
+.passage-col { margin: 0; }
+
+.passage-text {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  line-height: 1.55;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+
+.passage-note { margin: 0.6rem 0 0; color: var(--muted); font-size: 0.85rem; }
+
+/* Give poem lines more room on phones so they wrap less */
+@media (max-width: 40rem) {
+  .entry, .map-card { padding: 1.25rem 1rem; }
+  .passage-text { font-size: 1.08rem; }
 }
