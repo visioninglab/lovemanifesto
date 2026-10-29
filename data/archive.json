@@ -7055,16 +7055,22 @@
     "description": "A sonnet in which the speaker fears the overwhelming consequences of the beloved returning his love.",
     "provenance": "Biblioteca Nacional de Panamá, digitised poetic anthology; original poem printed with its date.",
     "location": "Printed p.170, Amor dantesco",
-    "translation": "The reuse assessment applies to Miró’s historical poem. The anthology’s modern introduction, selection and commentary are separate. The poem is intense rather than uncomplicatedly joyful.",
+    "translation": "The reuse assessment applies to Miró’s historical poem. The anthology’s modern introduction, selection and commentary are separate. The poem is intense rather than uncomplicatedly joyful. Passage update (29 October 2026): Complete sonnet, 14 lines, dated August 1918, read from an image of printed p. 170 supplied by the project (the library PDF’s security certificate had expired). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1940. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Biblioteca Nacional de Panamá, digitised poetic anthology; original poem printed with its date.",
     "id": "panama",
+    "contextNote": "Ricardo Miró is Panama’s national poet, best known for “Patria” (1909), written not long after Panama separated from Colombia; the country’s leading literary prize carries his name. He wrote this sonnet in August 1918.",
     "formGroup": "Poem",
     "display": {
       "title": "Amor dantesco",
       "english": "Dantean Love",
       "creator": "Ricardo Miró",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Yo quisiera decírtelo y no puedo;\nme lo veda un poder que no es humano.\nTe voy a hablar y una invisible mano\nposa en mis labios trémulos un dedo.\nMudo, y absorto, y aturdido quedo\nante el prodigio de este amor arcano,\ntan azul, tan sin fin como un océano,\ntan hondo que a mí mismo me da miedo.\nMiedo, pavor de que también me ames;\nde que así como yo toda te inflames\nen este amor cuyo final no vemos;\nporque he asomado a mi alma entre mí mismo\ny no hallo el fondo del profundo abismo\nde amor y de dolor en que caeremos.",
+      "english": "I would like to tell you, and I cannot;\na power that is not human forbids me.\nI am about to speak, and an invisible hand\nlays a finger on my trembling lips.\nMute, absorbed and dazed I stand\nbefore the wonder of this secret love,\nas blue, as endless as an ocean,\nso deep that I myself am afraid.\nAfraid, in dread that you love me too;\nthat, like me, you may be all aflame\nin this love whose end we cannot see;\nfor I have looked into my soul, within myself,\nand cannot find the bottom of the deep abyss\nof love and pain into which we shall fall.",
+      "status": "draft"
     },
     "links": [
       {
