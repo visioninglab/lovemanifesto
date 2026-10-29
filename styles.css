@@ -380,7 +380,7 @@ a { color: var(--accent); }
 .passage-text {
   margin: 0;
   font-family: var(--serif);
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.55;
   white-space: pre-line;
   overflow-wrap: anywhere;
@@ -485,16 +485,49 @@ a { color: var(--accent); }
 
 .map-page + .archive-footer { max-width: 50rem; }
 
-/* Historical context beside works from slave societies */
+/* Historical context: kept quiet so the poem stays the focus */
 
 .history-note {
-  margin: 1.1rem 0 0;
-  padding: 0.9rem 1rem;
-  border-left: 3px solid var(--accent);
-  border-radius: 0 0.5rem 0.5rem 0;
-  background: var(--accent-soft);
-  font-size: 0.95rem;
+  margin: 1.5rem 0 0;
+  padding: 0.75rem 0 0;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 1.55;
 }
 
 .history-note p { margin: 0; }
-.history-note .history-note-title { margin-bottom: 0.3rem; font-weight: 600; }
+.history-note .history-note-title {
+  margin-bottom: 0.25rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* Original and English line by line; rows keep each pair aligned when lines wrap */
+
+.passage-grid { display: grid; column-gap: 1.5rem; }
+
+@media (min-width: 40rem) {
+  .passage-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(var(--rows), auto);
+    grid-auto-flow: column;
+  }
+}
+
+.passage-line {
+  margin: 0;
+  padding-bottom: 0.15rem;
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: 1.3rem;
+  line-height: 1.45;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 40rem) {
+  .passage-line { font-size: 1.08rem; }
+  .passage-note-original { margin-bottom: 1.25rem; }
+}

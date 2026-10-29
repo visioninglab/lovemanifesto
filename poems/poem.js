@@ -35,6 +35,24 @@ window.Poem = (function () {
       section.append(el("blockquote", "passage-text", english));
       return section;
     }
+    const origLines = original.split("\n");
+    const engLines = english.split("\n");
+    if (origLines.length === engLines.length) {
+      // One grid, filled column by column: each original line shares a row with its translation,
+      // so long lines that wrap stay aligned. On narrow screens it falls back to one column.
+      const grid = el("div", "passage-grid");
+      grid.style.setProperty("--rows", origLines.length + 1);
+      origLines.forEach((line) => {
+        const node = el("p", "passage-line", line);
+        node.dir = "auto";
+        grid.append(node);
+      });
+      grid.append(el("p", "passage-note passage-note-original", entry.display.language || "Original"));
+      engLines.forEach((line) => grid.append(el("p", "passage-line", line)));
+      grid.append(el("p", "passage-note", "English"));
+      section.append(grid);
+      return section;
+    }
     section.classList.add("passage-pair");
     const orig = el("figure", "passage-col");
     const origText = el("blockquote", "passage-text", original);

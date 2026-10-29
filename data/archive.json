@@ -3999,52 +3999,52 @@
     "refId": "ML-214",
     "country": "India",
     "continent": "Asia",
-    "title": "The Gardener, poem 16",
-    "titleEnglish": "The Gardener, poem 16",
+    "title": "অনন্ত প্রেম / Ananta Prem",
+    "titleEnglish": "Unending Love",
     "creator": "Rabindranath Tagore",
     "openOriginal": "Yes",
     "referenceType": "Named work",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1913",
-    "language": "English from Bengali",
+    "year": "1889",
+    "language": "Bengali",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
-    "originalDate": "1913 (English collection); Bengali poem date not established",
-    "editionDate": "1915 (author’s English translation, linked edition)",
-    "description": "Mutual love through touch.",
-    "provenance": "The Gardener; linked edition dated 1915; author translation",
-    "location": "Poem 16",
-    "translation": "Author translation; preface notes abridgement and paraphrase. Modern translations are separate. English passage: Original English text; not a translation. Poem 16, first three paragraphs; author’s English version, reflowed into 12 reading lines. Corrected obvious transcription in→is before unfinished; no new translation.. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Public domain in USA - Project Gutenberg",
-    "source": "",
+    "originalDate": "2 Bhadra 1296 (August 1889), Jorasanko, Calcutta; collected in Manasi (1890)",
+    "editionDate": "Sanchayita; Bengali Wikisource proofread transcription",
+    "description": "The speaker feels he has loved the beloved in countless forms across lifetimes; every love and every poet’s song meets in this one love.",
+    "provenance": "Manasi (1890); text from Sanchayita, printed p. 96, proofread on Bengali Wikisource",
+    "location": "Complete poem, 20 lines",
+    "translation": "Author translation; preface notes abridgement and paraphrase. Modern translations are separate. English passage: Original English text; not a translation. Poem 16, first three paragraphs; author’s English version, reflowed into 12 reading lines. Corrected obvious transcription in→is before unfinished; no new translation.. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography. Work changed (29 October 2026): The Gardener, poem 16 (Tagore’s own English) replaced by the Bengali original অনন্ত প্রেম, whose source is certain. Complete poem, 20 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Public-domain original: Tagore died 1941, beyond the standard life-plus-70 term. Modern translations are separate.",
+    "source": "Bengali Wikisource, Sanchayita: অনন্ত প্রেম",
     "id": "india",
-    "contextNote": "Tagore translated this poem from his own Bengali, as he did for Gitanjali, the book that made him in 1913 the first non-European to win the Nobel Prize in Literature. He wrote under British rule, and in 1919 gave up his British knighthood in protest at the Amritsar massacre.",
+    "contextNote": "Tagore wrote this poem in Calcutta in 1889, in his late twenties, and published it in Manasi (1890), the collection that established him as a major Bengali poet. In 1913 he became the first non-European to win the Nobel Prize in Literature; he wrote under British rule, and in 1919 gave up his British knighthood in protest at the Amritsar massacre.",
     "formGroup": "Poem",
     "display": {
-      "title": "The Gardener, poem 16",
-      "english": "",
+      "title": "অনন্ত প্রেম / Ananta Prem",
+      "english": "Unending Love",
       "creator": "Rabindranath Tagore",
-      "language": "English from Bengali"
+      "language": "Bengali"
     },
     "passage": {
-      "original": "Hands cling to hands and eyes linger on eyes: thus begins the record of our hearts.\nIt is the moonlit night of March; the sweet smell of henna is in the air;\nmy flute lies on the earth neglected and your garland of flowers is unfinished.\nThis love between you and me is simple as a song.\nYour veil of the saffron colour makes my eyes drunk.\nThe jasmine wreath that you wove me thrills to my heart like praise.\nIt is a game of giving and withholding, revealing and screening again;\nsome smiles and some little shyness, and some sweet useless struggles.\nThis love between you and me is simple as a song.\nNo mystery beyond the present; no striving for the impossible;\nno shadow behind the charm; no groping in the depth of the dark.\nThis love between you and me is simple as a song.",
-      "english": "Hands cling to hands and eyes linger on eyes: thus begins the record of our hearts.\nIt is the moonlit night of March; the sweet smell of henna is in the air;\nmy flute lies on the earth neglected and your garland of flowers is unfinished.\nThis love between you and me is simple as a song.\nYour veil of the saffron colour makes my eyes drunk.\nThe jasmine wreath that you wove me thrills to my heart like praise.\nIt is a game of giving and withholding, revealing and screening again;\nsome smiles and some little shyness, and some sweet useless struggles.\nThis love between you and me is simple as a song.\nNo mystery beyond the present; no striving for the impossible;\nno shadow behind the charm; no groping in the depth of the dark.\nThis love between you and me is simple as a song.",
-      "status": "english-original"
+      "original": "তোমারেই যেন ভালোবাসিয়াছি শত রূপে শতবার\nজনমে জনমে যুগে যুগে অনিবার।\nচিরকাল ধরে মুগ্ধ হৃদয় গাঁথিয়াছে গীতহার—\nকত রূপ ধরে পরেছ গলায়, নিয়েছ সে উপহার\nজনমে জনমে যুগে যুগে অনিবার।\nযত শুনি সেই অতীত কাহিনী, প্রাচীন প্রেমের ব্যথা,\nঅতি পুরাতন বিরহমিলনকথা,\nঅসীম অতীতে চাহিতে চাহিতে দেখা দেয় অবশেষে\nকালের তিমিররজনী ভেদিয়া তোমারি মুরতি এসে\nচিরস্মৃতিময়ী ধ্রুবতারকার বেশে।\nআমরা দুজনে ভাসিয়া এসেছি যুগলপ্রেমের স্রোতে\nঅনাদি কালের হৃদয়-উৎস হতে।\nআমরা দুজনে করিয়াছি খেলা কোটি প্রেমিকের মাঝে\nবিরহবিধুর নয়নসলিলে, মিলনমধুর লাজে—\nপুরাতন প্রেম নিত্যনূতন সাজে।\nআজি সেই চির-দিবসের প্রেম অবসান লভিয়াছে\nরাশি রাশি হয়ে তোমার পায়ের কাছে।\nনিখিলের সুখ, নিখিলের দুখ, নিখিল প্রাণের প্রীতি—\nএকটি প্রেমের মাঝারে মিশেছে সকল প্রেমের স্মৃতি\nসকল কালের সকল কবির গীতি।",
+      "english": "It seems I have loved you in a hundred forms, a hundred times,\nIn life after life, age after age, without end.\nForever my spellbound heart has strung a garland of songs;\nIn how many forms you have worn it round your neck and taken the gift,\nIn life after life, age after age, without end.\nWhenever I hear those tales of the past, the ache of ancient love,\nThe age-old stories of parting and meeting,\nAs I gaze and gaze into the boundless past, at last\nYour image appears, piercing the dark night of time,\nIn the guise of the pole star, remembered for ever.\nWe two have come floating on the stream of a love for two,\nFrom the heart’s spring of time without beginning.\nWe two have played among millions of lovers,\nIn the tears of eyes grieving at parting, in the sweet shyness of meeting:\nAn old love in ever-new array.\nToday that love of all our days has found its fulfilment,\nHeaped up in abundance at your feet.\nThe joy of the whole world, its sorrow, the love of every living soul,\nThe memory of every love has mingled in this one love,\nAnd the songs of every poet of every age.",
+      "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://www.gutenberg.org/cache/epub/6686/pg6686-images.html"
+        "label": "Read original",
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%85%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE"
       },
       {
         "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/ebooks/6686"
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%85%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE"
       },
       {
         "label": "Date evidence",
-        "url": "https://www.gutenberg.org/cache/epub/6686/pg6686-images.html"
+        "url": "https://bn.wikisource.org/wiki/%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AF%E0%A6%BC%E0%A6%BF%E0%A6%A4%E0%A6%BE/%E0%A6%85%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE"
       },
       {
         "label": "Author / country",
