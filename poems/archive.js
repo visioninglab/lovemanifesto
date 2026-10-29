@@ -9,6 +9,11 @@
   const viewSwitch = document.getElementById("view-switch");
   const alphabet = document.getElementById("alphabet");
   const resultCount = document.getElementById("result-count");
+  const viewNote = document.getElementById("view-note");
+  const VIEW_NOTES = {
+    read: "Poems to read are out of copyright, so we can share them in full here.",
+    explore: "Poems to explore are mostly still under copyright, so we describe them and link to where you can find them.",
+  };
   const empty = document.getElementById("empty");
 
   // Two views: poems to read here, and poems to explore at their source. Start with the ones to read.
@@ -80,6 +85,7 @@
   }
 
   function applyFilters() {
+    viewNote.textContent = readable ? VIEW_NOTES.read : VIEW_NOTES.explore;
     const terms = search.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
     let shown = 0;
     const visibleLetters = new Set();

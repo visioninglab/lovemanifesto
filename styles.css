@@ -550,3 +550,5 @@ a { color: var(--accent); }
   .country-picker { flex-direction: column; align-items: stretch; width: 100%; }
   .country-picker select { max-width: none; width: 100%; padding: 0.6rem 0.75rem; }
 }
+
+.view-note { margin: 0.6rem 0 0; color: var(--muted); font-size: 0.9rem; }
