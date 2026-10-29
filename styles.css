@@ -484,3 +484,17 @@ a { color: var(--accent); }
 .button-quiet { background: transparent; color: var(--accent); }
 
 .map-page + .archive-footer { max-width: 50rem; }
+
+/* Historical context beside works from slave societies */
+
+.history-note {
+  margin: 1.1rem 0 0;
+  padding: 0.9rem 1rem;
+  border-left: 3px solid var(--accent);
+  border-radius: 0 0.5rem 0.5rem 0;
+  background: var(--accent-soft);
+  font-size: 0.95rem;
+}
+
+.history-note p { margin: 0; }
+.history-note .history-note-title { margin-bottom: 0.3rem; font-weight: 600; }

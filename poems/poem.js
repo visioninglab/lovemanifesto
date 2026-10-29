@@ -46,6 +46,14 @@ window.Poem = (function () {
     return section;
   }
 
+  // Context for works bound up with the history of slavery and colonialism
+  function historyNote(entry) {
+    if (!entry.contextNote) return null;
+    const note = el("aside", "history-note");
+    note.append(el("p", "history-note-title", "A note on history"), el("p", "", entry.contextNote));
+    return note;
+  }
+
   function sourceLink(entry) {
     const link = entry.links[0];
     if (!link) return null;
@@ -56,5 +64,5 @@ window.Poem = (function () {
     return a;
   }
 
-  return { el, heading, passage, sourceLink };
+  return { el, heading, passage, historyNote, sourceLink };
 })();

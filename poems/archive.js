@@ -1,7 +1,7 @@
 // Renders the love poetry archive from window.ARCHIVE (data/archive.js).
 
 (function () {
-  const { el, heading, passage, sourceLink } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
   const entries = window.ARCHIVE || [];
 
   const list = document.getElementById("entries");
@@ -21,6 +21,8 @@
     item.append(heading(entry, "h2"));
     if (entry.passage) item.append(passage(entry));
     else item.append(el("p", "entry-description", entry.description));
+    const note = historyNote(entry);
+    if (note) item.append(note);
 
     const links = el("p", "entry-links");
     const source = sourceLink(entry);

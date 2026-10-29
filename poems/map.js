@@ -37,7 +37,7 @@
     { key: "listed", label: "Other countries" },
   ];
   const categoryOf = (entry) => (entry.passage ? "poem" : "listed");
-  const { el, heading, passage, sourceLink } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
 
   const entries = window.ARCHIVE || [];
   const byAtlasName = new Map(entries.map((e) => [ATLAS_NAMES[e.country] || e.country, e]));
@@ -94,6 +94,8 @@
     card.innerHTML = "";
     card.append(heading(entry, "h2"));
     card.append(entry.passage ? passage(entry) : el("p", "entry-description", entry.description));
+    const note = historyNote(entry);
+    if (note) card.append(note);
     const links = el("p", "entry-links");
     const source = sourceLink(entry);
     if (source) links.append(source);
