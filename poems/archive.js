@@ -1,7 +1,7 @@
 // Renders the love poetry archive from window.ARCHIVE (data/archive.js).
 
 (function () {
-  const { el, heading, passage, historyNote, sourceLink, VIEW_NOTES } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink, viewNote: fillViewNote } = window.Poem;
   const entries = window.ARCHIVE || [];
 
   const list = document.getElementById("entries");
@@ -81,7 +81,7 @@
   }
 
   function applyFilters() {
-    viewNote.textContent = readable ? VIEW_NOTES.read : VIEW_NOTES.explore;
+    fillViewNote(readable, viewNote);
     const terms = search.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
     let shown = 0;
     const visibleLetters = new Set();

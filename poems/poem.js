@@ -88,9 +88,16 @@ window.Poem = (function () {
 
   // Why some poems are shown in full and others only described (shared by the Poems page and the map)
   const VIEW_NOTES = {
-    read: "Poems to read are out of copyright, so we can share them in full here.",
-    explore: "Poems to explore are mostly still under copyright, so we describe them and link to where you can find them.",
+    read: ["Poems to read", " are out of copyright, so we can share them in full here."],
+    explore: ["Poems to explore", " are mostly still under copyright, so we describe them and link to where you can find them."],
   };
 
-  return { el, heading, passage, historyNote, sourceLink, VIEW_NOTES };
+  // Fills (or creates) a note paragraph, with the section name in bold
+  function viewNote(readable, node = el("p", "view-note")) {
+    const [label, rest] = readable ? VIEW_NOTES.read : VIEW_NOTES.explore;
+    node.replaceChildren(el("strong", "", label), rest);
+    return node;
+  }
+
+  return { el, heading, passage, historyNote, sourceLink, viewNote };
 })();

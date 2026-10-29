@@ -566,3 +566,6 @@ a { color: var(--accent); }
   text-align: center;
 }
 .archive-footer .wip-note { margin: 0 0 1.5rem; text-align: left; }
+
+/* Work-in-progress note sits under the page introduction */
+.archive-header .wip-note, .home-hero .wip-note { margin: 1.5rem auto 0; text-align: center; }
