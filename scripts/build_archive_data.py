@@ -22,6 +22,8 @@ DEFAULT_SOURCE = ROOT / "data" / "source" / "Manifesto_for_Love_MASTER.xlsx"
 # Notes shown to readers beside works that need historical context (Reference ID -> note),
 # e.g. works written by slavers or from plantation slave societies
 CONTEXT_NOTES = json.loads((ROOT / "data" / "context_notes.json").read_text(encoding="utf-8"))
+# Plain wording for readers where the spreadsheet's text is a research note (Reference ID -> fields)
+READER_TEXT = json.loads((ROOT / "data" / "reader_text.json").read_text(encoding="utf-8"))
 HEADER_ROW = 6
 
 # Spreadsheet header -> field name in the output
@@ -88,7 +90,7 @@ def translation_status(entry, passage):
 
 
 # Research notes that matter to editors but not to readers
-EDITORIAL = re.compile(r"confirm|verify|establish|disputed|unspecified|uncertain|unknown|not stated|attribution", re.I)
+EDITORIAL = re.compile(r"confirm|verify|establish|disputed|unspecified|uncertain|unknown|not stated|not supplied|unidentified|attribution|catalogues|uploader|inspect|review", re.I)
 
 
 def reader_title(title):
@@ -137,15 +139,23 @@ def uk_spelling(text):
 
 
 def add_display_fields(entry):
-    title = reader_title(entry["title"]) or entry["title"]
-    english = uk_spelling(reader_title(entry["titleEnglish"]))
-    entry["description"] = uk_spelling(entry["description"])
+    override = READER_TEXT.get(entry["refId"], {})
+    title = override.get("title") or reader_title(entry["title"]) or entry["title"]
+    # "Etali Nga Te — English meaning not yet verified" is a note, not a title
+    english = re.sub(r"\s*—?\s*[^—]*\b(not yet verified|to verify|to confirm)\b.*$", "", entry["titleEnglish"], flags=re.I)
+    english = uk_spelling(reader_title(english))
+    entry["description"] = uk_spelling(override.get("description") or reader_text(entry["description"]))
     entry["display"] = {
         "title": title,
         "english": english if english and english.lower() != title.lower() else "",
         "creator": reader_title(reader_text(entry["creator"])),
         "language": uk_spelling(reader_text(entry["language"])),
     }
+    if entry["description"] and entry["description"][-1] not in ".!?…”’":
+        entry["description"] += "."
+    for field in ("english", "creator", "language"):
+        if field in override:
+            entry["display"][field] = override[field]
 
 
 def slugify(text):

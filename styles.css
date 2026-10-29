@@ -539,3 +539,14 @@ a { color: var(--accent); }
   .entry-title-english { font-size: 1.1rem; }
   .map-hint { font-size: 0.8rem; }
 }
+
+/* The map is desktop-only for now; phones get the country list instead */
+.mobile-only { display: none; }
+
+@media (max-width: 40rem) {
+  .desktop-only { display: none !important; }
+  .mobile-only { display: inline; }
+  .map-tools { margin-bottom: 1.5rem; }
+  .country-picker { flex-direction: column; align-items: stretch; width: 100%; }
+  .country-picker select { max-width: none; width: 100%; padding: 0.6rem 0.75rem; }
+}

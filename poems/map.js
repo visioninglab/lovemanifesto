@@ -181,6 +181,7 @@
   // the zoom extent is set to the visible area so those edges can still be dragged into view
   function fitView() {
     const node = svg.node();
+    if (!node.clientWidth) return; // hidden on phones
     const crop = node.clientWidth < 640;
     svg.attr("preserveAspectRatio", crop ? "xMidYMid slice" : "xMidYMid meet");
     const scale = viewScale();
@@ -227,12 +228,22 @@
   renderLegend();
   renderSelect();
 
+  const chooseFromLink = () => {
+    const initial = decodeURIComponent(location.hash.slice(1));
+    if (byId.has(initial)) choose(initial, false);
+  };
+
+  // Phones get the country list only (the map is hidden by styles.css), so skip downloading it
+  if (window.matchMedia("(max-width: 40rem)").matches) {
+    chooseFromLink();
+    return;
+  }
+
   d3.json(WORLD_URL)
     .then((world) => {
       draw(world);
       status.remove();
-      const initial = decodeURIComponent(location.hash.slice(1));
-      if (byId.has(initial)) choose(initial, false);
+      chooseFromLink();
     })
     .catch(() => {
       status.textContent = "The map could not load. You can still choose a country from the list above.";

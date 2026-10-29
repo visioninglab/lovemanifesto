@@ -12,7 +12,7 @@
 </head>
 <body>
   <nav class="site-nav" aria-label="Site">
-    <a href="index.html" aria-current="page">Map</a>
+    <a href="index.html" aria-current="page"><span class="desktop-only">Map</span><span class="mobile-only">Home</span></a>
     <a href="poems/archive.html">Poems</a>
     <a href="#about">About</a>
   </nav>
@@ -20,7 +20,7 @@
   <header class="home-hero">
     <p class="eyebrow">Love Manifesto</p>
     <h1>Love, in every language</h1>
-    <p class="lede">A love poem, song or story from every country in the world. Choose a highlighted country on the map to read its poem in the language it was written in, side by side with English.</p>
+    <p class="lede">A love poem, song or story from every country in the world. <span class="desktop-only">Choose a highlighted country on the map to read its poem in the language it was written in, side by side with English.</span><span class="mobile-only">Choose a country to read its poem in the language it was written in, side by side with English.</span></p>
   </header>
 
   <main class="map-page">
@@ -31,10 +31,10 @@
           <option value="">Choose…</option>
         </select>
       </label>
-      <ul class="legend" id="legend" aria-label="Map colours"></ul>
+      <ul class="legend desktop-only" id="legend" aria-label="Map colours"></ul>
     </div>
 
-    <div class="map-frame" id="map-frame">
+    <div class="map-frame desktop-only" id="map-frame">
       <svg id="map" viewBox="0 0 960 480" role="img" aria-label="World map of love poems. Use the country list above to choose a country with the keyboard."></svg>
       <div class="map-zoom">
         <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
@@ -44,7 +44,7 @@
       <div class="map-tooltip" id="tooltip" hidden></div>
       <p class="map-status" id="map-status">Loading map…</p>
     </div>
-    <p class="map-hint">Scroll or pinch to zoom. Small countries are shown as dots.</p>
+    <p class="map-hint desktop-only">Scroll or pinch to zoom. Small countries are shown as dots.</p>
 
     <section class="map-card" id="map-card" aria-live="polite" hidden></section>
 
