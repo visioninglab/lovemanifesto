@@ -2970,8 +2970,8 @@ window.ARCHIVE = [
     "formGroup": "Poem & song",
     "display": {
       "title": "Naggādiē naggāddīmā",
-      "english": "O merchant of the merchandise",
-      "creator": "collected by Onesimos Nesib and Aster Ganno; edited by Enrico Cerulli",
+      "english": "O merchant, trader in goods",
+      "creator": "Traditional Oromo song, recorded by Onesimos Nesib and Aster Ganno",
       "language": "Oromo"
     },
     "passage": {
