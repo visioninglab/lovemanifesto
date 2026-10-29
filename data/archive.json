@@ -1770,7 +1770,7 @@
     "genderDetails": "Woman",
     "originalDate": "1922 (Desolación collection)",
     "editionDate": "1922 New York edition; online transcription",
-    "description": "Tender and affirmative: being seen and kissed by the beloved gives the speaker beauty and joy.",
+    "description": "Being seen and kissed by the beloved gives the speaker beauty and joy.",
     "provenance": "Desolación; Instituto de las Españas de los Estados Unidos, New York, 1922",
     "location": "Complete poem",
     "translation": "Mistral died 1957: ordinary UK life+70 protection runs through 2027. Do not treat a generic site CC footer as permission for protected underlying text. Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material. English passage: Fresh English translation by ChatGPT; draft for editorial review. Opening 12 lines. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
@@ -1784,11 +1784,6 @@
       "english": "Shame",
       "creator": "Gabriela Mistral",
       "language": "Spanish"
-    },
-    "passage": {
-      "original": "Si tú me miras, yo me vuelvo hermosa\ncomo la yerba a que bajó el rocío,\ny desconocerán mi faz gloriosa\nlas altas cañas, cuando baje al río.\nTengo vergüenza de mi boca triste,\nde mi voz rota y mis rodillas rudas;\nahora que me miraste y que viniste,\nme encontré pobre y me palpé desnuda.\nNinguna piedra en el camino hallaste\nmás desnuda de luz en la alborada\nque esta mujer, a la que levantaste,\nporque oíste su canto, la mirada.",
-      "english": "If you look at me, I become beautiful,\nlike grass upon which dew has fallen;\nthe tall reeds will not know my radiant face\nwhen I go down to the river.\nI am ashamed of my sorrowful mouth,\nmy broken voice, my rough knees;\nnow that you have looked at me and come,\nI found myself poor and felt myself naked.\nNo stone you found along the road\nwas barer of light at dawn\nthan this woman towards whom you raised\nyour eyes, because you heard her song.",
-      "status": "draft"
     },
     "links": [
       {
@@ -6878,7 +6873,7 @@
     "refId": "ML-132",
     "country": "Pakistan",
     "continent": "Asia",
-    "title": "ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ / Ranjha Ranjha kardi ni main",
+    "title": "رانجھا رانجھا کردی نی میں / Ranjha Ranjha kardi ni main",
     "titleEnglish": "Calling Ranjha, Ranjha, I myself have become Ranjha (first-line sense)",
     "creator": "Bulleh Shah",
     "openOriginal": "Yes",
@@ -6886,7 +6881,7 @@
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "",
-    "language": "Punjabi (Gurmukhi transcription)",
+    "language": "Punjabi (Shahmukhi script)",
     "tradition": "",
     "formDetails": "Poetry",
     "genderDetails": "Man",
@@ -6894,28 +6889,28 @@
     "editionDate": "Modern compilation; publication year not established",
     "description": "Heer loves Ranjha so completely that she becomes him; the poem is also read as a song of Sufi mystical love.",
     "provenance": "Kafian Bulleh Shah, Charan Papralvi compilation; Wikisource scan page",
-    "location": "PDF page 123, beginning ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ",
-    "translation": "Classical Punjabi text; modern compilation and translation are separate. Bulleh Shah died in the eighteenth century. The linked Gurmukhi transcription is not the historical Shahmukhi script; verify variant readings. Country connection is his Kasur/Punjab literary tradition. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete kafi, 12 lines, in Gurmukhi script (proofread scan of Kafian Bulleh Shah, printed p. 121). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "location": "Complete kafi, 9 lines (Wikisource, Shahmukhi)",
+    "translation": "Classical Punjabi text; modern compilation and translation are separate. Bulleh Shah died in the eighteenth century. The linked Gurmukhi transcription is not the historical Shahmukhi script; verify variant readings. Country connection is his Kasur/Punjab literary tradition. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete kafi, 12 lines, in Gurmukhi script (proofread scan of Kafian Bulleh Shah, printed p. 121). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Passage update (29 October 2026): Complete kafi, 9 lines, now in Shahmukhi script from Wikisource (replacing the earlier Gurmukhi text, which has three lines fewer). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain eighteenth-century original; modern editorial material, translations and recordings excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "pakistan",
-    "contextNote": "Bulleh Shah, an eighteenth-century Sufi poet from Kasur, now in Pakistan, retold the Punjabi love story of Heer and Ranjha as a song of the soul’s union with God. It is shown here in Gurmukhi script, as in the linked edition; in Pakistan Punjabi is usually written in Shahmukhi.",
+    "contextNote": "Bulleh Shah, an eighteenth-century Sufi poet from Kasur, now in Pakistan, retold the Punjabi love story of Heer and Ranjha as a song of the soul’s union with God. Heer loves Ranjha so completely that she becomes him; Takht Hazara, in the last line, is Ranjha’s village.",
     "formGroup": "Poem",
     "display": {
-      "title": "ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ / Ranjha Ranjha kardi ni main",
+      "title": "رانجھا رانجھا کردی نی میں / Ranjha Ranjha kardi ni main",
       "english": "Calling Ranjha, Ranjha, I myself have become Ranjha",
       "creator": "Bulleh Shah",
       "language": "Punjabi"
     },
     "passage": {
-      "original": "ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ\nਆਪੇ ਰਾਂਝਾ ਹੋਈ।\nਸੱਦੋ ਨੀ ਮੈਨੂੰ ਧੀਦੋ ਰਾਂਝਾ\nਹੀਰ ਨਾ ਆਖੋ ਕੋਈ।\nਰਾਂਝਾ ਮੈਂ ਵਿੱਚ ਮੈਂ ਰਾਂਝੇ ਵਿੱਚ\nਹੋਰ ਖਿਆਲ ਨਾ ਕੋਈ।\nਮੈਂ ਨਹੀਂ ਉਹ ਆਪ ਹੈ ਆਪਣੀ\nਆਪ ਕਰੇ ਦਿਲਗੋਈ।\nਹੱਥ ਖੂੰਡੀ ਮੇਰੇ ਅੱਗੇ ਮੰਗੂ\nਮੋਢੇ ਭੂਰਾ ਲੋਈ।\nਬੁਲ੍ਹਾ ਹੀਰ ਸਲੇਟੀ ਵੇਖੋ\nਕਿੱਥੇ ਜਾ ਖਲੋਈ।",
-      "english": "Calling “Ranjha, Ranjha”, O friends,\nI myself have become Ranjha.\nCall me Dhido Ranjha, friends;\nlet no one call me Heer.\nRanjha is in me, I am in Ranjha;\nthere is no other thought.\nIt is not I: it is he himself\nwho comforts his own heart.\nA herder’s staff in my hand, the herd before me,\na brown blanket on my shoulders.\nBulleh, look at Heer of the Sial clan:\nwhere has she come to stand!",
+      "original": "رانجھا رانجھا کردی نی میں آپے رانجھا ہوئی\nسدّو نی مینُوں دھیدو رانجھا، ہِیر نہ آکھو کوئی\nرانجھا میں وِچ، میں رانجھے وِچ، مینوں ہور خیال نہ کوئی\nمیں نہیں اوہ آپ ہے اپنی، آپ کرے دلجوئی\nجو کوئی ساڈے اندر وسّے، ذات اساڈی سو ای\nہَتّھ کُھونڈی میرے اگے مَنگُو، موڈھے بُھورا لوئی\nبُلّھا ہیر سَلیٹی ویکھو، کِتّھے جا کھلوئی\nجس دے نال میں نیونہہ لگایا، اوہو جیہی ہوئی\nتخت ہزارے لے چل بُلھیا، سیالِیں ملے نہ ڈھوئی",
+      "english": "Calling “Ranjha, Ranjha”, O friends, I myself have become Ranjha.\nCall me Dhido Ranjha, friends; let no one call me Heer.\nRanjha is in me, I am in Ranjha; I have no other thought.\nIt is not I: it is he himself, who comforts his own heart.\nThe one who dwells within us is our very being.\nA herder’s staff in my hand, the herd before me, a brown blanket on my shoulders.\nBulleh, look at Heer of the Sial clan: where has she come to stand!\nThe one I have given my love to, I have become just like him.\nTake me to Takht Hazara, Bulleh; among the Sials I find no shelter.",
       "status": "draft"
     },
     "links": [
       {
         "label": "Read original",
-        "url": "https://pa.wikisource.org/wiki/ਪੰਨਾ:ਕਾਫ਼ੀਆਂ_ਬੁੱਲ੍ਹੇ_ਸ਼ਾਹ_-_ਚਰਨ_ਪਪਰਾਲਵੀ.pdf/123"
+        "url": "https://wikisource.org/wiki/%D8%B1%D8%A7%D9%86%D8%AC%DA%BE%D8%A7_%D8%B1%D8%A7%D9%86%D8%AC%DA%BE%D8%A7_%DA%A9%D8%B1%D8%AF%DB%8C_%D9%86%DB%8C_%D9%85%DB%8C%DA%BA_%D8%A2%D9%BE%DB%92_%D8%B1%D8%A7%D9%86%D8%AC%DA%BE%D8%A7_%DB%81%D9%88%D8%A6%DB%8C"
       },
       {
         "label": "Rights / basis",

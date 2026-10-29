@@ -219,10 +219,11 @@ def build(source):
         add_display_fields(entry)
 
         passage = {field: clean_passage(row[col[h]].value) for h, field in PASSAGE_COLUMNS.items()}
-        if passage["original"] and passage["english"]:
+        withheld = READER_TEXT.get(entry["refId"], {}).get("withholdPassage")
+        if passage["original"] and passage["english"] and not withheld:
             passage["status"] = translation_status(entry, passage)
             entry["passage"] = passage
-        elif passage["original"] or passage["english"]:
+        elif (passage["original"] or passage["english"]) and not withheld:
             print(f"Warning: {entry['country']} has only one of the two passages; skipped")
 
         entry["links"] = []

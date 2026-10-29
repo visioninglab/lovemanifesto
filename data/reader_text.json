@@ -162,5 +162,9 @@
   "ML-066": {
     "title": "Ethiopia Unbound",
     "english": ""
+  },
+  "ML-204": {
+    "withholdPassage": "Gabriela Mistral died in 1957: her poems are in copyright in the UK until the end of 2027. Show the passage again from January 2028.",
+    "description": "Being seen and kissed by the beloved gives the speaker beauty and joy."
   }
 }
