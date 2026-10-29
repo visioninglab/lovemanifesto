@@ -3384,7 +3384,7 @@ window.ARCHIVE = [
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Ethiopia Unbound",
-      "english": "Ethiopia Unbound: Studies in Race Emancipation",
+      "english": "",
       "creator": "J. E. Casely Hayford",
       "language": "English"
     },
