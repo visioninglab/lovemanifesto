@@ -8178,8 +8178,8 @@
     "refId": "ML-157",
     "country": "Singapore",
     "continent": "Asia",
-    "title": "几枚白石伴青珉 (incipit; memorial poem for Lu Jie)",
-    "titleEnglish": "A few white stones beside green jade (first line; memorial poem for Lu Jie)",
+    "title": "丁丑清明节，为亡室陆氏筑坟成",
+    "titleEnglish": "Qingming 1937, on Completing the Grave of My Late Wife",
     "creator": "Khoo Seok Wan / 丘菽园 (1874–1941)",
     "openOriginal": "Yes",
     "referenceType": "Named work (text)",
@@ -8195,21 +8195,27 @@
     "description": "The widower asks his beloved wife to understand why poverty delayed the building of her grave, expressing enduring marital love.",
     "provenance": "University of Malaya scholarly article quotes and contextualises the Chinese poem; Bukit Brown heritage documentation reproduces its text. National Library Singapore confirms the poet’s dates and local literary role.",
     "location": "Passage on Lu Jie’s death and the following Qingming; four-line poem beginning 几枚白石伴青珉",
-    "translation": "Incipit identifies the work; do not invent a formal title. Use Khoo’s Chinese verse only. Modern English translations, photographs and the scholarly article have separate rights.",
+    "translation": "Incipit identifies the work; do not invent a formal title. Use Khoo’s Chinese verse only. Modern English translations, photographs and the scholarly article have separate rights. Passage update (29 October 2026): Complete poem, 4 lines, from 菽园诗集 vol. 6 on Shidian Guji (the originally linked PDF could not be opened). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1941. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "University of Malaya scholarly article quotes and contextualises the Chinese poem; Bukit Brown heritage documentation reproduces its text. National Library Singapore confirms the poet’s dates and local literary role.",
     "id": "singapore",
+    "contextNote": "Khoo Seok Wan (Qiu Shuyuan) was a poet, newspaper founder and reformer who made his life in Singapore, then a British colony, and was a leading figure of its early Chinese literary world. He wrote this at the Qingming festival of 1937, a year after the death of his wife, née Lu, when he could at last afford to build her tomb; the once-wealthy poet had long since lost his fortune.",
     "formGroup": "Poem",
     "display": {
-      "title": "几枚白石伴青珉",
-      "english": "A few white stones beside green jade",
+      "title": "丁丑清明节，为亡室陆氏筑坟成",
+      "english": "Qingming 1937, on Completing the Grave of My Late Wife",
       "creator": "Khoo Seok Wan / 丘菽园",
       "language": "Classical Chinese"
     },
+    "passage": {
+      "original": "几枚白石伴青珉，\n小筑坟茔隔岁春。\n地下有灵相谅解，\n迟工原是为家贫。",
+      "english": "A few white stones beside the green jade stone:\na year on, in spring, I have built this small grave.\nIf your spirit below can know, forgive me:\nthe work was late only because we are poor.",
+      "status": "draft"
+    },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://ics.um.edu.my/img/files/04-Fan-Lai.pdf"
+        "label": "Read original",
+        "url": "https://www.shidianguji.com/book/CADAL02026736/chapter/1l3iow7e7sd1c"
       },
       {
         "label": "Reuse basis / copyright duration",
