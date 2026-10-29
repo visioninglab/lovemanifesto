@@ -2667,10 +2667,11 @@ window.ARCHIVE = [
     "description": "A sleepless lover praises the beloved and vows fidelity despite separation; bayt 17 affirms a bond beyond the power of malicious gossip.",
     "provenance": "DCT cites al-Shawqiyyat 2/152, al-Hilal December 1910, and al-Hufi edition vol. 2 p.112.",
     "location": "27-bayt original; especially bayts 17 and 27",
-    "translation": "Original poem, not the later song arrangement or a modern translation. Digital source edition undated.",
+    "translation": "Original poem, not the later song arrangement or a modern translation. Digital source edition undated. Passage update (29 October 2026): First 10 couplets (20 half-lines), from Arabic Wikisource (the originally linked poetry site could not be read). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1932. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi",
     "id": "egypt",
+    "contextNote": "Ahmad Shawqi, crowned “Prince of Poets” in 1927, was the leading Arabic poet of modern Egypt, writing under British occupation. This poem answers a famous medieval love poem by al-Husri of Kairouan, matching its metre and rhyme, and was later sung by Mohammed Abdel Wahab.",
     "formGroup": "Poem",
     "display": {
       "title": "مضناك جفاه مرقده",
@@ -2678,10 +2679,15 @@ window.ARCHIVE = [
       "creator": "Ahmad Shawqi",
       "language": "Arabic"
     },
+    "passage": {
+      "original": "مضناك جفاهُ مرقده\nوبكاه ورحمَ عودُهُ\nحيرانُ القلبِ مُعَذَّبُهُ\nمقروح الجفنِ مسهده\nأودى حرفاً إلا رمقاً\nيُبقيه عليك وتُنْفِدهُ\nيستهوي الورق تاوهه\nويذيب الصخرَ تنهدهُ\nويناجي النجمَ ويتعبه\nويُقيم الليلَ ويُقْعِدهُ\nويعلم كلَّ مطوقةٍ\nشجناً في الدَّوحِ ترددهُ\nكم مد لطفيكَ من شركٍ\nوتادب لا يتصيدهُ\nفعساك بغُمْضٍ مُسعِفهُ\nولعلّ خيالك مسعدهُ\nالحسنُ حَلَفْتُ بيُوسُفِهِ\nوالسورةِ إنك مفردهُ\nقد وَدَّ جمالك أو قبساً\nحوراءُ الخُلْدِ وأَمْرَدُه",
+      "english": "Your lovesick one has been deserted by his bed,\nand those who visit him weep and pity him.\nHis heart bewildered and tormented,\nhis eyelids sore, kept sleepless,\nhe has wasted to a thread, but for a last breath\nthat he keeps for you, and you use up.\nHis moaning draws the doves to him,\nand his sighing melts the rock.\nHe confides in the stars and wears them out;\nhe keeps the night standing, and makes it sit.\nHe teaches every ring-necked dove\na sorrow to repeat among the trees.\nHow many snares he has laid for your kindness,\nyet, out of good manners, he does not catch it.\nPerhaps you will grant him a moment’s sleep,\nand perhaps your phantom will bring him joy.\nI swear by beauty’s Joseph\nand by his sura, that you are beauty’s only one.\nThe houris and the youths of paradise\nhave longed for your beauty, or even a spark of it.",
+      "status": "draft"
+    },
     "links": [
       {
-        "label": "Original text",
-        "url": "https://poetry.dct.gov.ae/poems/19137-مضناك-جفاه-مرقده"
+        "label": "Read original",
+        "url": "https://ar.wikisource.org/wiki/%D9%85%D8%B6%D9%86%D8%A7%D9%83_%D8%AC%D9%81%D8%A7%D9%87_%D9%85%D8%B1%D9%82%D8%AF%D9%87"
       },
       {
         "label": "Copyright duration rule",
@@ -3370,21 +3376,27 @@ window.ARCHIVE = [
     "description": "The novel interweaves romantic relationships, including Tandoh-Kuma and Ekuba, with debates about education, identity and African self-determination.",
     "provenance": "Original 1911 edition catalogued with preview. O. R. Dathorne’s literary study, National Library of Nigeria repository, identifies the romantic subplot and Ghanaian author.",
     "location": "Chapters III–IV, Love and Life / Love and Death; consult original edition for passage selection",
-    "translation": "This is a Ghanaian/Gold Coast work despite Ethiopia in the title. Do not substitute the separately copyrighted 1969 or 2024 editorial introductions. Full original passage not transcribed here.",
+    "translation": "This is a Ghanaian/Gold Coast work despite Ethiopia in the title. Do not substitute the separately copyrighted 1969 or 2024 editorial introductions. Full original passage not transcribed here. Passage update (29 October 2026): Twelve consecutive lines from Chapter III, “Love and Life”: Kwamankra’s proposal to Mansa (1911 first edition, Internet Archive scan, pp. 34–35). OCR spacing and line-break hyphens tidied; the letters were checked against the scan text. Original English; no translation needed. Original English text; not a translation.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1930. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Original 1911 edition catalogued with preview. O. R. Dathorne’s literary study, National Library of Nigeria repository, identifies the romantic subplot and Ghanaian author.",
     "id": "ghana",
+    "contextNote": "J. E. Casely Hayford was a Gold Coast lawyer, journalist and nationalist, and Ethiopia Unbound (1911) is one of the first African novels in English. Its hero studies law in London and marries Mansa, who shares his faith in the gods and dignity of their own people; the book argues for African self-determination under British rule.",
     "formGroup": "Narrative & oral",
     "display": {
-      "title": "Ethiopia Unbound: Studies in Race Emancipation",
-      "english": "",
+      "title": "Ethiopia Unbound",
+      "english": "Ethiopia Unbound: Studies in Race Emancipation",
       "creator": "J. E. Casely Hayford",
       "language": "English"
     },
+    "passage": {
+      "original": "“Yes, I know that.\nBut this also I do know, that the gods are wont to make use of human instruments in approaching men.\nThe Infinite finds expression in the finite, and the ideal is realised in the actual.\nAnd it has often occurred to me that the child-like hand that shall guide me through life’s labyrinthine ways is the self-same one that I now hold tenderly in my own.”\nShe began to understand.\nShe made an effort as if she would withdraw her hand.\nShe hesitated, and the next moment she surrendered the other also.\n“You will be my teacher, then?” asked Kwamankra, half-persuasively, half-triumphantly.\n“Yes,” she simply answered. “So may the gods of our race help me!”\nAs the days passed, the twain grew in that mutual understanding, the true basis of all happy unions.\nNow and again he would tell her of his prospects, which he laughingly said were nil, having inherited little else beyond a clear head and a willing heart for work, with which he hoped they would be able to forge their way in life together;\nto which Mansa would sweetly say that she wished she had a fortune to make things easy, but since she had it not, she would bring him the next best, a loyal heart and true, at which Kwamankra would chide her, and say that was the best of all.",
+      "english": "“Yes, I know that.\nBut this also I do know, that the gods are wont to make use of human instruments in approaching men.\nThe Infinite finds expression in the finite, and the ideal is realised in the actual.\nAnd it has often occurred to me that the child-like hand that shall guide me through life’s labyrinthine ways is the self-same one that I now hold tenderly in my own.”\nShe began to understand.\nShe made an effort as if she would withdraw her hand.\nShe hesitated, and the next moment she surrendered the other also.\n“You will be my teacher, then?” asked Kwamankra, half-persuasively, half-triumphantly.\n“Yes,” she simply answered. “So may the gods of our race help me!”\nAs the days passed, the twain grew in that mutual understanding, the true basis of all happy unions.\nNow and again he would tell her of his prospects, which he laughingly said were nil, having inherited little else beyond a clear head and a willing heart for work, with which he hoped they would be able to forge their way in life together;\nto which Mansa would sweetly say that she wished she had a fortune to make things easy, but since she had it not, she would bring him the next best, a loyal heart and true, at which Kwamankra would chide her, and say that was the best of all.",
+      "status": "english-original"
+    },
     "links": [
       {
-        "label": "Work catalogue / preview",
-        "url": "https://books.google.com/books?id=g5MLAAAAIAAJ"
+        "label": "Read original",
+        "url": "https://archive.org/details/ethiopiaunbounds00hayf"
       },
       {
         "label": "Reuse basis / copyright duration",
@@ -4202,10 +4214,11 @@ window.ARCHIVE = [
     "description": "Layla smiles from her balcony; the speaker praises her beauty and declares that she alone fulfils his heart’s desire.",
     "provenance": "DCT Poetic Encyclopedia, original and biography: born and died Baghdad, Iraqi literary and public career.",
     "location": "Complete poem, 5 bayts",
-    "translation": "Opening words are the identifier. Date is bounded by author’s death, not an asserted year of composition. No translation supplied.",
+    "translation": "Opening words are the identifier. Date is bounded by author’s death, not an asserted year of composition. No translation supplied. Passage update (29 October 2026): Complete poem, 5 couplets (10 half-lines), from adab.wiki (the originally linked poetry site could not be read). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1936. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi",
     "id": "iraq",
+    "contextNote": "Jamil Sidqi al-Zahawi was one of the great poets of Baghdad in the last Ottoman decades and after, and an outspoken reformer who championed education and freedom for women. He died in 1936.",
     "formGroup": "Poem",
     "display": {
       "title": "تبسمت لي ليلى فوق شرفتها",
@@ -4213,10 +4226,15 @@ window.ARCHIVE = [
       "creator": "Jamil Sidqi al-Zahawi",
       "language": "Arabic"
     },
+    "passage": {
+      "original": "تَبَسَّمت ليَ لَيلى فَوقَ شرفتها\nكَما تَبَسَّمَ في أَفنانِه الزَهَرُ\nلَقَد كلفت بها سَمراء فاتنة\nفي جيدها تلع في عينها حَوَرُ\nقَدٌّ كَما شاءَت الأهواء معتدلٌ\nما شانه زارياً طولٌ وَلا قِصَرُ\nإذا مَشَت تَتَثنّى عند مشيتها\nكَما تَمايل غُصنٌ ناعم غضر\nلَيلى لأَنتِ منَى نفسي وَحاجتها\nوأنتَ وحدك يا لَيلى لها الوطر",
+      "english": "Layla smiled at me from her balcony,\nas blossom smiles among its branches.\nI have fallen for her, a bewitching dark beauty,\nwith a long, graceful neck and eyes of deep contrast.\nHer figure is just as desire would wish it,\nmarred by neither too much height nor too little.\nWhen she walks, she sways as she goes,\nlike a soft, fresh branch bending.\nLayla, you are my soul’s wish and its need,\nand you alone, Layla, are its desire.",
+      "status": "draft"
+    },
     "links": [
       {
-        "label": "Original text",
-        "url": "https://poetry.dct.gov.ae/poems/85302-تبسمت-لي-ليلى-فوق-شرفتها"
+        "label": "Read original",
+        "url": "https://adab.wiki/wiki/%D8%AA%D8%A8%D8%B3%D9%85%D8%AA_%D9%84%D9%8A_%D9%84%D9%8A%D9%84%D9%89_%D9%81%D9%88%D9%82_%D8%B4%D8%B1%D9%81%D8%AA%D9%87%D8%A7"
       },
       {
         "label": "Copyright duration rule",
@@ -5064,10 +5082,11 @@ window.ARCHIVE = [
     "description": "Guanya resists an arranged marriage because she loves Momo and seeks the freedom to choose her partner.",
     "provenance": "University of Zurich hosts a facsimile of the original novel. Editor John Victor Singler documents the author’s Vai/Liberian origin and death on 12 November 1894.",
     "location": "Original p.24 and subsequent flight/courtship narrative",
-    "translation": "Use the 1891 novel. Modern Broadview introduction and annotations are excluded. The work combines opposition to forced marriage with a nineteenth-century Christian missionary perspective.",
+    "translation": "Use the 1891 novel. Modern Broadview introduction and annotations are excluded. The work combines opposition to forced marriage with a nineteenth-century Christian missionary perspective. Passage update (29 October 2026): Nine consecutive sentences in which Guanya Pau tells how Momo declared his love (1891 edition, Internet Archive scan, pp. 128–129), including his words in Vai. OCR spacing and line-break hyphens tidied; the letters were checked against the scan text. Original English; no translation needed. Original English text; not a translation.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1894. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "University of Zurich hosts a facsimile of the original novel. Editor John Victor Singler documents the author’s Vai/Liberian origin and death on 12 November 1894.",
     "id": "liberia",
+    "contextNote": "Joseph Jeffrey Walters, a Vai man from Liberia, wrote Guanya Pau while studying at Oberlin College in Ohio; published in 1891, it is one of the earliest novels by a West African. Its heroine runs away rather than be forced into a polygamous marriage; the book also carries its author’s Christian missionary outlook.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Guanya Pau: A Story of an African Princess",
@@ -5075,10 +5094,15 @@ window.ARCHIVE = [
       "creator": "Joseph Jeffrey Walters",
       "language": "English"
     },
+    "passage": {
+      "original": "“Well, when this had gone on over two years, one evening about twilight, when I had finished my work, I went and sat under the cola-tree behind our house and pretended to be stringing my beads;\nBut my true object was soon realized.\nMomo soon joined me and sat down by my side.\nWho can picture our feelings as that evening we sat beneath the shadows of that stately cola, in the clear moonlight?\nWe sat side by side on the green grass, talking little nothings.\nBy and by he took a long breath, somehow I felt anxious just because of that sigh.\nHe then took both my hands in his, sending a thrill clean through me.\nPlanting his frank, honest eyes on mine which soon were directed to the ground, he said: ‘Guanya Pau, nah Edear (I love you); ya in dear wah?’ (Do you love me?)\nWhat could I say but to whisper faintly: ‘Da keker’ (with all my heart).",
+      "english": "“Well, when this had gone on over two years, one evening about twilight, when I had finished my work, I went and sat under the cola-tree behind our house and pretended to be stringing my beads;\nBut my true object was soon realized.\nMomo soon joined me and sat down by my side.\nWho can picture our feelings as that evening we sat beneath the shadows of that stately cola, in the clear moonlight?\nWe sat side by side on the green grass, talking little nothings.\nBy and by he took a long breath, somehow I felt anxious just because of that sigh.\nHe then took both my hands in his, sending a thrill clean through me.\nPlanting his frank, honest eyes on mine which soon were directed to the ground, he said: ‘Guanya Pau, nah Edear (I love you); ya in dear wah?’ (Do you love me?)\nWhat could I say but to whisper faintly: ‘Da keker’ (with all my heart).",
+      "status": "english-original"
+    },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://www.es.uzh.ch/dam/jcr:39a651a0-c6de-4174-9b88-239bb3dadcc1/Walters_Joseph_L--Guanya_Pau.pdf"
+        "label": "Read original",
+        "url": "https://archive.org/details/guanyapaustorya00waltgoog"
       },
       {
         "label": "Reuse basis / copyright duration",
@@ -5857,21 +5881,27 @@ window.ARCHIVE = [
     "description": "The verse narrative contrasts a mortal woman’s desires and an immortal lover’s longing.",
     "provenance": "Luceafărul; Călin, Cartea Românească, c. 1921; Iași University Library scan",
     "location": "Luceafărul, after the introduction on pp. 1–4",
-    "translation": "Shared Romanian-language literary heritage, documented by Moldova’s National Library; not a claim of birth in the modern republic. Eminescu died 1889. Use the Romanian verses; the 2009 Gagauz translation and modern introductions are separate. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Shared Romanian-language literary heritage, documented by Moldova’s National Library; not a claim of birth in the modern republic. Eminescu died 1889. Use the Romanian verses; the 2009 Gagauz translation and modern introductions are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening section of the poem, 7 stanzas (28 lines), from the Romanian Wikisource text of the 1883 first publication (the originally linked library page did not contain the text). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1889. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "moldova",
+    "contextNote": "Mihai Eminescu, born in the historic region of Moldavia, is the national poet of both Romania and the Republic of Moldova. Luceafărul (1883), the love of an immortal star for a mortal girl, is his masterpiece.",
     "formGroup": "Narrative & oral",
     "display": {
-      "title": "Luceafărul, Romanian original",
+      "title": "Luceafărul",
       "english": "The Evening Star",
       "creator": "Mihai Eminescu",
       "language": "Romanian"
     },
+    "passage": {
+      "original": "A fost odată ca-n povești,\nA fost ca niciodată,\nDin rude mari împărătești,\nO prea frumoasă fată.\nȘi era una la părinți\nȘi mândră-n toate cele,\nCum e Fecioara între sfinți\nȘi luna între stele.\nDin umbra falnicelor bolți\nEa pasul și-l îndreaptă\nLângă fereastră, unde-n colț\nLuceafărul așteaptă.\nPrivea în zare cum pe mări\nRăsare și străluce,\nPe mișcătoarele cărări\nCorăbii negre duce.\nÎl vede azi, îl vede mâni,\nAstfel dorința-i gata;\nEl iar, privind de săptămâni,\nÎi cade dragă fata.\nCum ea pe coate-și răzima\nVisând ale ei tâmple\nDe dorul lui și inima\nȘi sufletu-i se împle.\nȘi cât de viu s-aprinde el\nÎn orișicare sară,\nSpre umbra negrului castel\nCând ea o să-i apară.",
+      "english": "Once upon a time, as in the tales,\nas never was before,\nof great imperial lineage\nthere lived a lovely girl.\nShe was her parents’ only child,\nand proud in everything,\nas is the Virgin among saints\nand the moon among the stars.\nFrom the shadow of the lofty vaults\nshe turns her steps\nto the window, where in a corner\nthe Evening Star is waiting.\nShe watched how, far away on the seas,\nhe rises and shines,\nand on the moving paths\nguides the black ships.\nShe sees him today, she sees him tomorrow,\nand so her longing is born;\nand he, gazing at her for weeks,\nfalls in love with the girl.\nAs she leaned on her elbows,\nresting her temples, dreaming,\nher heart and soul\nare filled with longing for him.\nAnd how brightly he flares up\nevery evening\ntowards the shadow of the black castle\nwhen she appears to him.",
+      "status": "draft"
+    },
     "links": [
       {
         "label": "Read original",
-        "url": "https://dspace.bcu-iasi.ro/handle/123456789/53759"
+        "url": "https://ro.wikisource.org/wiki/Luceaf%C4%83rul_(Eminescu)"
       },
       {
         "label": "Rights / basis",
