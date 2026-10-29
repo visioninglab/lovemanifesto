@@ -8002,16 +8002,22 @@
     "description": "A speaker mourns the beloved and imagines their reunion beyond death.",
     "provenance": "Pesme, Matica srpska, Novi Sad, 1909; Wikisource",
     "location": "Printed p. 438 onward; closing stanzas on the imagined reunion",
-    "translation": "Source explicitly marks original public domain in Serbia, USA and life-plus-70 countries; author died 1910. Religious imagery frames passionate personal love. Modern critical material and translations excluded. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Source explicitly marks original public domain in Serbia, USA and life-plus-70 countries; author died 1910. Religious imagery frames passionate personal love. Modern critical material and translations excluded. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Final two stanzas, 24 lines, on the lovers’ reunion; the refrain is the Venetian church’s name. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died undefined. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "serbia",
+    "contextNote": "Laza Kostić, one of the great Serbian Romantic poets, wrote this in 1909, near the end of his life, for Lenka Dunđerski, the young woman he had loved decades earlier, who died in 1870. Its refrain names a church in Venice dedicated to the Virgin of Health.",
     "formGroup": "Poem",
     "display": {
       "title": "Santa Maria della Salute",
       "english": "Saint Mary of Health",
       "creator": "Laza Kostić",
       "language": "Serbian"
+    },
+    "passage": {
+      "original": "А наша деца песме су моје,\nтих састанака вечити траг;\nто се не пише, то се не поје,\nсамо што душом пробије зрак.\nТо разумемо само нас двоје,\nто је у рају приновак драг,\nто тек у заносу пророци слуте,\nSanta Maria della Salute.\nА кад ми дође да прсне глава\nо тог живота хридовит крај,\nнајлепши сан ми постаће јава,\nмој ропац њено: „Ево ме, нај!”\nИз ништавила у славу слава,\nиз безњенице у рај, у рај!\nУ рај, у рај, у њезин загрљај!\nСве ће се жеље ту да пробуде,\nдушине жице све да прогуде,\nзадивићемо светске колуте,\nбогове силне, камо ли људе,\nзвездама ћемо померит’ путе,\nсунцима засут’ сељенске студе,\nда у све куте зоре заруде,\nда од милине дуси полуде,\nSanta Maria della Salute.",
+      "english": "And our children are my poems,\nthe everlasting trace of those meetings;\nit cannot be written, it cannot be sung,\nonly a ray breaks through the soul.\nOnly the two of us understand it;\nin paradise it is a dear new arrival;\nonly prophets in rapture can sense it,\nSanta Maria della Salute.\nAnd when my head comes to shatter\nagainst the rocky shore of this life,\nmy loveliest dream will come true,\nand my death rattle will be her “Here I am, my dearest!”\nFrom nothingness into the glory of glories,\nfrom a life without her into paradise, paradise!\nInto paradise, paradise, into her embrace!\nThere every desire will awaken,\nall the strings of the soul will ring out,\nwe will astonish the circling worlds,\nthe mighty gods, let alone mortals,\nwe will shift the paths of the stars,\nshower the cold of the universe with suns,\nso that dawns blush in every corner,\nso that spirits go mad with delight,\nSanta Maria della Salute.",
+      "status": "draft"
     },
     "links": [
       {
@@ -8345,16 +8351,22 @@
     "description": "The poet defends love of women as a natural human feeling and protests against those who shame him for being lovesick.",
     "provenance": "Roma Tre Centro Studi Somali preserves Galaal’s unmodernized typescript; Andrzejewski’s prefatory note dates its mimeographed publication to about 1964. Original Somali excerpt at p.31 under ILMI – BOONDHERI. Oxford scholarly source corroborates death in 1941.",
     "location": "Galaal p.31, five-line excerpt; 2016 bilingual collection pp.64–65 for a longer variant",
-    "translation": "The assessed reuse lead is the historical Somali wording, not the 1967 English translation, modern bilingual edition, musical setting or performance. Versions differ. The repository’s CC BY-NC-ND label is restrictive and is not treated as permission to translate or commercially reuse modern editorial material. Berbera is in Somaliland, within the workbook’s Somalia country grouping.",
+    "translation": "The assessed reuse lead is the historical Somali wording, not the 1967 English translation, modern bilingual edition, musical setting or performance. Versions differ. The repository’s CC BY-NC-ND label is restrictive and is not treated as permission to translate or commercially reuse modern editorial material. Berbera is in Somaliland, within the workbook’s Somalia country grouping. Passage update (29 October 2026): The five-line excerpt printed in Galaal’s collection, p. 31, in its older Somali spelling. The English is a careful draft. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Poet died 1941: original composition is beyond the standard life-plus-70 term. A Somali excerpt was published c.1964. Reuse only the underlying historical Somali lines; later translations, editorial contributions, melodies, recordings and repository licence restrictions remain separate.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "somalia",
+    "contextNote": "Ilmi Boodhari was a poet of Berbera who, according to tradition, died around 1941 of love for a woman he could not marry. His love poems broke with the custom of keeping romantic feeling out of public Somali verse.",
     "formGroup": "Poem",
     "display": {
       "title": "Caashaqa haween waa horuu Caaddil soo rogaye",
       "english": "Love of women was ordained long ago by the Just One",
       "creator": "Cilmi Boodhari / Ilmi Bowndheri",
-      "language": "Somali; older Roman orthography in Galaal’s typescript"
+      "language": "Somali"
+    },
+    "passage": {
+      "original": "Caashaqa haween waa horuu, Caaddil soo rogaye,\nSayidkii carshiga nuurayiyo, Caliba soo gaadhye,\nCidla lagama beermeen dadkoo, cuudi waahhidahe,\nWahha caynba cayn looga dhigay, hays cajebiyeene,\nSoomaalidaa caado hhune, iguma caydeene.",
+      "english": "Love for women was ordained long ago by the Just One;\nit touched even the Prophet of the shining Throne, and Ali too.\nPeople did not grow out of emptiness; they come from one root,\nand each kind was made unlike the next, so let them not marvel at one another.\nIt is the Somalis whose custom is cruel; let them not mock me.",
+      "status": "draft"
     },
     "links": [
       {
@@ -8400,16 +8412,22 @@
     "description": "Novel exploring romantic desire, marriage and women’s independence through Lyndall, Em and Gregory. Part II includes Em’s response to Gregory’s proposal and Lyndall’s reflections on love.",
     "provenance": "Project Gutenberg ebook 1441, released 1998, updated 2018; English original, author 1855–1920. South African Karoo setting and author’s literary association.",
     "location": "Part II, Em/Gregory courtship and Lyndall scenes; search “I do love you very much”",
-    "translation": "Prose novel rather than poem/song. Contains critical and painful relationships, not uniformly positive views. Historical racial language appears in the book. Gutenberg branding/licence separate from underlying novel.",
+    "translation": "Prose novel rather than poem/song. Contains critical and painful relationships, not uniformly positive views. Historical racial language appears in the book. Gutenberg branding/licence separate from underlying novel. Passage update (29 October 2026): Eleven consecutive lines (one per paragraph or sentence) from Part II, Gregory’s declaration to Em at the cow-kraal gate. Original English; no translation needed. Original English text; not a translation.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1920. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Project Gutenberg ebook 1441",
     "id": "south-africa",
+    "contextNote": "Olive Schreiner grew up on mission stations in the Cape Colony and worked as a governess on remote farms, where she wrote this novel. Published in London in 1883 under the name Ralph Iron, it caused a sensation with its free-thinking heroine and became a classic of South African writing.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "The Story of an African Farm",
       "english": "",
       "creator": "Olive Schreiner",
       "language": "English"
+    },
+    "passage": {
+      "original": "“But I’m sure you must be cold,” said Gregory, and put his hand under the cloak, and found there a small fist doubled up, soft, and very warm.\nHe held it fast in his hand.\n“Oh, Em, I love you better than all the world besides! Tell me, do you love me a little?”\n“Yes, I do,” said Em, hesitating, and trying softly to free her hand.\n“Better than everything; better than all the world, darling?” he asked, bending down so low that the yellow hair was blown into his eyes.\n“I don’t know,” said Em, gravely. “I do love you very much; but I love my cousin who is at school, and Waldo, very much. You see I have known them so long!”\n“Oh, Em, do not talk to me so coldly!” Gregory cried, seizing the little arm that rested on the gate, and pressing it till she was half afraid.\nThe herdsman had moved away to the other end of the kraal now, and the cows, busy with their calves, took no notice of the little human farce.\n“Em, if you talk so to me I will go mad! You must love me, love me better than all! You must give yourself to me. I have loved you since that first moment when I saw you walking by the stone wall with the jug in your hands. You were made for me, created for me! I will love you till I die! Oh, Em, do not be so cold, so cruel to me!”\nHe held her arm so tightly that her fingers relaxed their hold, and the cloak fluttered down on to the ground, and the wind played more roughly than ever with the little yellow head.\n“I do love you very much,” she said; “but I do not know if I want to marry you. I love you better than Waldo, but I can’t tell if I love you better than Lyndall. If you would let me wait for a week I think perhaps I could tell you.”",
+      "english": "“But I’m sure you must be cold,” said Gregory, and put his hand under the cloak, and found there a small fist doubled up, soft, and very warm.\nHe held it fast in his hand.\n“Oh, Em, I love you better than all the world besides! Tell me, do you love me a little?”\n“Yes, I do,” said Em, hesitating, and trying softly to free her hand.\n“Better than everything; better than all the world, darling?” he asked, bending down so low that the yellow hair was blown into his eyes.\n“I don’t know,” said Em, gravely. “I do love you very much; but I love my cousin who is at school, and Waldo, very much. You see I have known them so long!”\n“Oh, Em, do not talk to me so coldly!” Gregory cried, seizing the little arm that rested on the gate, and pressing it till she was half afraid.\nThe herdsman had moved away to the other end of the kraal now, and the cows, busy with their calves, took no notice of the little human farce.\n“Em, if you talk so to me I will go mad! You must love me, love me better than all! You must give yourself to me. I have loved you since that first moment when I saw you walking by the stone wall with the jug in your hands. You were made for me, created for me! I will love you till I die! Oh, Em, do not be so cold, so cruel to me!”\nHe held her arm so tightly that her fingers relaxed their hold, and the cloak fluttered down on to the ground, and the wind played more roughly than ever with the little yellow head.\n“I do love you very much,” she said; “but I do not know if I want to marry you. I love you better than Waldo, but I can’t tell if I love you better than Lyndall. If you would let me wait for a week I think perhaps I could tell you.”",
+      "status": "english-original"
     },
     "links": [
       {
@@ -8451,16 +8469,22 @@
     "description": "A woman longs for her absent beloved; tears, music and falling pear blossom convey separation.",
     "provenance": "Original Hanja printed beside Korean renderings in Wikisource’s transcription of a women’s poetry anthology",
     "location": "Use only the four-line Hanja original, not the surrounding translations",
-    "translation": "Gangneung-associated Joseon poet, in present-day South Korea; shared Korean heritage. The linked Korean translations are separate works and are not cleared by the ancient original’s status.",
+    "translation": "Gangneung-associated Joseon poet, in present-day South Korea; shared Korean heritage. The linked Korean translations are separate works and are not cleared by the ancient original’s status. Passage update (29 October 2026): Complete poem, 4 lines: the classical Chinese original only, as the spreadsheet asks (the Korean translations on the page are excluded). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain Classical Chinese original; author PD-old-100 notice",
     "source": "",
     "id": "south-korea",
+    "contextNote": "Heo Nanseolheon was a sixteenth-century Joseon poet, one of very few women of her time whose work survives. She died at 26, and her brother Heo Gyun had her poems published; they were later admired in China and Japan. Like most educated Koreans then, she wrote in classical Chinese.",
     "formGroup": "Poem",
     "display": {
       "title": "閨怨 / Gyuwon I",
       "english": "A Woman's Chamber Lament, I",
       "creator": "Heo Nanseolheon",
       "language": "Classical Chinese"
+    },
+    "passage": {
+      "original": "錦帶羅裙積淚痕\n一年芳草恨王孫\n瑤箏彈盡江南曲\n雨打梨花晝掩門",
+      "english": "On my brocade sash and silk skirt the tear stains gather;\nall year, among the fragrant grass, I grieve for my absent lord.\nOn the jade zither I play through the songs of the south;\nrain beats down the pear blossom, and in daylight I shut my gate.",
+      "status": "draft"
     },
     "links": [
       {
@@ -8858,16 +8882,22 @@
     "description": "The speaker’s outward composure conceals longing and tears; a dialogue with the beloved follows.",
     "provenance": "Arabic Wikisource transcription",
     "location": "Opening love dialogue, before the martial self-praise",
-    "translation": "Classical Syrian/Hamdanid literary association; the poet predates modern national borders. Medieval original only, excluding later musical settings, recordings and translations. Wikisource print provenance is incomplete; compare a scholarly edition. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Classical Syrian/Hamdanid literary association; the poet predates modern national borders. Medieval original only, excluding later musical settings, recordings and translations. Wikisource print provenance is incomplete; compare a scholarly edition. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening love dialogue, 8 couplets (16 half-lines), before the poem turns to martial self-praise. Arabic Wikisource text; decorative letter-stretching removed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain tenth-century Arabic original; later song versions and editorial contributions excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "syria",
+    "contextNote": "Abu Firas al-Hamdani was a tenth-century prince-poet of Aleppo and cousin of its ruler, Sayf al-Dawla. He wrote some of his best-known poems as a prisoner of the Byzantines; this one became famous across the Arab world as a song sung by Umm Kulthum.",
     "formGroup": "Poem",
     "display": {
       "title": "أراك عصي الدمع / Arāka ʿaṣiyya al-damʿ",
       "english": "I see you resisting tears",
       "creator": "Abu Firas al-Hamdani",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "أرَاكَ عَصِيَّ الدَّمْعِ شِيمَتُكَ الصَّبْرُ\nأمَا لِلْهَوَى نَهْيٌ عَلَيْكَ وَلا أمْر\nبَلَى أنَا مُشْتَاقٌ وَعِنْدِي لَوْعَةٌ\nوَلَكِنَّ مِثْلِي لا يُذَاعُ لَهُ سِرُّ\nإذَا اللَّيْلُ أضْوَانِي بَسَطتُ يَدَ الهَوَى\nوَأذْلَلْتُ دَمْعًا مِنْ خَلائِقِهِ الْكِبْرُ\nتَكَادُ تُضِيءُ النَّارُ بَيْنَ جَوَانِحِي\nإذَا هِيَ أذْكَتْهَا الصَّبَابَةُ وَالْفِكْرُ\nمُعَلِّلَتِي بالْوَصْلِ وَالموت دُونَهُ\nإذَا مِتُّ ظَمْآنًا فَلا نَزَلَ الْقَطْرُ\nحَفِظْتُ وَضَيَّعْتِ الموَدَّةَ بَيْنَنَا\nوَأحْسَنُ مِنْ بَعْضِ الْوَفَاءِ لَكِ الْعُذْرُ\nوَمَا هَذِهِ الأيَّامُ إلا صَحَائِفُ\nلأحْرُفِهَا مِنْ كَفِّ كَاتِبِهَا بِشْرُ\nبِنَفْسِي مِنَ الْغَادِينَ في الحيِّ غَادَةٌ\nهَوَايَ لَهَا ذَنْبٌ وَبَهْجَتُهَا عُذْرُ",
+      "english": "I see you dry-eyed; patience is your nature:\nhas love no command or forbidding over you?\nYes, I am full of longing, and I burn,\nbut a man like me does not let his secret be told.\nWhen night enfolds me, I stretch out the hand of love\nand humble tears whose nature is pride.\nThe fire between my ribs almost blazes into light\nwhen longing and brooding fan it.\nYou put me off with promises of union, but death stands before it:\nif I die of thirst, may no rain ever fall.\nI kept faith, and you squandered the love between us;\nbut making excuses for you suits me better than some kinds of loyalty.\nThese days are nothing but pages\nwhose letters glow with the hand of the one who writes them.\nMy life for one young woman among those leaving the camp at dawn:\nmy love for her is a sin, and her beauty its excuse.",
+      "status": "draft"
     },
     "links": [
       {
@@ -8909,16 +8939,22 @@
     "description": "The speaker wishes for no day without seeing the beloved.",
     "provenance": "Ganjoor, Rudaki, Rubaiyat no. 8; source identified as Wiki-Dorj",
     "location": "Complete quatrain",
-    "translation": "Rudaki died c. 941 and is associated with Panjrud in present-day Tajikistan. Attribution of individual surviving verses can be uncertain; Ganjoor’s numbering is not a historical title. Use the classical Persian lines, excluding modern AI summaries, recitations and comments. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Rudaki died c. 941 and is associated with Panjrud in present-day Tajikistan. Attribution of individual surviving verses can be uncertain; Ganjoor’s numbering is not a historical title. Use the classical Persian lines, excluding modern AI summaries, recitations and comments. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete quatrain, 4 lines (Ganjoor, Rudaki’s rubāʿīs no. 8). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain medieval Persian original; individual attribution and textual transmission require normal editorial checking.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "tajikistan",
+    "contextNote": "Rudaki lived in the tenth century at the Samanid court in Bukhara and is called the father of Persian poetry; Tajiks honour him as their national poet. Only a fraction of his work survives, mostly short poems like this quatrain.",
     "formGroup": "Poem",
     "display": {
-      "title": "بی روی تو خورشید جهان‌سوز مباد, rubāʿī 8",
+      "title": "بی روی تو خورشید جهان‌سوز مباد",
       "english": "Without your face, may the world-burning sun not shine",
       "creator": "Attributed to Rudaki",
       "language": "Persian"
+    },
+    "passage": {
+      "original": "بی روی تو خورشید جهان‌سوز مباد\nهم بی تو چراغ عالم‌افروز مباد\nبا وصل تو کس چو من بد آموز مباد\nروزی که تو را نبینم آن روز مباد",
+      "english": "Without your face, may the world-burning sun not shine;\nwithout you, may no lamp light up the world;\nmay no one grow as used to your company as I have;\nand may the day I do not see you never come.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9199,16 +9235,22 @@
     "description": "Lorenzo’s love for Agnes includes anxious longing and a letter declaring his feelings. The wider novel concerns slavery, abandonment and buccaneers.",
     "provenance": "Project Gutenberg transcription of the 1854 first volume; catalogue identifies author dates and original publisher. Trinidad-born author and Trinidad setting.",
     "location": "Volume I, chapters X–XI, approximately original pp.140–155",
-    "translation": "Select the actual human love episode; the novel’s connection to Romanticism is not itself evidence of romantic love. Historical language and captivity context need attention.",
+    "translation": "Select the actual human love episode; the novel’s connection to Romanticism is not itself evidence of romantic love. Historical language and captivity context need attention. Passage update (29 October 2026): Ten consecutive sentences from Lorenzo’s letter to Agnes and her response (Volume I, original pp. 143–144). Original English; no translation needed. Original English text; not a translation.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1888. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Project Gutenberg transcription of the 1854 first volume; catalogue identifies author dates and original publisher. Trinidad-born author and Trinidad setting.",
     "id": "trinidad-and-tobago",
+    "contextNote": "Michel Maxwell Philip, a Trinidadian of mixed African and European descent, wrote this novel in 1854, twenty years after slavery was abolished. Its hero becomes a pirate to take revenge on the white father who abandoned him; Philip later became Trinidad’s Solicitor General.",
     "formGroup": "Narrative & oral",
     "display": {
-      "title": "Emmanuel Appadocca; or, Blighted Life — Lorenzo and Agnes episode",
+      "title": "Emmanuel Appadocca",
       "english": "",
       "creator": "Michel Maxwell Philip",
       "language": "English"
+    },
+    "passage": {
+      "original": "She hastily and eagerly glanced over it, raised her head for a time, and then read, and read, and read again.\nThe letter was this:—\n“Lady, though I am a pirate, recoil not from me.\nI am sensible to the feelings of honor, and need not be feared by any lady;\nin the uprightness of my soul I have dared to love you;\ndeign to cast but one look on me, and let me believe I may hope.\nLorenzo.”\nAgnes read this over and over again in nervous trepidation, then folded it, and put it by.\nShe was a victim to strong contending emotions.\nShe felt she knew not what for Lorenzo, but he was a pirate.",
+      "english": "She hastily and eagerly glanced over it, raised her head for a time, and then read, and read, and read again.\nThe letter was this:—\n“Lady, though I am a pirate, recoil not from me.\nI am sensible to the feelings of honor, and need not be feared by any lady;\nin the uprightness of my soul I have dared to love you;\ndeign to cast but one look on me, and let me believe I may hope.\nLorenzo.”\nAgnes read this over and over again in nervous trepidation, then folded it, and put it by.\nShe was a victim to strong contending emotions.\nShe felt she knew not what for Lorenzo, but he was a pirate.",
+      "status": "english-original"
     },
     "links": [
       {
@@ -9254,16 +9296,22 @@
     "description": "The beloved’s beauty brings vitality, spring and creative renewal to a desolate heart.",
     "provenance": "Arabic Wikisource original transcription",
     "location": "Opening praise and passages about the beloved reviving the speaker’s spirit",
-    "translation": "Author died 1934. The transcription repeats a passage and lacks precise print-edition provenance; compare a scan before quoting. The original Arabic is public domain in life-plus-70 jurisdictions; modern translations and settings are separate. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Author died 1934. The transcription repeats a passage and lacks precise print-edition provenance; compare a scan before quoting. The original Arabic is public domain in life-plus-70 jurisdictions; modern translations and settings are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening 10 couplets (20 half-lines), Arabic Wikisource text. Words divided across the half-line break are kept as printed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1934. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "tunisia",
+    "contextNote": "Abu al-Qasim al-Shabbi is Tunisia’s national poet, writing when Tunisia was a French protectorate; lines from his poem “The Will to Live” are in the Tunisian national anthem. He died in 1934, aged 25.",
     "formGroup": "Poem",
     "display": {
       "title": "صلوات في هيكل الحب / Prayers in the Temple of Love",
       "english": "Prayers in the Temple of Love",
       "creator": "Abu al-Qasim al-Shabbi",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "عذبةٌ أنتِ كالطفولةِ ، كالأحلامِ ،\nكاللحنِ ، كالصباحِ الجديدِ\nكالسماءِ الضحوكِ كالليلةِ القَمْراءِ ،\nكالوردِ ، كابتسامِ الوليدِ\nيا لها من وداعةٍ وجَمالِ\nوشبابٍ مُنَعَّمٍ أُمْلُودِ !\nيا لها من طهارةٍ ، تَبْعَثُ التقْديـ\nـسَ في مهجةِ الشَّقِيِّ العَنِيدِ ! . . .\nيا لها رقَّةً تكادُ يَرُفُّ الوَرْ\nدُ منها في الصخرةِ الجلمودِ !\nأَيُّ شيءٍ أنتِ ؟! هل أنتِ «فينسُ»\nتهادتْ بين الورَى من جديدِ\nلِتُعِيدَ الشبابَ والفرحَ للمَغْـ\nـمُومِ لِلعالَمِ التعيسِ العَمِيدِ !\nأم مَلاكُ الفردوسِ جاء إلى الأرْ\nضِ لِيُحْيِيَ روحَ السلامِ العَهِيدِ !\nأنتِ . . . ، ما أنتِ ؟ رسمٌ جميلٌ\nعبقريٌّ من فنِّ هذا الوجودِ\nفيكِ ما فيه من غموضٍ وعُمْقٍ\nوجمالٍ مُقَدَّسٍ معبودِ",
+      "english": "You are sweet as childhood, as dreams,\nas a melody, as a new morning,\nas the laughing sky, as the moonlit night,\nas the rose, as a newborn’s smile.\nWhat gentleness, what beauty,\nwhat soft and supple youth!\nWhat purity, that wakes reverence\neven in the heart of the wretched and stubborn!\nWhat tenderness: roses could almost flutter\nfrom it even in solid rock!\nWhat are you? Are you Venus,\nwalking once more among humankind\nto bring back youth and joy to the grieving,\nto the miserable, heartsick world?\nOr an angel of paradise come down to earth\nto revive the spirit of a peace long gone?\nYou… what are you? A lovely picture,\na masterpiece of the art of this existence;\nin you is all its mystery and depth\nand its holy, worshipped beauty.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9391,16 +9439,22 @@
     "description": "Admiration mixed with unrequited love: the beloved’s eyes hold many emotions but no love for the speaker.",
     "provenance": "Sibil, Banasteghtsutyunner (1965 collection), p. 32; author is a woman from Istanbul",
     "location": "Complete poem",
-    "translation": "Country is geographic: an Ottoman Armenian writer born and active in Istanbul, now Turkey; this is Armenian-language literature, not a claim of ethnic Turkish identity. 1965 editorial material and modern translations are separate.",
+    "translation": "Country is geographic: an Ottoman Armenian writer born and active in Istanbul, now Turkey; this is Armenian-language literature, not a claim of ethnic Turkish identity. 1965 editorial material and modern translations are separate. Passage update (29 October 2026): Complete poem, 30 lines (Armenian Wikisource; dated 1892). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in life+70 jurisdictions (author died 1934)",
     "source": "",
     "id": "t-rkiye",
+    "contextNote": "Sibil, the pen name of Zabel Asadour, was an Armenian poet, novelist and teacher in Constantinople and a leading voice for women’s education. She wrote in Western Armenian, the language of the Armenian community of the Ottoman capital, which was devastated by the genocide of 1915.",
     "formGroup": "Poem",
     "display": {
       "title": "Աչքերդ",
       "english": "Your Eyes",
       "creator": "Sibil",
       "language": "Western Armenian"
+    },
+    "passage": {
+      "original": "Ծով մը կապույտ կծավալի\nԱչքերուդ մեջ, ուր չըկա սեր,\nԾով մը հանդարտ, ըզմայլելի,\nՈւր կը ցոլան ցայտուն լույսեր․\nԲայց ըզգացումն հոն կհալի,\nԻնչպես տաքին՝ պատառ մը սեր։\nԵրբեմն անկե կանցնին բարակ\nՃառագայթներ պայծառ ու ջինջ,\nՋըղուտ հոգվույդ ցոլքեր կըրակ\nԵրևույթով մ'աղվոր, անջինջ․\nԲայց կմարին անոնք արագ,\nԻնչպես հովին դեմ կայծ մ'ոչինչ։\nՄերթ ծաղիկներ կըլլան փափուկ\nԳորշ կապույտով մանուշակին,\nԱյնքան նըրբին և խուսափուկ,\nՈր չունին գույն որոշակի․\nԲայց կթափին ինչպես հափուկ\nԴաժան շունչին դեմ խորշակի։\nՕր մ'ալ տեսնես շատ են հոգներ\nՄեծ թախծի խոհով մ'անանց․\nԱրցունքներու տակ կայլակներ\nԹարթիչներեդ կմաղվին թաց,\nՈր կթըվին սև ժանյակներ\nԳոհարներու շարքով բանված։\nԱշխարհներ են աչքերդ անհուն,\nՈւր կան լույսեր, հույզեր հըսկա․\nՍառույց, հըրդեհ, բոցեր փայլուն,\nԺըպիտն ու հույս չեն բացակա․\nԿուգան, կանցնին անկե սահուն\nԳութն ու արցունք, լոկ սեր չըկա։",
+      "english": "A blue sea spreads\nwithin your eyes, where there is no love,\na calm sea, enchanting,\nwhere bright lights glitter;\nbut feeling melts away there\nlike a scrap of cream in the heat.\nSometimes slender rays pass across it,\nbright and clear,\nflashes of fire from your nervous soul,\nlovely and unforgettable to see;\nbut they go out quickly,\nlike a feeble spark against the wind.\nAt times they become soft flowers\nwith the grey-blue of the violet,\nso delicate and elusive\nthat they have no definite colour;\nbut they scatter like petals\nbefore the cruel breath of the scorching wind.\nAnother day you see them weary\nwith the endless thought of a great sadness;\nunder the tears, drops\nsift wet through your lashes,\nso that they look like black lace\nworked with a row of jewels.\nYour eyes are boundless worlds,\nwith lights and vast emotions in them;\nice, conflagration, shining flames,\nsmiles and hope are not absent;\npity and tears come and pass through them smoothly:\nonly love is not there.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9756,16 +9810,22 @@
     "description": "An affirmation of love as essential to being human, framed through desire for union with the beloved.",
     "provenance": "Multilingual Wikisource transcription; Ziyouz poet archive supplies biography and the same text",
     "location": "Complete ghazal",
-    "translation": "Nodira was a Kokand poet in present-day Uzbekistan. Erotic and Sufi readings can overlap. Latin-script transcription is modern; no English translation is cleared.",
+    "translation": "Nodira was a Kokand poet in present-day Uzbekistan. Erotic and Sufi readings can overlap. Latin-script transcription is modern; no English translation is cleared. Passage update (29 October 2026): Complete ghazal, 7 couplets (14 lines), in modern Uzbek Latin script. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "uzbekistan",
+    "contextNote": "Nodira was a poet and, for a time, ruler of the Kokand Khanate, governing on behalf of her son. She wrote in Uzbek, Persian and Tajik, and was executed in 1842 when the emir of Bukhara conquered Kokand.",
     "formGroup": "Poem",
     "display": {
       "title": "Muhabbatsiz kishi odam emasdur",
       "english": "A person without love is not truly human",
       "creator": "Nodira",
-      "language": "Uzbek / Chagatai literary tradition"
+      "language": "Uzbek"
+    },
+    "passage": {
+      "original": "Na gul sayr ayla, na fikri bahor et,\nJahondin kech, xayoli vasli yor et.\nMuhabbatsiz kishi odam emasdur,\nGar odamsan, muhabbat ixtiyor et.\nUzoru qaddu raftoringni koʻrsat,\nChaman sarvu gulini sharmisor et.\nLabi maxmurdadurmen, jomi may tut,\nKaram qil, soqiyo, daf’i humor et.\n«Analhaq» mojarosin aylading fosh,\nkel, ey Mansur, istiqboli dor et.\nDuru ashku aqiqi xuni dilni\nKelu yoring ayogʻigʻa nisor et.\nKuyib, ey Nodira, olam eligʻa\nMuhabbat shevasini oshkor et.",
+      "english": "Do not stroll among the roses, do not think of spring:\ngive up the world, and dream of union with your beloved.\nA person without love is not truly human:\nif you are human, choose love.\nShow your cheek, your stature and your walk,\nand put the garden’s cypress and rose to shame.\nMy lips are parched with longing; hand me the cup of wine;\nbe generous, cupbearer, and ease my aching head.\nYou made public the secret of “I am the Truth”:\ncome, O Mansur, go out to meet the gallows.\nThe pearls of your tears, the carnelian of your heart’s blood:\ncome, and scatter them at your beloved’s feet.\nBurning, O Nodira, before the people of the world,\nreveal the ways of love.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9858,16 +9918,22 @@
     "description": "Laura mourns the absence of her lover at sea until a boat brings him back; reunion follows sustained romantic longing.",
     "provenance": "Historical Biblioteca de escritores venezolanos contemporáneos facsimile, from Biblioteca Digital Hispánica; also listed in Lozano’s Colección de poesías originales (1865), p.95.",
     "location": "Printed p.117 onwards, under AMOR Y DESDICHA",
-    "translation": "Abigaíl Lozano was a man. Historical Spanish spelling and punctuation differ from modern practice. Do not confuse poem page numbers between the anthology and his own collection.",
+    "translation": "Abigaíl Lozano was a man. Historical Spanish spelling and punctuation differ from modern practice. Do not confuse poem page numbers between the anthology and his own collection. Passage update (29 October 2026): First three stanzas, 18 lines. Two OCR slips are corrected (“áDios” to “á Dios”, and a stray quotation mark). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1866. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Historical facsimile / original collection catalogue",
     "id": "venezuela",
+    "contextNote": "Abigaíl Lozano was one of Venezuela’s leading Romantic poets of the mid-nineteenth century, famous in his day for melancholy, musical verse. He died in 1866.",
     "formGroup": "Poem",
     "display": {
       "title": "Amor y desdicha",
       "english": "Love and Misfortune",
       "creator": "Abigaíl Lozano",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Solitaria, sin ventura,\nFija en la onda la mirada,\nLlena el alma de amargura,\nDesgarrado el corazón,\nVirgen triste, abandonada\nPide á Dios consolación.\nAun divisa en lontananza\nDel bajel la blanca estela ;\nImagina su esperanza\nQue á su amante abraza ya;\nSi columbra alguna vela,\nHondo grito al aire da.\nHace un año que la hermosa,\nQue suspira sin consuelo,\nAngustiada, temblorosa,\nÁ su amante vio partir;\nY enlutado vio del cielo\nEl purísimo zafir.",
+      "english": "Alone, without fortune,\nher gaze fixed on the waves,\nher soul full of bitterness,\nher heart torn apart,\na sad, abandoned maiden\nbegs God for consolation.\nIn the distance she can still make out\nthe white wake of the ship;\nin her hope she imagines\nthat she already holds her lover;\nif she glimpses a sail,\nshe sends a deep cry into the air.\nIt is a year since the lovely one,\nwho sighs without comfort,\nanguished and trembling,\nwatched her lover depart,\nand saw the purest sapphire\nof the sky dressed in mourning.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9909,16 +9975,22 @@
     "description": "A bold invitation to courtship, using betel’s red colour as a wish for lasting attachment.",
     "provenance": "Thơ Hồ Xuân Hương; Lữ Huy Nguyên selection/introduction; NXB Văn học, Hanoi, 1993",
     "location": "Complete four-line poem",
-    "translation": "Traditional attribution to Hồ Xuân Hương; early print/manuscript provenance not established here. Original poem only; 1993 introduction, editorial matter and modern translations are separate.",
+    "translation": "Traditional attribution to Hồ Xuân Hương; early print/manuscript provenance not established here. Original poem only; 1993 introduction, editorial matter and modern translations are separate. Passage update (29 October 2026): Complete poem, 4 lines (modern Vietnamese script; the source keeps the spelling “Huơng”). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "vietnam",
+    "contextNote": "Hồ Xuân Hương, writing around 1800, is called the “queen of Nôm poetry”, poetry in Vietnamese written in its old characters. Her witty, often daring poems mocked the double standards imposed on women; offering betel was the traditional opening of a courtship.",
     "formGroup": "Poem",
     "display": {
       "title": "Miếng trầu / Mời trầu",
       "english": "A Piece of Betel / Offering Betel",
       "creator": "Hồ Xuân Hương",
-      "language": "Vietnamese, modern Quốc ngữ transcription of Nôm verse"
+      "language": "Vietnamese"
+    },
+    "passage": {
+      "original": "Quả cau nho nhỏ miếng trầu hôi\nNày của Xuân Huơng đã quệt rồi\nCó phải duyên nhau thì thắm lại\nĐừng xanh như lá bạc như vôi",
+      "english": "A tiny areca nut, a humble betel quid:\nhere, Xuân Hương has already spread the lime on it.\nIf we are fated for each other, let it turn deep red;\ndo not stay green as the leaf, or turn pale and faithless as the lime.",
+      "status": "draft"
     },
     "links": [
       {
@@ -9960,16 +10032,22 @@
     "description": "A lover compares the beloved to a unique gazelle of Sana’a, laments separation and pledges continuing devotion.",
     "provenance": "DCT Poetic Encyclopedia, text and Yemeni biography; identifies Sana’a judge and Humayni poet, died 1825.",
     "location": "Complete poem, 16 bayts",
-    "translation": "Distinguish this poet from later singers and musical arrangements. Modern edited editions and translations have separate rights.",
+    "translation": "Distinguish this poet from later singers and musical arrangements. Modern edited editions and translations have separate rights. Passage update (29 October 2026): First 8 couplets (16 half-lines) of the 16-couplet poem, as printed in the Abu Dhabi Poetry Encyclopedia. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1825. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi",
     "id": "yemen",
+    "contextNote": "Ahmad ibn Abd al-Rahman al-Ansi was a poet of Sanaa around 1800 in the Humayni style, which blends classical Arabic with Yemeni speech and is still sung in Sanaa’s traditional music. The poem plays on words that sound alike but differ in meaning, a hallmark of the form.",
     "formGroup": "Poem",
     "display": {
       "title": "غزال ما مثله بصنعا غزال",
       "english": "A gazelle unlike any other in Sana'a",
       "creator": "Ahmad ibn Abd al-Rahman al-Ansi",
       "language": "Arabic, Yemeni Humayni verse"
+    },
+    "passage": {
+      "original": "غزال ما مثله بصنعا غزال\nبسيف لحظه قد غزا لي\nأزال ثوب الصبر عني وزال\nوصار تايه في أزال\nسلب على البدر البها والكمال\nوقد سلب روحي كمالي\nوطال بالهجران بعد الوصال\nعلى فؤاد للنار صالي\nقد خلف المضني معنى وسار\nكالبدر جنح الليل ساري\nماذا جرى بيني وبينك ودار\nوالله بذا عالم وداري\nأقل خطايا مغرمك والعثار\nوخذ من الواشي بثاري\nلا تستمع حاسد بقيل وقال\nولا تصدق قول قالي",
+      "english": "A gazelle like no other gazelle in Sanaa\nhas raided me with the sword of his glance.\nHe stripped the robe of patience from me and left,\nand now wanders proudly through Azal.\nHe robbed the full moon of its splendour and perfection,\nand robbed my soul of all I had.\nAfter union he has drawn out his desertion\nover a heart that is roasting in the fire.\nHe left the lovesick one in torment and went on,\nlike the full moon travelling through the night.\nWhat happened, what passed between us,\nGod knows, and is aware of it.\nForgive your lover his sins and his stumbles,\nand take my revenge on the slanderer.\nDo not listen to the envious, with their gossip,\nand do not believe what a hater says.",
+      "status": "draft"
     },
     "links": [
       {
