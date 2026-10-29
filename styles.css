@@ -531,3 +531,11 @@ a { color: var(--accent); }
   .passage-line { font-size: 1.08rem; }
   .passage-note-original { margin-bottom: 1.25rem; }
 }
+
+/* Phones: a taller map (map.js crops the far edges to fill it) and smaller headings */
+@media (max-width: 40rem) {
+  #map { aspect-ratio: 3 / 2; }
+  .entry-title { font-size: 1.45rem; }
+  .entry-title-english { font-size: 1.1rem; }
+  .map-hint { font-size: 0.8rem; }
+}

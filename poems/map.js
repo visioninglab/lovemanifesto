@@ -177,13 +177,36 @@
     if (missing.length) console.warn("Not on the map:", missing.map((e) => e.country));
   }
 
+  // On phones the map gets a taller frame (see styles.css) and fills it, cropping the far east and west;
+  // the zoom extent is set to the visible area so those edges can still be dragged into view
+  function fitView() {
+    const node = svg.node();
+    const crop = node.clientWidth < 640;
+    svg.attr("preserveAspectRatio", crop ? "xMidYMid slice" : "xMidYMid meet");
+    const scale = viewScale();
+    const visibleWidth = Math.min(WIDTH, node.clientWidth / scale);
+    const x0 = (WIDTH - visibleWidth) / 2;
+    zoom.extent([[x0, 0], [x0 + visibleWidth, HEIGHT]]);
+  }
+
+  // Screen pixels per map unit at zoom level 1
+  function viewScale() {
+    const node = svg.node();
+    const sx = node.clientWidth / WIDTH;
+    const sy = node.clientHeight / HEIGHT;
+    return svg.attr("preserveAspectRatio") === "xMidYMid slice" ? Math.max(sx, sy) : Math.min(sx, sy);
+  }
+
   // Keep dots the same size on screen whatever the map's width or zoom level
   function sizeDots() {
-    const unitsPerPixel = WIDTH / svg.node().clientWidth / zoomScale;
+    const unitsPerPixel = 1 / (viewScale() * zoomScale);
     layer.selectAll(".dot-mark").attr("r", 4 * unitsPerPixel);
     layer.selectAll(".dot-hit").attr("r", 11 * unitsPerPixel);
   }
-  window.addEventListener("resize", sizeDots);
+  window.addEventListener("resize", () => {
+    fitView();
+    sizeDots();
+  });
 
   const zoom = d3
     .zoom()
@@ -195,6 +218,7 @@
       sizeDots();
       hideTooltip();
     });
+  fitView();
   svg.call(zoom);
   document.getElementById("zoom-in").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 1.8));
   document.getElementById("zoom-out").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 1 / 1.8));

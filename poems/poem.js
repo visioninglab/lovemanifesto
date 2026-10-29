@@ -18,8 +18,12 @@ window.Poem = (function () {
     const head = el("div", "entry-head");
     head.append(el("p", "entry-country", entry.country), el("span", "entry-form", entry.form));
     frag.append(head);
-    const title = el(titleTag, "entry-title", entry.display.title);
-    title.dir = "auto";
+    // Titles can mix scripts ("שיר השירים / Song of Songs"): isolate each part so it keeps its own direction
+    const title = el(titleTag, "entry-title");
+    entry.display.title.split(" / ").forEach((part, i) => {
+      if (i) title.append(" / ");
+      title.append(el("bdi", "", part));
+    });
     frag.append(title);
     if (entry.display.english) frag.append(el("p", "entry-title-english", entry.display.english));
     frag.append(el("p", "entry-creator", entry.display.creator));
