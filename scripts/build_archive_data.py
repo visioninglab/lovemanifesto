@@ -82,7 +82,7 @@ def translation_status(entry, passage):
     """How the English passage relates to the original."""
     if passage["original"] == passage["english"]:
         return "english-original"
-    if "chatgpt" in entry["translation"].lower():
+    if re.search(r"chatgpt|claude", entry["translation"], re.I):
         return "draft"
     return "translation"
 

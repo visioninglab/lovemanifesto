@@ -1463,16 +1463,22 @@
     "description": "Celebrates the beloved and love’s power; a specific morna replaces the generic tradition label.",
     "provenance": "Original lyric transcribed by Eugénio Tavares heritage project",
     "location": "Section II, A Força de Cretcheu",
-    "translation": "Tavares died 1 June 1930. Original lyric is public domain in life-plus-70 jurisdictions; the website’s modern commentary, later musical arrangements and recordings are separate. Creole spelling varies between editions. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Tavares died 1 June 1930. Original lyric is public domain in life-plus-70 jurisdictions; the website’s modern commentary, later musical arrangements and recordings are separate. Creole spelling varies between editions. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): First two stanzas, 15 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1930. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "cabo-verde",
+    "contextNote": "Eugénio Tavares, from the island of Brava, made the morna, Cabo Verde’s slow song of longing, into poetry, and he wrote in Cape Verdean Creole when Portuguese colonial rule treated it as a mere dialect. Many of his mornas grew from the partings of an island of emigrants and sailors, and they are still sung today.",
     "formGroup": "Poem & song",
     "display": {
       "title": "Força de Cretcheu",
       "english": "The Power of Love",
       "creator": "Eugénio Tavares",
       "language": "Cape Verdean Creole"
+    },
+    "passage": {
+      "original": "Ca tem nada na es bida\nMas grande que amor\nSe Deus ca tem medida\nAmor inda é maior.\nMaior que mar, que céu\nMas, entre tudo cretcheu\nDe meu inda é maior\nCretcheu más sabe,\nÉ quel que é di meu\nEle é que é tchabe\nQue abrim nha céu.\nCretcheu más sabe\nÉ quel qui crem\nAi sim perdel\nMorte dja bem",
+      "english": "There is nothing in this life\nGreater than love;\nIf God has no measure,\nLove is greater still.\nGreater than the sea, than the sky,\nBut, above all, my own beloved\nIs greater still.\nThe sweetest beloved\nIs the one who is mine;\nThey are the key\nThat opens my heaven.\nThe sweetest beloved\nIs the one who loves me;\nAh, if I lost them,\nDeath would come.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2036,16 +2042,22 @@
     "description": "The speaker invites his beloved into a moonlit garden and longs for a kiss.",
     "provenance": "Athenea, tomo IV, no. 6, 1920; SINABI National Library scan",
     "location": "Printed p. 928",
-    "translation": "Journal says the sonnet had been preserved in Margarita Martínez’s album and was unpublished until then. Original sonnet only; modern library descriptions and other journal contributions are separate. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Journal says the sonnet had been preserved in Margarita Martínez’s album and was unpublished until then. Original sonnet only; modern library descriptions and other journal contributions are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete sonnet, 14 lines. Two OCR slips in the 1920 scan are corrected (“cum bre” to “cumbre”, “Su” to “su”); the wording is unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1913. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "costa-rica",
+    "contextNote": "Lisímaco Chavarría grew up in modest circumstances in San Ramón and became one of the first Costa Rican poets to write about its countryside. He wrote this sonnet into the album of a young woman, Margarita Martínez, as people did then, and it stayed unpublished until a magazine printed it in 1920, seven years after his death.",
     "formGroup": "Poem",
     "display": {
       "title": "¿Vendrá?",
       "english": "Will They Come?",
       "creator": "Lisímaco Chavarría",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Desciende hasta el jardín, amada mía;\nes hora en que las rosas y jazmines\ninciensan a la tarde; en los confines\nva cerrando sus párpados el día.\nAnhelo de tus labios la ambrosía;\ndesciende hasta el jardín; los bandolines\nalados ya no trinan; hay festines\nde estrellas en la bóveda sombría.\nLa luna riega el ámbar de su lumbre\ndesde la comba inmensa de los cielos\ny baja, hecha fulgor, hasta las pomas.\nComo garza se eleva tras la cumbre\ndel monte, y el jazmín de mis anhelos\nte invita a descender, con sus aromas.",
+      "english": "Come down to the garden, my beloved;\nIt is the hour when the roses and jasmine\nPerfume the evening like incense; at the edge of the sky\nThe day is closing its eyelids.\nI long for the ambrosia of your lips;\nCome down to the garden; the winged\nMandolins have stopped their trilling; there are feasts\nOf stars in the darkening vault.\nThe moon pours out the amber of its light\nFrom the immense curve of the heavens,\nAnd comes down, turned to radiance, to the fruit trees.\nLike a heron it rises behind the summit\nOf the mountain, and the jasmine of my longing\nInvites you, with its scent, to come down.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2087,16 +2099,22 @@
     "description": "Sonnet in which the speaker dreams of a dead beloved and finds consolation in her still-living hair. Romantic love and mortality; tragic rather than celebratory.",
     "provenance": "Croatian original transcribed at Wikisource; Matica hrvatska confirms 1906 Savremenik publication; Croatian Encyclopedia confirms author and dates.",
     "location": "Complete sonnet, 14 lines",
-    "translation": "Check transcription against a historical edition before final quotation; modern English translations have separate rights.",
+    "translation": "Check transcription against a historical edition before final quotation; modern English translations have separate rights. Passage update (29 October 2026): Complete sonnet, 14 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1914. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "croatia",
+    "contextNote": "Antun Gustav Matoš wrote this, his first sonnet, in Belgrade in 1906, while living in exile from Austria-Hungary after deserting from its army. He later returned to Zagreb and became the leading figure of Croatian modernism; this is still one of the best-known poems in the language.",
     "formGroup": "Poem",
     "display": {
       "title": "Utjeha kose",
       "english": "The Consolation of Hair",
       "creator": "Antun Gustav Matoš",
       "language": "Croatian"
+    },
+    "passage": {
+      "original": "Gledo sam te sinoć. U snu. Tužan. Mrtvu.\nU dvorani kobnoj, u idili cvijeća,\nNa visokom odru, u agoniji svijeća,\nGotov da ti predam život kao žrtvu.\nNisam plako. Nisam. Zapanjen sam stao\nU dvorani kobnoj, punoj smrti krasne,\nSumnjajući da su tamne oči jasne\nOdakle mi nekad bolji život sjao.\nSve baš, sve je mrtvo: oči dah i ruke,\nSve što očajanjem htjedoh da oživim\nU slijepoj stravi i u strasti muke,\nU dvorani kobnoj, mislima u sivim.\nSamo kosa tvoja još je bila živa,\nPa mi reče: — Miruj! U smrti se sniva.",
+      "english": "I saw you last night. In a dream. Sad. Dead.\nIn a fateful hall, in an idyll of flowers,\nOn a high bier, in the agony of candles,\nReady to give you my life as a sacrifice.\nI did not weep. I did not. Stunned, I stood\nIn the fateful hall, full of beautiful death,\nDoubting that those dark, clear eyes\nWere where a better life once shone on me.\nAll, yes, all is dead: eyes, breath and hands,\nAll that in despair I longed to bring to life\nIn blind terror and in the passion of torment,\nIn the fateful hall, among grey thoughts.\nOnly your hair was still alive,\nAnd it said to me: “Be still! In death one dreams.”",
+      "status": "draft"
     },
     "links": [
       {
@@ -2138,16 +2156,22 @@
     "description": "Passionate recognition: the beloved fulfils a long-held ideal; devotion is mixed with awareness of danger.",
     "provenance": "Wikisource distinguishes this poem from the other A él beginning No existe lazo ya",
     "location": "Complete poem; En la aurora lisonjera opening",
-    "translation": "Cuban-born writer with a major literary career in Spain; not a modern nationality claim about a colonial-era author. Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material.",
+    "translation": "Cuban-born writer with a major literary career in Spain; not a modern nationality claim about a colonial-era author. Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material. Passage update (29 October 2026): Twelve consecutive lines from the second part of the poem (from “Volaban los años” to “las olas del mar”). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "cuba",
+    "contextNote": "Gertrudis Gómez de Avellaneda left Cuba for Spain as a young woman and became one of the great Romantic writers in Spanish. Her novel Sab (1841) is one of the earliest novels in Spanish to condemn slavery.",
     "formGroup": "Poem",
     "display": {
       "title": "A él — En la aurora lisonjera",
       "english": "To Him — In the flattering dawn",
       "creator": "Gertrudis Gómez de Avellaneda",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Volaban los años, y yo vanamente\nBuscando seguía mi hermosa visión...\nMas dio al fin la hora; brillar vi tu frente,\nY «es él», dijo al punto mi fiel corazón.\nPorque era, no hay duda, tu imagen querida,\n-Que el alma inspirada logró adivinar-\nAquella que en alba feliz de mi vida\nMiré para nunca poderla olvidar.\nPor ti fue mi dulce suspiro primero;\nPor ti mi constante, secreto anhelar\nY en balde el destino -mostrándose fiero-\nTendió entre nosotros las olas del mar.",
+      "english": "The years flew by, and still, in vain,\nI went on searching for my beautiful vision…\nBut at last the hour came; I saw your brow shine,\nAnd “It is he,” my faithful heart said at once.\nFor it was, beyond doubt, your beloved image\n— which my inspired soul had managed to divine —\nThe one I saw in the happy dawn of my life\nAnd have never been able to forget.\nFor you was my first sweet sigh;\nFor you my constant, secret longing;\nAnd in vain did fate, showing its cruelty,\nStretch the waves of the sea between us.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2189,16 +2213,22 @@
     "description": "The lover leaves Cyprus but pledges that his heart will remain with the beloved.",
     "provenance": "Original Greek reproduced in Parliament of Cyprus booklet on the Latins of Cyprus",
     "location": "Printed p. 31; Poem 59, first line Διατί ποτέ μου δεν είδα",
-    "translation": "Use the anonymous Renaissance Greek verses. The booklet’s English translation, photographs and the modern critical apparatus are separate. Collection appeared partly in 1881 and in full in 1952; exact first printing of this individual poem is not established. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Use the anonymous Renaissance Greek verses. The booklet’s English translation, photographs and the modern critical apparatus are separate. Collection appeared partly in 1881 and in full in 1952; exact first printing of this individual poem is not established. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete poem, 8 lines (one ottava rima stanza). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain anonymous Renaissance original; modern translation and scholarly editorial contributions excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "cyprus",
+    "contextNote": "These anonymous Rhymes of Love were written in sixteenth-century Cyprus, when the island was ruled by Venice, and they borrow the forms of the Italian poet Petrarch. They survive in a single manuscript in Venice and are among the earliest love poems in the Cypriot Greek dialect.",
     "formGroup": "Poem",
     "display": {
       "title": "Ρίμες αγάπης, poem 59 / Rhymes of Love, poem 59",
       "english": "Rhymes of Love, poem 59",
       "creator": "Anonymous Cypriot Renaissance poet",
       "language": "Cypriot Greek"
+    },
+    "passage": {
+      "original": "Διατί ποτέ μου δεν είδα ‘ξ αυτήσ σου\nθάρος να λείψουν τα λαμπρά ‘που μένα,\nτα ποια μου δώκεν το γλυκύν το δείσ σου\nκαι δεν παύγουν ποτέ καιρόν κανέναν,\nδιατί δεν με ψηφά στην δούλεψήσ σου,\nμισεύγω από την Κύπρον εις τα ξένα\nαμμ’ έξευρε όπου πάγω, αγγέλισσά μου,\nπάντα μ’ εσέν θέλ’ είσταιν η καρδιά μου.",
+      "english": "Because I have never once seen in you\nThe courage to take from me the bright flames\nThat your sweet glance gave me,\nAnd that never cease at any time,\nBecause you take no account of my devotion,\nI am leaving Cyprus for foreign lands;\nBut know, wherever I go, my angel,\nMy heart will always be with you.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2240,16 +2270,22 @@
     "description": "Joyful: a girl’s song falls silent when her lips are met with a kiss.",
     "provenance": "Rozpomínky: básně; scan-backed, PD-old-70 labelled transcription",
     "location": "pp. 123–125",
-    "translation": "Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material.",
+    "translation": "Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material. Passage update (29 October 2026): Final three stanzas, 12 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain - PD old 70 notice on linked work",
     "source": "",
     "id": "czechia",
+    "contextNote": "Eliška Krásnohorská was a leading Czech feminist as well as a poet, and in 1890 she founded Minerva, the first grammar school for girls in Central Europe. She also wrote libretti for Bedřich Smetana’s operas, and published this poem in her 1896 collection Rozpomínky.",
     "formGroup": "Poem",
     "display": {
       "title": "Píseň dívčí",
       "english": "A Girl's Song",
       "creator": "Eliška Krásnohorská",
       "language": "Czech"
+    },
+    "passage": {
+      "original": "A ptáček jasnohlasý\nmi odpovídá v písni:\nVím, jaká pečeť asi\nta zpěvná ústa tísní.\nVím, proč tak oněměly\nrty dívčí v prostřed pění:\nje uzamknul ret vřelý,\nje stisklo políbení.\nKdyž srdce k srdci sletí,\npak umlká a slyší\nzpěv andělů jen pěti\ntou sladkou němou tiší.",
+      "english": "And a clear-voiced little bird\nAnswers me in song:\n“I know what seal, it seems,\nIs pressing on that singing mouth.\nI know why the girl’s lips\nFell silent in mid-song:\nWarm lips have locked them shut,\nA kiss has pressed them closed.\nWhen heart flies down to heart,\nIt falls quiet, and hears\nOnly the angels singing\nIn that sweet, wordless hush.”",
+      "status": "draft"
     },
     "links": [
       {
@@ -2516,16 +2552,22 @@
     "description": "A woman longs to confide her dreams and emotional dependence to the beloved.",
     "provenance": "Original-language excerpt hosted by Comunidad de Madrid education library",
     "location": "Poemario: Amor y anhelo (fragmento)",
-    "translation": "Author died 1897. The linked primary-text excerpt is sufficient for quotation; it is not the complete poem. Preserve the original wording rather than online variants. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Author died 1897. The linked primary-text excerpt is sufficient for quotation; it is not the complete poem. Preserve the original wording rather than online variants. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): The last three stanzas of the printed fragment, 15 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1897. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "dominican-republic",
+    "contextNote": "Salomé Ureña was the leading Dominican poet of the nineteenth century and a pioneer of women’s education, founding the country’s first teacher-training school for women in 1881. She wrote far fewer love poems than patriotic ones, which makes this glimpse of private feeling all the more striking.",
     "formGroup": "Poem",
     "display": {
       "title": "Amor y anhelo",
       "english": "Love and Longing",
       "creator": "Salomé Ureña de Henríquez",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Ven y tu mano del pecho amante\ncalme amorosa las penas mil,\n¡oh de mis ansias único objeto!\nVen, que a ti sólo quiero en secreto\ncontar mis sueños de amor febril.\nMas no, que nunca mi amante anhelo\npodré decirte libre de afán,\ngimiendo a solas, en desconsuelo,\ncual mis suspiros, en raudo vuelo,\nmis ilusiones perdidas van.\nTuya es mi vida, tuya mi suerte,\nde ti mi dicha pende o mi mal;\nsi al dolor quieres que venza fuerte,\nsobre mi frente pálida vierte\nde tu ternura todo el raudal.",
+      "english": "Come, and let your hand, with love,\nEase the thousand sorrows of my loving breast,\nO sole object of my longing!\nCome, for to you alone I wish, in secret,\nTo tell my dreams of feverish love.\nBut no: never shall I be able\nTo tell you my loving longing free of fear;\nMoaning alone, disconsolate,\nLike my sighs, in swift flight,\nMy lost illusions slip away.\nYours is my life, yours my fate;\nMy joy or my sorrow hangs on you;\nIf you would have me overcome my pain,\nPour upon my pale brow\nThe whole flood of your tenderness.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2675,16 +2717,22 @@
     "description": "An imagined shared rural life culminates in a kiss and a honey-sweet declaration of love; affectionate, hopeful romantic sonnet.",
     "provenance": "Ciudad Seva full original; also in Jícaras tristes at CEBES Perquín library. Government source confirms use of the collection since 1936.",
     "location": "Complete 14-line poem; last tercet for explicit romantic affirmation",
-    "translation": "Modern editorial matter excluded. 1936 is collection-publication year, not composition. Original Spanish requires no translation.",
+    "translation": "Modern editorial matter excluded. 1936 is collection-publication year, not composition. Original Spanish requires no translation. Passage update (29 October 2026): Complete sonnet, 14 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1928. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "el-salvador",
+    "contextNote": "Alfredo Espino wrote with great tenderness about rural El Salvador: its volcanoes, cattle and farmhouses. He died in 1928 at only 28, and his poems were gathered after his death as Jícaras tristes (Sad Gourds, 1936), still one of the most loved books in the country.",
     "formGroup": "Poem",
     "display": {
       "title": "Luna en el rancho",
       "english": "Moon over the Ranch",
       "creator": "Alfredo Espino",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Vagar, soñando versos, en silentes caminos,\ncon la dorada lluvia del sol sobre tu frente;\ny en un tronco sentados, mirarme largamente\nen las dormidas aguas de tus ojos hialinos…\n“Y qué linda”, dijeran al verte, campesinos\nde esos que con sus vacas van buscando una fuente,\ny yo: “Sus ojos miran, miran más dulcemente\nque dos estrellas blancas en cielos vespertinos”.\nY tú te sonreirías sin vanidad ninguna;\ndespués en nuestro rancho se entraría la luna\ny ladraría al vernos, el perro blanco y fiel…\nComo el café maduro fuera tu boca, mía,\ny en el rancho con luna, mi boca bebería\nen la flor de tus labios, un “te quiero” de miel.",
+      "english": "To wander, dreaming verses, along silent paths,\nWith the golden rain of the sun upon your brow;\nAnd, seated on a log, to gaze at myself at length\nIn the sleeping waters of your glassy eyes…\n“And how lovely she is,” country people would say on seeing you,\nThe kind who go with their cows in search of a spring,\nAnd I: “Her eyes look, they look more sweetly\nThan two white stars in evening skies.”\nAnd you would smile without the least vanity;\nThen the moon would come into our farmhouse\nAnd, seeing us, the white and faithful dog would bark…\nYour mouth, mine, would be like ripe coffee,\nAnd in the moonlit farmhouse my mouth would drink\nFrom the flower of your lips a honeyed “I love you”.",
+      "status": "draft"
     },
     "links": [
       {
@@ -2804,16 +2852,22 @@
     "description": "A playful love lyric: two clear eyes captivate the speaker, fill the heart with starlight and leave her wandering as if in a dream.",
     "provenance": "Mihkel Kampmann, Eesti kirjandusloo peajooned II (1933), digital facsimile hosted by Estonian Folklore Archives; reproduces the Estonian poem.",
     "location": "Printed p.83: poem under Kaks selget silma",
-    "translation": "Quotation is from the original poem within a historical study. Read page image rather than trusting OCR; historical spelling retained. Poet is a woman, 1843–1886; modern translations excluded.",
+    "translation": "Quotation is from the original poem within a historical study. Read page image rather than trusting OCR; historical spelling retained. Poet is a woman, 1843–1886; modern translations excluded. Passage update (29 October 2026): First three stanzas, 12 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1886. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Historical Estonian text at folklore.ee",
     "id": "estonia",
+    "contextNote": "Lydia Koidula wrote during the Estonian national awakening, when Estonia was part of the Russian Empire and many still saw Estonian as a peasant language. She was the first major Estonian woman poet, and her words are still sung at the great song festivals; she died in Kronstadt in 1886, aged 42.",
     "formGroup": "Poem",
     "display": {
       "title": "Kaks selget silma",
       "english": "Two Clear Eyes",
       "creator": "Lydia Koidula",
       "language": "Estonian"
+    },
+    "passage": {
+      "original": "Kaks selget silma mulle vaatnud\nKui taeva tähed südame,\nKaks selget silma põue saatnud\nMul täheläiget äkiste.\nKust oleks teadnud taganeda\nMa vaene vaga palgilta?\nNii peenet nägu põgeneda,\nNii selget silma süüdelda?\nEt ühtepuhku mõttes suigun,\nEt mõistus kõik mul metsa läind.\nEt nagu unes ala tuigun:\nKaks selget silma seda teind!",
+      "english": "Two clear eyes have looked into my heart\nLike the stars of heaven,\nTwo clear eyes have sent into my breast\nA sudden gleam of starlight.\nHow could I have known to turn away,\nPoor, meek me, from that face?\nTo flee a face so fine,\nTo blame an eye so clear?\nSo that I keep drifting off in thought,\nSo that my wits have all gone astray,\nSo that I stumble about as in a dream:\nTwo clear eyes have done all this!",
+      "status": "draft"
     },
     "links": [
       {
@@ -3200,16 +3254,22 @@
     "description": "The prologue describes devotion, constancy and the obligations of a lover.",
     "provenance": "Georgian Wikisource, opening section of the epic",
     "location": "დასაწყისი / Prologue; passages distinguishing true love from lust",
-    "translation": "Medieval Georgian original is public domain. Exact modern base edition of the transcription is not stated; stanza numbering can vary. Do not reuse a modern English translation by assumption. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Medieval Georgian original is public domain. Exact modern base edition of the transcription is not stated; stanza numbering can vary. Do not reuse a modern English translation by assumption. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Prologue stanzas 24–26, 12 lines, on true love and lust. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain medieval Georgian original; modern editorial additions and translations excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "georgia",
+    "contextNote": "The Knight in the Panther Skin was written around 1200, in the golden age of medieval Georgia under Queen Tamar, to whom Rustaveli dedicates it. It remains Georgia’s national epic, and copies were traditionally given to brides as part of their dowry.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "ვეფხისტყაოსანი / The Knight in the Panther Skin — Prologue on love",
       "english": "The Knight in the Panther Skin — Prologue on love",
       "creator": "Shota Rustaveli",
       "language": "Georgian"
+    },
+    "passage": {
+      "original": "მიჯნურობა არის ტურფა, საცოდნელად ძნელი გვარი;\nმიჯნურობა სხვა რამეა, არ სიძვისა დასადარი:\nიგი სხვაა, სიძვა სხვაა, შუა უზის დიდი მზღვარი,\nნუვინ გაჰრევთ ერთმანერთსა! გესმას ჩემი ნაუბარი!\nხამს მიჯნური ხანიერი, არ მეძავი, ბილწი, მრუში,\nრა მოჰშორდეს მოყვარესა, გაამრავლოს სულთქმა, უში,\nგული ერთსა დააჯეროს, კუშტი მიჰხვდეს, თუნდა ქუში;\nმძულს უგულო სიყვარული, ხვევნა, კოცნა, მტლაშა-მტლუში.\nამა საქმესა მიჯნური ნუ უხმობს მიჯნურობასა:\nდღეს ერთი უნდეს, ხვალე სხვა, სთმობდეს გაყრისა თმობასა;\nესე მღერასა ბედითსა ჰგავს ვაჟთა, ყმაწვილობასა.\nკარგი მიჯნური იგია, ვინ იქმს სოფლისა თმობასა.",
+      "english": "Love is a fine thing, a kind hard to understand;\nLove is something else, not to be likened to lust:\nIt is one thing, lust another; a wide border lies between them;\nLet no one confuse the two! Hear what I tell you!\nA lover must be constant, not lewd, foul or faithless;\nWhen parted from the beloved, let him sigh and sigh again,\nLet his heart be fixed on one alone, though she be cold or stern;\nI hate heartless love: embracing, kissing, noisy smacking of lips.\nLet a lover not call this love:\nTo want one today and another tomorrow, to take parting lightly;\nThat is like the idle play of boys, of mere youth.\nA good lover is one who endures all the world’s trials.",
+      "status": "draft"
     },
     "links": [
       {
@@ -3354,7 +3414,7 @@
     "form": "Poetry",
     "genderGroup": "Women",
     "year": "-600",
-    "language": "Greek and English",
+    "language": "Ancient Greek",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Woman",
@@ -3363,16 +3423,22 @@
     "description": "A prayer about unreciprocated love.",
     "provenance": "H. T. Wharton, Sappho: Memoir, Text; fifth edition, 1908",
     "location": "Ode I; literal prose, pp. 49-50",
-    "translation": "Use Wharton literal prose after Greek. Modern translations are separate.",
+    "translation": "Use Wharton literal prose after Greek. Modern translations are separate. Passage update (29 October 2026): Last three stanzas of the ode, 12 lines. Greek text from the 1885 Wharton edition (Project Gutenberg). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "greece",
+    "contextNote": "Sappho lived on the island of Lesbos around 600 BCE and was so admired that later Greeks called her the tenth Muse. Almost all her work is lost; this prayer to Aphrodite is the only poem to survive complete, because an ancient critic quoted it as an example of perfect style.",
     "formGroup": "Poem",
     "display": {
       "title": "Ode to Aphrodite",
       "english": "",
       "creator": "Sappho",
-      "language": "Greek and English"
+      "language": "Ancient Greek"
+    },
+    "passage": {
+      "original": "κὤττι μοι μάλιστα θέλω γένεσθαι\nμαινόλᾳ θύμῳ· τίνα δηὖτε Πείθω\nμαῖς ἄγην ἐς σὰν φιλότατα, τίς σ', ὦ\nΨάπφ', ἀδικήει;\nκαὶ γὰρ αἰ φεύγει, ταχέως διώξει,\nαἰ δὲ δῶρα μὴ δέκετ' ἀλλὰ δώσει,\nαἰ δὲ μὴ φίλει, ταχέως φιλήσει\nκωὐκ ἐθέλοισα.\nἔλθε μοι καὶ νῦν, χαλεπᾶν δὲ λῦσον\nἐκ μεριμνᾶν, ὄσσα δὲ μοι τελέσσαι\nθῦμος ἰμέρρει, τέλεσον· σὺ δ' αὔτα\nσύμμαχος ἔσσο.",
+      "english": "And what I most wish to happen\nFor my maddened heart. “Whom now shall I persuade\nTo lead you back into her love? Who, O\nSappho, wrongs you?\nFor if she flees, soon she will pursue;\nIf she will not take gifts, she will give them;\nAnd if she does not love, soon she will love,\nEven against her will.”\nCome to me now as well, and free me from harsh\nCares; all that my heart longs\nTo bring about, bring about; and you yourself\nBe my ally.",
+      "status": "draft"
     },
     "links": [
       {
@@ -3457,16 +3523,22 @@
     "description": "The beloved remains constantly present in the speaker’s mind despite outward silence.",
     "provenance": "Original poem reproduced in University of San Carlos educational dissertation",
     "location": "Printed pp. 81–82, Yo pienso en ti",
-    "translation": "Guatemalan literary affiliation; author was born in what is now El Salvador and died 1844. Use only his poem, not the modern educational notes. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Guatemalan literary affiliation; author was born in what is now El Salvador and died 1844. Use only his poem, not the modern educational notes. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Last three stanzas, 15 lines. The PDF scattered some words across lines (footnote layout); they are put back in order, wording unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1844. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "guatemala",
+    "contextNote": "José Batres Montúfar served as an army officer in the wars of the Central American Federation before turning to writing, and died in Guatemala City in 1844, aged 34. This poem of quiet, constant longing is often called the best-known love poem in Guatemala.",
     "formGroup": "Poem",
     "display": {
       "title": "Yo pienso en ti",
       "english": "I Think of You",
       "creator": "José Batres Montúfar",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "En mi lóbrega y yerta fantasía\nbrilla tu imagen apacible y pura,\ncomo el rayo de luz que el sol envía,\na través de una bóveda sombría\nal roto mármol de una sepultura.\nCallado, inerte, en estupor profundo,\nmi corazón se embarga y se enajena,\ny allá en su centro vibra moribundo\ncuando entre el vano estrépito del mundo\nla melodía de tu nombre suena.\nSin lucha, sin afán y sin lamento,\nsin agitarme en ciego frenesí,\nsin proferir un solo un leve acento,\nlas largas horas de la noche cuento,\n¡Y pienso en ti…",
+      "english": "In my gloomy, frozen imagination\nYour image shines, peaceful and pure,\nLike the ray of light the sun sends\nThrough a shadowed vault\nOnto the broken marble of a tomb.\nSilent, inert, in deep stupor,\nMy heart is seized and carried away,\nAnd there, at its centre, it trembles, dying,\nWhen, amid the empty clamour of the world,\nThe melody of your name is heard.\nWithout struggle, without striving, without lament,\nWithout stirring in blind frenzy,\nWithout uttering a single, faint sound,\nI count the long hours of the night,\nAnd think of you…",
+      "status": "draft"
     },
     "links": [
       {
@@ -3581,7 +3653,7 @@
     "refId": "ML-072",
     "country": "Guyana",
     "continent": "South America",
-    "title": "The Negro Village — passage on husband, wife and love",
+    "title": "The Negro Village",
     "titleEnglish": "The Negro Village — passage on husband, wife and love",
     "creator": "Egbert Martin, pen name Leo (c.1861–1890)",
     "openOriginal": "Yes",
@@ -3598,16 +3670,22 @@
     "description": "Within a wider village portrait, the poet describes a young wife and her affectionate husband, then affirms the intensity of their capacity for love.",
     "provenance": "Lehigh University digital poetry anthology transcribes the 1883 poem. David Dabydeen’s biographical discussion documents Martin’s Georgetown connection and death in 1890.",
     "location": "Stanzas beginning with the youthful wife and continuing into the reflection on love",
-    "translation": "Only the specified passage concerns romantic/marital love; the entire poem is not a love lyric. Its racial and Christian language reflects the nineteenth-century setting.",
+    "translation": "Only the specified passage concerns romantic/marital love; the entire poem is not a love lyric. Its racial and Christian language reflects the nineteenth-century setting. Passage update (29 October 2026): Two consecutive stanzas, 14 lines: the poet answers the claim that Black people cannot feel deep love. Original English; no translation needed. Original English text; not a translation.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1890. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Lehigh University digital poetry anthology transcribes the 1883 poem. David Dabydeen’s biographical discussion documents Martin’s Georgetown connection and death in 1890.",
     "id": "guyana",
+    "contextNote": "Egbert Martin was a Black poet writing in British Guiana less than fifty years after slavery ended there. In “The Negro Village” (1883) he paints village life with affection and answers the racist claim that Black people could not feel deep love; he died in 1890, still in his twenties.",
     "formGroup": "Poem",
     "display": {
-      "title": "The Negro Village — passage on husband, wife and love",
-      "english": "",
+      "title": "The Negro Village",
+      "english": "The Negro Village — passage on husband, wife and love",
       "creator": "Egbert Martin, pen name Leo",
       "language": "English"
+    },
+    "passage": {
+      "original": "And yet there are, who will in strength maintain,\nThe negro heart is foreign to all thought\nWhich breathes of hopeful love, affection’s reign,\nOr nobler passions in the bosom wrought;\nSuch reason in a blind conceit,\nWhere prejudice and false pride meet,\nYea! man is man with all emotions fraught.\nTheir hearts can love with all the lavish strength,\nImpetuous fervour of ungoverned will,\nRunning unbroken to its utmost length:\nPassion’s frenzy, but pure love’s offspring still;\nUnweaned by cold decorum’s laws,\nCleaving persistent to its cause,\nFree and natural as the mountain rill.",
+      "english": "And yet there are, who will in strength maintain,\nThe negro heart is foreign to all thought\nWhich breathes of hopeful love, affection’s reign,\nOr nobler passions in the bosom wrought;\nSuch reason in a blind conceit,\nWhere prejudice and false pride meet,\nYea! man is man with all emotions fraught.\nTheir hearts can love with all the lavish strength,\nImpetuous fervour of ungoverned will,\nRunning unbroken to its utmost length:\nPassion’s frenzy, but pure love’s offspring still;\nUnweaned by cold decorum’s laws,\nCleaving persistent to its cause,\nFree and natural as the mountain rill.",
+      "status": "english-original"
     },
     "links": [
       {
@@ -3653,16 +3731,22 @@
     "description": "Courtship, admiration and continuing love after the beloved leaves for another man.",
     "provenance": "Floréal, 2 June 1923, pp. 341–342; scan-linked Wikisource",
     "location": "Poème en dialecte créole, before TRADUCTION",
-    "translation": "Durand died 1906. Use the Creole original; the accompanying French translation has a separate attribution question. Original includes historical racial language. Later songs and Yellow Bird adaptations are separate. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Durand died 1906. Use the Creole original; the accompanying French translation has a separate attribution question. Original includes historical racial language. Later songs and Yellow Bird adaptations are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening stanza (8 lines) and the first four lines of the last stanza. The 1923 journal transcription is unproofread OCR: three obvious slips are corrected (a full stop after “L’aut’jou” to a comma, “bell”” to “bell’”, and a missing opening « before “Ou trouvé”); the wording is unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1906. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "haiti",
+    "contextNote": "Oswald Durand was the most celebrated Haitian poet of his day, and he wrote Choucoune (1884) in Haitian Creole while in prison; set to music, it became a beloved song and later the English hit “Yellow Bird”. In the poem, Choucoune leaves the narrator for a white foreigner, a story that carried the weight of race and power in a country that had freed itself from French slavery in 1804.",
     "formGroup": "Poem",
     "display": {
       "title": "Choucoune",
       "english": "",
       "creator": "Oswald Durand",
       "language": "Haitian Creole"
+    },
+    "passage": {
+      "original": "Dériè gnou gras touff’ pingouin,\nL’aut’jou, moin contré Choucoune ;\nLi sourit, l’heur’li ouè moin,\nMoin dit : « Ciel ! A là bell’ moune ! »\nLi dit : « Ou trouvé ca cher ! »…\nP’tits zoézeaux ta pé couté nous lan l’air…\nQuand moin songé Ça, moin gangnin la peine,\nCar dimpi jou-là, dé pieds moin lan chaîne !\nCa qui pis trist’lan tout ça,\nCa qui va surprendr’tout moune,\nCé ’pou ouè malgré temps-là,\nMoin aimé toujours Choucoune !",
+      "english": "Behind a thick clump of cactus,\nThe other day, I met Choucoune;\nShe smiled the moment she saw me,\nI said: “Heavens! What a beautiful girl!”\nShe said: “You think so, dear?”…\nLittle birds were listening to us up in the air…\nWhen I think of it, I am full of sorrow,\nFor since that day both my feet are in chains!\nThe saddest thing in all of this,\nThe thing that will surprise everyone,\nIs to see that, in spite of it all,\nI still love Choucoune!",
+      "status": "draft"
     },
     "links": [
       {
@@ -3687,8 +3771,8 @@
     "refId": "ML-074",
     "country": "Holy See",
     "continent": "Europe",
-    "title": "שיר השירים ד:ט–י / Song of Songs 4:9–10",
-    "titleEnglish": "Song of Songs 4:9–10",
+    "title": "שיר השירים ד:ט–יב / Song of Songs 4:9–12",
+    "titleEnglish": "Song of Songs 4:9–12",
     "creator": "Anonymous ancient Hebrew poets",
     "openOriginal": "Yes",
     "referenceType": "Named work",
@@ -3703,17 +3787,23 @@
     "editionDate": "Modern Hebrew transcription; historical consonantal text",
     "description": "The speaker praises the beloved’s glance, embraces and sweetness.",
     "provenance": "Hebrew Wikisource Bible text; Vatican country association is reception in John Paul II’s 30 May 1984 address.",
-    "location": "Chapter 4, verses 9–10",
-    "translation": "Country association is Vatican reception of this passage, not authorship in the Holy See. Translate the ancient Hebrew, excluding modern commentary, vocalisation apparatus and papal-address translations. The page offers a consonantal text option. The selection is the original-language text; an existing English translation is not required.",
+    "location": "Chapter 4, verses 9–12",
+    "translation": "Country association is Vatican reception of this passage, not authorship in the Holy See. Translate the ancient Hebrew, excluding modern commentary, vocalisation apparatus and papal-address translations. The page offers a consonantal text option. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Song of Songs 4:9–12, 11 lines. Consonantal Hebrew (vowel points and cantillation removed, as the spreadsheet asks); where the text has a written/read variant, the written form באחד is kept. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain ancient Hebrew original; modern commentary, editorial apparatus and translations excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "holy-see",
+    "contextNote": "The Song of Songs is a collection of ancient Hebrew love poems, written down more than two thousand years ago and kept as a book of the Bible. Jewish and Christian readers have long read it as an image of the love between God and his people, but it speaks first of all of frank, joyful human love.",
     "formGroup": "Poem",
     "display": {
-      "title": "שיר השירים ד:ט–י / Song of Songs 4:9–10",
-      "english": "Song of Songs 4:9–10",
+      "title": "שיר השירים ד:ט–יב / Song of Songs 4:9–12",
+      "english": "Song of Songs 4:9–12",
       "creator": "Anonymous ancient Hebrew poets",
       "language": "Hebrew"
+    },
+    "passage": {
+      "original": "לבבתני אחתי כלה\nלבבתני באחד מעיניך\nבאחד ענק מצורניך\nמה־יפו דדיך אחתי כלה\nמה־טבו דדיך מיין\nוריח שמניך מכל־בשמים\nנפת תטפנה שפתותיך כלה\nדבש וחלב תחת לשונך\nוריח שלמתיך כריח לבנון\nגן נעול אחתי כלה\nגל נעול מעין חתום",
+      "english": "You have stolen my heart, my sister, my bride;\nYou have stolen my heart with one glance of your eyes,\nWith one bead of your necklace.\nHow beautiful is your love, my sister, my bride!\nHow much better is your love than wine,\nAnd the scent of your perfumes than any spice!\nYour lips drip honey, my bride;\nHoney and milk are under your tongue,\nAnd the scent of your garments is like the scent of Lebanon.\nA locked garden is my sister, my bride,\nA locked spring, a sealed fountain.",
+      "status": "draft"
     },
     "links": [
       {
