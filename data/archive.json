@@ -2989,51 +2989,39 @@
     "refId": "ML-059",
     "country": "Fiji",
     "continent": "Oceania",
-    "title": "Raluve",
-    "titleEnglish": "Raluve (character's name; retained)",
-    "creator": "Basil Thomson (1861–1939)",
-    "openOriginal": "Yes",
-    "referenceType": "Named short story (full text)",
-    "form": "Short story",
+    "title": "Isa Lei",
+    "titleEnglish": "Isa Lei (farewell song)",
+    "creator": "Traditional Fijian song",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1894",
-    "language": "English",
+    "year": "",
+    "language": "Fijian",
     "tradition": "",
     "formDetails": "Short story",
     "genderDetails": "Man author",
-    "originalDate": "Published in South Sea Yarns, Edinburgh and London, 1894",
-    "editionDate": "William Blackwood and Sons, 1894, pp.68–110",
-    "description": "Vere and the Fijian woman Raluve fall in love and meet secretly while confronting colonial racial barriers and family opposition.",
-    "provenance": "Original English story in South Sea Yarns (1894), chapter Raluve. National Library of New Zealand confirms author dates; Royal Anthropological Institute records Fiji residence.",
-    "location": "Raluve, pp.68–110; love and meeting scenes especially pp.89–94",
-    "translation": "British colonial administrator writing fiction set in Fiji, not an indigenous Fijian-authored work. The text contains racial stereotypes and unequal colonial assumptions. Reuse original prose; modern editions and illustrations require separate assessment.",
-    "rights": "Historical original composition; author died 1939, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "Early twentieth century; origins disputed",
+    "editionDate": "",
+    "description": "Fiji’s best-known song, a tender farewell sung to a departing loved one, now sung whenever visitors leave the islands.",
+    "provenance": "Traditional song",
+    "location": "",
+    "translation": "British colonial administrator writing fiction set in Fiji, not an indigenous Fijian-authored work. The text contains racial stereotypes and unequal colonial assumptions. Reuse original prose; modern editions and illustrations require separate assessment. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only.",
+    "rights": "Origins and authorship disputed. Listed with a link.",
+    "source": "Wikipedia: Isa Lei",
     "id": "fiji",
-    "contextNote": "Basil Thomson was a British colonial official in Fiji in the 1880s, who later headed Scotland Yard’s criminal investigation department. His story of a Fijian woman and an Englishman is told from the colonial side and carries the racial assumptions of its time; Fijian love songs of the period, sung in meke and other forms, were rarely written down.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "“Isa Lei” is sung across Fiji as a farewell to loved ones and guests. One account credits a Fijian composer around 1916; another says it began as a Tongan love song sung to court Princess Sālote, which Fijians made their own.",
+    "formGroup": "Song",
     "display": {
-      "title": "Raluve",
+      "title": "Isa Lei",
       "english": "",
-      "creator": "Basil Thomson",
-      "language": "English"
+      "creator": "Traditional Fijian song",
+      "language": "Fijian"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/66195/pg66195-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/cache/epub/66195/pg66195-images.html"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://historywiki.therai.org.uk/index.php?title=Basil_Home_Thomson"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://natlib.govt.nz/records/22367337"
+        "label": "Read about it",
+        "url": "https://en.wikipedia.org/wiki/Isa_Lei"
       }
     ]
   },
@@ -3604,51 +3592,39 @@
     "refId": "ML-071",
     "country": "Guinea-Bissau",
     "continent": "Africa",
-    "title": "Auá: novela negra",
-    "titleEnglish": "Auá: A Black Novel (Auá is a character's name; historical subtitle)",
-    "creator": "Fausto Duarte (1902/1903–1953)",
-    "openOriginal": "Yes",
-    "referenceType": "Named novel (excerpts in scholarly study)",
-    "form": "Novel",
+    "title": "Entre o Ser e o Amar",
+    "titleEnglish": "Between Being and Loving",
+    "creator": "Odete Semedo (born 1959)",
+    "openOriginal": "No",
+    "referenceType": "Named poetry collection",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1934",
-    "language": "Portuguese, with Fula and other local expressions",
+    "year": "1996",
+    "language": "Portuguese and Guinean Kriol",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "First published Lisbon, 1934",
-    "editionDate": "Historical novel; excerpts and analysis in UNILAB study (2018)",
-    "description": "The marriage of Malam and Auá, her attachment to Abdulai, and Malam’s jealousy and longing shape a tragic story set in Guinea-Bissau.",
-    "provenance": "UNILAB, Trindade Gomes Nanque, Auá: a representação da personagem feminina Fula no romance colonial de Fausto Duarte, 2018; original work published 1934. UNL thesis p.61 records author dates and residence in Guinea.",
-    "location": "UNILAB study, discussion and quotations of Malam, Auá and Abdulai",
-    "translation": "Cape Verde-born author lived and worked in Guinea; country association is residence and the novel’s Guinean setting. Colonial stereotypes, sexual violence and revenge require context. Modern scholarship is excluded. Aquilino Ribeiro’s preface and the cover photograph have separate rights and are excluded.",
-    "rights": "Historical original composition; author died 1953, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "1996",
+    "editionDate": "",
+    "description": "Odete Semedo’s first collection of poems, written in both Portuguese and Guinean Kriol, a choice she calls “double belonging”.",
+    "provenance": "Entre o Ser e o Amar (1996)",
+    "location": "",
+    "translation": "Cape Verde-born author lived and worked in Guinea; country association is residence and the novel’s Guinean setting. Colonial stereotypes, sexual violence and revenge require context. Modern scholarship is excluded. Aquilino Ribeiro’s preface and the cover photograph have separate rights and are excluded. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only.",
+    "rights": "In copyright (living author). Not reproduced; listed with a link.",
+    "source": "Wikipedia: Odete Semedo",
     "id": "guinea-bissau",
-    "contextNote": "Fausto Duarte, born in Cabo Verde, was a colonial official in Portuguese Guinea and wrote Auá within the “colonial literature” that Portugal’s government encouraged. Its portrait of the Fula heroine relies on stereotypes, and scholars read it as part of the colonial project. Guinea-Bissau’s own love songs live in the mandjuandadi, songs in Kriol sung by women’s associations.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Odete Semedo is a leading Guinean poet and scholar, born in Bissau in 1959, after Guinea-Bissau’s long war of independence from Portugal. She has also studied and transcribed the mandjuandadi, the Kriol songs of Guinean women’s associations, many of them songs of love.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Auá: novela negra",
-      "english": "Auá: A Black Novel",
-      "creator": "Fausto Duarte",
-      "language": "Portuguese, with Fula and other local expressions"
+      "title": "Entre o Ser e o Amar",
+      "english": "Between Being and Loving",
+      "creator": "Odete Semedo",
+      "language": "Portuguese and Guinean Kriol"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://repositorio.unilab.edu.br/jspui/bitstream/123456789/2248/1/TRINDADE GOMES NANQUE TCC Artigo.pdf"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://repositorio.unilab.edu.br/jspui/bitstream/123456789/2248/1/TRINDADE GOMES NANQUE TCC Artigo.pdf"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://lirecapvert.org/fausto-duarte190203-1953.html"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://run.unl.pt/bitstream/10362/20456/1/Tese_Final.pdf"
+        "label": "Read about it",
+        "url": "https://en.wikipedia.org/wiki/Odete_Semedo"
       }
     ]
   },
@@ -7615,55 +7591,39 @@
     "refId": "ML-146",
     "country": "Saint Kitts and Nevis",
     "continent": "North America",
-    "title": "Bryan and Pereene. A West Indian Ballad",
-    "titleEnglish": "Bryan and Pereene. A West Indian Ballad",
-    "creator": "James Grainger (c.1721–1766)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Poetry",
+    "title": "Love St Kitts",
+    "titleEnglish": "Love St Kitts",
+    "creator": "Infamus",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1765",
+    "year": "",
     "language": "English",
     "tradition": "",
     "formDetails": "Lyric poem",
     "genderDetails": "Man author",
-    "originalDate": "Published in Percy’s Reliques, 1765; linked source edition 1767",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Separated lovers eagerly anticipate reunion, but Bryan is killed by a shark as he swims to shore and Pereene dies of grief.",
-    "provenance": "Eighteenth-Century Poetry Archive supplies text and Bodleian facsimile. Percy’s historical note places the anecdote on St Christopher; Grainger lived and died on St Kitts.",
-    "location": "Complete 56-line ballad; lines 5–40 concern fidelity and anticipated reunion",
-    "translation": "Scottish-born colonial resident author, not an Indigenous island voice. Graphic tragic ending and colonial racial representation. First-publication date should not be confused with the linked 1767 anthology.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1766. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Eighteenth-Century Poetry Archive supplies text and Bodleian facsimile. Percy’s historical note places the anecdote on St Christopher; Grainger lived and died on St Kitts.",
+    "originalDate": "Twenty-first century",
+    "editionDate": "",
+    "description": "A song of love for St Kitts by the Kittitian artist Infamus.",
+    "provenance": "Official music video (TRUCAPO channel, YouTube)",
+    "location": "",
+    "translation": "Scottish-born colonial resident author, not an Indigenous island voice. Graphic tragic ending and colonial racial representation. First-publication date should not be confused with the linked 1767 anthology. Work changed (29 October 2026): James Grainger’s ballad, by a Scottish plantation doctor, is replaced by a song by a Kittitian artist, chosen by the project. Listed with a description and link only.",
+    "rights": "In copyright. Not reproduced; listed with a link.",
+    "source": "YouTube: Infamus – Love St Kitts (official music video)",
     "id": "saint-kitts-and-nevis",
-    "contextNote": "James Grainger was a Scottish doctor who settled on St Kitts, married into a planter family and lived within the plantation economy. His best-known poem, The Sugar-Cane, includes advice on buying and managing enslaved people. This ballad of two lovers comes from that world, and its tenderness sits uneasily beside the cruelty that sustained it.",
-    "formGroup": "Poem",
+    "contextNote": "For two centuries St Kitts was a sugar colony worked by enslaved Africans, until emancipation in 1834; the islands became independent from Britain in 1983. This song by a Kittitian artist is a modern declaration of love for the island, in the voice of its own people.",
+    "formGroup": "Song",
     "display": {
-      "title": "Bryan and Pereene. A West Indian Ballad",
+      "title": "Love St Kitts",
       "english": "",
-      "creator": "James Grainger",
+      "creator": "Infamus",
       "language": "English"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://www.eighteenthcenturypoetry.org/works/o5089-w0310.shtml"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://electricscotland.com/poetry/gleaningsofscarc00buch.pdf"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://electricscotland.com/poetry/gleaningsofscarc00buch.pdf"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://digital-grainger.github.io/grainger/poetry-and-slavery.html"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=gt1dWdIy9SY"
       }
     ]
   },
@@ -7749,56 +7709,39 @@
     "refId": "ML-149",
     "country": "Samoa",
     "continent": "Oceania",
-    "title": "My Wife (Songs of Travel, XXVI)",
-    "titleEnglish": "My Wife (Songs of Travel, XXVI)",
-    "creator": "Robert Louis Stevenson (1850–1894)",
-    "openOriginal": "Yes",
-    "referenceType": "Named poem (full text)",
-    "form": "Poetry",
+    "title": "Le Teine Ea",
+    "titleEnglish": "Dream Girl",
+    "creator": "Traditional Samoan song",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1896",
-    "language": "English",
+    "year": "",
+    "language": "Samoan",
     "tradition": "",
     "formDetails": "Poetry",
     "genderDetails": "Man author",
-    "originalDate": "Written before December 1894; collected posthumously in Songs of Travel, 1896",
-    "editionDate": "Songs of Travel and Other Verses, London: Chatto & Windus, 1896, p.39",
-    "description": "An affirmative poem praising his wife Fanny as a lifelong companion whose love survives adversity and death.",
-    "provenance": "Full English poem in Project Gutenberg, Songs of Travel, XXVI. The 1896 edition’s contents identify p.39. National Library of New Zealand documents Stevenson’s residence at Vailima, Samoa, from 1889 to 1894.",
-    "location": "XXVI — My Wife, beginning Trusty, dusky, vivid, true",
-    "translation": "Country link is the Scottish author’s established residence in Samoa, not Samoan origin or language. Exact place and date of composition are not established. This is an original English poem, not a translation of Samoan oral tradition. English passage: Original English text; not a translation. Complete poem, 15 lines; Scottish author resident in Samoa, as qualified in country notes. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Historical original composition; author died 1894, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "Twentieth century",
+    "editionDate": "",
+    "description": "A popular Samoan song whose title means “Dream Girl”.",
+    "provenance": "Huapala song archive",
+    "location": "",
+    "translation": "Country link is the Scottish author’s established residence in Samoa, not Samoan origin or language. Exact place and date of composition are not established. This is an original English poem, not a translation of Samoan oral tradition. English passage: Original English text; not a translation. Complete poem, 15 lines; Scottish author resident in Samoa, as qualified in country notes. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only.",
+    "rights": "Not reproduced; listed with a link.",
+    "source": "Huapala: Le Teine Ea",
     "id": "samoa",
-    "contextNote": "Robert Louis Stevenson settled in Samoa in 1890 and spent his last years there with his wife, Fanny. He sided with Samoans in their disputes with the colonial powers, Germany, Britain and the United States, and Samoans called him Tusitala, 'teller of tales'.",
-    "formGroup": "Poem",
+    "contextNote": "Samoan song is a living tradition sung at gatherings, church and celebrations at home and across the Samoan communities of New Zealand, Hawaiʻi and the United States. “Le Teine Ea” is one of the best-known popular Samoan songs.",
+    "formGroup": "Song",
     "display": {
-      "title": "My Wife",
-      "english": "",
-      "creator": "Robert Louis Stevenson",
-      "language": "English"
-    },
-    "passage": {
-      "original": "Trusty, dusky, vivid, true,\nWith eyes of gold and bramble-dew,\nSteel-true and blade-straight,\nThe great artificer\nMade my mate.\nHonour, anger, valour, fire;\nA love that life could never tire,\nDeath quench or evil stir,\nThe mighty master\nGave to her.\nTeacher, tender, comrade, wife,\nA fellow-farer true through life,\nHeart-whole and soul-free\nThe august father\nGave to me.",
-      "english": "Trusty, dusky, vivid, true,\nWith eyes of gold and bramble-dew,\nSteel-true and blade-straight,\nThe great artificer\nMade my mate.\nHonour, anger, valour, fire;\nA love that life could never tire,\nDeath quench or evil stir,\nThe mighty master\nGave to her.\nTeacher, tender, comrade, wife,\nA fellow-farer true through life,\nHeart-whole and soul-free\nThe august father\nGave to me.",
-      "status": "english-original"
+      "title": "Le Teine Ea",
+      "english": "Dream Girl",
+      "creator": "Traditional Samoan song",
+      "language": "Samoan"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/487/pg487-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/cache/epub/487/pg487-images.html"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://en.wikisource.org/wiki/Index:Stevenson_-_Songs_of_Travel_(1896).djvu"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://natlib.govt.nz/records/22351631"
+        "label": "Read about it",
+        "url": "https://www.huapala.org/Samoa/Le_Teine_Ea.html"
       }
     ]
   },
@@ -7957,51 +7900,39 @@
     "refId": "ML-153",
     "country": "Senegal",
     "continent": "Africa",
-    "title": "Le Roman d’un spahi",
-    "titleEnglish": "The Story of a Spahi (a colonial cavalry soldier)",
-    "creator": "Pierre Loti (1850–1923)",
-    "openOriginal": "Yes",
-    "referenceType": "Named literary work (full original-language text; setting association)",
-    "form": "Novel",
+    "title": "Femme noire",
+    "titleEnglish": "Black Woman",
+    "creator": "Léopold Sédar Senghor (1906–2001)",
+    "openOriginal": "No",
+    "referenceType": "Named poem",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1881",
+    "year": "1945",
     "language": "French",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "First published 1881; linked historical edition 1910",
-    "editionDate": "Calmann-Lévy 1910, original French text",
-    "description": "A French soldier, Jean Peyral, and a Senegalese woman, Fatou-Gaye, fall in love; their story ends in tragedy.",
-    "provenance": "An original French novel by a visiting French naval officer, associated with Senegal through its setting and Senegalese heroine. It is not an indigenous Senegalese voice. Institut Français catalogue confirms the love plot and Senegal setting; Wikisource supplies a historical French edition and 1881 facsimile.",
-    "location": "Full novel; use historical French text, not a later adaptation",
-    "translation": "Country association is setting and author’s experience there, rather than nationality. Colonial racial stereotypes and unequal power shape the romance. The plot includes suicide and infanticide. Select critically; illustrations and later editions require separate assessment.",
-    "rights": "Original French prose published 1881; Loti died 1923, beyond standard life-plus-70 and US publication terms. Reuse the historical text only; modern translations, editorial matter, cover art and adaptations are separate.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "1945 (Chants d’ombre)",
+    "editionDate": "",
+    "description": "A praise poem to a Black woman, celebrating her beauty as the beauty of Africa itself; Senghor’s best-known poem.",
+    "provenance": "Chants d’ombre (1945)",
+    "location": "",
+    "translation": "Country association is setting and author’s experience there, rather than nationality. Colonial racial stereotypes and unequal power shape the romance. The plot includes suicide and infanticide. Select critically; illustrations and later editions require separate assessment. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only.",
+    "rights": "In copyright (author died 2001). Not reproduced; listed with a link.",
+    "source": "La langue française: commentary on “Femme noire”",
     "id": "senegal",
-    "contextNote": "Pierre Loti was a French naval officer who served in Senegal in the 1870s, as France was extending its colonial rule there. His novel shaped how Europeans imagined Africa for decades, and its portrait of Fatou-Gaye is full of the racial stereotypes of its time. It is a love story told entirely from the coloniser’s side; Senegal’s own love poetry of the period lived in Wolof and Serer song, which was rarely written down.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Léopold Sédar Senghor was a poet of Négritude, the movement that affirmed Black culture against French colonial rule, and became Senegal’s first president at independence in 1960. “Femme noire” answers centuries of colonial images of African women with a hymn of praise in an African voice.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Le Roman d’un spahi",
-      "english": "The Story of a Spahi",
-      "creator": "Pierre Loti",
+      "title": "Femme noire",
+      "english": "Black Woman",
+      "creator": "Léopold Sédar Senghor",
       "language": "French"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://fr.wikisource.org/wiki/Le_Roman_d’un_spahi"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://fr.wikisource.org/wiki/Le_Roman_d’un_spahi"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://fr.wikisource.org/wiki/Fichier%3ALoti_-_Le_Roman_d’un_spahi%2C_1881.djvu"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.culturetheque.com/fr/le-roman-dun-spahi"
+        "label": "Read about it",
+        "url": "https://www.lalanguefrancaise.com/litterature/femme-noire-senghor-commentaire"
       }
     ]
   },
@@ -10139,55 +10070,39 @@
     "refId": "ML-195",
     "country": "Zimbabwe",
     "continent": "Africa",
-    "title": "Benita: An African Romance",
-    "titleEnglish": "Benita: An African Romance",
-    "creator": "H. Rider Haggard (1856–1925)",
-    "openOriginal": "Yes",
-    "referenceType": "Named literary work (full original-language text; setting association)",
-    "form": "Novel",
+    "title": "Svovi Yangu",
+    "titleEnglish": "My Svovi (My Darling)",
+    "creator": "Oliver Mtukudzi (1952–2019)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1906",
-    "language": "English",
+    "year": "",
+    "language": "Shona",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "Book edition 1906; earlier serialization 1903–1904",
-    "editionDate": "Historical English novel; Project Gutenberg 2761",
-    "description": "Benita Clifford and Robert Seymour are reunited after shipwreck and danger. The closing chapters contrast their love with the treasure hunt and Jacob Meyer’s possessive obsession.",
-    "provenance": "British colonial adventure fiction associated with Zimbabwe through the fictional Bambatse ruins and Khumalo/Matabele kingdom setting. The scholarly chapter Great Zimbabwe in Rhodesian Fiction discusses its Zimbabwe landscape; Cambridge includes it in central-African literary history. It is not Zimbabwean indigenous authorship.",
-    "location": "XXIII, Benita Gives Her Answer; XXIV, The True Gold",
-    "translation": "Foreign British author; country association is the imagined Zimbabwe setting. Colonial stereotypes, antisemitism and coercive obsession occur in the novel. The mutual love of Benita and Robert is distinct from Meyer’s pursuit. Use original text critically.",
-    "rights": "Original English text published 1906 and public domain in the USA; author died 1925, beyond standard life-plus-70. New editorial work, translations, art and adaptations are excluded.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "Twentieth century",
+    "editionDate": "",
+    "description": "Mtukudzi’s love song for his wife, Daisy: his devotion to her and his sorrow at being far from the love of his life.",
+    "provenance": "Recording by Oliver Mtukudzi",
+    "location": "",
+    "translation": "Foreign British author; country association is the imagined Zimbabwe setting. Colonial stereotypes, antisemitism and coercive obsession occur in the novel. The mutual love of Benita and Robert is distinct from Meyer’s pursuit. Use original text critically. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only.",
+    "rights": "In copyright. Not reproduced; listed with a link.",
+    "source": "African Arguments: tribute to Oliver Mtukudzi",
     "id": "zimbabwe",
-    "contextNote": "H. Rider Haggard was a British novelist who had worked in the colonial administration in southern Africa, and his adventure romances helped shape imperial ideas about the continent, including the myth that Great Zimbabwe was built by outsiders rather than by the ancestors of the Shona. Benita is a love story about white settlers; Zimbabwe’s own love poetry lived in Shona and Ndebele song and praise poetry.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Oliver “Tuku” Mtukudzi was Zimbabwe’s best-loved musician, whose songs in Shona spoke of love, family and justice through the years of white-minority rule, the liberation war and independence. He died in 2019, and was buried as a national hero.",
+    "formGroup": "Song",
     "display": {
-      "title": "Benita: An African Romance",
-      "english": "",
-      "creator": "H. Rider Haggard",
-      "language": "English"
+      "title": "Svovi Yangu",
+      "english": "My Svovi",
+      "creator": "Oliver Mtukudzi",
+      "language": "Shona"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/2761/pg2761-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/ebooks/2761"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://sahistory.org.za/sites/default/files/archive-files/mbongen_z._malaba_geoffrey_v._davis_zimbabwean_book4you.org_.pdf"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-african-and-caribbean-literature/anglophone-literature-of-central-africa/DD3D075F3FCC174E3B0EB0E7BD211B68"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://sf-encyclopedia.com/entry/haggard_h_rider"
+        "label": "Read about it",
+        "url": "https://africanarguments.org/2019/01/rest-in-power-oliver-mtukudzi-tuku-music-legend-pan-african-trailblazer/"
       }
     ]
   }
