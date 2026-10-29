@@ -1,0 +1,203 @@
+/* Love Manifesto: shared styles */
+
+:root {
+  --paper: #faf6f1;
+  --card: #fffdfa;
+  --ink: #2e2622;
+  --muted: #74675f;
+  --line: #e8dfd5;
+  --accent: #a34a4a;
+  --accent-soft: #f3e3df;
+  --serif: "Cormorant Garamond", Georgia, serif;
+  --sans: "Source Sans 3", system-ui, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1c1816;
+    --card: #24201d;
+    --ink: #efe7df;
+    --muted: #b0a399;
+    --line: #3a332e;
+    --accent: #e08e85;
+    --accent-soft: #3b2724;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+a { color: var(--accent); }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Archive */
+
+.archive-header,
+.archive,
+.archive-footer {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.archive-header { padding-top: 4rem; padding-bottom: 2rem; text-align: center; }
+
+.eyebrow {
+  margin: 0;
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.archive-header h1 {
+  margin: 0.5rem 0 1rem;
+  font-family: var(--serif);
+  font-size: clamp(2.4rem, 7vw, 3.6rem);
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.lede { max-width: 34rem; margin: 0 auto; color: var(--muted); }
+
+.filters {
+  padding: 1rem 0 0.75rem;
+  background: var(--paper);
+}
+
+/* Keep search in reach while scrolling, where there is room for it */
+@media (min-width: 40rem) {
+  .filters { position: sticky; top: 0; z-index: 1; }
+}
+
+.search input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink);
+  font: inherit;
+}
+
+.search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.form-groups { margin: 0.75rem 0 0; padding: 0; border: 0; }
+.form-groups > div { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
+.chip {
+  padding: 0.3rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+.alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.6rem;
+  margin: 0.5rem 0 0;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+}
+
+.alphabet a { text-decoration: none; }
+.alphabet a.disabled { color: var(--line); pointer-events: none; }
+
+.result-count { color: var(--muted); font-size: 0.9rem; }
+
+.entries { margin: 0; padding: 0; list-style: none; }
+
+.entry {
+  margin-bottom: 1.25rem;
+  padding: 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--card);
+  scroll-margin-top: 11rem;
+}
+
+.entry-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: baseline;
+}
+
+.entry-country {
+  margin: 0;
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.entry-form { color: var(--muted); font-size: 0.85rem; text-align: right; }
+
+.entry-title {
+  margin: 0.35rem 0 0.25rem;
+  font-family: var(--serif);
+  font-size: 1.75rem;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.entry-creator { margin: 0; font-weight: 600; }
+.entry-language { margin: 0; color: var(--muted); font-size: 0.95rem; }
+.entry-description { margin: 0.9rem 0 0; }
+
+.entry-more { margin-top: 0.9rem; }
+.entry-more summary { color: var(--muted); font-size: 0.9rem; cursor: pointer; }
+
+.details { margin: 0.75rem 0 0; font-size: 0.95rem; }
+.detail + .detail { margin-top: 0.6rem; }
+.details dt { font-weight: 600; }
+.details dd { margin: 0; color: var(--muted); }
+
+.entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  margin: 1rem 0 0;
+  font-size: 0.95rem;
+  overflow-wrap: anywhere;
+}
+
+.empty { color: var(--muted); text-align: center; }
+
+.archive-footer {
+  margin-top: 3rem;
+  padding-bottom: 4rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}

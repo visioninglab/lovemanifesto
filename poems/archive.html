@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Love Poetry Archive · Love Manifesto</title>
+  <meta name="description" content="Love poems, songs and oral traditions from 195 countries.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header class="archive-header">
+    <p class="eyebrow">Love Manifesto</p>
+    <h1>The Love Poetry Archive</h1>
+    <p class="lede">Poems, songs and oral traditions of love from 195 countries. Each entry describes the work and where it comes from, with a link to its source.</p>
+  </header>
+
+  <main class="archive">
+    <form class="filters" role="search" onsubmit="return false">
+      <label class="search">
+        <span class="visually-hidden">Search the archive</span>
+        <input id="search" type="search" placeholder="Search by country, title, creator or language" autocomplete="off">
+      </label>
+      <fieldset class="form-groups">
+        <legend class="visually-hidden">Filter by form</legend>
+        <div id="form-filters"></div>
+      </fieldset>
+    </form>
+
+    <nav class="alphabet" id="alphabet" aria-label="Jump to countries by letter"></nav>
+
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+
+    <ol class="entries" id="entries"></ol>
+
+    <p class="empty" id="empty" hidden>No entries match that search.</p>
+  </main>
+
+  <footer class="archive-footer">
+    <p><strong>A note on rights.</strong> This archive is a reference catalogue. It does not reproduce the poems or recordings. Rights in the texts, translations, musical settings and recordings have not been cleared, so please follow the source links to read or listen to each work where it is published.</p>
+  </footer>
+
+  <script src="../data/archive.js"></script>
+  <script src="archive.js"></script>
+</body>
+</html>
