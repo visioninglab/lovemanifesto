@@ -3854,16 +3854,22 @@ window.ARCHIVE = [
     "description": "A sonnet promising that the lovers will remain together beyond death, their souls ascending united through the stars. A sustained affirmation of enduring romantic union.",
     "provenance": "Biblioteca Virtual Miguel de Cervantes, Sonetos del siglo XIX; UNAM biography confirms Honduran author 1875–1908.",
     "location": "Juan Ramón Molina section, sonnet headed Sursum",
-    "translation": "Use the original sonnet, not the modern anthology’s selection, introduction or commentary. Spiritual imagery serves the lovers’ union rather than a standalone devotional hymn.",
+    "translation": "Use the original sonnet, not the modern anthology’s selection, introduction or commentary. Spiritual imagery serves the lovers’ union rather than a standalone devotional hymn. Passage update (29 October 2026): Complete sonnet, 14 lines (Spanish Wikisource text, titled “Súrsum”). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1908. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "honduras",
+    "contextNote": "Juan Ramón Molina was Honduras’s great modernist poet and a restless traveller across Central America, who knew Rubén Darío. He died in 1908, aged 33, and his poems were gathered after his death in Tierras, mares y cielos (1911).",
     "formGroup": "Poem",
     "display": {
       "title": "Sursum",
       "english": "Upwards",
       "creator": "Juan Ramón Molina",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Ya no nos separemos ni un momento,\nporque –cuando se extingan nuestras vidas–\nnuestras dos almas cruzarán unidas\nel éter, en continuo ascendimiento.\nAjenas al humano sufrimiento,\nde las innobles carnes desprendidas,\nserán en una llama confundidas\nen la región azúl del firmamento.\nSin dejar huellas ni visibles rastros,\nmás allá de la gloria de los astros,\nentre auroras de eternos arreboles,\na obedecer iremos la divina\nley, fatal y suprema que domina\nlos espacios, las almas y los soles.",
+      "english": "Let us not be parted even for a moment,\nFor, when our lives are extinguished,\nOur two souls will cross together\nThrough the ether, rising for ever.\nStrangers to human suffering,\nSet free from ignoble flesh,\nThey will be merged into one flame\nIn the blue region of the firmament.\nLeaving no traces or visible tracks,\nBeyond the glory of the stars,\nAmong dawns of everlasting crimson clouds,\nWe will go to obey the divine\nLaw, fatal and supreme, that rules\nThe spaces, the souls and the suns.",
+      "status": "draft"
     },
     "links": [
       {
@@ -3962,16 +3968,22 @@ window.ARCHIVE = [
     "description": "Recalls intimate companionship and asserts that eternity cannot divide souls that love one another.",
     "provenance": "Rit eftir Jónas Hallgrímsson, vol. I; National and University Library scan adapted by Project Runeberg in 2014",
     "location": "Printed pp. 23–25; especially closing stanza on p. 25",
-    "translation": "Author died 1845. Translate from the scan: the site labels its OCR unproofread. Print-edition date not established here; digital date is not the original work date. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Author died 1845. Translate from the scan: the site labels its OCR unproofread. Print-edition date not established here; digital date is not the original work date. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Final three stanzas, 18 lines, including the closing stanza. Runeberg’s OCR is unproofread; these lines read cleanly and are copied as printed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1845. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "iceland",
+    "contextNote": "Jónas Hallgrímsson was a poet and naturalist who helped renew Icelandic as a literary language while Iceland was ruled by Denmark. Ferðalok remembers a youthful journey with a girl he loved; it was published in 1845, the year he died in Copenhagen, aged 37.",
     "formGroup": "Poem",
     "display": {
       "title": "Ferðalok",
       "english": "Journey's End",
       "creator": "Jónas Hallgrímsson",
       "language": "Icelandic"
+    },
+    "passage": {
+      "original": "Greiddi eg þér lokka\nvið Galtará\nvel og vandlega;\nbrosa blómvarir,\nblika sjónstjörnur,\nroðnar heitur hlýr.\nFjær er nú fagurri\nfylgd þinni\nsveinn í djúpum dali;\nástarstjarna\nyfir Hraundranga\nskín á bak við ský.\nHáa skilur hnetti\nhimingeimur,\nblað skilur bakka og egg;\nen anda, sem unnast,\nfær aldregi\neilífð að skilið.",
+      "english": "I combed your locks\nBy the river Galtará,\nWell and with care;\nYour flower-lips smile,\nYour eye-stars shine,\nYour warm cheek blushes.\nFar now from your fair\nCompany\nIs a young man in a deep valley;\nThe star of love\nAbove Hraundrangi\nShines behind the clouds.\nHeaven’s vast space\nDivides the high spheres,\nA blade divides back and edge;\nBut spirits that love each other\nCan never\nBe parted by eternity.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4074,16 +4086,22 @@ window.ARCHIVE = [
     "description": "The fragrance of flowers recalls the beloved’s hair and their past intimacy, prompting tenderness, longing and memory.",
     "provenance": "Buah Rindu facsimile at Indonesian Wikisource; Indonesian education ministry monograph T. Amir Hamzah (2005) identifies this among poems to his human beloved Sendari.",
     "location": "Buah Rindu, poem headed Harum Rambutmu, printed p.44 onwards in linked scan",
-    "translation": "Use Hamzah’s original words. Different editions modernise spelling and pagination; modern criticism, typesetting and translations separate. Date of first magazine appearance is distinguished from 1941 collection date.",
+    "translation": "Use Hamzah’s original words. Different editions modernise spelling and pagination; modern criticism, typesetting and translations separate. Date of first magazine appearance is distinguished from 1941 collection date. Passage update (29 October 2026): Complete poem, 24 lines, from the validated Indonesian Wikisource transcription of Buah Rindu, printed pp. 44–45. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1946. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "indonesia",
+    "contextNote": "Amir Hamzah, from the royal family of Langkat in Sumatra, was the leading poet of the Pujangga Baru movement that shaped modern Indonesian literature. He wrote the poems of Buah Rindu (Fruits of Longing) as a young man in Java; he was killed in 1946, in the violent upheaval that followed independence.",
     "formGroup": "Poem",
     "display": {
       "title": "Harum Rambutmu",
       "english": "The Fragrance of Your Hair",
       "creator": "Amir Hamzah",
       "language": "Indonesian / literary Malay"
+    },
+    "passage": {
+      "original": "Kupatah tangkai kusuma kukucup\nKendati mencari wangi asli\nCempaka tinggal tergulai lampai\nSayang tanganku hendak mencapai.\nTeja! hanya cempaka ditayang daun\nAneka bunga menutup bumi\nImpian lama datang mengalun\nKerana kusuma kenangan diri.\nHarum rambutmu terasa ada\nDalam bunga duduk tersembunyi\nSuma mana ratna mulia\nKanda sibuk tengah mencari\nPohon rendah dinaungi kemuning\nPuteri dilindungi payung kembang\nBunga adinda kencana ramping\nIrama kusuma abang seorang.\nWangi tertebar membawaku ragu\nMengambang abang ke hari lampau\nHarum sepadan wangi rambutmu\nKalau terurai kita bergurau.\nMelur! Duta rindu di purnama-raya\nKawan sendu di sunyi malam\nRatna rupa di hulu kemala\nPenambah manis jiwa pendiam.",
+      "english": "I break off a flower’s stem and kiss it,\nThough it is the true fragrance I am seeking;\nThe champak hangs, drooping and slender,\nAlas, my hand longs to reach it.\nEvening glow! only the champak is cradled by leaves,\nFlowers of every kind cover the earth;\nAn old dream comes drifting back\nBecause of the flower of my own memory.\nThe fragrance of your hair I can sense\nSitting hidden within the flowers;\nWhich flower is the noble jewel\nThat I, your lover, am busy searching for?\nA low tree shaded by kemuning,\nA princess sheltered by a parasol of blossom;\nMy darling’s flower, slender and golden,\nThe flower song of your lover alone.\nThe scattered scent fills me with doubt,\nYour lover drifts back to days gone by;\nA fragrance equal to the scent of your hair\nWhen it was loosened and we laughed and teased.\nJasmine! Envoy of longing under the full moon,\nCompanion in sorrow in the silent night,\nJewel in form at the crown of gems,\nSweetening a quiet soul.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4108,15 +4126,15 @@ window.ARCHIVE = [
     "refId": "ML-215",
     "country": "Iran",
     "continent": "Asia",
-    "title": "Oh Turkish maid of Shiraz!",
-    "titleEnglish": "Oh Turkish maid of Shiraz!",
+    "title": "اگر آن ترک شیرازی / Agar an Turk-e Shirazi",
+    "titleEnglish": "If That Turk of Shiraz",
     "creator": "Hafez",
     "openOriginal": "Yes",
     "referenceType": "Named work",
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "",
-    "language": "English from Persian",
+    "language": "Persian",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -4124,22 +4142,28 @@ window.ARCHIVE = [
     "editionDate": "1897 (Bell translation)",
     "description": "Praise of the beloved in a ghazal.",
     "provenance": "Poems from the Divan of Hafiz; Gertrude Lowthian Bell, Heinemann, 1897",
-    "location": "Poem V, pp. 71-72",
-    "translation": "Specifically Bell 1897, including her gender choices. Modern translations are separate. Mystical readings are possible.",
+    "location": "Complete ghazal (Divan, ghazal 3), 9 couplets",
+    "translation": "Specifically Bell 1897, including her gender choices. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "iran",
+    "contextNote": "Hafez lived in Shiraz in the fourteenth century and is the best-loved poet in Persian; families across Iran still keep his Divan at home and open it at random for guidance. Legend says Timur, conqueror of Samarkand and Bukhara, summoned Hafez to ask how he dared give those cities away for a mole.",
     "formGroup": "Poem",
     "display": {
-      "title": "Oh Turkish maid of Shiraz!",
-      "english": "",
+      "title": "اگر آن ترک شیرازی / Agar an Turk-e Shirazi",
+      "english": "If That Turk of Shiraz",
       "creator": "Hafez",
-      "language": "English from Persian"
+      "language": "Persian"
+    },
+    "passage": {
+      "original": "اگر آن ترک شیرازی به‌ دست‌ آرد دل ما را\nبه خال هندویش بخشم سمرقند و بخارا را\nبده ساقی می باقی که در جنت نخواهی یافت\nکنار آب رکناباد و گل‌گشت مصلا را\nفغان! کاین لولیان شوخ شیرین‌کار شهرآشوب\nچنان بردند صبر از دل که ترکان خوان یغما را\nز عشق ناتمام ما جمال یار مستغنی‌ است\nبه آب و رنگ و خال و خط چه حاجت روی زیبا را؟\nمن از آن حسن روزافزون که یوسف داشت دانستم\nکه عشق از پردهٔ عصمت برون آرد زلیخا را\nاگر دشنام فرمایی و گر نفرین دعا گویم\nجواب تلخ می‌زیبد لب لعل شکرخا را\nنصیحت گوش کن جانا که از جان دوست‌تر دارند\nجوانان سعادتمند پند پیر دانا را\nحدیث از مطرب و می گو و راز دهر کمتر جو\nکه کس نگشود و نگشاید به حکمت این معما را\nغزل گفتی و در سفتی بیا و خوش بخوان حافظ\nکه بر نظم تو افشاند فلک عقد ثریا را",
+      "english": "If that Turk of Shiraz would take my heart in hand,\nFor that dark mole I would give away Samarkand and Bukhara.\nPour, cupbearer, the wine that remains, for in paradise you will not find\nThe banks of the Ruknabad stream or the rose walks of Musalla.\nAlas! these saucy, sweet-working, city-unsettling beauties\nHave carried off patience from my heart as Turks carry off a plundered feast.\nMy beloved’s beauty has no need of our imperfect love:\nWhat need has a lovely face of paint and colour, mole and line?\nFrom that ever-growing beauty that Joseph had, I came to know\nThat love brings Zuleikha out from behind the veil of chastity.\nWhether you curse me or revile me, I will bless you:\nA bitter answer suits a ruby lip that sheds sugar.\nListen to advice, my soul, for fortunate young people\nHold the counsel of a wise old man dearer than their lives.\nSpeak of the minstrel and wine, and seek the world’s secret less,\nFor no one has solved, nor by wisdom will solve, this riddle.\nYou have made a ghazal and strung pearls; come, sing it sweetly, Hafez,\nFor over your verse the heavens scatter the necklace of the Pleiades.",
+      "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://www.gutenberg.org/cache/epub/74883/pg74883-images.html"
+        "label": "Read original",
+        "url": "https://ganjoor.net/hafez/ghazal/sh3"
       },
       {
         "label": "Rights / catalogue",
@@ -4520,16 +4544,22 @@ window.ARCHIVE = [
     "description": "The speaker discovers that advancing age has not extinguished his passion and defends romantic love against the charge that it is shameful.",
     "provenance": "Abu Dhabi Department of Culture and Tourism, poem 66871, eight bayts. Shoman Foundation’s scholarly volume corroborates 1899–1949; Birzeit holds the historical 1954 collection Ashiyyat Wadi al-Yabis.",
     "location": "Eight-bayt poem; seventh bayt defends chaste romantic passion",
-    "translation": "Identifier is the original incipit. Year 1949 is an upper bound. Birth-year disagreement is explicit. Reuse the author’s historical Arabic verses, excluding later commentary and translations; first-publication particulars for this individual poem have not been established.",
+    "translation": "Identifier is the original incipit. Year 1949 is an upper bound. Birth-year disagreement is explicit. Reuse the author’s historical Arabic verses, excluding later commentary and translations; first-publication particulars for this individual poem have not been established. Passage update (29 October 2026): Complete poem, 8 couplets (16 half-lines), as printed in the Abu Dhabi Poetry Encyclopedia; the site’s decorative letter-stretching (tatweel) is removed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original composition; author died 1949, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "jordan",
+    "contextNote": "Mustafa Wahbi al-Tall, known as Arar, is Jordan’s national poet, writing when Transjordan was an emirate under British mandate. Witty and rebellious, he often took the side of the poor and the outcast against the powerful, and his poems mix love, politics and wine.",
     "formGroup": "Poem",
     "display": {
       "title": "ظننتني جزت عن طرد الهوى فإذا",
       "english": "I thought I had passed beyond pursuing passion, but then…",
       "creator": "Mustafa Wahbi al-Tall, 1899–1949",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "ظننتني جزت عن طرد الهوى فإذا\nحسابه لم يزل في دفتري جاري\nوزند وجدي بربات الحجال على\nعهدي به كعشيات الصبا واري\nوالأربعون التي لاحت طلائعها\nفي لمتي ريحها استخذى لأعصاري\nظننتني جزت عن طرد الهوى فإذا\nموضوعه لم يزل موضوع أسماري\nوما توهمته زهداً ورحت به\nأعلل النفس غير الواقع الجاري\nشتان بين شعوري في حقيقته\nوبين رجعك يا أصداء أفكاري\nفليتق اللّه من ظن الهيام بهم\nغياً فما بالهوى العذري من عار\nوما يضر أخا الأردن كسوته\nجديدها أن يحل يوماً لاطماري",
+      "english": "I thought I had moved past the chase of passion, but lo,\nIts account is still running in my ledger;\nAnd the flint of my longing for the veiled beauties,\nAs I knew it in the evenings of youth, still strikes fire;\nAnd the forties, whose first signs have appeared\nIn my locks: their wind has bowed before my whirlwinds.\nI thought I had moved past the chase of passion, but lo,\nIt is still the subject of my night-time talk.\nWhat I imagined was renunciation, and went about\nConsoling my soul with, was not what was truly happening.\nHow far apart are my feeling as it truly is\nAnd your answer, O echoes of my thoughts!\nLet whoever thinks it folly to be lovesick for them\nFear God: there is no shame in chaste love.\nAnd what harm is it to a son of Jordan if his clothes,\nThe new ones, should one day turn to rags?",
+      "status": "draft"
     },
     "links": [
       {
@@ -4571,16 +4601,22 @@ window.ARCHIVE = [
     "description": "The lover praises the beloved’s face and voice while describing longing and vulnerability.",
     "provenance": "Multilingual Wikisource Kazakh transcription",
     "location": "Complete lyric; compare with historical collected text",
-    "translation": "Abai died 1904. Use his original words; modern performers, arrangements and recordings excluded. The online transcription is in Cyrillic; earlier editions use a different script. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Abai died 1904. Use his original words; modern performers, arrangements and recordings excluded. The online transcription is in Cyrillic; earlier editions use a different script. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): First five stanzas, 20 lines, from the Kazakh Wikisource text (Cyrillic script). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1904. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "kazakhstan",
+    "contextNote": "Abai Qunanbaiuly is the founder of modern written Kazakh literature, writing in the nineteenth century when the Kazakh steppe was under Russian rule. “Közimniñ qarasy” is one of his best-known songs and is still widely sung today.",
     "formGroup": "Poem & song",
     "display": {
       "title": "Көзімнің қарасы / Közimniñ qarasy",
       "english": "The Pupil of My Eye",
       "creator": "Abai Qunanbaiuly",
       "language": "Kazakh"
+    },
+    "passage": {
+      "original": "Көзімнің қарасы,\nКөңілімнің санасы,\nБітпейді іштегі,\nҒашықтық жарасы.\nҚазақтың данасы,\nЖасы үлкен ағасы.\nБар демес сендей бір\nАдамның баласы.\nЖылайын, жырлайын,\nАғызып көз майын.\nАйтуға келгенде,\nҚалқама сөз дайын.\nЖүректен қозғайын,\nӘдептен озбайын.\nӨзі де білмей ме,\nКөп сөйлеп созбайын.\nТереңдеп қарайсың,\nТелміріп тұрмайсың.\nБихабар жүргенсіп,\nБек қатты сынайсың.",
+      "english": "Pupil of my eye,\nThought of my heart,\nThe wound of love within me\nNever heals.\nNeither the wisest of the Kazakhs\nNor the eldest of their elders\nWould say there exists one\nAmong the children of men like you.\nLet me weep, let me sing,\nLetting my tears stream down.\nWhen it comes to speaking,\nI have words ready for my darling.\nLet me stir them from my heart\nAnd not overstep good manners.\nDoes she not know it herself?\nLet me not drag it out with too many words.\nYou look at me deeply,\nYet you do not stand gazing with longing.\nPretending to know nothing,\nYou test me very hard.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4704,16 +4740,22 @@ window.ARCHIVE = [
     "description": "Six-bayt poem praising Hind’s beauty and expressing the pain of her rejection and reproach.",
     "provenance": "DCT Poetic Encyclopedia, Arabic text and biography: born and died in Kuwait; raised in India.",
     "location": "Complete poem, 6 bayts",
-    "translation": "Use the Arabic poem only. Musical compositions, performances and recordings need separate assessment; first publication date not established.",
+    "translation": "Use the Arabic poem only. Musical compositions, performances and recordings need separate assessment; first publication date not established. Passage update (29 October 2026): Complete poem, 6 couplets (12 half-lines), as printed in the Abu Dhabi Poetry Encyclopedia; the site’s decorative letter-stretching (tatweel) is removed. One word is divided across the third couplet’s half-lines, as printed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1901. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi",
     "id": "kuwait",
+    "contextNote": "Abdullah al-Faraj, who died in 1901, is remembered as Kuwait’s first great poet and a pioneer of its music. He spent years in India, and the musical styles he brought home helped shape Kuwaiti song; this poem borrows phrases from the Qur’an to plead with God for patience in love.",
     "formGroup": "Poem",
     "display": {
       "title": "إن هنداً يرق منها المحيا",
       "english": "Hind's face is so delicate",
       "creator": "Abdullah al-Faraj",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "إن هنداً يرقُّ منها المحيّا\nليس إلا من الحّيا أن تُحَيّا\nرَبِّ هبْ لي من الجلادة صبراً\nآتني من لدنْكَ ربِّ وَلِيّا\nلا تَذْرني من الكآبة والوَجْ\nدِ إلهي أهيم فرداً خليّا\nكيف أنسى كلامَها اليومَ لما\nنبذتْني به مكاناً قصيّا\nعاتبتْني فأوسعتْني عِتاباً\nفكأني أتيتُ شيئاً فريّا\nذاتُ قْرُطٍ كأنه النجمُ هندٌ\nووشاحٍ إذا انبرتْ كالثريّا",
+      "english": "Hind, whose face grows tender\nOnly from shyness when she is greeted —\nLord, grant me patience to endure;\nGive me, Lord, a helper from Your presence.\nDo not leave me, out of sorrow and long-\ning, my God, to wander alone and forsaken.\nHow can I forget her words today, when\nWith them she cast me off to a distant place?\nShe reproached me, and reproached me at length,\nAs if I had done something unheard of.\nHind, with an earring like a star,\nAnd a sash that, when she sets out, is like the Pleiades.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4755,16 +4797,22 @@ window.ARCHIVE = [
     "description": "The poet praises Alymkan’s beauty, longs for her to visit, and asks her to listen and respond to his music: unfulfilled romantic love.",
     "provenance": "Kyrgyzpatent music archive explicitly credits Satylganov’s words and Bektemir Eginchiev’s music. Kyrgyz university anthology dates poet 1864–1933 and describes the love lyric.",
     "location": "Kyrgyzpatent lyric PDF, pp.1–2",
-    "translation": "Only the original lyrics are treated as open. Later music by Bektemir Eginchiev (1910–1964), recordings and modern translations remain separate. Oral/transcribed variants exist; choose and credit a single textual version.",
+    "translation": "Only the original lyrics are treated as open. Later music by Bektemir Eginchiev (1910–1964), recordings and modern translations remain separate. Oral/transcribed variants exist; choose and credit a single textual version. Passage update (29 October 2026): First five stanzas, 20 lines, from the Kyrgyzpatent lyric sheet. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1933. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Kyrgyzpatent original-lyrics PDF",
     "id": "kyrgyzstan",
+    "contextNote": "Toktogul Satylganov was a great akyn, a Kyrgyz singer-poet who sang to the komuz. Exiled to Siberia by the Russian authorities after the 1898 Andijan uprising, he escaped and made his way home; his songs, like this one for Alymkan, are still sung across Kyrgyzstan.",
     "formGroup": "Song",
     "display": {
       "title": "Алымкан",
       "english": "Alymkan",
       "creator": "Toktogul Satylganov, lyrics",
       "language": "Kyrgyz"
+    },
+    "passage": {
+      "original": "Атка салган дилдейсиң,\nАчылган кызыл гүлдөйсүң.\nБир күн оору, бир күн соо,\nАлымкан, азабың тартсам билбейсиң.\nБетегелүү майданым,\nПейили жакшы жайдарым.\nКөлөкөлүү майданым,\nАлымкан, көңүлү жакшы жайдарым.\nКашкардын тоосу кайрылыш,\nКайрылып учат улуу куш.\nКайрылып мага келет,\nАлымкан, карыпка салбай кыйын иш.\nБукардын тоосу бурулуш,\nБурулуп учат улуу куш.\nБурулуп мага келет,\nАлымкан, муңдууга салбай кыйын иш.\nСаркештеп сайган жоолугуң,\nСарсанаа кылат жоругуң.\nКөркөмдөп сайган жоолугуң,\nАлымкан, көп санаа кылат жоругуң.",
+      "english": "You are like a gold ornament on a horse,\nYou are like a red flower in bloom.\nOne day sick, one day well:\nAlymkan, you do not know the torment I suffer.\nMy meadow of feather grass,\nMy cheerful one with a kind heart.\nMy shady meadow,\nAlymkan, my cheerful one with a good soul.\nThe mountains of Kashgar turn back,\nThe great birds turn and fly.\nIf only you would turn and come to me,\nAlymkan, and not lay hard trials on a poor man.\nThe mountains of Bukhara bend away,\nThe great birds wheel and fly.\nIf only you would wheel and come to me,\nAlymkan, and not lay hard trials on a grieving man.\nYour headscarf, embroidered in yellow,\nYour ways make me anxious.\nYour headscarf, beautifully embroidered,\nAlymkan, your ways give me many cares.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4845,16 +4893,22 @@ window.ARCHIVE = [
     "description": "Joyful desire: every feeling turns towards the beloved, flowering like spring.",
     "provenance": "Original poem reproduced by Dzejoli; National Library of Latvia archive independently identifies the named poem and author",
     "location": "Complete poem",
-    "translation": "Scope is Aspazija’s Latvian words. The linked archival sound recording and later song settings are separate. US first-publication basis remains unverified; first-edition citation still needed.",
+    "translation": "Scope is Aspazija’s Latvian words. The linked archival sound recording and later song settings are separate. US first-publication basis remains unverified; first-edition citation still needed. Passage update (29 October 2026): Complete poem, 12 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in life+70 jurisdictions (author died 1943)",
     "source": "",
     "id": "latvia",
+    "contextNote": "Aspazija, born Elza Rozenberga, was one of Latvia’s great poets and a leading feminist voice, writing when Latvia was part of the Russian Empire. She married the poet Rainis, and both spent years in exile for their political views.",
     "formGroup": "Poem",
     "display": {
       "title": "Ziedonī",
       "english": "In Blossom / In Springtime",
       "creator": "Aspazija",
       "language": "Latvian"
+    },
+    "passage": {
+      "original": "Ikkatra mana jūta\nPie Tevim vien grib traukt,\nKā ziedonī man krūtīs\nViss cenšas zaļot, plaukt.\nTur uzzied balti ziedi\nUn ugunssarkani,\nNo kupluma un smaržas\nTie līkst kā reibuši.\nUn visas manas dziesmas\nAp tiem kā bites dūc\nUn, viņās nogrimdamas,\nSev saldu medu sūc.",
+      "english": "Every feeling of mine\nLongs to rush to you alone,\nAs in springtime, in my breast,\nEverything strives to turn green and bloom.\nThere white flowers open,\nAnd fire-red ones,\nHeavy with fullness and fragrance\nThey bend as if drunk.\nAnd all my songs\nHum around them like bees\nAnd, sinking into them,\nSuck sweet honey for themselves.",
+      "status": "draft"
     },
     "links": [
       {
@@ -4896,16 +4950,22 @@ window.ARCHIVE = [
     "description": "Love is presented as transformative and demanding, combining joy, vulnerability and pain.",
     "provenance": "The Prophet, Alfred A. Knopf, New York, 1923; Project Gutenberg",
     "location": "Discourse beginning Then said Almitra, Speak to us of Love",
-    "translation": "English is the original language of this work. Lebanese-American author died 1931. Select the love discourse rather than modern paraphrases; this is not exclusively romantic love. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "English is the original language of this work. Lebanese-American author died 1931. Select the love discourse rather than modern paraphrases; this is not exclusively romantic love. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Closing section of “On Love”, 15 lines, in Gibran’s own English (the source wraps lines; his lines are restored and each checked against it). Original English; no translation needed. Original English text; not a translation.",
     "rights": "Public-domain original 1923 English text; Project Gutenberg labels the edition public domain in the USA; author’s life-plus-70 term has also elapsed.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "lebanon",
+    "contextNote": "Kahlil Gibran grew up in Mount Lebanon under Ottoman rule and emigrated to Boston as a child. He wrote The Prophet (1923) in English, and it became one of the best-selling poetry books of the twentieth century, read at weddings around the world.",
     "formGroup": "Poem",
     "display": {
       "title": "On Love — The Prophet",
       "english": "",
       "creator": "Kahlil Gibran",
       "language": "English (original)"
+    },
+    "passage": {
+      "original": "Love gives naught but itself and takes naught but from itself.\nLove possesses not nor would it be possessed;\nFor love is sufficient unto love.\nWhen you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”\nAnd think not you can direct the course of love, for love, if it finds you worthy, directs your course.\nLove has no other desire but to fulfil itself.\nBut if you love and must needs have desires, let these be your desires:\nTo melt and be like a running brook that sings its melody to the night.\nTo know the pain of too much tenderness.\nTo be wounded by your own understanding of love;\nAnd to bleed willingly and joyfully.\nTo wake at dawn with a winged heart and give thanks for another day of loving;\nTo rest at the noon hour and meditate love’s ecstacy;\nTo return home at eventide with gratitude;\nAnd then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips.",
+      "english": "Love gives naught but itself and takes naught but from itself.\nLove possesses not nor would it be possessed;\nFor love is sufficient unto love.\nWhen you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”\nAnd think not you can direct the course of love, for love, if it finds you worthy, directs your course.\nLove has no other desire but to fulfil itself.\nBut if you love and must needs have desires, let these be your desires:\nTo melt and be like a running brook that sings its melody to the night.\nTo know the pain of too much tenderness.\nTo be wounded by your own understanding of love;\nAnd to bleed willingly and joyfully.\nTo wake at dawn with a winged heart and give thanks for another day of loving;\nTo rest at the noon hour and meditate love’s ecstacy;\nTo return home at eventide with gratitude;\nAnd then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips.",
+      "status": "english-original"
     },
     "links": [
       {
@@ -5057,16 +5117,22 @@ window.ARCHIVE = [
     "description": "The captive of the beloved’s love asks for union and a compassionate glance, describing beauty and the wounds of longing.",
     "provenance": "DCT Poetic Encyclopedia, text and biography identifying Tripoli, Libya. His diwan was first printed in Cairo in 1892; inclusion of this particular poem in that edition has not been checked.",
     "location": "Complete poem, 5 bayts",
-    "translation": "Author death is 1917 in DCT and Libyan scholarship. Do not confuse the date of the diwan with a verified first-publication date for this poem.",
+    "translation": "Author death is 1917 in DCT and Libyan scholarship. Do not confuse the date of the diwan with a verified first-publication date for this poem. Passage update (29 October 2026): Complete poem, 5 couplets (10 half-lines), as printed in the Abu Dhabi Poetry Encyclopedia; the site’s decorative letter-stretching (tatweel) is removed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1917. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi",
     "id": "libya",
+    "contextNote": "Mustafa ibn Zakri, from Tripoli, wrote under Ottoman rule and is counted among the pioneers of modern Libyan poetry. He died in 1917, while Italy was fighting to take control of the country.",
     "formGroup": "Poem",
     "display": {
       "title": "أسير هواك لا يرجو سراحا",
       "english": "The captive of your love hopes for no release",
       "creator": "Mustafa ibn Zakri",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "أسير هواك لا يرجو سراحا\nولا يلتذّ بعد لماك راحا\nوقد طال المطال فليت شعري\nأيحسن أن يقول الناس باحا\nوما سلّمت مذ حرّمت وصلي\nفكيف تحرم النظر المباحا\nبروحي فاتر الألحاظ أحوى\nبكسر جفونه مزج المزاحا\nيصول على الفؤاد بها صحاحاً\nويثخن كسرها قلبي جراحا",
+      "english": "The captive of your love hopes for no release,\nAnd, after your lips, takes no pleasure in wine.\nThe waiting has grown long; I wish I knew\nWhether it would be right for people to say he has told his secret.\nYou have not greeted me since you forbade our meeting;\nSo how can you forbid even the glance that is allowed?\nMy life for the one with languid glances and dark lips,\nWho mixes teasing into the droop of their eyelids:\nWith those glances, still whole, they assail my heart,\nAnd their drooping covers my heart with wounds.",
+      "status": "draft"
     },
     "links": [
       {
@@ -5163,16 +5229,22 @@ window.ARCHIVE = [
     "description": "Affirmative and defiant: two lovers celebrate their union beyond wedding ceremonies and social approval.",
     "provenance": "Wikisource identifies first publication and its author page gives life+70 public-domain notice",
     "location": "Complete poem",
-    "translation": "Not a blanket worldwide clearance: US reuse of a 1931 first publication needs a separate check. No modern translation or recording is cleared.",
+    "translation": "Not a blanket worldwide clearance: US reuse of a 1931 first publication needs a separate check. No modern translation or recording is cleared. Passage update (29 October 2026): Complete poem, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain in life+70 jurisdictions; author page notice (died 1945)",
     "source": "",
     "id": "lithuania",
+    "contextNote": "Salomėja Nėris was one of Lithuania’s most loved poets. This poem comes from her 1931 collection Pėdos smėly (Footprints in the Sand); its lovers’ wedding “without church or altars” was a daring image in Catholic Lithuania between the wars.",
     "formGroup": "Poem",
     "display": {
       "title": "Be bažnyčios, be altorių",
       "english": "Without a Church, without Altars",
       "creator": "Salomėja Nėris",
       "language": "Lithuanian"
+    },
+    "passage": {
+      "original": "Be bažnyčios, be altorių,\nBe sumainymo žiedų...\nŽirgai skrenda, kiek tik nori,\nSkrendam, lekiam vienu du!\nBalti vėjai plaukus glosto\nJau toli žmonių garsai –\nIš auksinio žvaigždžių sosto\nŠtai, mus laimina Jisai!\nJis, kurs davė žmogui širdį\nSu troškimais neramiais,\nVasaros vynu nugirdė –\nJis ir nuodėmes atleis!\nBe bažnyčios, be altorių...\nŽirgai lekia žvengdami –\nLekia, lekia musų norai\nNesulaikomi, jauni!",
+      "english": "Without a church, without altars,\nWithout exchanging rings…\nThe horses fly as far as they please,\nWe fly, we race, just the two of us!\nWhite winds stroke our hair,\nThe voices of people are already far away —\nFrom the golden throne of the stars,\nLook, He is blessing us!\nHe who gave the human heart\nIts restless longings,\nAnd made it drunk on summer wine —\nHe will forgive our sins as well!\nWithout a church, without altars…\nThe horses race on, neighing —\nOur desires race, race on,\nUnstoppable and young!",
+      "status": "draft"
     },
     "links": [
       {
@@ -5574,16 +5646,22 @@ window.ARCHIVE = [
     "description": "A nocturnal vision of Mariam’s beauty awakens the speaker’s hidden passion; the opening belongs to the classical Arabic love-poetry tradition.",
     "provenance": "Mauritanian Writers’ Union author page identifies and quotes the mīmiyya beginning تأوبه طيف الخيال بمريما. Mauritanian News Agency corroborates 1774–1856; scholarly article discusses its intertextual relation to Humayd ibn Thawr.",
     "location": "Opening of the mīmiyya; search source for تأوبه",
-    "translation": "The identifier is the original first line, not an invented English title. A muʿāraḍa of a poem by the early Arabic poet Humayd ibn Thawr. Year 1856 is an upper bound, not a dated composition. Reuse the historical Arabic lines, excluding modern commentary and translations.",
+    "translation": "The identifier is the original first line, not an invented English title. A muʿāraḍa of a poem by the early Arabic poet Humayd ibn Thawr. Year 1856 is an upper bound, not a dated composition. Reuse the historical Arabic lines, excluding modern commentary and translations. Passage update (29 October 2026): Opening four couplets of the mīmiyya (8 half-lines), as quoted in the source. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original composition; author died 1856, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "mauritania",
+    "contextNote": "Muhammad ibn al-Talaba was one of the great poets of nineteenth-century Mauritania, the “land of a million poets”, where Arabic verse in the old desert style was learned and recited in nomadic camps. This poem answers one by Humayd ibn Thawr, a poet of early Islam, keeping his rhyme and metre.",
     "formGroup": "Poem",
     "display": {
       "title": "تأوبه طيف الخيال بمريما",
       "english": "The phantom of Maryam visited him",
       "creator": "Muhammad ibn al-Talaba al-Yaqubi / امحمد ولد الطلبة",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "تأوبهُ طيفُ الخيالِ بمريما\nفباتَ معنًّى مستجنًّا متيما\nتأوبه بعدَ الهجوعِ فهاضَهُ\nفأبدى من التهيامِ ما كانَ جمجما\nلطاف بها حتى إذا النفسُ اجهشتْ\nوابدتْ بناناً لي خضيباً ومِعْصما\nتولى كأنَّ اللمحَ بالطرفِ زورُهُ\nوكان وداعاً منه إنْ هو سلَّما",
+      "english": "The phantom of Maryam came to him by night,\nAnd he spent the night tormented, maddened, enslaved by love.\nIt came to him after sleep had fallen, and broke him anew,\nAnd he revealed the passion he had kept half-spoken.\nIt circled close until, when my soul was close to tears,\nShe showed me a hennaed fingertip and a wrist;\nThen it turned away: its visit was like a glance of the eye,\nAnd its greeting, if it greeted at all, was a farewell.",
+      "status": "draft"
     },
     "links": [
       {
