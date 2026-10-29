@@ -3015,6 +3015,7 @@
     "rights": "Historical original composition; author died 1939, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "fiji",
+    "contextNote": "Basil Thomson was a British colonial official in Fiji in the 1880s, who later headed Scotland Yard’s criminal investigation department. His story of a Fijian woman and an Englishman is told from the colonial side and carries the racial assumptions of its time; Fijian love songs of the period, sung in meke and other forms, were rarely written down.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Raluve",
@@ -3623,6 +3624,7 @@
     "rights": "Historical original composition; author died 1953, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "guinea-bissau",
+    "contextNote": "Fausto Duarte, born in Cabo Verde, was a colonial official in Portuguese Guinea and wrote Auá within the “colonial literature” that Portugal’s government encouraged. Its portrait of the Fula heroine relies on stereotypes, and scholars read it as part of the colonial project. Guinea-Bissau’s own love songs live in the mandjuandadi, songs in Kriol sung by women’s associations.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Auá: novela negra",
@@ -7955,6 +7957,7 @@
     "rights": "Original French prose published 1881; Loti died 1923, beyond standard life-plus-70 and US publication terms. Reuse the historical text only; modern translations, editorial matter, cover art and adaptations are separate.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "senegal",
+    "contextNote": "Pierre Loti was a French naval officer who served in Senegal in the 1870s, as France was extending its colonial rule there. His novel shaped how Europeans imagined Africa for decades, and its portrait of Fatou-Gaye is full of the racial stereotypes of its time. It is a love story told entirely from the coloniser’s side; Senegal’s own love poetry of the period lived in Wolof and Serer song, which was rarely written down.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Le Roman d’un spahi",
@@ -10136,6 +10139,7 @@
     "rights": "Original English text published 1906 and public domain in the USA; author died 1925, beyond standard life-plus-70. New editorial work, translations, art and adaptations are excluded.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "zimbabwe",
+    "contextNote": "H. Rider Haggard was a British novelist who had worked in the colonial administration in southern Africa, and his adventure romances helped shape imperial ideas about the continent, including the myth that Great Zimbabwe was built by outsiders rather than by the ancestors of the Shona. Benita is a love story about white settlers; Zimbabwe’s own love poetry lived in Shona and Ndebele song and praise poetry.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "Benita: An African Romance",
