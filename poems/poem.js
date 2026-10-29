@@ -86,5 +86,11 @@ window.Poem = (function () {
     return a;
   }
 
-  return { el, heading, passage, historyNote, sourceLink };
+  // Why some poems are shown in full and others only described (shared by the Poems page and the map)
+  const VIEW_NOTES = {
+    read: "Poems to read are out of copyright, so we can share them in full here.",
+    explore: "Poems to explore are mostly still under copyright, so we describe them and link to where you can find them.",
+  };
+
+  return { el, heading, passage, historyNote, sourceLink, VIEW_NOTES };
 })();

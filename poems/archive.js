@@ -1,7 +1,7 @@
 // Renders the love poetry archive from window.ARCHIVE (data/archive.js).
 
 (function () {
-  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink, VIEW_NOTES } = window.Poem;
   const entries = window.ARCHIVE || [];
 
   const list = document.getElementById("entries");
@@ -10,10 +10,6 @@
   const alphabet = document.getElementById("alphabet");
   const resultCount = document.getElementById("result-count");
   const viewNote = document.getElementById("view-note");
-  const VIEW_NOTES = {
-    read: "Poems to read are out of copyright, so we can share them in full here.",
-    explore: "Poems to explore are mostly still under copyright, so we describe them and link to where you can find them.",
-  };
   const empty = document.getElementById("empty");
 
   // Two views: poems to read here, and poems to explore at their source. Start with the ones to read.

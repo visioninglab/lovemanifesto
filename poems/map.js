@@ -33,11 +33,11 @@
   const EXTRA_POINTS = { Tuvalu: [179.2, -8.5] };
 
   const CATEGORIES = [
-    { key: "poem", label: "Poem to read" },
-    { key: "listed", label: "Other countries" },
+    { key: "poem", label: "Poems to read" },
+    { key: "listed", label: "Poems to explore" },
   ];
   const categoryOf = (entry) => (entry.passage ? "poem" : "listed");
-  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink, VIEW_NOTES } = window.Poem;
 
   const entries = window.ARCHIVE || [];
   const byAtlasName = new Map(entries.map((e) => [ATLAS_NAMES[e.country] || e.country, e]));
@@ -99,7 +99,11 @@
     const links = el("p", "entry-links");
     const source = sourceLink(entry);
     if (source) links.append(source);
+    const onPoems = el("a", "", "See on the Poems page");
+    onPoems.href = `poems/archive.html${entry.passage ? "" : "?explore"}#${entry.id}`;
+    links.append(onPoems);
     card.append(links);
+    card.append(el("p", "view-note", entry.passage ? VIEW_NOTES.read : VIEW_NOTES.explore));
     card.hidden = false;
   }
 
