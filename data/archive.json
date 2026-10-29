@@ -8232,16 +8232,22 @@
     "description": "Affirmative: a shared glance under falling stars fulfils the speaker’s wish for love.",
     "provenance": "Z vesny života; Zlatý fond SME transcription; Slovak Academy of Sciences confirms 1895 collection",
     "location": "Chapter 8, complete poem",
-    "translation": "Scope is the 1895 poem. Modern editorial matter and presentation are separate; no English translation is cleared.",
+    "translation": "Scope is the 1895 poem. Modern editorial matter and presentation are separate; no English translation is cleared. Passage update (29 October 2026): Complete poem, 8 quatrains (32 lines). Text copied from Zlatý fond SME (Z vesny života, chapter 8) and supplied by the project, as the page could not be read automatically. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in life+70 jurisdictions (author died 1951)",
     "source": "",
     "id": "slovakia",
+    "contextNote": "Ľudmila Podjavorinská was one of the first Slovak women to make her name as a poet, writing in the 1890s when Slovakia was part of the Kingdom of Hungary and Slovak culture was under strong pressure to assimilate. Z vesny života (From the Spring of Life, 1895), her first book, is full of young love; she later became beloved for her poems for children.",
     "formGroup": "Poem",
     "display": {
       "title": "Či vieš…",
       "english": "Do You Know…?",
       "creator": "Ľudmila Podjavorinská",
       "language": "Slovak"
+    },
+    "passage": {
+      "original": "Či vieš ešte, ako sme raz\nv jasný večer spolu stáli\na ku hviezdam trblietavým\nv dumách tichých pozerali?\nJak sme striehli obidvaja,\naž by spadla hviezda dolu,\nbo sme oba, poverčive,\nniečo žiadať mali vôľu.\nDobrobyt ty nášho ľudu\nchcel si si vraj žiadať skryte\na ja — ach, mnou zachvievali\ntúžby divné, neurčité…\n„Blaho to vraj v hviezdach žiari,“\ndumala som, rozochvelá;\n„keby, ach, tá hviezdka jasná\ndolu ku mne zletieť chcela!“\nTu sme oba k nebu zreli\nnaladení milým klamom:\nsťaby hviezdka padajúca\nmala nám byť talizmanom.\nV tom sa stretli zraky naše\ndivnou mocou upútané —;\na za ten čas tichým letom\npadla hviezda z nebies báne.\nKým sa stretli zraky naše,\nzhasol hviezdy plápol skvelý,\nvysloviť však svoje túžby\noba sme my zapomneli.\nVšak mne predsa splnila sa\nblúznivá tá túžba kási,\nodvtedy to v srdci mojom\nsťaby plno hviezdnej krásy.",
+      "english": "Do you still remember how once\nwe stood together on a clear evening\nand gazed up at the twinkling stars,\nlost in quiet thoughts?\nHow we both kept watch\nfor a star to fall,\nbecause we both, superstitious,\nhad a mind to wish for something.\nYou meant, so you said, to wish in secret\nfor the well-being of our people,\nand I — ah, I was trembling with\nstrange, uncertain longings…\n“They say bliss shines in the stars,”\nI mused, all a-tremble;\n“if only, ah, that bright little star\nwould fly down to me!”\nThen we both looked up to the sky,\ntuned to a sweet illusion,\nas if a falling star\nwere meant to be our talisman.\nAt that moment our eyes met,\nheld by a strange power;\nand in that time, in silent flight,\na star fell from heaven’s dome.\nWhile our eyes were meeting,\nthe star’s splendid flame went out,\nbut to speak our wishes\nwe both forgot.\nAnd yet for me it came true,\nthat dreamy longing of mine;\nsince then, in my heart,\nit is as if all were full of starry beauty.",
+      "status": "draft"
     },
     "links": [
       {
