@@ -149,7 +149,7 @@ def add_display_fields(entry):
         "title": title,
         "english": english if english and english.lower() != title.lower() else "",
         "creator": reader_title(reader_text(entry["creator"])),
-        "language": uk_spelling(reader_text(entry["language"])),
+        "language": uk_spelling(reader_title(reader_text(entry["language"]))),
     }
     if entry["description"] and entry["description"][-1] not in ".!?…”’":
         entry["description"] += "."

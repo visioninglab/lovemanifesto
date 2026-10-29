@@ -401,7 +401,7 @@
       "title": "Քանի վուր ջան իմ / Qani vur jan im",
       "english": "As Long as I Live",
       "creator": "Sayat-Nova",
-      "language": "Armenian (Tbilisi dialect)"
+      "language": "Armenian"
     },
     "passage": {
       "original": "Քանի վուր ջան իմ,\nՅա՜ր, քի ղուրբան իմ.\nԱբա ի՛նչ անիմ.\nԱրտասունք անիմ,\nՇատ հոքուց հանիմ,\nՅա՛ր, ղադեդ տանիմ.\nԱսիր՝ ջեյրան իմ.\nԹուղ քի սեյր անիմ,\nՅա՛ր, մըտիկ անիմ։\nՄո՛ւտ բաղչեն նազով,\nՔիզ գովիմ սազով,\nՅա՜ր, իլթիմազով։",
@@ -1146,7 +1146,7 @@
       "title": "Emina",
       "english": "",
       "creator": "Aleksa Šantić",
-      "language": "Bosnian / Serbian (Ijekavian)"
+      "language": "Bosnian / Serbian"
     },
     "passage": {
       "original": "Sinoć, kad se vratih iz topla hamama,\nProđoh pokraj bašte staroga imama;\nKad tamo, u bašti, u hladu jasmina,\nS ibrikom u ruci stajaše Emina.\nJa kakva je, pusta! Tako mi imana,\nStid je ne bi bilo da je kod sultana!\nPa još kad se šeće i plećima kreće...\n- Ni hodžin mi zapis više pomoć neće!...\nJa joj nazvah selam. Al' moga mi dina,\nNe šće ni da čuje lijepa Emina,\nNo u srebren ibrik zahitila vode\nPa po bašti đule zalivati ode;\nS grana vjetar duhnu pa niz pleći puste\nRasplete joj one pletenice guste,",
@@ -3072,7 +3072,7 @@
       "title": "Den enda stunden",
       "english": "The Only Moment",
       "creator": "Johan Ludvig Runeberg",
-      "language": "Swedish (Finland-Swedish)"
+      "language": "Swedish"
     },
     "passage": {
       "original": "han talte icke,\nmen ögat talte. —\nDu obekante,\ndu välbekante!\nEn dag försvinner,\nett år förflyter,\ndet ena minnet\ndet andra jagar;\nden korta stunden\nblev hos mig evigt,\nden bittra stunden,\nden ljuva stunden.",
@@ -4435,7 +4435,7 @@
       "title": "A Red Flower",
       "english": "",
       "creator": "Claude McKay",
-      "language": "English (original)"
+      "language": "English"
     },
     "passage": {
       "original": "Your lips are like a southern lily red,\nWet with the soft rain-kisses of the night,\nIn which the brown bee buries deep its head,\nWhen still the dawn’s a silver sea of light.\nYour lips betray the secret of your soul,\nThe dark delicious essence that is you,\nA mystery of life, the flaming goal\nI seek through mazy pathways strange and new.\nYour lips are the red symbol of a dream.\nWhat visions of warm lilies they impart,\nThat line the green bank of a fair blue stream,\nWith butterflies and bees close to each heart!",
@@ -4959,7 +4959,7 @@
       "title": "On Love — The Prophet",
       "english": "",
       "creator": "Kahlil Gibran",
-      "language": "English (original)"
+      "language": "English"
     },
     "passage": {
       "original": "Love gives naught but itself and takes naught but from itself.\nLove possesses not nor would it be possessed;\nFor love is sufficient unto love.\nWhen you love you should not say, “God is in my heart,” but rather, “I am in the heart of God.”\nAnd think not you can direct the course of love, for love, if it finds you worthy, directs your course.\nLove has no other desire but to fulfil itself.\nBut if you love and must needs have desires, let these be your desires:\nTo melt and be like a running brook that sings its melody to the night.\nTo know the pain of too much tenderness.\nTo be wounded by your own understanding of love;\nAnd to bleed willingly and joyfully.\nTo wake at dawn with a winged heart and give thanks for another day of loving;\nTo rest at the noon hour and meditate love’s ecstacy;\nTo return home at eventide with gratitude;\nAnd then to sleep with a prayer for the beloved in your heart and a song of praise upon your lips.",
@@ -5431,7 +5431,7 @@
       "title": "Hikayat Faridah Hanom",
       "english": "The Tale of Faridah Hanom",
       "creator": "Syed Sheikh bin Ahmad al-Hadi",
-      "language": "Malay (original Jawi script)"
+      "language": "Malay"
     },
     "links": [
       {
@@ -5948,16 +5948,22 @@
     "description": "Praises a beloved’s beauty through the five senses; also read in a Buddhist spiritual framework.",
     "provenance": "Mongolian educational text reproduces the poem, citing a 1992 collection, p.41. National University of Mongolia translation study discusses its original wording and interpretation.",
     "location": "Educational PDF, printed p.34, five stanzas",
-    "translation": "Use the historical Mongolian words. Modern musical arrangements, translations and scholarly commentary have separate rights. Romantic and Buddhist readings coexist.",
+    "translation": "Use the historical Mongolian words. Modern musical arrangements, translations and scholarly commentary have separate rights. Romantic and Buddhist readings coexist. Passage update (29 October 2026): Complete poem, five stanzas (25 lines), one for each of the five senses, as quoted in full in the linked study. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1856. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Mongolian educational text reproduces the poem, citing a 1992 collection, p.41. National University of Mongolia translation study discusses its original wording and interpretation.",
     "id": "mongolia",
+    "contextNote": "Danzanravjaa was a nineteenth-century Buddhist lama, poet and dramatist of the Gobi, who built a theatre at Khamaryn Monastery and broke custom by putting women on stage. This poem praises the beloved through all five senses and became a much-loved folk song.",
     "formGroup": "Poem",
     "display": {
       "title": "Үлэмжийн чанар",
       "english": "Perfect Beauty / Sublime Qualities",
       "creator": "Dulduityn Danzanravjaa",
       "language": "Mongolian"
+    },
+    "passage": {
+      "original": "Үлэмжийн чанар төгөлдөр\nӨнгө тунамал толь шиг\nҮзэсгэлэнтэй царайг чинь үзвээс\nӨнгө лагшин төгөлдөр өө\nҮнэхээр сэтгэлийг булаана.\nХөшүүн сэтгэлийг уяруулагч\nХөхөө шувууны эгшиг шиг\nХөөрхөн эелдэг ааш чинь\nХөгжиж суухад урамтай\nХөөрхөн аальт минь зээ.\nУчирмагц сэнгэнэсэн\nУран гол шиг бие чинь\nУгаас хамт бүтсэн\nУлаан зандны үнэр шиг\nУлам сэтгэлийг хөдөлгөнө.\nБадмын дундаас дэлгэрсэн\nБалын амттай адил\nБаясгалантай биеийг чинь үзвээс\nБахдаж ханашгүй\nБаярыг улам арвитгана.\nХүний энэхэн насанд\nХүссэн хэргээ бүтээгээд\nХүсэлт тэнгэрийн оронд\nХөлгүй жаргалангийн дунд\nХөвөн цэнгэн жаргая.",
+      "english": "Perfect in every noble quality,\nclear-coloured as a mirror:\nwhen I see your lovely face,\nyour form so perfect, oh,\nit truly captivates my heart.\nSoftening even a hardened heart,\nlike the song of the cuckoo,\nyour sweet and gentle ways\nmake it a joy to sit with you,\nmy lovely one with your charming ways.\nThe moment we meet, refreshing\nas a lovely river, your body,\nlike the scent of red sandalwood\nborn with it from the start,\nstirs my heart ever more.\nLike the taste of honey\nspread from the heart of the lotus,\nwhen I see your joyful self,\nI cannot have my fill of admiring you,\nand my joy grows ever greater.\nIn this one human life,\nhaving done what we long to do,\nin the heaven of our wishes,\namid boundless bliss,\nlet us float in delight together.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6003,16 +6009,22 @@
     "description": "A sensuous night of intimacy is valued above a lifetime; the lovers part at dawn.",
     "provenance": "Original verse transcribed on Serbian Wikisource",
     "location": "Complete poem",
-    "translation": "Njegoš died 1851. Titles and manuscript readings vary; compare an authoritative scan before final quotation. Original poem only; later editions’ critical apparatus is separate. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Njegoš died 1851. Titles and manuscript readings vary; compare an authoritative scan before final quotation. Original poem only; later editions’ critical apparatus is separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): 18 lines from the love scene of the poem, from the fairy’s arrival to the lovers’ kiss (Serbian Wikisource, 100% proofread). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1851. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "montenegro",
+    "contextNote": "Petar II Petrović-Njegoš was both the prince-bishop who ruled Montenegro and its greatest poet. He wrote this long poem of a summer night’s love in the 1840s; he is best known for The Mountain Wreath (1847), and died in 1851, aged 37.",
     "formGroup": "Poem",
     "display": {
       "title": "Ноћ скупља вијека / Noć skuplja vijeka",
       "english": "A Night More Precious than a Lifetime",
       "creator": "Petar II Petrović-Njegoš",
-      "language": "Serbian / Montenegrin (Ijekavian)"
+      "language": "Serbian / Montenegrin"
+    },
+    "passage": {
+      "original": "Док ево ти дивне виле лаким кроком ђе ми лети –\nзавид’те ми, сви бесмртни, на тренутак овај свети!\nХод је вилин млого дични на Аврорин када шеће,\nод сребрног свога прага над прољећем кад се креће;\nзрак је виле младолике тако красан ка Атине,\nогледало и мазање презиру јој черте фине.\nУстав’ луно, б’јела кола, продужи ми часе миле,\nкад су сунце над Инопом уставити могле виле.\nПрелесницу како видим, загрлим је ка бог вели,\nуведем је под шатором к испуњењу светој жељи.\nПри зракама красне луне, при свјећици запаљеној\nпламена се споји душа ка душици раскаљеној\nи цјеливи божествени душу с душом драгом слију.\nАх, цјеливи, божа мана, све прелести рајске лију!\nЦјелителни балсам свети најмирисни аромати\nшто је небо земљи дало на усне јој стах сисати.\nСовршенство творенија, таинствене силе боже,\nништа љепше нит’ је када нити од ње створит може!",
+      "english": "When look, a lovely fairy comes flying to me with a light step —\nenvy me, all you immortals, this holy moment!\nThe fairy’s step is far more stately than Aurora’s when she walks\nfrom her silver threshold as she moves above the spring;\nthe gaze of the youthful fairy is as lovely as Athena’s,\nher fine features scorn both mirror and paint.\nStay, moon, your white chariot; prolong my precious hours,\nsince fairies once could make the sun stand still above Inop.\nAs soon as I see the enchantress, I embrace her as a god would,\nand lead her into the tent to fulfil a holy wish.\nBy the rays of the lovely moon, by a lighted candle,\na soul of flame joined a soul aglow,\nand divine kisses poured soul into beloved soul.\nAh, kisses, manna of God, pouring out all the charms of heaven!\nThe holy healing balm, the most fragrant of perfumes\nthat heaven gave the earth, I began to drink from her lips.\nPerfection of creation, mysterious power of God,\nnothing more beautiful ever was, or could be made, than she!",
+      "status": "draft"
     },
     "links": [
       {
@@ -6054,16 +6066,22 @@
     "description": "Muwashshah expressing a lovesick speaker’s wish for sips from the beloved’s lips and release from the pain of denied union.",
     "provenance": "Original Arabic reproduced at Qaseda and Arabic Literature Encyclopedia; biography identifies Fez writer Muhammad ibn Qasim ibn Zakur (1664–1708), author of al-Rawd al-arid.",
     "location": "Complete poem, 10 bayts",
-    "translation": "Wine and garden imagery accompanies courtly erotic longing. Opening words are the identifier. Transcriptions disagree in some readings; compare a historical diwan before final quotation. Modern website commentary excluded.",
+    "translation": "Wine and garden imagery accompanies courtly erotic longing. Opening words are the identifier. Transcriptions disagree in some readings; compare a historical diwan before final quotation. Modern website commentary excluded. Passage update (29 October 2026): Complete muwashshah, 10 couplets set out as 20 short lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1708. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "morocco",
+    "contextNote": "Ibn Zakur was the leading man of letters in Fez around 1700, under the Alaouite sultan Moulay Ismail. This poem is a muwashshah, a strophic song form born in Muslim Spain that lives on in Morocco’s Andalusian music.",
     "formGroup": "Poem",
     "display": {
       "title": "هل لصب من لماك المزدري",
       "english": "Is there, for a lovesick one, a sip from your lips?",
       "creator": "Ibn Zakur",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "هَل لِصَبٍّ مِن لَماكَ المُزدَري\nبِسُلافِ الراح\nرَشَفاتٌ مُزِجَت بِالسُكرِ\nتَمنَحُ الأَفراح\nمَروِيّاتٌ عَن صَحاحِ الجَوهَرِ\nعَن مُنى الأَرواح\nعَن هِلالِ الحُسنِ عَن ظُبى النَقا\nعَن قَضيبِ البان\nمِن جِنانَ الوَصلِ دوني أَغلَفا\nرَقَّ يا رَضوان\nوَاِرثِ لي مِن ذا العَذابِ الأَكبَرِ\nفَعَسى أَرتاح\nفَعَلى ذاكَ المُحَيّا الأَنوارِ\nذي السَنا الوَضّاح\nمِن شَجٍّ نَشرُ سَلامٍ عَنبَري\nما اِنبَرى الإِصباح\nوَثَنَت بانَ الرُبى كَفُّ الصَبا\nوَشَدا القُمري\nوَصَبا قَلبي لِأَيّامِ الصِبا\nرَيِّقِ العُمرِ",
+      "english": "Is there, for a lovesick man, from your scornful lips,\nlike the finest wine,\nsips mixed with sugar\nthat grant delight —\nsips handed down from the truest jewels,\nfrom the souls’ desire,\nfrom the crescent of beauty, from the gazelle of the dunes,\nfrom the willow wand?\nYou have shut the gardens of union against me:\nhave pity, O Ridwan,\nand pity me in this great torment,\nthat perhaps I may find rest.\nAnd upon that face of light,\nof radiant brightness,\nfrom a grieving man, an amber-scented greeting spreads\nfor as long as morning breaks,\nand the east wind’s hand bends the willows of the hills,\nand the turtle-dove sings,\nand my heart yearns for the days of youth,\nthe fresh bloom of life.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6105,16 +6123,22 @@
     "description": "A sonnet imagining the pleasure of reciprocal love and walking together hand in hand.",
     "provenance": "Portuguese distance-learning module, lesson 25; poem also discussed by Carmen Lúcia Tindó Secco, UFMG Literafro.",
     "location": "Lesson 25, printed pp.144–145",
-    "translation": "Sonetos appeared posthumously in 1946. Scholars document editorial alterations in that edition; compare the poem with a lifetime newspaper text before establishing a definitive version. Modern notes and revisions are separate.",
+    "translation": "Sonetos appeared posthumously in 1946. Scholars document editorial alterations in that edition; compare the poem with a lifetime newspaper text before establishing a definitive version. Modern notes and revisions are separate. Passage update (29 October 2026): Complete sonnet, 14 lines (as printed in the school module, Lesson 25). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1943. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Portuguese distance-learning module, lesson 25; poem also discussed by Carmen Lúcia Tindó Secco, UFMG Literafro.",
     "id": "mozambique",
+    "contextNote": "Rui de Noronha, of Indian and African descent, was the first major Mozambican poet, writing in Lourenço Marques (now Maputo) under Portuguese colonial rule. His poems were gathered only after his early death, in Sonetos (1946).",
     "formGroup": "Poem",
     "display": {
       "title": "Amar",
       "english": "To Love",
       "creator": "Rui de Noronha",
       "language": "Portuguese"
+    },
+    "passage": {
+      "original": "Amar é um prazer se nos amámos\nAlguém que pode amar-nos e nos ama,\nAmar é um prazer, se nos chama,\nAlguém continuamente que chamámos.\nEntão a vida inteira a rir levamos,\nQue o mesmo fogo ardente nos inflama\nOs ideais da vida, e bem, a fama,\nMãos dadas pelo mundo procuramos.\nNo encapelado mar da existência\nO amor é compassiva indulgência\nA culpa original de nossos pais.\nTudo na vida é fruto do amor\nQuem o tirar e olhar em seu redor\nEncontra só tristeza – e nada mais",
+      "english": "To love is a pleasure if we love\nsomeone who can love us, and does;\nto love is a pleasure if there calls to us\nsomeone we are always calling.\nThen we spend our whole life laughing,\nfor the same burning fire inflames us;\nlife’s ideals, and goodness, and fame\nwe seek hand in hand through the world.\nOn the stormy sea of existence\nlove is a compassionate forgiveness\nof the original sin of our first parents.\nEverything in life is the fruit of love;\nwhoever takes it away and looks around\nfinds only sadness, and nothing more.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6293,16 +6317,22 @@
     "description": "A playful ghazal praising the beloved’s eyebrows, glances, smiling face and pearl-like teeth; their beauty makes swords, palaces and jewels unnecessary.",
     "provenance": "Nepali Archives original text and author dates 1866–1896; independently reproduced by iNepal in 2008.",
     "location": "Complete short ghazal",
-    "translation": "Original Nepali only; spelling differs between transcriptions. Archive’s explanatory summaries are modern and excluded. First print edition not established.",
+    "translation": "Original Nepali only; spelling differs between transcriptions. Archive’s explanatory summaries are modern and excluded. First print edition not established. Passage update (29 October 2026): Complete ghazal, 3 couplets (6 lines), with its verse numbers as printed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1896. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "nepal",
+    "contextNote": "Motiram Bhatta brought the ghazal, the love-poem form of Persian and Urdu, into Nepali, and revived interest in the poet Bhanubhakta. He died in 1896, aged only 30, but is remembered as a founder of modern Nepali literature.",
     "formGroup": "Poem",
     "display": {
       "title": "दुइ आँखिभौं त…",
       "english": "Those two eyebrows…",
       "creator": "Motiram Bhatta",
       "language": "Nepali"
+    },
+    "passage": {
+      "original": "दुइ आँखिभौं त तयार छन्, तरवार पो किन चाहियो,\nतिमी आफु मालिक भै गयौ, सरकार पो किन चाहियो ॥१॥\nपहरा कडा छ कटाक्षको, हरदम् तयारि मुहारमा,\nघर भन्नु भारि महल् न हो, दरवार पो किन चाहियो ॥२॥\nकति चम्‌किलो छ हँसाइको, हिसिमा किरन् पनि दाँतको,\nमणि मोति नीर जुहार् न हो, अरु हार पो किन चाहियो ॥३॥",
+      "english": "Your two eyebrows stand ready as they are: why would you need a sword?\nYou have become the master yourself: why would you need a government? ॥1॥\nThe guard of your sidelong glance is strict, always ready in your face;\nyour home is a mighty palace already: why would you need a royal court? ॥2॥\nHow bright are the rays of your teeth when you laugh and smile!\nAre they not jewels, pearls and gems? Why would you need any other necklace? ॥3॥",
+      "status": "draft"
     },
     "links": [
       {
@@ -6344,16 +6374,22 @@
     "description": "Joyful: walking beside the beloved, leaning on their breast, remembering the first letter and kiss.",
     "provenance": "DBNL reproduction of De Gids, Jaargang 55",
     "location": "Meibloesems, poem III, p. 562",
-    "translation": "Scope is Swarth’s poem only. DBNL labels the journal as partly copyright-protected; do not treat the whole journal or modern editorial material as cleared. Modern translations are separate.",
+    "translation": "Scope is Swarth’s poem only. DBNL labels the journal as partly copyright-protected; do not treat the whole journal or modern editorial material as cleared. Modern translations are separate. Passage update (29 October 2026): Complete sonnet, 14 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain 1891 poem; author died 1941",
     "source": "",
     "id": "netherlands",
+    "contextNote": "Hélène Swarth was one of the finest Dutch poets of the 1880s and 1890s, known for intense poems of love and loss. Born in Amsterdam, she grew up in Brussels writing in French, and only later turned to Dutch.",
     "formGroup": "Poem",
     "display": {
       "title": "Meibloesems, III — Breek blanke meien van den Levensboom",
       "english": "May Blossoms, III — Break white May branches from the Tree of Life",
       "creator": "Hélène Swarth",
       "language": "Dutch"
+    },
+    "passage": {
+      "original": "Breek blanke meien van den Levensboom!\nNu is de Mei gekomen, ook voor mij.\nAls witte vlinders fladdren ze ons voorbij,\nDe bloesemblaadren van mijn lentedroom.\nZie, dit is weelde: wandlen zij aan zij\nIn 't bloeiend Eden onzer liefde, loom\nEn stil van 't groot geluk, met teedren schroom\nOntvangen en gedragen, bang en blij.\nNu laat mij leunen aan uw borst, mijn lief,\nEn leg uw streelhand op mijn lokken zacht\nEn zeg of 't u wel heugt, die eerste brief,\nDie eerste kus en o die winternacht,\nToen Liefde mij in 't hart sloop als een dief,\nNu scepter-zwaaiende in vorstinnepracht.",
+      "english": "Break white May blossom from the Tree of Life!\nNow May has come, for me as well.\nLike white butterflies they flutter past us,\nthe blossom petals of my spring dream.\nSee, this is bliss: to wander side by side\nin the blossoming Eden of our love, languid\nand quiet with great happiness, with tender shyness\nreceived and carried, fearful and glad.\nNow let me lean against your breast, my love,\nand lay your stroking hand softly on my hair,\nand tell me if you remember it, that first letter,\nthat first kiss, and oh, that winter night\nwhen Love crept into my heart like a thief,\nand now waves his sceptre in the splendour of a queen.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6452,16 +6488,22 @@
     "description": "An intimate winter scene with Carolina and a kiss.",
     "provenance": "Azul…; Obras Completas, volume IV, illustrated by Enrique Ochoa",
     "location": "Sonetos: De invierno, p. 211",
-    "translation": "Scope is the poem text; do not assume modern illustrations or adaptations share these rights.",
+    "translation": "Scope is the poem text; do not assume modern illustrations or adaptations share these rights. Passage update (29 October 2026): Complete sonnet, 14 lines. The edition’s drop capital (“E N”) is joined to “En”. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "nicaragua",
+    "contextNote": "Rubén Darío, the founder of modernismo, transformed poetry in Spanish on both sides of the Atlantic. This sonnet, from his years of travel between Latin America and Europe, sets a Paris winter scene with the luxury and faraway objects that modernismo loved.",
     "formGroup": "Poem",
     "display": {
       "title": "De invierno",
       "english": "In Winter",
       "creator": "Rubén Darío",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "En invernales horas, mirad a Carolina.\nMedio apelotonada, descansa en el sillón,\nenvuelta con su abrigo de marta cibelina\ny no lejos del fuego que brilla en el salón.\nEl fino angora blanco, junto a ella se reclina,\nrozando con su hocico la falda de Alençón,\nno lejos de las jarras de porcelana china\nque medio oculta un biombo de seda del Japón.\nCon sus sutiles filtros la invade un dulce sueño;\nentro, sin hacer ruido; dejo mi abrigo gris;\nvoy a besar su rostro, rosado y halagüeño\ncomo una rosa roja que fuera flor de lis;\nabre los ojos; mírame, con su mirar risueño\ny en tanto cae la nieve del cielo de París.",
+      "english": "In the hours of winter, look at Carolina.\nHalf curled up, she rests in the armchair,\nwrapped in her sable coat,\nnot far from the fire that glows in the drawing room.\nThe fine white angora lies beside her,\nbrushing her Alençon-lace skirt with its nose,\nnot far from the Chinese porcelain jars\nhalf hidden by a Japanese silk screen.\nWith its subtle potions a sweet sleep steals over her;\nI come in without a sound; I leave my grey coat;\nI go to kiss her face, rosy and inviting\nlike a red rose that might be a fleur-de-lis;\nshe opens her eyes; she looks at me with her smiling gaze,\nand meanwhile the snow falls from the Paris sky.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6593,16 +6635,22 @@
     "description": "Tender and playful: the speaker would save a long winter night to unfold when the beloved arrives.",
     "provenance": "Wikisource reproduces three historical anthology variants and a PD-old-100 notice",
     "location": "Complete sijo; use one identified anthology variant",
-    "translation": "Country is geographic: Hwang Jini was associated with Kaesong, now North Korea. Shared pre-division Korean heritage, not modern nationality. Authorship is traditionally transmitted; modern English versions and performances are separate.",
+    "translation": "Country is geographic: Hwang Jini was associated with Kaesong, now North Korea. Shared pre-division Korean heritage, not modern nationality. Authorship is traditionally transmitted; modern English versions and performances are separate. Passage update (29 October 2026): Complete sijo, 3 lines, in the text of the anthology Cheonggu yeongeon (1728), poem 287, with its old Hangul and Chinese characters. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain historical text - PD-old-100 notice",
     "source": "",
     "id": "north-korea",
+    "contextNote": "Hwang Jini was a sixteenth-century gisaeng, a performer and artist of the Joseon world, from Kaesong, now in North Korea. Only a handful of her sijo survive, and this one, about saving the long winter night for her lover’s return, is among the most famous poems in Korean.",
     "formGroup": "Poem",
     "display": {
       "title": "동짓달 기나긴 밤을",
       "english": "The long winter-solstice night",
       "creator": "Hwang Jini",
-      "language": "Korean (historical Hangul and Hanja)"
+      "language": "Korean"
+    },
+    "passage": {
+      "original": "冬至ㅅᄃᆞᆯ 기나긴 밤을 한허리를 버혀 내여\n春風 니불 아레 서리서리 너헛다가\n어론 님 오신 날 밤이여든 구뷔구뷔 펴리라",
+      "english": "I will cut the waist from the long, long night of the midwinter month,\nand fold it, coil upon coil, under a quilt of spring breeze,\nand on the night my love comes home, unroll it, fold by fold.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6644,16 +6692,22 @@
     "description": "The speaker prefers Bisera herself to the pearls she wears and strings.",
     "provenance": "Pesni, Skopje, 1986, transcribed on Macedonian Wikisource",
     "location": "Complete poem",
-    "translation": "Wikisource explicitly marks the author’s works public domain because he died more than 100 years ago. Modern anthology notes and translations excluded; preserve historical dialect rather than silently modernising it. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Wikisource explicitly marks the author’s works public domain because he died more than 100 years ago. Modern anthology notes and translations excluded; preserve historical dialect rather than silently modernising it. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete poem, 15 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1862. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "north-macedonia",
+    "contextNote": "Konstantin Miladinov was a founder of Macedonian literature, writing when Macedonia was part of the Ottoman Empire. With his brother Dimitar he collected the folk songs of the Balkans; both brothers died in an Ottoman prison in Constantinople in 1862.",
     "formGroup": "Poem",
     "display": {
       "title": "Бисера / Bisera",
       "english": "Bisera",
       "creator": "Konstantin Miladinov",
-      "language": "Macedonian (historical dialectal text)"
+      "language": "Macedonian"
+    },
+    "passage": {
+      "original": "Бисеро моме, Бисеро,\nшто носиш бисер на грло?\nТвоето грло хубаво\nи от дробнаго бисера\nхилјада пати побело.\nБисеро моме, Бисеро,\nзошто со бисер покриваш\nтвоето грло хубаво?\nЈа нејку бисер да баца,\nтук сака твоето грло.\nБисеро моме, Бисеро,\nза кого нижиш бисерот?\nЗа кого готвиш дарои?\nЈа дарој бисер не сака,\nтук сака мома Бисера.",
+      "english": "Bisera, my girl, Bisera,\nwhy do you wear pearls at your throat?\nYour lovely throat\nis a thousand times whiter\nthan even the finest pearls.\nBisera, my girl, Bisera,\nwhy do you cover with pearls\nyour lovely throat?\nI don’t want to kiss pearls,\nit is your throat I long for.\nBisera, my girl, Bisera,\nfor whom are you stringing the pearls?\nFor whom are you preparing gifts?\nI want no gift of pearls,\nI want the maiden Bisera.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6705,7 +6759,7 @@
       "title": "Borte!",
       "english": "Gone!",
       "creator": "Henrik Ibsen",
-      "language": "Norwegian literary Danish (historical original)"
+      "language": "Norwegian literary Danish"
     },
     "passage": {
       "original": "De sidste gæster\nvi fulgte til grinden;\nfarvellets rester\ntog nattevinden.\nI tifold øde\nlå haven og huset,\nhvor toner søde\nmig nys berused.\nDet var en fest kun,\nfør natten den sorte;\nhun var en gæst kun, —\nog nu er hun borte.",
@@ -6752,16 +6806,22 @@
     "description": "An abandoned lover asks how to reach the beloved, remembering promises, union and parting.",
     "provenance": "Al-Babtain Central Library for Arabic Poetry, September 2020 selection, original Arabic and Omani biography; cites historical collections.",
     "location": "Al-Babtain Library page, poem headed يا باخلاً بالوصل",
-    "translation": "Text varies in stanza/line count across modern reproductions. Biography gives differing death traditions (1803 or 1810); both are well outside copyright term. Modern song settings and editorial prose excluded.",
+    "translation": "Text varies in stanza/line count across modern reproductions. Biography gives differing death traditions (1803 or 1810); both are well outside copyright term. Modern song settings and editorial prose excluded. Passage update (29 October 2026): Complete poem, 9 couplets (18 half-lines), as printed by the Al-Babtain Library. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1803 or 1810. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "oman",
+    "contextNote": "Saʿid ibn Ahmad al-Busaʿidi was a son of Ahmad ibn Said, founder of the Al Busaid dynasty that still rules Oman, and ruled as imam himself in the late eighteenth century. This complaint against a faithless beloved shows a private side of Gulf court poetry.",
     "formGroup": "Poem",
     "display": {
       "title": "يا من هواه أعزه وأذلني / يا باخلاً بالوصل",
       "english": "O you whose love has exalted you and humbled me / O you who are miserly with union",
       "creator": "Saʿid ibn Ahmad al-Busaʿidi",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "يا مَنْ هواه أعزّه وأذلّني\nكيف السبيلُ إلى وصالِكَ؟ دُلّني\nوتركتني حيرانَ صبّاً هائمًا\nأرعى النجوم وأنت في نومٍ هني\nعاهدتني أن لا تميلَ عن الهوى\nوحلفتَ لي يا غصنُ أن لا تنثني\nهبَّ النسيم ومال غصنٌ مثلُه\nأين الزمانُ؟ وأين ما عاهدتني؟\nجاد الزمان وأنتَ ما واصلتني\nيا باخلاً بالوصل أنتَ قتلتني\nواصلتَني حتى ملكتَ حُشاشتي\nورجَعتَ من بعد الوصال هجرتني\nفلأقعدنَّ على الطريق فأشتكي\nفي زيِّ مظلومٍ وأنت ظلمتَني\nولأشكينَّكَ عند سلطان الهوى\nلِيُعذبنَّك مثلَ ما عذَّبتني\nولأدعوَنَّ عليك في جُنْح الدجى\nفعساك تُبلى مثل ما أبليتني",
+      "english": "O you whose love has raised you up and brought me low,\nhow can I reach union with you? Show me the way.\nYou have left me bewildered, lovesick, wandering,\nwatching the stars while you sleep sweetly.\nYou promised me you would not turn from love,\nand swore to me, O willow branch, that you would not bend.\nThe breeze blew, and a branch like you bent with it:\nwhere is that time now? Where is what you promised me?\nTime has been generous, yet you have not come to me;\nO you who are miserly with union, you have killed me.\nYou came to me until you owned the last of my soul,\nthen, after our union, you turned and left me.\nSo I will sit by the roadside and complain,\ndressed as one wronged, for you have wronged me;\nand I will accuse you before the sultan of love,\nso that he punishes you as you have tormented me;\nand I will call down a curse on you in the depth of night,\nso that you may be worn down as you have worn me down.",
+      "status": "draft"
     },
     "links": [
       {
@@ -6803,16 +6863,22 @@
     "description": "Heer loves Ranjha so completely that she becomes him; the poem is also read as a song of Sufi mystical love.",
     "provenance": "Kafian Bulleh Shah, Charan Papralvi compilation; Wikisource scan page",
     "location": "PDF page 123, beginning ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ",
-    "translation": "Classical Punjabi text; modern compilation and translation are separate. Bulleh Shah died in the eighteenth century. The linked Gurmukhi transcription is not the historical Shahmukhi script; verify variant readings. Country connection is his Kasur/Punjab literary tradition. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Classical Punjabi text; modern compilation and translation are separate. Bulleh Shah died in the eighteenth century. The linked Gurmukhi transcription is not the historical Shahmukhi script; verify variant readings. Country connection is his Kasur/Punjab literary tradition. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete kafi, 12 lines, in Gurmukhi script (proofread scan of Kafian Bulleh Shah, printed p. 121). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain eighteenth-century original; modern editorial material, translations and recordings excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "pakistan",
+    "contextNote": "Bulleh Shah, an eighteenth-century Sufi poet from Kasur, now in Pakistan, retold the Punjabi love story of Heer and Ranjha as a song of the soul’s union with God. It is shown here in Gurmukhi script, as in the linked edition; in Pakistan Punjabi is usually written in Shahmukhi.",
     "formGroup": "Poem",
     "display": {
       "title": "ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ / Ranjha Ranjha kardi ni main",
       "english": "Calling Ranjha, Ranjha, I myself have become Ranjha",
       "creator": "Bulleh Shah",
-      "language": "Punjabi (Gurmukhi transcription)"
+      "language": "Punjabi"
+    },
+    "passage": {
+      "original": "ਰਾਂਝਾ ਰਾਂਝਾ ਕਰਦੀ ਨੀ ਮੈਂ\nਆਪੇ ਰਾਂਝਾ ਹੋਈ।\nਸੱਦੋ ਨੀ ਮੈਨੂੰ ਧੀਦੋ ਰਾਂਝਾ\nਹੀਰ ਨਾ ਆਖੋ ਕੋਈ।\nਰਾਂਝਾ ਮੈਂ ਵਿੱਚ ਮੈਂ ਰਾਂਝੇ ਵਿੱਚ\nਹੋਰ ਖਿਆਲ ਨਾ ਕੋਈ।\nਮੈਂ ਨਹੀਂ ਉਹ ਆਪ ਹੈ ਆਪਣੀ\nਆਪ ਕਰੇ ਦਿਲਗੋਈ।\nਹੱਥ ਖੂੰਡੀ ਮੇਰੇ ਅੱਗੇ ਮੰਗੂ\nਮੋਢੇ ਭੂਰਾ ਲੋਈ।\nਬੁਲ੍ਹਾ ਹੀਰ ਸਲੇਟੀ ਵੇਖੋ\nਕਿੱਥੇ ਜਾ ਖਲੋਈ।",
+      "english": "Calling “Ranjha, Ranjha”, O friends,\nI myself have become Ranjha.\nCall me Dhido Ranjha, friends;\nlet no one call me Heer.\nRanjha is in me, I am in Ranjha;\nthere is no other thought.\nIt is not I: it is he himself\nwho comforts his own heart.\nA herder’s staff in my hand, the herd before me,\na brown blanket on my shoulders.\nBulleh, look at Heer of the Sial clan:\nwhere has she come to stand!",
+      "status": "draft"
     },
     "links": [
       {
@@ -6893,16 +6959,22 @@
     "description": "The speaker addresses a rejecting beloved, sending longing and reproach through the stars and a singing bird. Romantic separation and unfulfilled affection.",
     "provenance": "Hindawi complete poetry, 2012 edition, book 25090535; Hindawi URL redirects to Safahat. Publisher explicitly declares the underlying text public domain.",
     "location": "Named chapter شوق وعتاب",
-    "translation": "Collection’s first issue date is listed as unknown; do not treat 2012 as composition date. Original Arabic only; modern translation and editorial material separate.",
+    "translation": "Collection’s first issue date is listed as unknown; do not treat 2012 as composition date. Original Arabic only; modern translation and editorial material separate. Passage update (29 October 2026): Complete poem, 24 half-lines (Hindawi edition of the complete poems; the section dividers are omitted). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Publisher explicitly states the underlying text is public domain. Author died 1941; standard life-plus-70 term expired. Modern translations and editorial additions excluded.",
     "source": "Linked full original text / credited edition",
     "id": "palestine",
+    "contextNote": "Ibrahim Tuqan wrote this as a student at the American University of Beirut in 1926, when Palestine was under British mandate. He went on to write “Mawtini” (“My Homeland”), which became a beloved Arab anthem; he died in 1941, aged 36.",
     "formGroup": "Poem",
     "display": {
       "title": "شوق وعتاب",
       "english": "Longing and Reproach",
       "creator": "Ibrahim Tuqan",
       "language": "Arabic"
+    },
+    "passage": {
+      "original": "كيف أغويتَني وأمعنتَ صَدّا\nيا حبيبًا أعطى قليلًا وأكدى\nودَّ قلبي لو يجهل الحبَّ لما\nأنْ رآه يحول سَقْمًا ووَجْدا\nوشكتْ أضلعي من القلب نارًا\nهل عهدنَ الهوى سلامًا وبَردا؟!\nطلع الفجرُ باسمًا فتأمّلْ\nبنجوم الدجى تَرنَّحُ سُهْدا\nهي مثلي حيرى وعمّا قريبٍ\nتتوارى مع الظلام وتهدا\nلكَ حمّلتُها رسالةَ شوقٍ\nوعتابٍ، أظنّها لا تُؤدّى …\nقلتُ للطير حين أصبح يشدو\n«أيها الطيرُ عِمْ صباحًا!» فَردّا\nثم غنّى أنشودةً عن حبيبٍ\nلم يكن ظالمًا، ولا خان عهدا\nأضرمَ الذكرياتِ بي ثُمّ ولّى\nلا رماكَ الصيّادُ … أسرفتَ جِدّا\nجمع اللهُ في مُحيّا حبيبي\nأُقحوانًا وياسَمينًا وَوَردا\nوابتسامًا لا يهجر الثغرَ إلَّا\nعند قولي له: أَتُنجز وعدا؟\nلا عرفتَ الوَفا ولا كان وعدٌ\nيجعل البسمةَ الوديعةَ حِقدا",
+      "english": "How you seduced me, then turned ever further away!\nO beloved who gave a little, then gave no more.\nMy heart wished it knew nothing of love\nwhen it saw love turn to sickness and longing;\nand my ribs complained of the fire in my heart:\nhave they ever known love as cool and peaceful?\nDawn rose smiling: look at\nthe night’s stars swaying, sleepless.\nThey are bewildered like me, and soon\nthey will vanish with the dark and grow still.\nI gave them a message for you, of longing\nand reproach; I think it will not be delivered…\nI said to the bird when it began to sing at dawn,\n“Good morning, bird!” and it answered,\nthen sang a song about a beloved\nwho was never cruel and never broke a promise.\nIt kindled my memories, then flew away:\nmay no hunter ever shoot you… but you went too far!\nGod gathered in my beloved’s face\ncamomile, jasmine and rose,\nand a smile that leaves those lips only\nwhen I say: will you keep a promise?\nForget faithfulness, then: let there be no promise\nthat turns that gentle smile to bitterness.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7034,16 +7106,22 @@
     "description": "A sensuous address to a woman’s dark eyes, comparing their beauty with birds, moonlight and dawn; tender glances stir desire.",
     "provenance": "Portal Guaraní reproduces Guaraní text from Encina Ramos and Tatajyva, Las cien mejores poesías en guaraní, 2nd ed. 1997; author born/died Asunción, 1880–1920.",
     "location": "Section TESA HU MOKÕIME, between El Pombero and the Spanish translation",
-    "translation": "Use Pane’s Guaraní original. Spanish free translation by Sinforiano Buzó Gómez is separately authored and is not covered by this original-rights assessment. Check modern orthographic editing before verbatim reuse.",
+    "translation": "Use Pane’s Guaraní original. Spanish free translation by Sinforiano Buzó Gómez is separately authored and is not covered by this original-rights assessment. Check modern orthographic editing before verbatim reuse. Passage update (29 October 2026): Complete poem, 20 lines, in Guaraní (text as printed in Las cien mejores poesías en guaraní, 1997). English translated from the Guaraní, checked against the free Spanish version printed with it. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1920. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "paraguay",
+    "contextNote": "Ignacio Alberto Pane was a Paraguayan poet, teacher and politician who wrote in both Spanish and Guaraní, the Indigenous language spoken by most Paraguayans. Writing poetry in Guaraní was a statement of pride at a time when educated society favoured Spanish.",
     "formGroup": "Poem",
     "display": {
       "title": "Tesa hu mokõime",
       "english": "To Two Black Eyes",
       "creator": "Ignacio Alberto Pane",
       "language": "Guaraní"
+    },
+    "passage": {
+      "original": "Chopĩ haitýpe mokói oĩva,\nndojohejávai maramoĩte;\npeteĩchaitéva hữngue porãme\nha iporãnguépe katu kõingue.\nUpe hữnguépe he’i jakúpe\nha pyharépe: tapomohữ.\nTesapehápe he’i jasýpe\nku oike potávo: toroipyru.\nMa’ẽ saguýpe jahechapáma\nKa’a pa’ữme kuarahysẽ\nha om’ẽmbápe nahesakãiri\nhendy porãnte jasyichaite.\nMba’e mbyasýpe \"luto\" voíva\nha vy’ahápe tory rupa\nMa’ẽ hatãme chemopirĩva\nma’ẽ mbeguépe chemoãngaipa.\nOmoporãva kuñataĩnguéra\njáma hi’áva, jáma hete,\npe pende jara noikotevẽiri\nporã oñohẽgui pende pire.",
+      "english": "Two thrushes that are in their nest\nand never part from each other,\nalike in their beautiful blackness\nand twins in their beauty.\nFor their blackness they say to the pheasant\nand to the night: we will out-darken you;\nfor their shine they say to the moon,\nas it goes in: we will take your place.\nWhen they glance sideways, it is as if we saw\nthe sun rising between the woods,\nand when they look straight, they do not merely shine:\nthey blaze as brightly as the moon.\nFor sorrow they are ready mourning,\nfor joy a spring of delight;\nin hard looks they make me shiver,\nin soft looks they make me sin.\nWhat makes young women beautiful,\ntheir hair, their figure,\nyour mistress does not need,\nfor beauty overflows from you.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7085,16 +7163,22 @@
     "description": "The speaker recalls Rita, her hands and domestic hopes while imagining her distant life.",
     "provenance": "Spanish Wikisource original transcription",
     "location": "Complete poem",
-    "translation": "Vallejo died 1938. Use the original Spanish, excluding modern translations. Exact print basis of the transcription is not identified; compare Los heraldos negros scan. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Vallejo died 1938. Use the original Spanish, excluding modern translations. Exact print basis of the transcription is not identified; compare Los heraldos negros scan. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Complete poem, 14 lines, from the proofread scan of Los heraldos negros (1919). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1938. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "peru",
+    "contextNote": "César Vallejo wrote this in Lima, homesick for the Andean town of Santiago de Chuco where he grew up, and published it in his first book, Los heraldos negros (1919). He later moved to Paris and died there in 1938; he is often called the greatest Peruvian poet.",
     "formGroup": "Poem",
     "display": {
       "title": "Idilio muerto",
       "english": "A Dead Idyll",
       "creator": "César Vallejo",
       "language": "Spanish"
+    },
+    "passage": {
+      "original": "Qué estará haciendo esta hora mi andina y dulce Rita\nde junco y capulí;\nahora que me asfixia Bizancio, y que dormita\nla sangre, como flojo cognac, dentro de mí.\nDónde estarán sus manos que en actitud contrita\nplanchaban en las tardes blancuras por venir;\nahora, en esta lluvia que me quita\nlas ganas de vivir.\nQué será de su falda de franela; de sus\nafanes; de su andar;\nde su sabor a cañas de mayo del lugar.\nHa de estarse a la puerta mirando algún celaje,\ny al fin dirá temblando: «Qué frío hay... Jesús!»\ny llorará en las tejas un pájaro salvaje.",
+      "english": "What can my sweet Andean Rita be doing at this hour,\nRita of reeds and wild cherries,\nnow that Byzantium stifles me, and my blood\ndrowses inside me like weak cognac?\nWhere can her hands be, which, as if in penitence,\nironed in the evenings whitenesses still to come,\nnow, in this rain that takes from me\nthe wish to live?\nWhat has become of her flannel skirt, of her\ntoil, of her walk,\nof her taste of the local May sugar cane?\nShe must be standing at the door, watching the sunset clouds,\nand at last she will say, shivering: “How cold it is… Jesus!”\nand on the roof tiles a wild bird will weep.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7136,16 +7220,22 @@
     "description": "The poet addresses Celia, remembering his first love and offering the work to her.",
     "provenance": "Florante at Laura, Manila, 1921; Project Gutenberg eBook 15845",
     "location": "Cay Celia dedication, pp. 2–5; opening Cong pag saulang cong basahin sa isip",
-    "translation": "Original Tagalog dedication only; exclude the modern digital notes and unrelated commentary. Author died 1862; commentator died 1941. Old spelling and transcription errors require comparison with a scan. The selection is the original-language text; an existing English translation is not required.",
+    "translation": "Original Tagalog dedication only; exclude the modern digital notes and unrelated commentary. Author died 1862; commentator died 1941. Old spelling and transcription errors require comparison with a scan. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): First four stanzas of the dedication, 16 lines. The edition’s footnote numbers are removed, and the Gutenberg stand-in “n~g” is written “ñg” for the old Tagalog ng with a tilde. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public-domain original; Project Gutenberg explicitly labels the Tagalog edition public domain in the USA, and the author’s life-plus-70 term has elapsed.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "philippines",
+    "contextNote": "Francisco Balagtas wrote Florante at Laura in 1838, under Spanish colonial rule; tradition says he had lost his beloved, called Celia here, to a rich rival who had him imprisoned. It became the most famous work of Tagalog literature, and this dedication is still learnt in Philippine schools.",
     "formGroup": "Poem",
     "display": {
       "title": "Florante at Laura — Cay Celia",
       "english": "Florante and Laura — To Celia",
       "creator": "Francisco Balagtas / Baltazar",
       "language": "Tagalog"
+    },
+    "passage": {
+      "original": "Cong pag saulang cong basahin sa isip\nang nañgacaraang arao ñg pag-ibig,\nmay mahahaguilap cayang natititic\nliban na cay Celiang namugad sa dibdib?\nYaong Celiang laguing pinañgañganiban\nbaca macalimot sa pag-iibigan;\nang iquinalubog niyaring capalaran\nsa lubhang malalim na caralitaan.\nMacaligtaang co cayang di basahin\nnagdaáng panahón ñg suyuan namin?\ncaniyang pagsintáng guinugol sa aquin\nat pinuhunan cong pagod at hilahil?\nLumipas ang arao na lubhang matamis\nat ualáng nátira condi ang pag-ibig ,\ntapat na pag suyong lalagui sa dibdib\nhanggang sa libiñgan bangcay co,i, maidlip.",
+      "english": "When I go back and read over in my mind\nthe days of love that have passed,\ncan anything be found written there\nexcept Celia, who nested in my heart?\nThat Celia whom I always feared\nmight forget our love;\nthe one who sank this fortune of mine\ninto the deepest poverty.\nCould I neglect to read over\nthe past time of our courtship,\nthe love she spent on me,\nand the toil and sorrow I gave for it?\nThe sweetest days have gone by,\nand nothing is left but love,\na faithful devotion that will stay in my heart\nuntil my body sleeps in the grave.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7187,16 +7277,22 @@
     "description": "Immediate attraction and love despite social barriers.",
     "provenance": "Sonety Adama Mickiewicza; Moscow University Press, author-published, 1826",
     "location": "Sonety Odeskie, I, p. 3",
-    "translation": "Polish original in historical spelling. The poet was born in present-day Belarus; this row follows his Polish literary identity. Modern translations are separate.",
+    "translation": "Polish original in historical spelling. The poet was born in present-day Belarus; this row follows his Polish literary identity. Modern translations are separate. Passage update (29 October 2026): Complete sonnet, 14 lines, in the spelling of the 1826 edition. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "poland",
+    "contextNote": "Adam Mickiewicz wrote his Odessa sonnets in 1825, in exile in the Russian Empire after his arrest for belonging to a Polish student society. This sonnet to “Laura” opens the cycle; Mickiewicz is Poland’s national poet.",
     "formGroup": "Poem",
     "display": {
       "title": "Do Laury",
       "english": "To Laura",
       "creator": "Adam Mickiewicz",
       "language": "Polish"
+    },
+    "passage": {
+      "original": "Ledwiem ciebie zobaczył, jużem się zapłonił,\nW nieznaném oku dawnéj znajomości pytał,\nI s twych jagód wzajemny rumieniec wykwitał\nJak z róży, któréj piersi zaranek odsłonił.\nLedwieś piosnkę zaczęła, jużem łzy uronił,\nTwój głos wnikał do serca i za duszę chwytał;\nZdało się że ją anioł po imieniu witał,\nI w zegar niebios chwilę zbawienia zadzwonił.\nO luba! niech twe oczy przyznać się nie boją,\nJeśli cię mém spojrzeniem, jeśli głosem wzruszę,\nNie dbam że los i ludzie przeciwko nam stoją,\nŻe uciekać i kochać bez nadziei muszę.\nNiech ślub ziemski innego darzy ręką twoją,\nTylko wyznaj że Bóg mi poślubił twą duszę.",
+      "english": "I had barely seen you when I blushed,\nand sought an old acquaintance in an unknown eye,\nand an answering blush bloomed on your cheeks\nas from a rose whose breast the dawn has bared.\nYou had barely begun your song when I shed tears;\nyour voice entered my heart and seized my soul;\nit seemed an angel greeted it by name\nand struck the hour of salvation on heaven’s clock.\nO beloved! let your eyes not be afraid to confess\nif my glance, if my voice, moves you;\nI do not care that fate and people stand against us,\nthat I must flee, and love without hope.\nLet an earthly marriage give your hand to another;\nonly confess that God has wedded your soul to mine.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7295,16 +7391,22 @@
     "description": "The lover’s heart is wounded by the beloved’s eyes and by separation.",
     "provenance": "Muhammad Ahmad al-Qudah’s article in Nizwa, Oman Ministry of Information, identifies the Doha poet, dates and 1963 diwan.",
     "location": "Four bayts following the account of the poet’s final pearl-diving voyage",
-    "translation": "The incipit is the identifier, not a verified authorial title. Source typography/OCR needs checking against the 1963 diwan. The 1995 criticism has separate rights.",
+    "translation": "The incipit is the identifier, not a verified authorial title. Source typography/OCR needs checking against the 1963 diwan. The 1995 criticism has separate rights. Passage update (29 October 2026): Four couplets (8 half-lines) of Nabati verse, as printed in Nizwa magazine. The reading of the last couplet is uncertain, and the English there is tentative. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1907. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Muhammad Ahmad al-Qudah’s article in Nizwa, Oman Ministry of Information, identifies the Doha poet, dates and 1963 diwan.",
     "id": "qatar",
+    "contextNote": "Majid ibn Salih al-Khulaifi was a Qatari poet of the pearl-diving era, writing in Nabati, the vernacular verse of the Gulf. These were among the last lines he wrote: he died at sea on a diving voyage in 1907, aged 34.",
     "formGroup": "Poem",
     "display": {
       "title": "يا من رماني أو صاب أحشاي نشابه",
       "english": "O you who shot me, whose arrow struck my heart",
       "creator": "Majid ibn Salih al-Khulaifi",
       "language": "Arabic / Nabati"
+    },
+    "passage": {
+      "original": "يامن رماني أو صاب احشاي نشابه\nيذكر حبيب سعى بالشين لاحبابه\nسليت لي من جفونك مرهف صارم\nلا واعذابي عن الصارم وجذابه\nظنية بك يا عديل الروح ظن ولا\nحققت ظني سوى بالهجر واكذابه\nونيت من هجركم ونت غريق هوى\nفى غية لايري برا ولا اخشابه",
+      "english": "O you who shot me, whose arrow struck my heart,\nit brings to mind a beloved who brought harm on those who loved him.\nFrom your eyelids you drew on me a keen, sharp sword:\nah, my torment from that sword and its pull!\nI thought well of you, O twin of my soul, but you\nfulfilled my hopes only with desertion and its lies.\nI moaned at your desertion, drowned in love,\nin a depth where neither shore nor ship’s timbers can be seen.",
+      "status": "draft"
     },
     "links": [
       {
@@ -7737,16 +7839,22 @@
     "description": "Love quatrains include exchanged kisses and praise of a dark-skinned beloved, alongside racial imagery shaped by colonial society.",
     "provenance": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
     "location": "Section on Costa Alegre, poem Serões de São Tomé",
-    "translation": "The text contains racial comparisons requiring contextual reading. Modern commentary is separate. Composition date is not known; 1916 is the collection date.",
+    "translation": "The text contains racial comparisons requiring contextual reading. Modern commentary is separate. Composition date is not known; 1916 is the collection date. Passage update (29 October 2026): First four quatrains, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1890. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
     "id": "sao-tome-and-principe",
+    "contextNote": "Caetano da Costa Alegre was born on São Tomé and went to Lisbon to study medicine, where he wrote about being a Black man in love in white Portuguese society. He died of tuberculosis in 1890, aged 25, and his Versos (1916) are seen as an early voice of what became Negritude.",
     "formGroup": "Poem",
     "display": {
       "title": "Serões de São Tomé",
       "english": "Evenings in São Tomé",
       "creator": "Caetano da Costa Alegre",
       "language": "Portuguese"
+    },
+    "passage": {
+      "original": "Meus olhos são como a noite\nem que astro nenhum flutua\nmas se o teu olhar o fita\nna noite desponta a lua\nSe os escravos são comprados\nó branca de além do mar\nhomem livre eu, sou escravo\ncomprado por teu olhar\nMeu olhar é retratista\nò minha doce miragem\nsenão diz-me porque tenho\nno meu peito a tua imagem\nRoubei-te o primeiro beijo\no segundo foi-me dado\no terceiro, francamente,\ncreio que me foi roubado",
+      "english": "My eyes are like the night\nin which no star is floating,\nbut if your gaze rests on them,\nthe moon rises in that night.\nIf slaves are bought,\nO white woman from over the sea,\nI, a free man, am a slave\nbought by your gaze.\nMy gaze is a portrait painter,\nO my sweet mirage;\notherwise tell me why I carry\nyour image in my breast.\nI stole the first kiss from you,\nthe second was given to me,\nthe third, frankly,\nI believe was stolen from me.",
+      "status": "draft"
     },
     "links": [
       {
@@ -8352,7 +8460,7 @@
       "title": "閨怨 / Gyuwon I",
       "english": "A Woman's Chamber Lament, I",
       "creator": "Heo Nanseolheon",
-      "language": "Classical Chinese (Hanja original)"
+      "language": "Classical Chinese"
     },
     "links": [
       {
@@ -8810,7 +8918,7 @@
       "title": "بی روی تو خورشید جهان‌سوز مباد, rubāʿī 8",
       "english": "Without your face, may the world-burning sun not shine",
       "creator": "Attributed to Rudaki",
-      "language": "Persian (Arabic script)"
+      "language": "Persian"
     },
     "links": [
       {
@@ -9708,7 +9816,7 @@
       "title": "The Story of Basi and Dovaowari",
       "english": "",
       "creator": "Unnamed local narrator/writer; translated by R. H. Codrington",
-      "language": "Maewo (Aurora) tradition; historical English translation"
+      "language": "Maewo tradition; historical English translation"
     },
     "links": [
       {
