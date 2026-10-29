@@ -760,51 +760,39 @@ window.ARCHIVE = [
     "refId": "ML-015",
     "country": "Barbados",
     "continent": "North America",
-    "title": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
-    "titleEnglish": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
-    "creator": "J. W. Orderson (historical author, 1767–1847)",
-    "openOriginal": "Yes",
-    "referenceType": "Named novel (historical edition)",
-    "form": "Novel",
+    "title": "Revelation",
+    "titleEnglish": "Revelation",
+    "creator": "H. A. Vaughan (1901–1985)",
+    "openOriginal": "No",
+    "referenceType": "Named poem",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1842",
+    "year": "",
     "language": "English",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "First published London: Saunders and Otley, 1842",
-    "editionDate": "1842 original edition; Google Books full-view edition identified",
-    "description": "Caroline Fairfield and Jack Goldacre overcome obstacles and marry. Their courtship is paired with the story of Caroline’s half-sister Lucy within Barbadian colonial society.",
-    "provenance": "Google Books lists the 1842 original as Full view; Cambridge History of Victorian Literature discusses its Barbadian authorship. John Gilmore’s scholarly review discusses the romantic plot.",
-    "location": "Courtship and eventual marriage of Caroline Fairfield and Jack Goldacre",
-    "translation": "Reuse the 1842 text. The 2002 John Gilmore introduction, notes and other new editorial content are excluded. Colonial racial hierarchies and slavery form part of the narrative context. Retain the original printed author name J. W. Orderson rather than infer an expanded name. Passage update (29 October 2026): Not filled: the 1842 novel is identified, but the linked Google Books text could not be retrieved for passage verification. Supply relevant original-edition pages showing Caroline Fairfield and Jack Goldacre. Do not substitute a plot summary for the original English text.",
-    "rights": "Historical original composition; author died 1847, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "Twentieth century; reprinted in Bim vol. 8 (Independence issue)",
+    "editionDate": "",
+    "description": "A Barbadian lover asks his beloved to turn in the sun, praising her dark beauty above the Greek and Roman ideals taught in school.",
+    "provenance": "Bim magazine, vol. 8 (Independence issue), p. 46",
+    "location": "Complete poem, p. 46",
+    "translation": "Reuse the 1842 text. The 2002 John Gilmore introduction, notes and other new editorial content are excluded. Colonial racial hierarchies and slavery form part of the narrative context. Retain the original printed author name J. W. Orderson rather than infer an expanded name. Passage update (29 October 2026): Not filled: the 1842 novel is identified, but the linked Google Books text could not be retrieved for passage verification. Supply relevant original-edition pages showing Caroline Fairfield and Jack Goldacre. Do not substitute a plot summary for the original English text. Work changed (29 October 2026): the earlier work, by a colonial author from the slave-owning side, is replaced by a work by a local writer descended from the enslaved. In copyright: listed with a description and link only, not reproduced.",
+    "rights": "In copyright (author died 1985). Not reproduced; listed with a link.",
+    "source": "Bim magazine, vol. 8",
     "id": "barbados",
-    "contextNote": "Creoleana was written by a white Barbadian who lived through the era of slavery, and it looks back fondly on island society in those years. Its love story takes place in a world built on the forced labour of enslaved Africans, whose own voices the book largely leaves out. We include it because it is one of the earliest Barbadian novels, but it is a view from one side of a deeply unequal society.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "H. A. Vaughan was a Barbadian poet and historian, descended from the island’s enslaved African population. “Revelation” answers a colonial schooling that measured beauty by Greece and Rome, celebrating instead, in his words, “burnished beauty nearer home”.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
+      "title": "Revelation",
       "english": "",
-      "creator": "J. W. Orderson",
+      "creator": "H. A. Vaughan",
       "language": "English"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://books.google.com/books?id=MAVmAAAAcAAJ"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://books.google.com/books?id=MAVmAAAAcAAJ"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://doi.org/10.1007/s10912-010-9128-y"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.cambridge.org/core/product/552E7F43A1A44C69063638FB12DBEB6A"
+        "label": "Read about it",
+        "url": "https://www.bimmag.bimlitfest.org/sites/default/files/2020-01/V8%20Bim%20Independence%20Issue.pdf"
       }
     ]
   },
@@ -5725,55 +5713,39 @@ window.ARCHIVE = [
     "refId": "ML-110",
     "country": "Mauritius",
     "continent": "Africa",
-    "title": "Paul et Virginie",
-    "titleEnglish": "Paul and Virginie (the lovers' names)",
-    "creator": "Jacques-Henri Bernardin de Saint-Pierre (1737–1814)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Prose / novel",
+    "title": "Anita",
+    "titleEnglish": "Anita",
+    "creator": "Ti Frère (Jean Alphonse Ravaton, 1900–1992)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1788",
-    "language": "French",
+    "year": "",
+    "language": "Mauritian Creole",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "1788 in Études de la nature; separate edition 1789",
-    "editionDate": "Linked French edition: 1874; Wikisource also has an 1806 edition",
-    "description": "Paul and Virginie’s childhood affection becomes romantic love on Mauritius; separation and shipwreck bring a tragic ending.",
-    "provenance": "Library of Congress digitised French edition and work description identify Mauritius as the setting and confirm the original date.",
-    "location": "Complete novel; select the lovers’ declarations or separation passages",
-    "translation": "Country connection is setting and Mauritian cultural association: the author was French, not Mauritian. The story reflects a colonial plantation society. Modern adaptations and commentary are excluded.",
-    "rights": "The Library of Congress expressly identifies the linked book as public domain and free to use and reuse. Historical French original also falls well beyond standard life-plus-70 terms.",
-    "source": "Library of Congress digitised French edition and work description identify Mauritius as the setting and confirm the original date.",
+    "originalDate": "Twentieth century",
+    "editionDate": "",
+    "description": "One of the best-loved segas of Ti Frère, the “King of Sega”, whose songs tell of impossible loves, quarrelling lovers and hard lives.",
+    "provenance": "Ti Frère’s repertoire; on the Ocora compilation Mauritius: Tribute to Ti Frère – Séga, Music of Exile",
+    "location": "Song",
+    "translation": "Country connection is setting and Mauritian cultural association: the author was French, not Mauritian. The story reflects a colonial plantation society. Modern adaptations and commentary are excluded. Work changed (29 October 2026): the earlier work, by a colonial author from the slave-owning side, is replaced by a work by a local writer descended from the enslaved. In copyright: listed with a description and link only, not reproduced.",
+    "rights": "In copyright (artist died 1992). Not reproduced; listed with a link.",
+    "source": "Maurisique: Ti Frère forever",
     "id": "mauritius",
-    "contextNote": "Paul et Virginie was written by a French author who had lived on the island when it was a French colony worked by enslaved people. He criticised slavery in his other writing, yet the story's island idyll still depends on enslaved characters who serve in the background. It became one of the most widely read love stories of its age, and its picture of colonial life should be read with that history in mind.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Sega grew out of the music and dance of enslaved Africans and Malagasy in Mauritius, and was long looked down on by the colonial elite. Ti Frère, crowned “King of Sega” in 1964, brought it pride of place; his songs of love and hard lives are still sung across the island.",
+    "formGroup": "Song",
     "display": {
-      "title": "Paul et Virginie",
-      "english": "Paul and Virginie",
-      "creator": "Jacques-Henri Bernardin de Saint-Pierre",
-      "language": "French"
+      "title": "Anita",
+      "english": "",
+      "creator": "Ti Frère",
+      "language": "Mauritian Creole"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://www.loc.gov/item/14015622/"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.loc.gov/item/14015622/"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://www.loc.gov/item/2021666976/"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.loc.gov/item/2021666976/"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://fr.wikisource.org/wiki/Paul_et_Virginie"
+        "label": "Read about it",
+        "url": "http://maurisique.com/histoire-de-la-musique-mauricienne/ti-frere-forever-jeunes-generations/"
       }
     ]
   },
@@ -8764,51 +8736,39 @@ window.ARCHIVE = [
     "refId": "ML-168",
     "country": "Suriname",
     "continent": "South America",
-    "title": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
-    "titleEnglish": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
-    "creator": "John Gabriel Stedman (1744–1797)",
-    "openOriginal": "Yes",
-    "referenceType": "Named literary memoir (full historical edition)",
-    "form": "Literary memoir",
+    "title": "Awese",
+    "titleEnglish": "Awese (poems in Sranan Tongo)",
+    "creator": "Johanna Schouten-Elsenhout (1910–1992)",
+    "openOriginal": "No",
+    "referenceType": "Named poetry collection",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1796",
-    "language": "English",
+    "year": "1965",
+    "language": "Sranan Tongo",
     "tradition": "",
     "formDetails": "Literary memoir",
     "genderDetails": "Man author",
-    "originalDate": "First published London, 1796; describes residence in Suriname, 1773–1777",
-    "editionDate": "1796 published version, two volumes",
-    "description": "Stedman tells of his attachment to Joanna, their life together and their separation in Suriname.",
-    "provenance": "Library of Congress digitizes the 1796 edition; Wellcome marks its 1796 copy Public Domain. Romantic Circles study explains the Joanna narrative and differences between manuscript and print.",
-    "location": "Joanna episodes across the two volumes; see edition comparison in Romantic Circles",
-    "translation": "Foreign Scottish-Dutch author stationed in Suriname; not a Surinamese-authored indigenous voice. Slavery, colonial violence and unequal power are integral. Use the published 1796 text, not the substantially different modern editions of the 1790 manuscript (1988/1992).",
-    "rights": "Historical original composition; author died 1797, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "1965 (collection)",
+    "editionDate": "",
+    "description": "Poems in Sranan Tongo by one of Suriname’s first women poets, among them love poems, including poems of love between women.",
+    "provenance": "Awese (1965); her work is discussed by the Werkgroep Caraïbische Letteren",
+    "location": "Collection",
+    "translation": "Foreign Scottish-Dutch author stationed in Suriname; not a Surinamese-authored indigenous voice. Slavery, colonial violence and unequal power are integral. Use the published 1796 text, not the substantially different modern editions of the 1790 manuscript (1988/1992). Work changed (29 October 2026): the earlier work, by a colonial author from the slave-owning side, is replaced by a work by a local writer descended from the enslaved. In copyright: listed with a description and link only, not reproduced.",
+    "rights": "In copyright (author died 1992). Not reproduced; listed with a link.",
+    "source": "Werkgroep Caraïbische Letteren: 100 jaar Johanna Schouten-Elsenhout",
     "id": "suriname",
-    "contextNote": "John Gabriel Stedman was a soldier sent to Suriname to fight people who had escaped slavery. His account of Joanna, an enslaved woman, is often read as a love story, but he wrote it as a man with power over her, and her own view of their relationship was never recorded. It is included as an important, and troubling, record of love under slavery.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Johanna Schouten-Elsenhout, an Afro-Surinamese poet, wrote only in Sranan Tongo, the creole language created by enslaved Africans in Suriname, at a time when Dutch was the language of literature. She is remembered as one of the first women to publish poetry in Sranan.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
+      "title": "Awese",
       "english": "",
-      "creator": "John Gabriel Stedman",
-      "language": "English"
+      "creator": "Johanna Schouten-Elsenhout",
+      "language": "Sranan Tongo"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.loc.gov/item/02011781/"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://wellcomecollection.org/works/cnxd2xea/items?shouldScrollToCanvas=true"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://www.romantic-circles.org/praxis/circulations/kennedy"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2014.63.8.1-.2"
+        "label": "Read about it",
+        "url": "https://werkgroepcaraibischeletteren.nl/100-jaar-johanna-schouten-elsenhout/"
       }
     ]
   },
