@@ -2882,50 +2882,39 @@ window.ARCHIVE = [
     "refId": "ML-057",
     "country": "Eswatini",
     "continent": "Africa",
-    "title": "The Fairy Frog",
-    "titleEnglish": "The Fairy Frog",
-    "creator": "Traditional Swazi storytellers unknown; arranged in English by Sarah F. Bourhill and Beatrice L. Drake",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named oral tale (full historical retelling)",
-    "form": "Literary retelling / folk tale",
+    "title": "Lutsandvo",
+    "titleEnglish": "Love",
+    "creator": "Mzwaa and Velemseni",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Unknown",
-    "year": "1908",
-    "language": "English historical retelling of a Swazi tale; no siSwati transcript supplied",
+    "year": "2019",
+    "language": "siSwati",
     "tradition": "",
     "formDetails": "Literary retelling / folk tale",
     "genderDetails": "Traditional composer / storyteller unknown; see creator and version notes",
-    "originalDate": "English version published 1908; traditional composition date unknown",
-    "editionDate": "Fairy Tales from South Africa, Macmillan, London, 1908",
-    "description": "Tombi-ende is saved by a frog who becomes a prince after winning her love; they marry. The story includes jealousy and violence before its happy ending.",
-    "provenance": "The historical book explicitly labels this individual tale A SWAZI TALE. Swazi cultural association supports the Eswatini grouping; this cross-border tradition is not claimed to be exclusive to present-day Eswatini.",
-    "location": "XVI, The Fairy Frog, pp.187–198",
-    "translation": "Two women arranged the English version; gender of original storytellers/composers remains unknown. Original siSwati wording is not provided. The introduction uses colonial racial terminology; use the story critically and distinguish later adaptations.",
-    "rights": "The 1908 English version is public domain in the USA, as recorded by Project Gutenberg. Compilers’ death dates and rights outside the USA are not established here. No claim of open original siSwati text or later retellings.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "2019",
+    "editionDate": "",
+    "description": "A soulful love song sung entirely in siSwati; its title means “love”.",
+    "provenance": "Recording",
+    "location": "",
+    "translation": "Two women arranged the English version; gender of original storytellers/composers remains unknown. Original siSwati wording is not provided. The introduction uses colonial racial terminology; use the story critically and distinguish later adaptations. Work changed (29 October 2026): the earlier colonial-era retelling is replaced, because the collector’s book uses language that is offensive today. Replaced by a song by a local artist; in copyright, listed with a description and link only.",
+    "rights": "In copyright. Not reproduced; listed with a link.",
+    "source": "Texx and the City: Mzwaa releases video for his love song “Lutsandvo”",
     "id": "eswatini",
-    "formGroup": "Narrative & oral",
+    "contextNote": "“Lutsandvo” belongs to “Swazi soul”, a style that has made singing in siSwati fashionable again. It won the 2019 MTN SWAMA award for best collaboration.",
+    "formGroup": "Song",
     "display": {
-      "title": "The Fairy Frog",
-      "english": "",
-      "creator": "arranged in English by Sarah F. Bourhill and Beatrice L. Drake",
-      "language": "English historical retelling of a Swazi tale; no siSwati transcript supplied"
+      "title": "Lutsandvo",
+      "english": "Love",
+      "creator": "Mzwaa and Velemseni",
+      "language": "siSwati"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/75833/pg75833-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/ebooks/75833"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://www.gutenberg.org/cache/epub/75833/pg75833-images.html"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.gutenberg.org/cache/epub/75833/pg75833-images.html"
+        "label": "Read about it",
+        "url": "https://texxandthecity.com/2020/10/mzwaa-releases-bold-video-for-his-soulful-love-song-lutsandvo/"
       }
     ]
   },
@@ -6561,50 +6550,39 @@ window.ARCHIVE = [
     "refId": "ML-127",
     "country": "Nigeria",
     "continent": "Africa",
-    "title": "Ituen and the King’s Wife",
-    "titleEnglish": "Ituen and the King’s Wife",
-    "creator": "Southern Nigerian oral tradition; English version collected by Elphinstone Dayrell (1869–1917)",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named oral tale (full historical text)",
-    "form": "Oral tale",
+    "title": "Love Nwantiti (Ah Ah Ah)",
+    "titleEnglish": "Small Love",
+    "creator": "CKay",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Unknown",
-    "year": "1910",
-    "language": "Calabar/Cross River tradition; historical English version",
+    "year": "2019",
+    "language": "Igbo and English",
     "tradition": "",
     "formDetails": "Oral tale",
     "genderDetails": "Traditional composer / storyteller unknown; see creator and version notes",
-    "originalDate": "Published London, 1910; traditional narrative date unknown",
-    "editionDate": "Folk Stories from Southern Nigeria, West Africa, chapter V, pp.29–32",
-    "description": "Ituen and a king’s wife become lovers and arrange secret meetings. Their discovery leads to a tragic punishment.",
-    "provenance": "Dayrell’s 1910 collection, chapter V, explicitly locates the story in Calabar. Project Gutenberg provides the complete historical English text.",
-    "location": "V, Ituen and the King’s Wife, pp.29–32",
-    "translation": "A dark account of mutual attraction, adultery and violent punishment, not an affirmative model of love. The queen also detains Ituen against his wishes. Reuse only the historical English text; original-language wording, later retellings and recordings are separate.",
-    "rights": "Historical English text published 1910 and public domain in the US; collector Dayrell died 1917, beyond life-plus-70. This does not establish rights to native variants or new adaptations.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "2019",
+    "editionDate": "",
+    "description": "A love song sung mostly in Igbo; CKay explains that “love nwantiti”, literally “small love”, means the love within a couple.",
+    "provenance": "Recording",
+    "location": "",
+    "translation": "A dark account of mutual attraction, adultery and violent punishment, not an affirmative model of love. The queen also detains Ituen against his wishes. Reuse only the historical English text; original-language wording, later retellings and recordings are separate. Work changed (29 October 2026): the earlier colonial-era retelling is replaced, because the collector’s book uses language that is offensive today. Replaced by a song by a local artist; in copyright, listed with a description and link only.",
+    "rights": "In copyright. Not reproduced; listed with a link.",
+    "source": "OkayAfrica: How CKay’s “Love Nwantiti” became the world’s song",
     "id": "nigeria",
-    "formGroup": "Narrative & oral",
+    "contextNote": "CKay sings mostly in Igbo, one of Nigeria’s major languages. Released in 2019, “Love Nwantiti” became a worldwide hit in 2021; many Nigerians already knew the phrase from Nelly Uchendu’s 1976 song of the same name.",
+    "formGroup": "Song",
     "display": {
-      "title": "Ituen and the King’s Wife",
-      "english": "",
-      "creator": "Southern Nigerian oral tradition; English version collected by Elphinstone Dayrell",
-      "language": "Calabar/Cross River tradition; historical English version"
+      "title": "Love Nwantiti",
+      "english": "Small Love",
+      "creator": "CKay",
+      "language": "Igbo and English"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/34655/pg34655-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/cache/epub/34655/pg34655-images.html"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://www.gutenberg.org/ebooks/34655"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.gutenberg.org/cache/epub/34655/pg34655-images.html"
+        "label": "Read about it",
+        "url": "https://www.okayafrica.com/ckay-love-nwantiti-trending-tiktok"
       }
     ]
   },
@@ -8037,50 +8015,39 @@ window.ARCHIVE = [
     "refId": "ML-156",
     "country": "Sierra Leone",
     "continent": "Africa",
-    "title": "Marry the Devil, There’s the Devil to Pay",
-    "titleEnglish": "Marry the Devil, There’s the Devil to Pay",
-    "creator": "Traditional storytellers unknown; recorded/arranged by Florence M. Cronise and Henry W. Ward",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named oral tale (full historical retelling)",
-    "form": "Literary retelling / folk tale",
+    "title": "My Lovely Elizabeth",
+    "titleEnglish": "My Lovely Elizabeth",
+    "creator": "S. E. Rogie (1926–1994)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Unknown",
-    "year": "1903",
-    "language": "Historical English/pidgin rendering from Sierra Leone; original oral language not securely established",
+    "year": "1962",
+    "language": "English",
     "tradition": "",
     "formDetails": "Literary retelling / folk tale",
     "genderDetails": "Traditional composer / storyteller unknown; see creator and version notes",
-    "originalDate": "Published 1903; traditional composition earlier, exact date unknown",
-    "editionDate": "Cunnie Rabbit, Mr. Spider and the Other Beef, 1903",
-    "description": "A girl turns down every suitor until a handsome stranger wins her, but he turns out to be a devil, and her brother helps her escape: a cautionary courtship tale.",
-    "provenance": "Historical collection explicitly concerns Sierra Leone storytelling. A framing narrator named Yamah introduces this tale; her appearance does not establish a traceable historical composer or female authorship.",
-    "location": "Chapter with title Marry the Devil, There’s the Devil to Pay, pp.178–186",
-    "translation": "The book’s literary frame and colonial rendering are distinct from a verbatim indigenous-language transcript. Compilers are a woman and a man; traditional creator gender remains unknown. Horror, threatened violence and deceptive attraction dominate.",
-    "rights": "Historical 1903 printed wording is public domain in the USA according to Project Gutenberg. Compilers’ death dates and broader territorial status are unverified. Native variants, modern editions and performances are not covered.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "originalDate": "c. 1962 (first published by 1965)",
+    "editionDate": "",
+    "description": "S. E. Rogie’s signature love ballad, sung over the gentle guitar of palm-wine music.",
+    "provenance": "Recording",
+    "location": "",
+    "translation": "The book’s literary frame and colonial rendering are distinct from a verbatim indigenous-language transcript. Compilers are a woman and a man; traditional creator gender remains unknown. Horror, threatened violence and deceptive attraction dominate. Work changed (29 October 2026): the earlier colonial-era retelling is replaced, because the collector’s book uses language that is offensive today. Replaced by a song by a local artist; in copyright, listed with a description and link only.",
+    "rights": "In copyright. Not reproduced; listed with a link.",
+    "source": "Wikipedia: S. E. Rogie",
     "id": "sierra-leone",
-    "formGroup": "Narrative & oral",
+    "contextNote": "S. E. Rogie was the great master of palm-wine music, the gentle guitar style of Freetown’s bars and porches. “My Lovely Elizabeth”, from the years around Sierra Leone’s independence in 1961, was played on radio in Britain, Germany and America.",
+    "formGroup": "Song",
     "display": {
-      "title": "Marry the Devil, There’s the Devil to Pay",
+      "title": "My Lovely Elizabeth",
       "english": "",
-      "creator": "recorded/arranged by Florence M. Cronise and Henry W. Ward",
-      "language": "Historical English/pidgin rendering from Sierra Leone"
+      "creator": "S. E. Rogie",
+      "language": "English"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.gutenberg.org/cache/epub/48828/pg48828-images.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/ebooks/48828"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://www.gutenberg.org/cache/epub/48828/pg48828-images.html"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.gutenberg.org/cache/epub/48828/pg48828-images.html"
+        "label": "Read about it",
+        "url": "https://en.wikipedia.org/wiki/S._E._Rogie"
       }
     ]
   },
