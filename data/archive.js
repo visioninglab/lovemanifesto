@@ -206,7 +206,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=UffvRSmRYEk"
+        "url": "https://www.youtube.com/watch?v=hO7Gvltv6TQ"
       },
       {
         "label": "formulatv.com",
@@ -314,7 +314,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=sBohO1zr7jw"
+        "url": "https://www.youtube.com/watch?v=4tMlwvJi6n0"
       },
       {
         "label": "Earlier link: worldradiohistory.com",
@@ -1431,7 +1431,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=fWFl_Ylo51s"
+        "url": "https://www.youtube.com/watch?v=NcxGfZu-S7w"
       },
       {
         "label": "Earlier link: notjustok.com",
@@ -1590,7 +1590,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=RYCHdIIp2sg"
+        "url": "https://www.youtube.com/watch?v=NhzIwySCm3k"
       },
       {
         "label": "Earlier link: unorthodoxreviews.com",
@@ -2341,7 +2341,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=sbyDneLqLcg"
+        "url": "https://www.youtube.com/watch?v=lbFSpMf4PGk"
       },
       {
         "label": "m.afrikalyrics.com",
@@ -2488,7 +2488,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=otpL8LNrrwY"
+        "url": "https://yannamomina.bandcamp.com/track/every-one-knows-i-have-taken-a-young-lover"
       },
       {
         "label": "Earlier link: glitterbeat.com",
@@ -2531,7 +2531,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=kiYGUB3s8eA"
+        "url": "https://www.youtube.com/watch?v=9qQH0tNg_G8"
       },
       {
         "label": "Earlier link: dominicanewsonline.com",
@@ -3039,7 +3039,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=mBlXkaSsnKQ"
+        "url": "https://www.youtube.com/watch?v=qV3NJYx3OIM"
       },
       {
         "label": "Earlier link: Read about it",
@@ -5043,7 +5043,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=4M4eucYAig4"
+        "url": "https://www.youtube.com/watch?v=JEhwr-H2s48"
       }
     ]
   },
@@ -6578,7 +6578,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=IxMvKqUC93o"
+        "url": "https://etrandelair.bandcamp.com/track/toubouk-ine-chihoussay-2"
       },
       {
         "label": "Earlier link: areweonair.com",
@@ -6622,7 +6622,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=7l22qaD31iE"
+        "url": "https://www.youtube.com/watch?v=pioEzaxSIY8"
       },
       {
         "label": "Earlier link: Read about it",
@@ -8325,7 +8325,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=ICLQ3B9Htic"
+        "url": "https://www.youtube.com/watch?v=Fa8BdRrqq2I"
       }
     ]
   },
@@ -10102,7 +10102,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=AfB84vAS7HE"
+        "url": "https://www.youtube.com/watch?v=jjxYjmYEMUc"
       }
     ]
   },
