@@ -25,6 +25,7 @@ window.ARCHIVE = [
     "rights": "Public-domain medieval original attributed to a tenth-century poet; modern editorial matter excluded.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "afghanistan",
+    "contextNote": "Rābiʿa Balkhi lived in Balkh in the tenth century and is remembered as one of the first women to write poetry in Persian. Legend says her brother killed her for loving a servant named Baktash; her story mixes history and legend, and her shrine in Balkh is still visited today.",
     "formGroup": "Poem",
     "display": {
       "title": "عشق او باز اندر آوردم به بند",
@@ -81,6 +82,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1900. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://www.voal.ch/bukurija-poezi-nga-naim-frasheri-25-maj-1846-20-tetor-1900/kulture/letersi/",
     "id": "albania",
+    "contextNote": "Naim Frashëri wrote when Albania was still part of the Ottoman Empire and books in Albanian were restricted. He became the leading poet of the Albanian national awakening, and his verse, often printed abroad, mixes love, nature and a mystical faith.",
     "formGroup": "Poem",
     "display": {
       "title": "Bukurija / Bukuria, section 3",
@@ -137,6 +139,7 @@ window.ARCHIVE = [
     "rights": "Historical original composition; author died 1883, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026. Passage source checked 29 October 2026. https://poetry.dct.gov.ae/poems/95618-أقاسي-الحب-من-قاسي-الفؤاد",
     "id": "algeria",
+    "contextNote": "Emir Abd al-Qadir led Algerian resistance to the French conquest from 1832 until he surrendered in 1847. He was imprisoned in France and spent his last decades in exile in Damascus as a scholar, Sufi and poet, so his love poems sit alongside a life shaped by war and exile.",
     "formGroup": "Poem",
     "display": {
       "title": "أقاسي الحب من قاسي الفؤاد",
@@ -236,6 +239,7 @@ window.ARCHIVE = [
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1894. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "University of Brasília, Cerrados, p.183; publication history discussed in António Jacinto e a sua época, p.336. Passage source checked 29 October 2026. https://periodicos.unb.br/index.php/cerrados/article/download/25396/22375/50283",
     "id": "angola",
+    "contextNote": "Cordeiro da Matta wrote in Luanda when Angola was a Portuguese colony, and is counted among the first Angolan poets. He also compiled a Kimbundu dictionary and collected proverbs, part of an early effort to value African languages under colonial rule; the woman in this poem answers in Kimbundu.",
     "formGroup": "Poem",
     "display": {
       "title": "Kicôla!",
@@ -335,6 +339,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "argentina",
+    "contextNote": "Alfonsina Storni came to Argentina from Switzerland as a child and became one of the boldest voices in Latin American poetry, writing as a working single mother in Buenos Aires. Her early books spoke frankly of women's desire at a time when that was rare and often criticised.",
     "formGroup": "Poem",
     "display": {
       "title": "Dos palabras",
@@ -391,6 +396,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1795. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://hy.wikisource.org/wiki/Քանի_վուր_ջան_իմ",
     "id": "armenia",
+    "contextNote": "Sayat-Nova was an eighteenth-century minstrel who sang at the court of King Erekle II in Tbilisi, a city where Armenian, Georgian and Azerbaijani cultures met. He composed in all three languages; tradition says he was killed when Persian forces sacked the city in 1795.",
     "formGroup": "Poem & song",
     "display": {
       "title": "Քանի վուր ջան իմ / Qani vur jan im",
@@ -447,6 +453,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "australia",
+    "contextNote": "Henry Kendall was one of the first poets born in the Australian colonies, and set out to write about their landscapes in their own right. His life was marked by poverty and grief, which colour this memory of first love; the colonies he celebrated were built on land taken from Aboriginal peoples.",
     "formGroup": "Poem",
     "display": {
       "title": "Rose Lorraine",
@@ -503,6 +510,7 @@ window.ARCHIVE = [
     "rights": "Public-domain German original; author died 1901",
     "source": "",
     "id": "austria",
+    "contextNote": "Ada Christen grew up poor in Vienna and worked as an actress before she published her first poems. Lieder einer Verlorenen ('Songs of a Lost Woman', 1868) shocked readers with its frank picture of poverty and women's lives, and this poem's distrust of fine words comes from that experience.",
     "formGroup": "Poem",
     "display": {
       "title": "Erklärung",
@@ -559,6 +567,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "Passage source checked 29 October 2026. https://az.wikisource.org/wiki/Şuri-eşqin_başıma_axırı_sövda_gətirir",
     "id": "azerbaijan",
+    "contextNote": "Khurshidbanu Natavan, daughter of the last khan of Karabakh, was one of the best-known women poets of the nineteenth-century Caucasus, then under Russian rule. In her home city of Shusha she led a literary circle and paid for the town's first water supply.",
     "formGroup": "Poem",
     "display": {
       "title": "Şuri-eşqin başıma axırı sövda gətirir",
@@ -654,6 +663,7 @@ window.ARCHIVE = [
     "rights": "Original text: standard life-plus-70 term expired; author died 1619. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Poetic Encyclopedia, Department of Culture and Tourism — Abu Dhabi Passage source checked 29 October 2026. https://poetry.dct.gov.ae/poems/124709-يا-غاديات-السحب-لا-تتجاوزي",
     "id": "bahrain",
+    "contextNote": "Abu al-Bahr al-Khatti lived around 1600, when Bahrain was fought over by Portugal and Safavid Persia, which took the islands in 1602. He was a well-travelled scholar of the Gulf whose Arabic verse moves easily between gardens, faith and love.",
     "formGroup": "Poem",
     "display": {
       "title": "يا غاديات السحب لا تتجاوزي",
@@ -710,6 +720,7 @@ window.ARCHIVE = [
     "rights": "Public-domain historical Bengali original; traditional attribution and 1923 collection provenance. Modern apparatus excluded.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://bn.wikisource.org/wiki/মৈমনসিংহ_গীতিকা/মহুয়া",
     "id": "bangladesh",
+    "contextNote": "Mahua is one of the ballads sung for generations in the Mymensingh region of eastern Bengal. The scholar Dinesh Chandra Sen had them collected from village singers and published in the 1920s, preserving a rural tradition in which women often choose love against family and custom.",
     "formGroup": "Narrative & oral",
     "display": {
       "title": "মহুয়া / Mahua",
@@ -822,6 +833,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1917. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://be.wikisource.org/wiki/Вянок_(1927)/У_зачарованым_царстве/Романс",
     "id": "belarus",
+    "contextNote": "Maksim Bahdanovich wrote when Belarus was part of the Russian Empire, and writing in Belarusian was itself a statement of identity. He published one book in his lifetime and died of tuberculosis in 1917, aged 25; this poem later became a much-loved song.",
     "formGroup": "Poem",
     "display": {
       "title": "Раманс / Зорка Венера",
@@ -878,6 +890,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "belgium",
+    "contextNote": "Émile Verhaeren was a Flemish Belgian who wrote in French, best known for poems about cities and industry. Les Heures claires (1896) is different: a quiet sequence written for his wife, the painter Marthe Massin, celebrating a calm, shared love.",
     "formGroup": "Poem",
     "display": {
       "title": "Ô la splendeur de notre joie",
@@ -1071,6 +1084,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1933. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://upload.wikimedia.org/wikipedia/commons/9/9c/Ricardo_Jaimes_Freyre_-_Los_sueños_son_vida._Anadiomena._Las_víctimas_-_GBrocSAAAAYAAJ.pdf",
     "id": "bolivia",
+    "contextNote": "Ricardo Jaimes Freyre was a leader of modernismo, the movement that renewed Spanish-language poetry around 1900. Born to Bolivian parents in Tacna, he spent much of his life in Argentina and later served Bolivia as a diplomat and minister.",
     "formGroup": "Poem",
     "display": {
       "title": "Amor de otoño",
@@ -1127,6 +1141,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1924. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026. Passage source checked 29 October 2026. https://sr.wikisource.org/sr-el/Емина",
     "id": "bosnia-and-herzegovina",
+    "contextNote": "Aleksa Šantić wrote in Mostar soon after Austria-Hungary took Bosnia over from the Ottoman Empire. Emina, about a Muslim girl in a garden, became a beloved sevdalinka, the region's traditional love song, sung by people of every community in a city later divided by war.",
     "formGroup": "Poem",
     "display": {
       "title": "Emina",
@@ -1222,6 +1237,7 @@ window.ARCHIVE = [
     "rights": "Domínio público - Universidade de São Paulo library record",
     "source": "Passage source checked 29 October 2026. https://pt.wikisource.org/wiki/Via_Láctea#XIII",
     "id": "brazil",
+    "contextNote": "Olavo Bilac published this sonnet in 1888, the year slavery was finally abolished in Brazil and a year before the empire became a republic. He was the leading poet of Brazil's Parnassian movement, admired for polished, musical sonnets like this one.",
     "formGroup": "Poem",
     "display": {
       "title": "Via Láctea, sonnet XIII — Ouvir estrelas",
@@ -1317,6 +1333,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in life+70 jurisdictions (author died 1937)",
     "source": "Passage source checked 29 October 2026. https://liternet.bg/publish 31/mara-belcheva/dushata.htm",
     "id": "bulgaria",
+    "contextNote": "Mara Belcheva's husband, a finance minister, was killed in an assassination attempt aimed at the prime minister in 1891. She later became the companion of the poet Pencho Slaveykov, and published her Sonnets in 1925, in her fifties, as love poems of a full and hard life.",
     "formGroup": "Poem",
     "display": {
       "title": "Sonnet IV — Душата ми отново посети",
@@ -1600,6 +1617,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "canada",
+    "contextNote": "This poem is set at Grand Pré in Nova Scotia, the heart of Acadie. In 1755 British authorities expelled the French-speaking Acadians from these lands, and the tidal flats of Grand Pré have carried that memory of loss ever since, which deepens the poem's sense of absence.",
     "formGroup": "Poem",
     "display": {
       "title": "Low Tide on Grand Pré",
@@ -1754,6 +1772,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA (1922 publication); not yet under ordinary UK life+70 term",
     "source": "",
     "id": "chile",
+    "contextNote": "Gabriela Mistral was a rural schoolteacher before she became, in 1945, the first Latin American writer to win the Nobel Prize in Literature. Desolación, her first book, draws on grief as well as love, and she spent her life working for education across Latin America.",
     "formGroup": "Poem",
     "display": {
       "title": "Vergüenza",
@@ -1810,6 +1829,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "china",
+    "contextNote": "This poem comes from the Shijing, or Book of Songs, China's oldest collection of poetry, gathered between about 1000 and 600 BCE. Tradition says Confucius chose its songs, and for two thousand years scholars read even its love songs as moral lessons.",
     "formGroup": "Poem",
     "display": {
       "title": "靜女 / Trysting Time",
@@ -1866,6 +1886,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1923. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "colombia",
+    "contextNote": "Julio Flórez was Colombia's most popular poet around 1900, a Romantic writing through the Thousand Days' War (1899–1902), which tore the country apart. His dark, emotional love poems were recited everywhere, and many, including this one, became popular songs.",
     "formGroup": "Poem",
     "display": {
       "title": "Flores negras",
@@ -2348,7 +2369,7 @@ window.ARCHIVE = [
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "1833",
-    "language": "English and German translations of Danish poem",
+    "language": "Danish",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -2361,12 +2382,13 @@ window.ARCHIVE = [
     "rights": "Public domain - Sibley Music Library item statement",
     "source": "",
     "id": "denmark",
+    "contextNote": "Hans Christian Andersen, now known for his fairy tales, also wrote poems. The young Norwegian composer Edvard Grieg set this one to music in 1864 for his cousin Nina Hagerup, whom he married in 1867, and it became one of Scandinavia's best-loved love songs.",
     "formGroup": "Poem",
     "display": {
       "title": "Jeg elsker dig / I love thee",
       "english": "I Love You",
       "creator": "Hans Christian Andersen; music by Edvard Grieg",
-      "language": "English and German translations of Danish poem"
+      "language": "Danish"
     },
     "passage": {
       "original": "Min Tankes Tanke ene Du er vorden,\nDu er mit Hjertes første Kjærlighed,\nJeg elsker Dig som ingen her paa Jorden,\nJeg elsker Dig i Tid og Evighed!",
@@ -2550,6 +2572,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1919. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "ecuador",
+    "contextNote": "Medardo Ángel Silva grew up poor in Guayaquil and belonged to the 'beheaded generation' of young Ecuadorian poets who died early. He died in 1919 aged 21; this poem, later a famous pasillo song, is shadowed by the despair in his life.",
     "formGroup": "Poem",
     "display": {
       "title": "El alma en los labios",
@@ -2990,6 +3013,7 @@ window.ARCHIVE = [
     "rights": "CC BY-SA 4.0 - linked transcription footer",
     "source": "",
     "id": "finland",
+    "contextNote": "Runeberg wrote in Swedish, the language of Finland's educated class, soon after Finland passed from Swedish to Russian rule. He became Finland's national poet, and his words open the national anthem; this small lyric shows his gift for holding a single moment.",
     "formGroup": "Poem",
     "display": {
       "title": "Den enda stunden",
@@ -3046,6 +3070,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "france",
+    "contextNote": "Les Fleurs du Mal was prosecuted for offending public morals in 1857, and six of its poems stayed banned in France until 1949. Le Balcon is among the poems linked to Jeanne Duval, Baudelaire's partner for many years, a woman of mixed race whose own life is barely recorded.",
     "formGroup": "Poem",
     "display": {
       "title": "Le Balcon",
@@ -3231,6 +3256,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "germany",
+    "contextNote": "Heine's Buch der Lieder (1827) became one of the most popular poetry books of its century, and this poem was set to music by Schumann, Liszt and many others. Heine was born Jewish and later lived in exile in Paris; in 1933 the Nazis burned his books.",
     "formGroup": "Poem",
     "display": {
       "title": "Du bist wie eine Blume",
@@ -3793,6 +3819,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in life+70 jurisdictions (author died 1918)",
     "source": "",
     "id": "hungary",
+    "contextNote": "Margit Kaffka was a pioneer of Hungarian modern writing and one of the first women in Hungary to make a living from writing. This poem stayed in manuscript and was published long after her death in the 1918 flu pandemic.",
     "formGroup": "Poem",
     "display": {
       "title": "Szerettelek",
@@ -3904,6 +3931,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "india",
+    "contextNote": "Tagore translated this poem from his own Bengali, as he did for Gitanjali, the book that made him in 1913 the first non-European to win the Nobel Prize in Literature. He wrote under British rule, and in 1919 gave up his British knighthood in protest at the Amritsar massacre.",
     "formGroup": "Poem",
     "display": {
       "title": "The Gardener, poem 16",
@@ -4113,6 +4141,7 @@ window.ARCHIVE = [
     "rights": "Public domain - stated on poem page",
     "source": "",
     "id": "ireland",
+    "contextNote": "Yeats wrote this for Maud Gonne, the actor and revolutionary he loved for years and who turned down his proposals. It belongs to the Irish literary revival, when writers set out to build a national culture while Ireland was still under British rule.",
     "formGroup": "Poem",
     "display": {
       "title": "When You Are Old",
@@ -4169,6 +4198,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1931. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "israel",
+    "contextNote": "Rachel Bluwstein, known simply as Rachel, came from Russia to Ottoman Palestine in 1909 and worked on the land by the Sea of Galilee. Ill with tuberculosis, she wrote short, plain Hebrew poems that helped shape modern Hebrew verse, and died in 1931, before the state of Israel existed.",
     "formGroup": "Poem",
     "display": {
       "title": "גן נעול / Gan naʿul",
@@ -4212,7 +4242,7 @@ window.ARCHIVE = [
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "",
-    "language": "English, from Italian",
+    "language": "Italian",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -4225,12 +4255,13 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "italy",
+    "contextNote": "This sonnet comes from the Vita nuova, Dante's account of his love for Beatrice, written in Florence in the 1290s. Writing about love in Italian rather than Latin was itself a bold choice; its best-known English translation is by the Victorian poet and painter Dante Gabriel Rossetti.",
     "formGroup": "Poem",
     "display": {
       "title": "Tanto gentile e tanto onesta pare",
       "english": "So gentle and so honourable she appears",
       "creator": "Dante Alighieri",
-      "language": "English, from Italian"
+      "language": "Italian"
     },
     "passage": {
       "original": "Tanto gentile e tanto onesta pare\nLa donna mia, quand’ella altrui saluta,\nCh’ogni lingua divien tremando muta,\nE gli occhi non l’ardiscon di guardare.\nElla sen va, sentendosi laudare,\nBenignamente d’umiltà vestuta;\nE par che sia una cosa venuta\nDi cielo in terra a miracol mostrare.\nMostrasi sì piacente a chi la mira,\nChe dà per gli occhi una dolcezza al core,\nChe intender non la può chi non la prova.\nE par che della sua labbia si muova\nUn spirito soave e pien d’amore,\nChe va dicendo all’anima: ‘sospira.’",
@@ -4285,6 +4316,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; Toronto Metropolitan University labels the poem public domain, and the 1922 edition is public domain in the USA.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "jamaica",
+    "contextNote": "Claude McKay grew up in rural Jamaica, then a British colony, and moved to the United States in 1912. Harlem Shadows (1922) helped launch the Harlem Renaissance, and his poems speak of love and beauty as well as protest against racism.",
     "formGroup": "Poem",
     "display": {
       "title": "A Red Flower",
@@ -4328,7 +4360,7 @@ window.ARCHIVE = [
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "",
-    "language": "Romanised Japanese and English",
+    "language": "Japanese",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -4341,12 +4373,13 @@ window.ARCHIVE = [
     "rights": "Public domain - Wikisource edition rights notice",
     "source": "",
     "id": "japan",
+    "contextNote": "Taira no Kanemori was a court poet of Heian Japan, where poems were part of courtship itself. This one won a famous poetry contest at the imperial palace in 960, and was later chosen for the Hyakunin Isshu, a hundred poems still used in a popular New Year card game.",
     "formGroup": "Poem",
     "display": {
       "title": "Shinoburedo",
       "english": "Though I concealed it",
       "creator": "Taira no Kanemori",
-      "language": "Romanised Japanese and English"
+      "language": "Japanese"
     },
     "passage": {
       "original": "しのぶれど\n色に出でにけり\nわが恋は\n物や思ふと\n人の問ふまで",
@@ -5562,6 +5595,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "mexico",
+    "contextNote": "Sor Juana Inés de la Cruz was a nun and scholar in colonial New Spain, now Mexico, and the most celebrated writer in the Spanish-speaking world of her time. She defended women's right to learn; whom she wrote her love poems for is still unknown.",
     "formGroup": "Poem",
     "display": {
       "title": "Esta tarde, mi bien",
@@ -6198,6 +6232,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "new-zealand",
+    "contextNote": "Katherine Mansfield left New Zealand for London at 19 and became one of the great short-story writers in English. She wrote this poem in 1916, months after her brother was killed in the First World War, and died of tuberculosis in 1923, aged 34.",
     "formGroup": "Poem",
     "display": {
       "title": "Camomile Tea",
@@ -6497,6 +6532,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1906. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "norway",
+    "contextNote": "Henrik Ibsen, the playwright behind A Doll's House, began as a poet. Like most Norwegian writers of his day he wrote in the Danish-based written language left by four centuries of union with Denmark.",
     "formGroup": "Poem",
     "display": {
       "title": "Borte!",
@@ -7039,6 +7075,7 @@ window.ARCHIVE = [
     "rights": "CC BY-SA 4.0 - linked transcription footer",
     "source": "",
     "id": "portugal",
+    "contextNote": "Luís de Camões, Portugal's national poet, lived as a soldier and exile in Asia during the age of Portuguese voyages and empire. Legend says he swam ashore from a shipwreck holding the manuscript of his epic, The Lusiads; this sonnet is still learnt by heart in Portugal and Brazil.",
     "formGroup": "Poem",
     "display": {
       "title": "Amor é fogo que arde sem se ver",
@@ -7146,6 +7183,7 @@ window.ARCHIVE = [
     "rights": "CC BY-SA 4.0 - linked transcription footer",
     "source": "",
     "id": "romania",
+    "contextNote": "Mihai Eminescu is Romania's national poet, writing in the years when Romania won full independence in 1877–78. His own love life, above all his long and troubled affair with the poet Veronica Micle, runs through poems like this one.",
     "formGroup": "Poem",
     "display": {
       "title": "Dorința",
@@ -7189,7 +7227,7 @@ window.ARCHIVE = [
     "form": "Poetry",
     "genderGroup": "Men",
     "year": "1829",
-    "language": "English, from Russian",
+    "language": "Russian",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Man",
@@ -7202,12 +7240,13 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "russia",
+    "contextNote": "Pushkin wrote this in 1829, probably for Anna Olenina, who had turned down his proposal. He is Russia's national poet; his great-grandfather, Abram Gannibal, was an African brought to Russia as a captive child who rose to become a general.",
     "formGroup": "Poem",
     "display": {
       "title": "I loved you / Resigned Love",
       "english": "",
       "creator": "Alexander Pushkin",
-      "language": "English, from Russian"
+      "language": "Russian"
     },
     "passage": {
       "original": "Я вас любил: любовь ещё, быть может,\nВ душе моей угасла не совсем;\nНо пусть она вас больше не тревожит;\nЯ не хочу печалить вас ничем.\nЯ вас любил безмолвно, безнадежно,\nТо робостью, то ревностью томим;\nЯ вас любил так искренно, так нежно,\nКак дай вам Бог любимой быть другим.",
@@ -7439,6 +7478,7 @@ window.ARCHIVE = [
     "rights": "Historical original composition; author died 1894, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "samoa",
+    "contextNote": "Robert Louis Stevenson settled in Samoa in 1890 and spent his last years there with his wife, Fanny. He sided with Samoans in their disputes with the colonial powers, Germany, Britain and the United States, and Samoans called him Tusitala, 'teller of tales'.",
     "formGroup": "Poem",
     "display": {
       "title": "My Wife",
@@ -7938,6 +7978,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1849. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "slovenia",
+    "contextNote": "France Prešeren is Slovenia's national poet, writing when Slovenia was part of the Austrian Empire. Much of his love poetry was for Julija Primic, who never returned his feelings; another of his poems is now Slovenia's national anthem.",
     "formGroup": "Poem",
     "display": {
       "title": "Pesem moja je posoda tvojega imena",
@@ -8229,6 +8270,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "spain",
+    "contextNote": "Bécquer's Rimas were gathered by friends and published in 1871, the year after his early death. Short, musical and personal, they broke with grand Romantic rhetoric and shaped modern poetry in Spanish; 'poetry is you' is among the most quoted lines in the language.",
     "formGroup": "Poem",
     "display": {
       "title": "Rima XXI - ¿Qué es poesía?",
@@ -8431,6 +8473,7 @@ window.ARCHIVE = [
     "rights": "CC BY-SA 4.0 - linked transcription footer",
     "source": "",
     "id": "sweden",
+    "contextNote": "Gustaf Fröding is one of Sweden's best-loved poets, and spent long periods in hospital with mental illness. In 1896 he was prosecuted, and acquitted, over a poem about sexuality; this poem comes from the same years, and is just as frank.",
     "formGroup": "Poem",
     "display": {
       "title": "En kärleksvisa",
@@ -8487,6 +8530,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; Wikisource copyright policy",
     "source": "",
     "id": "switzerland",
+    "contextNote": "Conrad Ferdinand Meyer of Zurich came to poetry late, after years of depression, and married Louise Ziegler in 1875. Zwei Segel, with its two sails moving as one, is often read as an image of that marriage.",
     "formGroup": "Poem",
     "display": {
       "title": "Zwei Segel",
@@ -9166,6 +9210,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "ukraine",
+    "contextNote": "Lesya Ukrainka wrote when Ukraine was divided between the Russian and Austro-Hungarian empires, and printing in Ukrainian was restricted in Russia. She wrote this in 1900, while caring for Serhiy Merzhynsky, the man she loved, who was dying of tuberculosis.",
     "formGroup": "Poem",
     "display": {
       "title": "Хотіла б я тебе, мов плющ, обняти",
@@ -9269,6 +9314,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "united-kingdom",
+    "contextNote": "Shakespeare's sonnets were published in 1609, though many were probably written in the 1590s. Most of the first 126, including this one, are addressed to a young man; its promise that verse will outlast its subject has held for four centuries.",
     "formGroup": "Poem",
     "display": {
       "title": "Sonnet 18",
@@ -9325,6 +9371,7 @@ window.ARCHIVE = [
     "rights": "Public domain in USA - Project Gutenberg",
     "source": "",
     "id": "united-states",
+    "contextNote": "Emily Dickinson wrote nearly 1,800 poems in Amherst, Massachusetts, but only about ten were published in her lifetime. Her first editors hesitated over printing this one in 1891 because of its passion; whom it was written for is still debated.",
     "formGroup": "Poem",
     "display": {
       "title": "Wild nights! Wild nights!",
@@ -9381,6 +9428,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
     "source": "",
     "id": "uruguay",
+    "contextNote": "Delmira Agustini published this poem at 20 and became one of the first women in Latin America to write openly about desire. In 1914 she was killed by her former husband, weeks after a divorce made possible by Uruguay's new divorce law.",
     "formGroup": "Poem",
     "display": {
       "title": "Explosión",
