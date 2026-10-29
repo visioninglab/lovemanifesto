@@ -968,54 +968,38 @@
     "refId": "ML-019",
     "country": "Benin",
     "continent": "Africa",
-    "title": "L’Esclave",
-    "titleEnglish": "The Slave",
-    "creator": "Félix Couchoro (1900–1968)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (bibliographic and work-specific scholarly evidence)",
-    "form": "Novel",
+    "title": "Les choses de l'amour",
+    "titleEnglish": "The Things of Love",
+    "creator": "Madano",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1929",
+    "year": "2022",
     "language": "French",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "First edition 1929, Paris, La Dépêche Africaine; rewritten serial version 1962 is separate",
-    "editionDate": "1929 original; modern collected edition 2005 is a locating reference only",
-    "description": "Akoéba’s adulterous love for Mawoulawoé becomes entangled with murder, inheritance and remorse. A tragic moralising account of romantic passion.",
-    "provenance": "Couchoro was born in Dahomey, now Benin, and later became a Togolese citizen. Scholarship places this novel on both sides of the Mono in Benin/Togo. Western University lists the original novel in its collected works; Strasbourg thesis describes the lovers. Full 1929 copy still needs locating.",
-    "location": "Entire 1929 novel; obtain original edition before choosing a passage",
-    "translation": "Country link is birth and shared Benin/Togo setting, not exclusive national ownership. Not a freely licensed 2005 edition. The 1962 serial revises the 1929 novel and must not be substituted without separate review. This row establishes a US-public-domain original lead, not current full-text availability. Passage update (29 October 2026): Not filled: no accessible, verified 1929 original text was located for passage selection. A search result for a 1983 reprint does not establish that it reproduces the 1929 wording unchanged. Supply relevant 1929 pages. Keep the existing territorial rights note.",
-    "rights": "US ONLY: original 1929 French wording is beyond the 95-year publication term. Author died 1968, so standard life-plus-70 protection continues through 2038 in relevant territories. Do not treat this as open for UK/worldwide publication. Later revisions, notes and translations are excluded.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "formDetails": "Song",
+    "genderDetails": "Madano",
+    "originalDate": "2022",
+    "editionDate": "",
+    "description": "The breakout hit of the Cotonou singer Madano, an afrobeat love song sung in French.",
+    "provenance": "Recording",
+    "location": "",
+    "translation": "Work changed (30 October 2026): replaced L’Esclave (Félix Couchoro (1900–1968)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official music video on Madano's YouTube channel; Benin Web TV on his 2023 Primud performance",
     "id": "benin",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Song",
     "display": {
-      "title": "L’Esclave",
-      "english": "The Slave",
-      "creator": "Félix Couchoro",
+      "title": "Les choses de l'amour",
+      "english": "The Things of Love",
+      "creator": "Madano",
       "language": "French"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://www.uwo.ca/french/MesPresshome/collections/hors_collection/felix_couchoro_cuvres_completes_tome_1.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://cspd.law.duke.edu/publicdomainday/2026"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://publication-theses.unistra.fr/public/theses_doctorat/2024/ALLYN_Anoumou_2024_ED519.pdf"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.ascleiden.nl/content/library-weekly/felix-couchoro"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://api.pageplace.de/preview/DT0400.9783035104899_A31439801/preview-9783035104899_A31439801.pdf"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=4TfTQVkelBY"
       }
     ]
   },
@@ -1053,7 +1037,11 @@
     },
     "links": [
       {
-        "label": "folkways.si.edu",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=91Qf_ZjkbQ8"
+      },
+      {
+        "label": "Earlier link: folkways.si.edu",
         "url": "https://folkways.si.edu/news-and-press/now-available-music-from-the-mountains-of-bhutan-by-sonam-dorji"
       }
     ]
@@ -1276,38 +1264,38 @@
     "refId": "ML-025",
     "country": "Brunei Darussalam",
     "continent": "Asia",
-    "title": "Pantun",
-    "titleEnglish": "",
-    "creator": "Malay-speaking pemantun, singers and communities",
+    "title": "Buat Selamanya",
+    "titleEnglish": "Forever",
+    "creator": "Hill Zaini; written by Amalina Abdullah and Bahri Hj. Ibrahim",
     "openOriginal": "No",
-    "referenceType": "Tradition / repertoire",
-    "form": "Oral tradition",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "Malay; maritime Southeast Asia",
-    "tradition": "Pantun",
-    "formDetails": "Oral tradition",
-    "genderDetails": "Unknown / not established",
-    "originalDate": "",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Men",
+    "year": "2010",
+    "language": "Malay",
+    "tradition": "",
+    "formDetails": "Song",
+    "genderDetails": "Hill Zaini; written by Amalina Abdullah and Bahri Hj. Ibrahim",
+    "originalDate": "2010",
     "editionDate": "",
-    "description": "Pantun are short rhyming verses in Malay, traded in song and conversation, and love for a sweetheart is one of their favourite subjects.",
-    "provenance": "UNESCO nomination 02274 names all three states; shared form, not three different works.",
+    "description": "An acoustic ballad about a love that lasts for all time; it reached number one on Brunei's Pelangi FM chart.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "English description only. No individual pantun translated here. Passage update (29 October 2026): Not filled: no specific pantun or work identifier is supplied. A tradition-level UNESCO record cannot determine which original verses to quote. Choose a named or numbered romantic pantun and provide its text or a work-specific source.",
-    "rights": "Traditional status does not clear a transcription, translation, arrangement or recording. Consult bearers and relevant rights holders.",
-    "source": "UNESCO, Pantun nomination page",
+    "translation": "Work changed (30 October 2026): replaced None (Malay-speaking pemantun, singers and communities), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official music video (HILLOFFICIAL); Wikipedia: Buat Selamanya",
     "id": "brunei-darussalam",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Song",
     "display": {
-      "title": "Pantun",
-      "english": "",
-      "creator": "Malay-speaking pemantun, singers and communities",
-      "language": "Malay; maritime Southeast Asia"
+      "title": "Buat Selamanya",
+      "english": "Forever",
+      "creator": "Hill Zaini; written by Amalina Abdullah and Bahri Hj. Ibrahim",
+      "language": "Malay"
     },
     "links": [
       {
-        "label": "ich.unesco.org",
-        "url": "https://ich.unesco.org/en/RL/pantun-02274"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=R5LrTbfBPEQ"
       }
     ]
   },
@@ -1372,38 +1360,38 @@
     "refId": "ML-027",
     "country": "Burkina Faso",
     "continent": "Africa",
-    "title": "Untitled Gan love song, MR.1968.25.2-B1",
-    "titleEnglish": "Untitled Gan love song, MR.1968.25.2-B1",
-    "creator": "Gan performers, names not supplied in listing",
+    "title": "Ya Maam",
+    "titleEnglish": "It's Me",
+    "creator": "Amzy",
     "openOriginal": "No",
-    "referenceType": "Untitled / catalogue identifier",
+    "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "Gan community",
+    "genderGroup": "Men",
+    "year": "2026",
+    "language": "",
     "tradition": "",
     "formDetails": "Song",
-    "genderDetails": "Unknown / not established",
-    "originalDate": "",
+    "genderDetails": "Amzy",
+    "originalDate": "2026",
     "editionDate": "",
-    "description": "A love song of the Gan people of Burkina Faso.",
-    "provenance": "Museum catalogue locates item at Loropeni, Burkina Faso. No vernacular title provided.",
+    "description": "A love song about feelings that refuse to fade despite mistakes, distance and time.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Catalogue metadata only; no lyric translation or named performers verified. Passage update (29 October 2026): Not filled: the archive identifier refers to an untitled Gan recording. No original-language lyric transcript was verified. Supply an authorized transcript with the language and recording identifier; do not invent lyrics from a catalogue description.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Royal Museum for Central Africa, recording MR.1968.25.2-B1",
+    "translation": "Work changed (30 October 2026): replaced Untitled Gan love song, MR.1968.25.2-B1 (Gan performers, names not supplied in listing), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official music video on Amzy's YouTube channel (Destiny Group, Burkina Faso)",
     "id": "burkina-faso",
     "formGroup": "Song",
     "display": {
-      "title": "Gan love song",
-      "english": "",
-      "creator": "",
-      "language": "Gan community"
+      "title": "Ya Maam",
+      "english": "It's Me",
+      "creator": "Amzy",
+      "language": ""
     },
     "links": [
       {
-        "label": "music.africamuseum.be",
-        "url": "https://music.africamuseum.be/english/get_recordings.php?country=49"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=jp03LvfiJ8k"
       }
     ]
   },
@@ -3049,7 +3037,11 @@
     },
     "links": [
       {
-        "label": "Read about it",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=mBlXkaSsnKQ"
+      },
+      {
+        "label": "Earlier link: Read about it",
         "url": "https://en.wikipedia.org/wiki/Isa_Lei"
       }
     ]
@@ -4713,42 +4705,38 @@
     "refId": "ML-090",
     "country": "Kiribati",
     "continent": "Oceania",
-    "title": "Ti kareia te man (KN052)",
-    "titleEnglish": "We throw the birds (opening phrase; KN052; literal historical German gloss)",
-    "creator": "Bakaia; Nonouti singers and dancers",
+    "title": "Ai kamira tangiran neiei",
+    "titleEnglish": "",
+    "creator": "Raikaon Tumoa",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "Gilbertese",
+    "genderGroup": "Men",
+    "year": "2010",
+    "language": "Gilbertese (Kiribati)",
     "tradition": "",
     "formDetails": "Song",
-    "genderDetails": "Unknown / not established",
-    "originalDate": "",
+    "genderDetails": "Raikaon Tumoa",
+    "originalDate": "2010",
     "editionDate": "",
-    "description": "A love affair told through images of fishing.",
-    "provenance": "Koch collection: Rotima, Nonouti 18 November 1963, 15:25; wa n tarawa dance.",
+    "description": "A love song by the I-Kiribati singer Raikaon Tumoa, one of Kiribati's most popular songs of 2010.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Koch German translation 1964 cited; complex metaphors and age difference warrant contextual review.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Koch Tape Collection digitized list; author study",
+    "translation": "Work changed (30 October 2026): replaced Ti kareia te man (KN052) (Bakaia; Nonouti singers and dancers), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Upload on Raikaon Tumoa's YouTube channel",
     "id": "kiribati",
     "formGroup": "Song",
     "display": {
-      "title": "Ti kareia te man",
-      "english": "We throw the birds",
-      "creator": "Bakaia; Nonouti singers and dancers",
+      "title": "Ai kamira tangiran neiei",
+      "english": "",
+      "creator": "Raikaon Tumoa",
       "language": "Gilbertese"
     },
     "links": [
       {
-        "label": "d-nb.info",
-        "url": "https://d-nb.info/1390067807/34"
-      },
-      {
-        "label": "researchgate.net",
-        "url": "https://www.researchgate.net/publication/412120401_Tracing_Sound_Documents_Assemblages_of_a_Tape_Collection_from_Kiribati"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=LoTCG8RcABU"
       }
     ]
   },
@@ -5023,54 +5011,38 @@
     "refId": "ML-096",
     "country": "Lesotho",
     "continent": "Africa",
-    "title": "Pitseng",
-    "titleEnglish": "Pitseng (place name; retained)",
-    "creator": "Thomas Mofolo (1876–1948)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (catalogue; text access limited)",
-    "form": "Prose / novel",
+    "title": "Lerato",
+    "titleEnglish": "Love",
+    "creator": "Sannere featuring Drigga",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1910",
+    "year": "2023",
     "language": "Sesotho",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "1910 book edition; serialised 1909–1910",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Alfred Phakoe and Aria Sebaka discover reciprocal love and choose marriage; their partnership forms part of the novel’s Christian and Basotho social vision.",
-    "provenance": "Original Sesotho work identified in Morija Sesuto Book Depot catalogue; Limakatso Chaka’s scholarly article confirms 1910 and the central love story.",
-    "location": "Alfred and Aria’s courtship and wedding, toward the end of the novel",
-    "translation": "Linked catalogue describes a later Sesotho printing. Complete original text not verified online. Daniel P. Kunene’s modern English translation has separate rights and is not supplied as reusable.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1948. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Original Sesotho work identified in Morija Sesuto Book Depot catalogue; Limakatso Chaka’s scholarly article confirms 1910 and the central love story.",
+    "formDetails": "Song",
+    "genderDetails": "Sannere featuring Drigga",
+    "originalDate": "2023",
+    "editionDate": "",
+    "description": "A love song by the Lesotho musician Sannere; lerato is the Sesotho word for love.",
+    "provenance": "Recording",
+    "location": "",
+    "translation": "Work changed (30 October 2026): replaced Pitseng (Thomas Mofolo (1876–1948)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official video on the Sannere Music YouTube channel",
     "id": "lesotho",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Song",
     "display": {
-      "title": "Pitseng",
-      "english": "",
-      "creator": "Thomas Mofolo",
+      "title": "Lerato",
+      "english": "Love",
+      "creator": "Sannere featuring Drigga",
       "language": "Sesotho"
     },
     "links": [
       {
-        "label": "Work catalogue / preview",
-        "url": "https://books.google.com/books?id=1huGMxqRVmgC"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/thomas-mofolo"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/thomas-mofolo"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://scielo.org.za/scielo.php?pid=S0041-476X2016000200005&script=sci_arttext"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=4M4eucYAig4"
       }
     ]
   },
@@ -5308,58 +5280,38 @@
     "refId": "ML-101",
     "country": "Luxembourg",
     "continent": "Europe",
-    "title": "D’Mumm Séis oder De Geescht",
-    "titleEnglish": "Aunt Séis, or The Ghost (Séis retained as a name)",
-    "creator": "Dicks / Edmond de la Fontaine (1823–1891)",
-    "openOriginal": "Yes",
-    "referenceType": "Named dramatic work (excerpt)",
-    "form": "Drama / operetta",
+    "title": "Margréitchen",
+    "titleEnglish": "Little Daisy",
+    "creator": "Michel Lentz",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1855",
+    "year": "1864",
     "language": "Luxembourgish",
     "tradition": "",
-    "formDetails": "Drama / operetta",
-    "genderDetails": "Man author",
-    "originalDate": "1855 premiere",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "A comic marriage plot contrasts young Péiter’s love for Kettéi with schemes to gain the aunt’s money by impersonating a ghost.",
-    "provenance": "National Library of Luxembourg / Cedom teaching material reproduces historical dialogue and explains the 1855 plot. Philharmonie catalogue distinguishes the original from later arrangements.",
-    "location": "D’Mumm Séis section, printed teaching pages 10–11",
-    "translation": "Original text and music by Dicks are distinct from modern stage rewrites, teaching material, arrangements and recordings. Use the historical dialogue or lyric, not the modern synopsis.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1891. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "National Library of Luxembourg / Cedom teaching material reproduces historical dialogue and explains the 1855 plot. Philharmonie catalogue distinguishes the original from later arrangements.",
+    "formDetails": "Poem",
+    "genderDetails": "Michel Lentz (1820–1893)",
+    "originalDate": "1864",
+    "editionDate": "",
+    "description": "A spring song in which the poet loves the daisy best of all the flowers, because his sweetheart shares its name.",
+    "provenance": "Published text",
+    "location": "",
+    "translation": "Work changed (30 October 2026): replaced D’Mumm Séis oder De Geescht (Dicks / Edmond de la Fontaine (1823–1891)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "Public domain (author died 1893).",
+    "source": "Wikisource: Margréitchen (Michel Lentz, 1864)",
     "id": "luxembourg",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Poem",
     "display": {
-      "title": "D’Mumm Séis oder De Geescht",
-      "english": "Aunt Séis, or The Ghost",
-      "creator": "Dicks / Edmond de la Fontaine",
+      "title": "Margréitchen",
+      "english": "Little Daisy",
+      "creator": "Michel Lentz",
       "language": "Luxembourgish"
     },
     "links": [
       {
-        "label": "Read about it",
-        "url": "https://lb.wikipedia.org/wiki/D%27Mumm_S%C4%9Bs"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://gouvernement.lu/dam-assets/fr/actualites/communiques/2016/05-mai/24-cedom-arendt/05149_BNL_ADAPT_DEPLI_LITTY-3_A3.pdf"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://gouvernement.lu/dam-assets/fr/actualites/communiques/2016/05-mai/24-cedom-arendt/05149_BNL_ADAPT_DEPLI_LITTY-3_A3.pdf"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://www.philharmonie.lu/media/f4epppnb/rainydayskatalog_2023.pdf"
-      },
-      {
-        "label": "Earlier link: Work / source text",
-        "url": "https://gouvernement.lu/dam-assets/fr/actualites/communiques/2016/05-mai/24-cedom-arendt/05149_BNL_ADAPT_DEPLI_LITTY-3_A3.pdf"
+        "label": "Read the text",
+        "url": "https://wikisource.org/wiki/Margr%C3%A9itchen"
       }
     ]
   },
@@ -5367,42 +5319,38 @@
     "refId": "ML-102",
     "country": "Madagascar",
     "continent": "Africa",
-    "title": "Hainteny",
-    "titleEnglish": "",
-    "creator": "Malagasy community poets",
+    "title": "Fitiavana Mahery",
+    "titleEnglish": "Strong Love",
+    "creator": "Mr Sayda",
     "openOriginal": "No",
-    "referenceType": "Tradition / repertoire",
-    "form": "Oral tradition",
-    "genderGroup": "Unknown",
-    "year": "",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Men",
+    "year": "2023",
     "language": "Malagasy",
-    "tradition": "Hainteny",
-    "formDetails": "Oral tradition",
-    "genderDetails": "Unknown (traditional / collective authorship)",
-    "originalDate": "",
+    "tradition": "",
+    "formDetails": "Song",
+    "genderDetails": "Mr Sayda",
+    "originalDate": "2023",
     "editionDate": "",
-    "description": "Hainteny are short Malagasy poems full of wit and wordplay, and love is their most common subject.",
-    "provenance": "Leonard Fox bilingual 457-poem edition, Bucknell University Press 1990, ISBN083875175X.",
+    "description": "A Malagasy love song; fitiavana means love and mahery means strong.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Leonard Fox English translation; tradition-level verification, individual poem and passage still to select.",
-    "rights": "Traditional status does not clear a transcription, translation, arrangement or recording. Consult bearers and relevant rights holders.",
-    "source": "Bucknell University Press; catalogue",
+    "translation": "Work changed (30 October 2026): replaced None (Malagasy community poets), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official video on Mr Sayda's YouTube channel",
     "id": "madagascar",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Song",
     "display": {
-      "title": "Hainteny",
-      "english": "",
-      "creator": "Malagasy community poets",
+      "title": "Fitiavana Mahery",
+      "english": "Strong Love",
+      "creator": "Mr Sayda",
       "language": "Malagasy"
     },
     "links": [
       {
-        "label": "www 1.bucknell.edu",
-        "url": "https://www1.bucknell.edu/script/upress/book.asp?id=1007"
-      },
-      {
-        "label": "iucat.iu.edu",
-        "url": "https://iucat.iu.edu/iub/27198"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=VcWoROFzJ8Q"
       }
     ]
   },
@@ -5880,7 +5828,11 @@
     },
     "links": [
       {
-        "label": "folkways-media.si.edu",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=SKaqrJmMw1w"
+      },
+      {
+        "label": "Earlier link: folkways-media.si.edu",
         "url": "https://folkways-media.si.edu/docs/folkways/artwork/FW04175.pdf"
       }
     ]
@@ -6229,42 +6181,38 @@
     "refId": "ML-119",
     "country": "Myanmar",
     "continent": "Asia",
-    "title": "Throw them away",
-    "titleEnglish": "Throw them away",
-    "creator": "Kyi Aye",
+    "title": "အချစ်ဆိုတာလျှို့ဝှက်ချက်တစ်ခုပါ",
+    "titleEnglish": "Love Is a Secret",
+    "creator": "Sai Htee Saing",
     "openOriginal": "No",
     "referenceType": "Named work",
-    "form": "Poetry",
-    "genderGroup": "Women",
+    "form": "Song",
+    "genderGroup": "Men",
     "year": "",
     "language": "Burmese",
     "tradition": "",
-    "formDetails": "Poem",
-    "genderDetails": "Woman",
+    "formDetails": "Song",
+    "genderDetails": "Sai Htee Saing",
     "originalDate": "",
     "editionDate": "",
-    "description": "The speaker addresses love, setting jewels aside in favour of the beloved.",
-    "provenance": "Bilingual poem in Global New Light of Myanmar, 15 February 2026, p.8.",
+    "description": "A love song by Sai Htee Saing (1950–2008), the Shan singer-songwriter loved across Myanmar.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Translated by Myint Zan; contemporary translation rights require review.",
-    "rights": "Review original text, edition and any translation separately. Website permission does not transfer to this book.",
-    "source": "Newspaper bilingual text and translator note",
+    "translation": "Work changed (30 October 2026): replaced Throw them away (Kyi Aye), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official audio on the Sai Htee Saing YouTube channel",
     "id": "myanmar",
-    "formGroup": "Poem",
+    "formGroup": "Song",
     "display": {
-      "title": "Throw them away",
-      "english": "",
-      "creator": "Kyi Aye",
+      "title": "အချစ်ဆိုတာလျှို့ဝှက်ချက်တစ်ခုပါ",
+      "english": "Love Is a Secret",
+      "creator": "Sai Htee Saing",
       "language": "Burmese"
     },
     "links": [
       {
-        "label": "Read about the poet",
-        "url": "https://en.wikipedia.org/wiki/Kyi_Aye"
-      },
-      {
-        "label": "Earlier link: mdn.gov.mm",
-        "url": "https://www.mdn.gov.mm/newspaper/public/ebooks/download/11909"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=EZzZNwc-7xA"
       }
     ]
   },
@@ -6970,35 +6918,40 @@
     "refId": "ML-133",
     "country": "Palau",
     "continent": "Oceania",
-    "title": "Tia urungulel a Dirachebibech el mora Gertou el chad ra Ngheangel",
-    "titleEnglish": "Dirachebibech going to Gertou of Ngheangel (descriptive rendering; exact wording needs verification)",
-    "creator": "Traditional; collected Osamu Yamaguchi",
+    "title": "Sumech e Tmanges",
+    "titleEnglish": "",
+    "creator": "Traditional Palauan love song; sung by March Kloulubak",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
+    "genderGroup": "Men",
+    "year": "2025",
     "language": "Palauan",
     "tradition": "",
     "formDetails": "Song",
-    "genderDetails": "Unknown (traditional / collective authorship)",
-    "originalDate": "",
+    "genderDetails": "Traditional Palauan love song; sung by March Kloulubak",
+    "originalDate": "2025",
     "editionDate": "",
-    "description": "A song of Dirachebibech’s longing for Gertau of Ngheangel.",
-    "provenance": "Recorded 15 May 1965 Ngeremlengui, Palau; reel 36 side 2 track 3.",
+    "description": "A much-loved Palauan love song, sung here by March Kloulubak.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Palauan song and Japanese manuscript annotations; English museum synopsis is not a full lyric translation. Rights restricted to viewing.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "National Taiwan Normal University Music Digital Archive, Sound Memories of Past Palau",
+    "translation": "Work changed (30 October 2026): replaced Tia urungulel a Dirachebibech el mora Gertou el chad ra Ngheangel (Traditional; collected Osamu Yamaguchi), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Performance on March Kloulubak's YouTube channel",
     "id": "palau",
     "formGroup": "Song",
     "display": {
-      "title": "Tia urungulel a Dirachebibech el mora Gertou el chad ra Ngheangel",
-      "english": "Dirachebibech going to Gertou of Ngheangel",
-      "creator": "Traditional; collected Osamu Yamaguchi",
+      "title": "Sumech e Tmanges",
+      "english": "",
+      "creator": "Traditional Palauan love song; sung by March Kloulubak",
       "language": "Palauan"
     },
-    "links": []
+    "links": [
+      {
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=rLGJowv7aUk"
+      }
+    ]
   },
   {
     "refId": "ML-134",
@@ -7148,7 +7101,11 @@
     },
     "links": [
       {
-        "label": "folkways-media.si.edu",
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=37SVhCuzW60"
+      },
+      {
+        "label": "Earlier link: folkways-media.si.edu",
         "url": "https://folkways-media.si.edu/docs/folkways/artwork/FW04269.pdf"
       }
     ]
@@ -8336,38 +8293,38 @@
     "refId": "ML-160",
     "country": "Solomon Islands",
     "continent": "Oceania",
-    "title": "Nuu isiusu",
-    "titleEnglish": "To Enumerate One's Feelings (Love Song)",
-    "creator": "Areare women: Aroia, Alice Waltemaeana, Ester Abinamae, Helen Rarisiwa (group credit tracks 33-37)",
+    "title": "Ghema Mi Lovem You",
+    "titleEnglish": "I Love You",
+    "creator": "Real 17 featuring Slum Kid",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Women",
-    "year": "",
-    "language": "Areare",
+    "genderGroup": "Men",
+    "year": "2023",
+    "language": "Solomon Islands Pijin",
     "tradition": "",
     "formDetails": "Song",
-    "genderDetails": "Women (credited performers); authorship unknown",
-    "originalDate": "",
+    "genderDetails": "Real 17 featuring Slum Kid",
+    "originalDate": "2023",
     "editionDate": "",
-    "description": "A woman sings of her feelings for her lover, often with a friend singing a second part.",
-    "provenance": "MCM3007 The Sounds of Bamboo track 37; Ohio Cultural Centre, Malaita, December 1988; MABO documentation project.",
+    "description": "A love song from the Solomon Islands; mi lovem you is Pijin for I love you.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "English notes translated Tokiko Nobusawa; full lyric translation not supplied. Track-specific singer within group to confirm.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Multicultural Media / MABO project, Solomon Islands National Museum and Osaka University",
+    "translation": "Work changed (30 October 2026): replaced Nuu isiusu (Areare women: Aroia, Alice Waltemaeana, Ester Abinamae, Helen Rarisiwa (group credit tracks 33-37)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official music video on the Real 17 YouTube channel",
     "id": "solomon-islands",
     "formGroup": "Song",
     "display": {
-      "title": "Nuu isiusu",
-      "english": "To Enumerate One's Feelings",
-      "creator": "Areare women: Aroia, Alice Waltemaeana, Ester Abinamae, Helen Rarisiwa",
-      "language": "Areare"
+      "title": "Ghema Mi Lovem You",
+      "english": "I Love You",
+      "creator": "Real 17 featuring Slum Kid",
+      "language": "Solomon Islands Pijin"
     },
     "links": [
       {
-        "label": "tronsvt.com",
-        "url": "https://www.tronsvt.com/mcm/pdfs/MCM3007-SolomonIslands.pdf"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=ICLQ3B9Htic"
       }
     ]
   },
@@ -9377,46 +9334,38 @@
     "refId": "ML-181",
     "country": "Turkmenistan",
     "continent": "Asia",
-    "title": "Zohre and Tahir",
-    "titleEnglish": "Zohre and Tahir (the lovers' names)",
-    "creator": "Mollanepes",
+    "title": "My love",
+    "titleEnglish": "",
+    "creator": "Jeren Halnazarowa and MAD Nazarov; words Annameret Gurbanow; music Mekan Kakaýew",
     "openOriginal": "No",
     "referenceType": "Named work",
-    "form": "Narrative verse / epic",
-    "genderGroup": "Men",
-    "year": "",
-    "language": "Turkmen",
+    "form": "Song",
+    "genderGroup": "Mixed",
+    "year": "2024",
+    "language": "Turkmen and English",
     "tradition": "",
-    "formDetails": "Verse epic",
-    "genderDetails": "Man",
-    "originalDate": "",
+    "formDetails": "Song",
+    "genderDetails": "Jeren Halnazarowa and MAD Nazarov; words Annameret Gurbanow; music Mekan Kakaýew",
+    "originalDate": "2024",
     "editionDate": "",
-    "description": "Lovers’ laments from the verse romance of Zohre and Tahir.",
-    "provenance": "1956 Ashgabat Turkmengosizdat edition, 185 pages; shared transregional story adapted by Turkmen author.",
+    "description": "A duet in which a young man and woman promise to love each other truly.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "Russian translation credited T. Ozerskaya and A. Tarkovsky in 1956 catalogue. English lyric translation not established.",
-    "rights": "Review original text, edition and any translation separately. Website permission does not transfer to this book.",
-    "source": "Turkmen Academy of Sciences journal; edition",
+    "translation": "Work changed (30 October 2026): replaced Zohre and Tahir (Mollanepes), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official video on Jeren Halnazarowa's YouTube channel",
     "id": "turkmenistan",
-    "formGroup": "Narrative & oral",
+    "formGroup": "Song",
     "display": {
-      "title": "Zohre and Tahir",
+      "title": "My love",
       "english": "",
-      "creator": "Mollanepes",
-      "language": "Turkmen"
+      "creator": "Jeren Halnazarowa and MAD Nazarov; words Annameret Gurbanow; music Mekan Kakaýew",
+      "language": "Turkmen and English"
     },
     "links": [
       {
-        "label": "Read about the poet",
-        "url": "https://en.wikipedia.org/wiki/Mollanepes"
-      },
-      {
-        "label": "search.rsl.ru",
-        "url": "https://search.rsl.ru/ru/record/01005894656"
-      },
-      {
-        "label": "Earlier link: science.gov.tm",
-        "url": "https://science.gov.tm/files/journals/109.pdf"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=QWPH_DFHkOY"
       }
     ]
   },
@@ -10121,35 +10070,40 @@
     "refId": "ML-194",
     "country": "Zambia",
     "continent": "Africa",
-    "title": "Nalemntemwa amabala e",
-    "titleEnglish": "Nalemntemwa amabala e — English meaning not yet verified",
-    "creator": "Bemba boys; collector Hugh Tracey; composer unspecified",
+    "title": "I Love You",
+    "titleEnglish": "",
+    "creator": "Chile One MrZambia",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
     "genderGroup": "Men",
-    "year": "",
-    "language": "Bemba",
+    "year": "2022",
+    "language": "",
     "tradition": "",
     "formDetails": "Song",
-    "genderDetails": "Boys (performers); composer unknown",
-    "originalDate": "",
+    "genderDetails": "Chile One MrZambia",
+    "originalDate": "2022",
     "editionDate": "",
-    "description": "A love song about a girl, told through an image of food.",
-    "provenance": "Kwawambua, 28 July 1949; ILAM HTFT055-C56, research C3P11.",
+    "description": "A love song written and sung by Chile One MrZambia, one of Zambia's most popular singers.",
+    "provenance": "Recording",
     "location": "",
-    "translation": "English catalogue description. No complete translation or narrator identification.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Rhodes University repository / ILAM; handle",
+    "translation": "Work changed (30 October 2026): replaced Nalemntemwa amabala e (Bemba boys; collector Hugh Tracey; composer unspecified), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "rights": "In copyright. Not reproduced; listed with a description and link only.",
+    "source": "Official music video on the Chile One Mr Zambia YouTube channel",
     "id": "zambia",
     "formGroup": "Song",
     "display": {
-      "title": "Nalemntemwa amabala e",
+      "title": "I Love You",
       "english": "",
-      "creator": "Bemba boys; collector Hugh Tracey",
-      "language": "Bemba"
+      "creator": "Chile One MrZambia",
+      "language": ""
     },
-    "links": []
+    "links": [
+      {
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=AfB84vAS7HE"
+      }
+    ]
   },
   {
     "refId": "ML-195",
