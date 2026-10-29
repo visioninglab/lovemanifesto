@@ -5575,17 +5575,23 @@
     "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
     "description": "The disappointed lover imagines seeing and hearing the beloved everywhere; the comfort of memory gives way to grief.",
     "provenance": "G. Cassar Pullicino’s study, University of Malta repository, quotes the manuscript-dated poem and identifies the 1901 printed heading.",
-    "location": "Printed p.52, including footnote 2",
-    "translation": "The source says Tifkir tal-Biki was the intended title; the newspaper used L-Aħħar Poeżija. Preserve this distinction. Use the old Maltese verse, not the later essay.",
+    "location": "Printed p. 52: three quoted excerpts, 16 lines, with omissions between them",
+    "translation": "The source says Tifkir tal-Biki was the intended title; the newspaper used L-Aħħar Poeżija. Preserve this distinction. Use the old Maltese verse, not the later essay. Passage update (29 October 2026): Three excerpts (16 lines) as quoted on printed p. 52 of the source, which marks omissions between them with dotted lines. Text read from the scan of p. 52 supplied by the project, correcting OCR damage (mbierka, nilmaħ, ’l qalbi, jgħidli). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1868. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "G. Cassar Pullicino’s study, University of Malta repository, quotes the manuscript-dated poem and identifies the 1901 printed heading.",
     "id": "malta",
+    "contextNote": "Ġan Anton Vassallo was a pioneer of poetry in Maltese, writing when Malta was a British colony and Italian was the language of literature. He wrote this in June 1843, aged 26, after a disappointment in love, and noted in Italian that it was the last poem he would ever write in Maltese; he did write more, including the patriotic hymn “Tifħira lil Malta”.",
     "formGroup": "Poem",
     "display": {
       "title": "L-Aħħar Poeżija",
       "english": "The Last Poem",
       "creator": "Ġan Anton Vassallo",
       "language": "Maltese"
+    },
+    "passage": {
+      "original": "Min kellu jgħidli, ja miskin jiena,\nLi dal-mant f'qalbi jien kelli nġib!\nU l-ebda fejda u l-ebda ħniena\nFl-imħabba tiegħi ma kelli nsib!\nQanpiena mbierka! fejn dari ħossok\nIkabbar fija kien qalb u ruħ;\nTħassarli 'l qalbi daż-żmien inħossok,\nIl-ħabta tiegħek tiġbidli d-dmugħ!\nLilek nistħajjel nilmaħ quddiemi\nKull fejn f'għajnejja nara s-sabiħ;\nFuqek għall-ajru inxerred kliemi\nLeħnek nistħajjel nisma' mar-riħ.\nU f'dit-taqriqa qalbi tithenna\nIżda t-taqriqa fija ma ddum;\nL-uġigħ urajha qalbi tistenna\nBil-qawwa tiegħu taqa' u ma tqum.",
+      "english": "Who could have told me, poor me,\nthat I would carry this mantle of grief in my heart,\nand that no comfort and no mercy\nwould I find in my love!\nBlessed bell! where once, hearing you,\nmy heart and soul would swell within me,\nnow hearing you breaks my heart;\nyour tolling draws my tears!\nI imagine I glimpse you before me\nwherever my eyes see beauty;\nI scatter my words about you to the air,\nI imagine I hear your voice on the wind.\nAnd in this rapture my heart takes comfort,\nbut the rapture does not stay with me;\nafter it my heart awaits the pain,\nand under its force falls and does not rise.",
+      "status": "draft"
     },
     "links": [
       {
