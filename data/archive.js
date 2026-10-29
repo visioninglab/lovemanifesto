@@ -746,57 +746,6 @@ window.ARCHIVE = [
     ]
   },
   {
-    "refId": "ML-015",
-    "country": "Barbados",
-    "continent": "North America",
-    "title": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
-    "titleEnglish": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
-    "creator": "J. W. Orderson (historical author, 1767–1847)",
-    "openOriginal": "Yes",
-    "referenceType": "Named novel (historical edition)",
-    "form": "Novel",
-    "genderGroup": "Men",
-    "year": "1842",
-    "language": "English",
-    "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "First published London: Saunders and Otley, 1842",
-    "editionDate": "1842 original edition; Google Books full-view edition identified",
-    "description": "Caroline Fairfield and Jack Goldacre overcome obstacles and marry. Their courtship is paired with the story of Caroline’s half-sister Lucy within Barbadian colonial society.",
-    "provenance": "Google Books lists the 1842 original as Full view; Cambridge History of Victorian Literature discusses its Barbadian authorship. John Gilmore’s scholarly review discusses the romantic plot.",
-    "location": "Courtship and eventual marriage of Caroline Fairfield and Jack Goldacre",
-    "translation": "Reuse the 1842 text. The 2002 John Gilmore introduction, notes and other new editorial content are excluded. Colonial racial hierarchies and slavery form part of the narrative context. Retain the original printed author name J. W. Orderson rather than infer an expanded name. Passage update (29 October 2026): Not filled: the 1842 novel is identified, but the linked Google Books text could not be retrieved for passage verification. Supply relevant original-edition pages showing Caroline Fairfield and Jack Goldacre. Do not substitute a plot summary for the original English text.",
-    "rights": "Historical original composition; author died 1847, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
-    "id": "barbados",
-    "formGroup": "Narrative & oral",
-    "display": {
-      "title": "Creoleana; or, Social and Domestic Scenes and Incidents in Barbados in Days of Yore",
-      "english": "",
-      "creator": "J. W. Orderson",
-      "language": "English"
-    },
-    "links": [
-      {
-        "label": "Work / text",
-        "url": "https://books.google.com/books?id=MAVmAAAAcAAJ"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://books.google.com/books?id=MAVmAAAAcAAJ"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://doi.org/10.1007/s10912-010-9128-y"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.cambridge.org/core/product/552E7F43A1A44C69063638FB12DBEB6A"
-      }
-    ]
-  },
-  {
     "refId": "ML-016",
     "country": "Belarus",
     "continent": "Europe",
@@ -5481,61 +5430,6 @@ window.ARCHIVE = [
     ]
   },
   {
-    "refId": "ML-110",
-    "country": "Mauritius",
-    "continent": "Africa",
-    "title": "Paul et Virginie",
-    "titleEnglish": "Paul and Virginie (the lovers' names)",
-    "creator": "Jacques-Henri Bernardin de Saint-Pierre (1737–1814)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Prose / novel",
-    "genderGroup": "Men",
-    "year": "1788",
-    "language": "French",
-    "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "1788 in Études de la nature; separate edition 1789",
-    "editionDate": "Linked French edition: 1874; Wikisource also has an 1806 edition",
-    "description": "Paul and Virginie’s childhood affection becomes romantic love on Mauritius; separation and shipwreck bring a tragic ending.",
-    "provenance": "Library of Congress digitised French edition and work description identify Mauritius as the setting and confirm the original date.",
-    "location": "Complete novel; select the lovers’ declarations or separation passages",
-    "translation": "Country connection is setting and Mauritian cultural association: the author was French, not Mauritian. The story reflects a colonial plantation society. Modern adaptations and commentary are excluded.",
-    "rights": "The Library of Congress expressly identifies the linked book as public domain and free to use and reuse. Historical French original also falls well beyond standard life-plus-70 terms.",
-    "source": "Library of Congress digitised French edition and work description identify Mauritius as the setting and confirm the original date.",
-    "id": "mauritius",
-    "formGroup": "Narrative & oral",
-    "display": {
-      "title": "Paul et Virginie",
-      "english": "Paul and Virginie",
-      "creator": "Jacques-Henri Bernardin de Saint-Pierre",
-      "language": "French"
-    },
-    "links": [
-      {
-        "label": "Work / source text",
-        "url": "https://www.loc.gov/item/14015622/"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.loc.gov/item/14015622/"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://www.loc.gov/item/2021666976/"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.loc.gov/item/2021666976/"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://fr.wikisource.org/wiki/Paul_et_Virginie"
-      }
-    ]
-  },
-  {
     "refId": "ML-221",
     "country": "Mexico",
     "continent": "North America",
@@ -7279,61 +7173,6 @@ window.ARCHIVE = [
     ]
   },
   {
-    "refId": "ML-146",
-    "country": "Saint Kitts and Nevis",
-    "continent": "North America",
-    "title": "Bryan and Pereene. A West Indian Ballad",
-    "titleEnglish": "Bryan and Pereene. A West Indian Ballad",
-    "creator": "James Grainger (c.1721–1766)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Poetry",
-    "genderGroup": "Men",
-    "year": "1765",
-    "language": "English",
-    "tradition": "",
-    "formDetails": "Lyric poem",
-    "genderDetails": "Man author",
-    "originalDate": "Published in Percy’s Reliques, 1765; linked source edition 1767",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Separated lovers eagerly anticipate reunion, but Bryan is killed by a shark as he swims to shore and Pereene dies of grief.",
-    "provenance": "Eighteenth-Century Poetry Archive supplies text and Bodleian facsimile. Percy’s historical note places the anecdote on St Christopher; Grainger lived and died on St Kitts.",
-    "location": "Complete 56-line ballad; lines 5–40 concern fidelity and anticipated reunion",
-    "translation": "Scottish-born colonial resident author, not an Indigenous island voice. Graphic tragic ending and colonial racial representation. First-publication date should not be confused with the linked 1767 anthology.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1766. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Eighteenth-Century Poetry Archive supplies text and Bodleian facsimile. Percy’s historical note places the anecdote on St Christopher; Grainger lived and died on St Kitts.",
-    "id": "saint-kitts-and-nevis",
-    "formGroup": "Poem",
-    "display": {
-      "title": "Bryan and Pereene. A West Indian Ballad",
-      "english": "",
-      "creator": "James Grainger",
-      "language": "English"
-    },
-    "links": [
-      {
-        "label": "Work / source text",
-        "url": "https://www.eighteenthcenturypoetry.org/works/o5089-w0310.shtml"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://electricscotland.com/poetry/gleaningsofscarc00buch.pdf"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://electricscotland.com/poetry/gleaningsofscarc00buch.pdf"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://digital-grainger.github.io/grainger/poetry-and-slavery.html"
-      }
-    ]
-  },
-  {
     "refId": "ML-147",
     "country": "Saint Lucia",
     "continent": "North America",
@@ -8348,57 +8187,6 @@ window.ARCHIVE = [
       {
         "label": "poetrytranslation.org",
         "url": "https://www.poetrytranslation.org/poem/song/"
-      }
-    ]
-  },
-  {
-    "refId": "ML-168",
-    "country": "Suriname",
-    "continent": "South America",
-    "title": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
-    "titleEnglish": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
-    "creator": "John Gabriel Stedman (1744–1797)",
-    "openOriginal": "Yes",
-    "referenceType": "Named literary memoir (full historical edition)",
-    "form": "Literary memoir",
-    "genderGroup": "Men",
-    "year": "1796",
-    "language": "English",
-    "tradition": "",
-    "formDetails": "Literary memoir",
-    "genderDetails": "Man author",
-    "originalDate": "First published London, 1796; describes residence in Suriname, 1773–1777",
-    "editionDate": "1796 published version, two volumes",
-    "description": "Stedman narrates his attachment to Joanna, their life together and their separation in Suriname. Read as a colonial memoir of romantic attachment within slavery, rather than an equal relationship.",
-    "provenance": "Library of Congress digitizes the 1796 edition; Wellcome marks its 1796 copy Public Domain. Romantic Circles study explains the Joanna narrative and differences between manuscript and print.",
-    "location": "Joanna episodes across the two volumes; see edition comparison in Romantic Circles",
-    "translation": "Foreign Scottish-Dutch author stationed in Suriname; not a Surinamese-authored indigenous voice. Slavery, colonial violence and unequal power are integral. Use the published 1796 text, not the substantially different modern editions of the 1790 manuscript (1988/1992).",
-    "rights": "Historical original composition; author died 1797, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
-    "id": "suriname",
-    "formGroup": "Narrative & oral",
-    "display": {
-      "title": "Narrative of a Five Years’ Expedition against the Revolted Negroes of Surinam — Joanna episodes",
-      "english": "",
-      "creator": "John Gabriel Stedman",
-      "language": "English"
-    },
-    "links": [
-      {
-        "label": "Work / text",
-        "url": "https://www.loc.gov/item/02011781/"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://wellcomecollection.org/works/cnxd2xea/items?shouldScrollToCanvas=true"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://www.romantic-circles.org/praxis/circulations/kennedy"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://nmaahc.si.edu/object/nmaahc_2014.63.8.1-.2"
       }
     ]
   },

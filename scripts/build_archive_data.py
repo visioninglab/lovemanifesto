@@ -19,6 +19,8 @@ import openpyxl
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SOURCE = ROOT / "data" / "source" / "Manifesto_for_Love_MASTER.xlsx"
+# Entries taken off the site (Reference ID -> reason), e.g. works by slavers
+REMOVED = json.loads((ROOT / "data" / "removed.json").read_text(encoding="utf-8"))
 HEADER_ROW = 6
 
 # Spreadsheet header -> field name in the output
@@ -198,6 +200,8 @@ def build(source):
         if not clean(row[col["Country"]].value):
             continue
         entry = {field: clean(row[col[h]].value) for h, field in COLUMNS.items()}
+        if entry["refId"] in REMOVED:
+            continue
         entry["id"] = slugify(entry["country"])
         entry["title"] = entry["title"] or entry["titleEnglish"] or entry["tradition"]
         entry["formGroup"] = form_group(entry["form"])
@@ -238,7 +242,7 @@ def main():
     )
     with_text = [e for e in entries if "passage" in e]
     drafts = sum(1 for e in with_text if e["passage"]["status"] == "draft")
-    print(f"Wrote {len(entries)} entries to data/archive.json and data/archive.js")
+    print(f"Wrote {len(entries)} entries to data/archive.json and data/archive.js ({len(REMOVED)} removed)")
     print(f"{len(with_text)} with original and English passages ({drafts} English drafts awaiting review)")
     no_url = [e["country"] for e in entries if not e["links"]]
     if no_url:
