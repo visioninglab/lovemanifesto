@@ -2960,17 +2960,23 @@
     "editionDate": "Cerulli, The Folk-Literature of the Galla of Southern Abyssinia, Harvard African Studies III, Varia Africana III, 1922, song 117",
     "description": "A woman longs for her absent lover across the Bure mountains, imagining an impossible way to remove the barrier between them.",
     "provenance": "Cerulli expressly identifies the source as the 1894 Spelling Book and prints Oromo wording with an English translation. The introduction credits both Onesimos and Ganno Aster in the native title; Aster Ganno was a woman co-compiler. Harvard lists the 1922 volume and provides its archive link.",
-    "location": "III, Love Songs, no.117; identify by number rather than unverified print page",
-    "translation": "Composer gender is unknown; a female speaker does not establish female authorship. Aster Ganno’s contribution is as co-compiler. The modern Seltzer transcription drops diacritics and carries a restrictive non-commercial notice: consult the 1922 scan for original typography. Historical title uses an outdated exonym for Oromo. Cerulli’s English translation and modern editorial material have separate territorial rights.",
+    "location": "III, Love Songs, no. 117 (printed p. 120)",
+    "translation": "Composer gender is unknown; a female speaker does not establish female authorship. Aster Ganno’s contribution is as co-compiler. The modern Seltzer transcription drops diacritics and carries a restrictive non-commercial notice: consult the 1922 scan for original typography. Historical title uses an outdated exonym for Oromo. Cerulli’s English translation and modern editorial material have separate territorial rights. Passage update (29 October 2026): Complete song no. 117 (5 lines), Harvard African Studies vol. 3 (1922), p. 120, in Cerulli’s scholarly transcription; the two-column layout is put into verse order. Letters read from a page image supplied by the project: check the diacritics against the printed page. The English is new (Cerulli’s own translation is excluded). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "US public-domain lead: original Oromo wording published by 1894 and reproduced in 1922, before the 1931 cutoff. This is not worldwide clearance; traditional-cultural-expression rules and the rights in later editions vary. Do not treat Cerulli’s English translation (author died 1988), Ganno’s later editorial work, or Seltzer’s 2003 edition as globally open.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "ethiopia",
+    "contextNote": "This song was written down by Onesimos Nesib and Aster Ganno, two Oromo scholars who had both escaped slavery as young people, in their Oromo Spelling Book of 1894; Enrico Cerulli later published it in 1922. In this lament, a woman separated from her lover wishes she could cut down the mountains between them.",
     "formGroup": "Poem & song",
     "display": {
-      "title": "Naggadie naggadduma",
+      "title": "Naggādiē naggāddīmā",
       "english": "O merchant of the merchandise",
       "creator": "collected by Onesimos Nesib and Aster Ganno; edited by Enrico Cerulli",
-      "language": "Oromo; historical scholarly Roman transcription"
+      "language": "Oromo"
+    },
+    "passage": {
+      "original": "naggādiē naggāddīmā\nkān tullū Burē ğirtū\niğğātō qottō ḍabē\ngarātō murtē ḍabē\nkān tullū murē ğiğsū",
+      "english": "O merchant, trader in goods,\nwho are at Mount Burē!\nThe eyes have no axe,\nthe mind has no sickle,\nto cut down the mountains and throw them aside!",
+      "status": "draft"
     },
     "links": [
       {
