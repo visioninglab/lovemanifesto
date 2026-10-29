@@ -68,7 +68,7 @@ window.Poem = (function () {
     return section;
   }
 
-  // Context for works bound up with the history of slavery and colonialism
+  // A short note on the history behind the work, its maker or its place
   function historyNote(entry) {
     if (!entry.contextNote) return null;
     const note = el("aside", "history-note");
