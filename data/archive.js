@@ -516,7 +516,7 @@ window.ARCHIVE = [
     "rights": "Anthology review (30 October 2026): published 1907; Rilke died 1926, so public domain in the UK, EU and US. Modern English translations (for example Stephen Mitchell's) are in copyright and are not used.",
     "source": "German Wikisource: Liebes-Lied (Neue Gedichte, 1907)",
     "id": "austria",
-    "contextNote": "Rainer Maria Rilke was born in Prague in 1875, when it belonged to the Austrian Empire, and became one of the great poets of the German language. “Liebes-Lied” appears near the start of his Neue Gedichte (New Poems, 1907), written while he worked as secretary to the sculptor Auguste Rodin in Paris.",
+    "contextNote": "Rainer Maria Rilke was born in Prague in 1875, when it belonged to the Austrian Empire, and became one of the great poets of the German language. “Liebes-Lied” appears near the start of his Neue Gedichte (New Poems, 1907), written in the years he spent in Paris learning from the sculptor Auguste Rodin to look closely at things.",
     "formGroup": "Poem",
     "display": {
       "title": "Liebes-Lied",
