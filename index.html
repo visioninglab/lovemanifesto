@@ -12,42 +12,35 @@
 </head>
 <body>
   <nav class="site-nav" aria-label="Site">
-    <a href="index.html" aria-current="page"><span class="desktop-only">Map</span><span class="mobile-only">Home</span></a>
-    <a href="poems/archive.html">Poems</a>
+    <a href="index.html" aria-current="page">Poems</a>
+    <a class="desktop-only" href="poems/map.html">Map</a>
     <a href="#about">About</a>
   </nav>
 
-  <header class="home-hero">
+  <header class="archive-header">
     <p class="eyebrow">Love Manifesto</p>
     <h1>Love, in every country</h1>
-    <p class="lede">A love poem, song or story from every country in the world. <span class="desktop-only">Choose a highlighted country on the map to read its poem in the language it was written in, side by side with English.</span><span class="mobile-only">Choose a country to read its poem in the language it was written in, side by side with English.</span></p>
+    <p class="lede">A love poem, song or story from every country in the world, in the language it was written in and in English.</p>
     <p class="wip-note"><strong>This is a work in progress.</strong> Eventually, we hope to show many poems from every country, so if you have a love poem that you would like to share, please <a href="https://visioninglab.com/collaborate/">get in touch</a>.</p>
   </header>
 
-  <main class="map-page">
-    <div class="map-tools">
-      <label class="country-picker">
-        <span>Go to a country</span>
-        <select id="country-select">
-          <option value="">Choose…</option>
-        </select>
+  <main class="archive">
+    <form class="filters" role="search" onsubmit="return false">
+      <label class="search">
+        <span class="visually-hidden">Search the poems</span>
+        <input id="search" type="search" placeholder="Search by country, poet or word" autocomplete="off">
       </label>
-      <ul class="legend desktop-only" id="legend" aria-label="Map colours"></ul>
-    </div>
+      <div class="view-switch" id="view-switch" role="group" aria-label="What to show"></div>
+      <p class="view-note" id="view-note" aria-live="polite"></p>
+    </form>
 
-    <div class="map-frame desktop-only" id="map-frame">
-      <svg id="map" viewBox="0 0 960 480" role="img" aria-label="World map of love poems. Use the country list above to choose a country with the keyboard."></svg>
-      <div class="map-zoom">
-        <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
-        <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
-        <button type="button" id="zoom-reset" aria-label="Reset map">⟲</button>
-      </div>
-      <div class="map-tooltip" id="tooltip" hidden></div>
-      <p class="map-status" id="map-status">Loading map…</p>
-    </div>
-    <p class="map-hint desktop-only">Scroll or pinch to zoom. Small countries are shown as dots.</p>
+    <nav class="alphabet" id="alphabet" aria-label="Jump to countries by letter"></nav>
 
-    <section class="map-card" id="map-card" aria-live="polite" hidden></section>
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+
+    <ol class="entries" id="entries"></ol>
+
+    <p class="empty" id="empty" hidden>Nothing matches that search.</p>
 
     <section class="about" id="about" aria-labelledby="about-title">
       <h2 id="about-title">About this project</h2>
@@ -60,7 +53,7 @@
         </li>
         <li>
           <h3>Read it in two languages</h3>
-          <p>Countries highlighted on the map have a poem you can read here, in its original language beside an English version.</p>
+          <p>Poems to read are shown here in full, in their original language beside an English version.</p>
         </li>
         <li>
           <h3>Explore the rest</h3>
@@ -70,20 +63,18 @@
 
 
       <p class="about-actions">
-        <a class="button" href="poems/archive.html">Read the poems</a>
-        <a class="button button-quiet" href="poems/archive.html?explore">Explore more poems</a>
+        <a class="button" href="poems/map.html">See the map</a>
+        <a class="button button-quiet" href="index.html?explore">Explore more poems</a>
       </p>
     </section>
   </main>
 
   <footer class="archive-footer">
-    <p>English versions of poems not written in English are new translations made with AI assistance. Map borders from <a href="https://www.naturalearthdata.com/">Natural Earth</a>.</p>
+    <p>English versions of poems not written in English are new translations made with AI assistance.</p>
   </footer>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
   <script src="data/archive.js"></script>
   <script src="poems/poem.js"></script>
-  <script src="poems/map.js"></script>
+  <script src="poems/archive.js"></script>
 </body>
 </html>

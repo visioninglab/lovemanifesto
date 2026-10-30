@@ -3,52 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Love Poetry Archive · Love Manifesto</title>
-  <meta name="description" content="Love poems from around the world, in their original languages and in English.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="../styles.css">
+  <title>Love Manifesto</title>
+  <!-- The poems list is now the home page; keep old links (including ?explore and #country) working -->
+  <script>location.replace("../index.html" + location.search + location.hash);</script>
+  <meta http-equiv="refresh" content="0; url=../index.html">
+  <link rel="canonical" href="../index.html">
 </head>
 <body>
-  <nav class="site-nav" aria-label="Site">
-    <a href="../index.html"><span class="desktop-only">Map</span><span class="mobile-only">Home</span></a>
-    <a href="archive.html" aria-current="page">Poems</a>
-    <a href="../index.html#about">About</a>
-  </nav>
-
-  <header class="archive-header">
-    <p class="eyebrow">Love Manifesto</p>
-    <h1>Love Poems of the World</h1>
-    <p class="lede">Poems and songs of love from across the world, in the language they were written in and in English.</p>
-    <p class="wip-note"><strong>This is a work in progress.</strong> Eventually, we hope to show many poems from every country, so if you have a love poem that you would like to share, please <a href="https://visioninglab.com/collaborate/">get in touch</a>.</p>
-  </header>
-
-  <main class="archive">
-    <form class="filters" role="search" onsubmit="return false">
-      <label class="search">
-        <span class="visually-hidden">Search the poems</span>
-        <input id="search" type="search" placeholder="Search by country, poet or word" autocomplete="off">
-      </label>
-      <div class="view-switch" id="view-switch" role="group" aria-label="What to show"></div>
-      <p class="view-note" id="view-note" aria-live="polite"></p>
-    </form>
-
-    <nav class="alphabet" id="alphabet" aria-label="Jump to countries by letter"></nav>
-
-    <p class="result-count" id="result-count" aria-live="polite"></p>
-
-    <ol class="entries" id="entries"></ol>
-
-    <p class="empty" id="empty" hidden>Nothing matches that search.</p>
-  </main>
-
-  <footer class="archive-footer">
-    <p>English versions of poems not written in English are new translations made with AI assistance.</p>
-  </footer>
-
-  <script src="../data/archive.js"></script>
-  <script src="poem.js"></script>
-  <script src="archive.js"></script>
+  <p><a href="../index.html">Go to the poems</a></p>
 </body>
 </html>

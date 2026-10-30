@@ -29,7 +29,7 @@
     const source = sourceLink(entry);
     if (source) links.append(source);
     const onMap = el("a", "", "See on map");
-    onMap.href = `../index.html#${entry.id}`;
+    onMap.href = `poems/map.html#${entry.id}`;
     links.append(onMap);
     item.append(links);
 

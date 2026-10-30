@@ -100,7 +100,7 @@
     const source = sourceLink(entry);
     if (source) links.append(source);
     const onPoems = el("a", "", "See on the Poems page");
-    onPoems.href = `poems/archive.html${entry.passage ? "" : "?explore"}#${entry.id}`;
+    onPoems.href = `../index.html${entry.passage ? "" : "?explore"}#${entry.id}`;
     links.append(onPoems);
     card.append(links);
     card.append(viewNote(Boolean(entry.passage)));

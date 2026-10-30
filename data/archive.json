@@ -229,19 +229,19 @@
     "referenceType": "Named work",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1961",
+    "year": "c. 1950",
     "language": "Portuguese",
     "tradition": "",
     "formDetails": "Poem",
     "genderDetails": "Viriato da Cruz",
-    "originalDate": "By 1961; collected in Poemas (1961)",
+    "originalDate": "1947–1950; collected in Poemas (1961)",
     "editionDate": "",
     "description": "A young man courts a girl with perfumed letters, a card and even a charm, and is turned down every time, until at a dance, to the beat of an African rumba, she finally says yes.",
-    "provenance": "Viriato da Cruz, Poemas (Lisbon: Casa dos Estudantes do Império, 1961).",
-    "location": "",
+    "provenance": "Viriato da Cruz, Poemas (Lisbon: Casa dos Estudantes do Império, 1961), p. 15; reprinted unchanged by UCCLA (Lisbon, 2014) as a free edition.",
+    "location": "pp. 15–17",
     "translation": "Work changed (30 October 2026) after the whole-poem review: Cordeiro da Matta's 'Kicôla' (1877) is replaced by the best-loved courtship poem of the generation of Angolan poets who called for 'Let's discover Angola'.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
-    "source": "Viriato da Cruz, Poemas (Lisbon: Casa dos Estudantes do Império, 1961).",
+    "source": "UCCLA free reprint of Poemas (1961), pp. 15–17",
     "id": "angola",
     "contextNote": "Viriato da Cruz helped lead the 1948 movement 'Vamos descobrir Angola' ('Let's discover Angola'), urging young writers to find their subjects in Angolan life rather than in Portugal. A founder of the independence movement MPLA, he died in exile in China in 1973.",
     "formGroup": "Poem",
@@ -254,7 +254,7 @@
     "links": [
       {
         "label": "Read the text",
-        "url": "https://www.portalsaofrancisco.com.br/obras-literarias/namoro"
+        "url": "https://www.uccla.pt/sites/default/files/poemas_viriato_da_cruz.pdf#page=15"
       }
     ]
   },

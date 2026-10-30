@@ -65,11 +65,11 @@ http://localhost:8000
 
 ## Love poetry archive
 
-`poems/archive.html` is a searchable catalogue of love poems, songs, stories and oral traditions from 195 countries. Its source document is the master spreadsheet, copied into `data/source/Manifesto_for_Love_MASTER.xlsx`.
+The home page (`index.html`) is a searchable catalogue of love poems, songs, stories and oral traditions from 195 countries. Its source document is the master spreadsheet, copied into `data/source/Manifesto_for_Love_MASTER.xlsx`.
 
-The pages are written for casual readers. The archive has two views. "Poems to read" (the default) shows the entries that have a poem passage, in the original language beside English. "Poems to explore" shows the rest, each with a link to the work at its source; `archive.html?explore` opens on that view. Research notes, evidence links and cataloguing remarks stay in the spreadsheet and `data/archive.json` and are not shown; the build script also strips bracketed notes such as "(incipit)" from displayed titles and names. A footer line says that English versions are new translations made with AI assistance.
+The pages are written for casual readers. The archive has two views. "Poems to read" (the default) shows the entries that have a poem passage, in the original language beside English. "Poems to explore" shows the rest, each with a link to the work at its source; `index.html?explore` opens on that view. It ends with a short About section. Research notes, evidence links and cataloguing remarks stay in the spreadsheet and `data/archive.json` and are not shown; the build script also strips bracketed notes such as "(incipit)" from displayed titles and names. A footer line says that English versions are new translations made with AI assistance.
 
-The home page (`index.html`) introduces the project and shows the entries on a world map. Click a highlighted country (small countries appear as dots) to read its poem below the map. Links can point at a country directly, for example `index.html#kenya`; the old `poems/map.html` address forwards there.
+The map (`poems/map.html`) shows the entries on a world map. Click a highlighted country (small countries appear as dots) to read its poem below the map. Links can point at a country directly, for example `poems/map.html#kenya`; the old `poems/archive.html` address forwards to the home page, keeping `?explore` and `#country`.
 
 After editing the spreadsheet, regenerate the archive data:
 
