@@ -7866,60 +7866,39 @@ window.ARCHIVE = [
     "refId": "ML-151",
     "country": "Sao Tome and Principe",
     "continent": "Africa",
-    "title": "Serões de São Tomé",
-    "titleEnglish": "Evenings in São Tomé",
-    "creator": "Caetano da Costa Alegre (1864–1890)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Poetry",
+    "title": "Te Amo",
+    "titleEnglish": "I Love You",
+    "creator": "Calema",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1916",
+    "year": "2020",
     "language": "Portuguese",
     "tradition": "",
-    "formDetails": "Lyric poem",
-    "genderDetails": "Man author",
-    "originalDate": "Written before 1890; collected posthumously in Versos, 1916",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Playful love quatrains: the beloved's gaze makes the moon rise, kisses are stolen and given, the sea foam mistakes her for Venus, and the island itself becomes the sea's lover.",
-    "provenance": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
-    "location": "Section on Costa Alegre, poem Serões de São Tomé",
-    "translation": "The text contains racial comparisons requiring contextual reading. Modern commentary is separate. Composition date is not known; 1916 is the collection date. Passage update (29 October 2026): First four quatrains, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (30 October 2026, sensitivity review): re-excerpted to quatrains 1, 3, 4, 7 and 8 (20 lines), leaving out the quatrains built on slavery and skin-colour comparisons.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1890. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
+    "formDetails": "Love song",
+    "genderDetails": "António and Fradique Mendes Ferreira",
+    "originalDate": "2020",
+    "editionDate": "",
+    "description": "A love ballad in which the singer admits he let his beloved down, and asks her to come back because he still loves her.",
+    "provenance": "Calema, Yellow (Klasszik, 2020); official video on the Klasszik YouTube channel.",
+    "location": "",
+    "translation": "Work changed (30 October 2026): Caetano da Costa Alegre's quatrains are dropped, because the sequence they come from is built on colonial ideas about race; no São Tomé love poem that could be linked was found, so this is a love song by the islands' best-known band.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Review, 30 October 2026.",
+    "source": "Official music video, Klasszik",
     "id": "sao-tome-and-principe",
-    "contextNote": "Caetano da Costa Alegre was born on São Tomé and went to Lisbon to study medicine, where he wrote about being a Black man in love in Portuguese society. He died of tuberculosis in 1890, aged 25; his Versos were published by friends in 1916.",
-    "formGroup": "Poem",
+    "contextNote": "Calema are the brothers António and Fradique Mendes Ferreira, who grew up in São Tomé and Príncipe and named their band after the Calema, the huge waves that break on the islands’ coast. Singing in Portuguese, they became stars across the Portuguese-speaking world, headlining Lisbon’s Estádio da Luz in 2025.",
+    "formGroup": "Song",
     "display": {
-      "title": "Serões de São Tomé",
-      "english": "Evenings in São Tomé",
-      "creator": "Caetano da Costa Alegre",
+      "title": "Te Amo",
+      "english": "I Love You",
+      "creator": "Calema",
       "language": "Portuguese"
-    },
-    "passage": {
-      "original": "Meus olhos são como a noite\nem que astro nenhum flutua\nmas se o teu olhar o fita\nna noite desponta a lua\nMeu olhar é retratista\nò minha doce miragem\nsenão diz-me porque tenho\nno meu peito a tua imagem\nRoubei-te o primeiro beijo\no segundo foi-me dado\no terceiro, francamente,\ncreio que me foi roubado\nUm dia a espuma dos mares\nao ver em si meu amor\nFoi dizer baixinho à praia\n– a Vénus mudou de cor\nA nossa terra é tão bela\nduma beleza sem par\nE por ser assim formosa\nFê-la sua amante o mar…",
-      "english": "My eyes are like the night\nin which no star is floating,\nbut if your gaze rests on them,\nthe moon rises in that night.\nMy gaze is a portrait painter,\nO my sweet mirage;\notherwise tell me why I carry\nyour image in my breast.\nI stole the first kiss from you,\nthe second was given to me,\nthe third, frankly,\nI believe was stolen from me.\nOne day the foam of the seas,\nseeing my love reflected in it,\nwent and whispered to the shore:\n'Venus has changed her colour.'\nOur land is so lovely,\nof a beauty without equal,\nand because it is so fair\nthe sea has made it his lover…",
-      "status": "draft"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://kukalesa.wordpress.com/2013/01/11/alguns-precursores-da-negritude-em-lngua-portuguesa/"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://kukalesa.wordpress.com/2013/01/11/alguns-precursores-da-negritude-em-lngua-portuguesa/"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://kukalesa.wordpress.com/2013/01/11/alguns-precursores-da-negritude-em-lngua-portuguesa/"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://www.letras.ufmg.br/literafro/arquivos/autores/Artigo_A_literatura_de_So_Tom_e_Prncipe_-_Naza_Assu_Rob_1.pdf"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=Z6XkNdHbMPE"
       }
     ]
   },
