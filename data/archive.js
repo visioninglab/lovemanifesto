@@ -132,7 +132,7 @@ window.ARCHIVE = [
     "genderDetails": "Man author",
     "originalDate": "Composed before the author’s death in 1883; exact date not established",
     "editionDate": "Historical Arabic poem; 21 bayts in Abu Dhabi’s Poetry Encyclopedia",
-    "description": "The speaker longs for affection, kisses and reunion with the beloved, ending by declaring his cousin-wife his true treasure.",
+    "description": "The speaker longs for affection, kisses and reunion with the beloved, ending by declaring his cousin his true treasure.",
     "provenance": "Abu Dhabi Department of Culture and Tourism, Poetry Encyclopedia, poem 95618, full Arabic text. University of Djelfa literary course p.39 identifies it as ghazal. ICRC publication corroborates author’s Algerian origins and death in 1883.",
     "location": "Poetry Encyclopedia poem 95618, final six bayts (16–21), displayed as 12 half-lines.",
     "translation": "Identifier is the original incipit. The poem includes longing, reproach and conventional hyperbole about the beloved’s cruelty, rather than consistently cheerful love. Year 1883 is an upper bound, not a composition date. Modern annotations and translations are excluded. Passage update (29 October 2026): Fresh English translation by ChatGPT; editorial draft, not a quoted published translation. Original and English contain the same selection. Elongation marks and most diacritics omitted. The difficult phrase أبيت على معاد is translated provisionally as spending a night at the appointed meeting place. بنت العم means female paternal cousin; this line does not explicitly say wife. Arabic specialist review recommended.",
@@ -1832,13 +1832,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Unknown / anonymous",
     "originalDate": "1st millennium BCE (Shijing tradition; exact poem date unknown)",
-    "editionDate": "1909 (English rendering)",
+    "editionDate": "Chinese text: Wikisource",
     "description": "A lover waits for a girl and treasures her gifts.",
-    "provenance": "A Lute of Jade; L. Cranmer-Byng; New York edition, 1909",
+    "provenance": "Shijing (Classic of Poetry), Airs of Bei, “Jing nü”; Chinese text from Chinese Wikisource.",
     "location": "Complete poem, arranged as 12 lines",
-    "translation": "Specifically Cranmer-Byng’s 1909 rendering (translator died 1945). The traditional collection title does not mean Confucius authored the poem; modern translations are separate. Passage update (29 October 2026): Complete poem, arranged as 12 lines, original Chinese with English. The precise identity of 彤管, rendered “red reed”, is uncertain. In the last stanza, the speaker addresses the gift.",
-    "rights": "Public domain in USA - Project Gutenberg",
-    "source": "",
+    "translation": "The traditional collection title does not mean Confucius authored the poem; modern translations are separate. Passage update (29 October 2026): Complete poem, arranged as 12 lines, original Chinese with English. The precise identity of 彤管, rendered “red reed”, is uncertain. In the last stanza, the speaker addresses the gift. Translation update (30 October 2026): English newly translated from the Chinese, replacing an earlier English version whose origin was not recorded; Cranmer-Byng's 1909 version is not used. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Ancient anonymous poem, public domain. New English translation from the Chinese; Cranmer-Byng's 1909 version is not used.",
+    "source": "Chinese Wikisource: 詩經/靜女",
     "id": "china",
     "contextNote": "This poem comes from the Shijing, or Book of Songs, China's oldest collection of poetry, gathered between about 1000 and 600 BCE. Tradition says Confucius chose its songs, and for two thousand years scholars read even its love songs as moral lessons.",
     "formGroup": "Poem",
@@ -1850,13 +1850,13 @@ window.ARCHIVE = [
     },
     "passage": {
       "original": "靜女其姝，\n俟我於城隅，\n愛而不見，\n搔首踟躕。\n靜女其孌，\n貽我彤管，\n彤管有煒，\n說懌女美。\n自牧歸荑，\n洵美且異，\n匪女之為美，\n美人之貽。",
-      "english": "The quiet maiden is lovely;\nshe waits for me by the city wall.\nShe hides and does not appear;\nI scratch my head and pace about.\nThe quiet maiden is beautiful;\nshe gives me a red reed.\nThe red reed shines;\nI delight in your beauty.\nFrom the pasture she brings a tender shoot,\ntruly lovely and unusual.\nIt is not the shoot itself that is beautiful:\nit is a gift from my beautiful one.",
-      "status": "translation"
+      "english": "The quiet girl is lovely;\nshe waits for me at the corner of the city wall.\nShe hides and will not show herself;\nI scratch my head and walk up and down.\nThe quiet girl is fair;\nshe gives me a red reed.\nThe red reed glows,\nand I delight in how fine you are.\nFrom the pastures she brings me a young shoot,\ntruly beautiful and rare.\nIt is not you, little shoot, that are beautiful:\nyou are the gift of a beautiful girl.",
+      "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://www.gutenberg.org/cache/epub/390/pg390-images.html"
+        "label": "Read the whole work",
+        "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9D%9C%E5%A5%B3"
       },
       {
         "label": "Rights / catalogue",
@@ -1869,6 +1869,10 @@ window.ARCHIVE = [
       {
         "label": "Author / country",
         "url": "https://www.gutenberg.org/ebooks/390"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://www.gutenberg.org/cache/epub/390/pg390-images.html"
       }
     ]
   },
@@ -2446,8 +2450,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=8652"
+        "label": "Read the whole work",
+        "url": "https://kalliope.org/da/text/andersen2026100176"
       },
       {
         "label": "Rights / catalogue",
@@ -2464,6 +2468,10 @@ window.ARCHIVE = [
       {
         "label": "Passage text source",
         "url": "https://kalliope.org/da/text/andersen2006071101"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=8652"
       }
     ]
   },
@@ -2985,7 +2993,7 @@ window.ARCHIVE = [
     "description": "A woman longs for her absent lover across the Bure mountains, imagining an impossible way to remove the barrier between them.",
     "provenance": "Cerulli expressly identifies the source as the 1894 Spelling Book and prints Oromo wording with an English translation. The introduction credits both Onesimos and Ganno Aster in the native title; Aster Ganno was a woman co-compiler. Harvard lists the 1922 volume and provides its archive link.",
     "location": "III, Love Songs, no. 117 (printed p. 120)",
-    "translation": "Composer gender is unknown; a female speaker does not establish female authorship. Aster Ganno’s contribution is as co-compiler. The modern Seltzer transcription drops diacritics and carries a restrictive non-commercial notice: consult the 1922 scan for original typography. Historical title uses an outdated exonym for Oromo. Cerulli’s English translation and modern editorial material have separate territorial rights. Passage update (29 October 2026): Complete song no. 117 (5 lines), Harvard African Studies vol. 3 (1922), p. 120, in Cerulli’s scholarly transcription; the two-column layout is put into verse order. Letters read from a page image supplied by the project: check the diacritics against the printed page. The English is new (Cerulli’s own translation is excluded). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Composer gender is unknown; a female speaker does not establish female authorship. Aster Ganno’s contribution is as co-compiler. The modern Seltzer transcription drops diacritics and carries a restrictive non-commercial notice: consult the 1922 scan for original typography. Historical title uses an outdated exonym for Oromo. Cerulli’s English translation and modern editorial material have separate territorial rights. Passage update (29 October 2026): Complete song no. 117 (5 lines), Harvard African Studies vol. 3 (1922), p. 120, in Cerulli’s scholarly transcription; the two-column layout is put into verse order. Letters read from a page image supplied by the project: check the diacritics against the printed page. The English is new (Cerulli’s own translation is excluded). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026): the passage is withheld while rights in the collectors' 1894 written record and Cerulli's 1922 transcription are reviewed; the site links to the 1922 scan instead.",
     "rights": "US public-domain lead: original Oromo wording published by 1894 and reproduced in 1922, before the 1931 cutoff. This is not worldwide clearance; traditional-cultural-expression rules and the rights in later editions vary. Do not treat Cerulli’s English translation (author died 1988), Ganno’s later editorial work, or Seltzer’s 2003 edition as globally open.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "ethiopia",
@@ -2997,15 +3005,10 @@ window.ARCHIVE = [
       "creator": "Traditional Oromo song, recorded by Onesimos Nesib and Aster Ganno",
       "language": "Oromo"
     },
-    "passage": {
-      "original": "naggādiē naggāddīmā\nkān tullū Burē ğirtū\niğğātō qottō ḍabē\ngarātō murtē ḍabē\nkān tullū murē ğiğsū",
-      "english": "O merchant, trader in goods,\nwho are at Mount Burē!\nThe eyes have no axe,\nthe mind has no sickle,\nto cut down the mountains and throw them aside!",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://seltzerbooks.com/cerulli.html"
+        "label": "Read the text",
+        "url": "https://archive.org/details/harvardafricanst0003vari"
       },
       {
         "label": "Rights / catalogue",
@@ -3018,6 +3021,10 @@ window.ARCHIVE = [
       {
         "label": "Creator / country",
         "url": "https://peabody.harvard.edu/collections/ethnographic"
+      },
+      {
+        "label": "Earlier link: Work / text",
+        "url": "https://seltzerbooks.com/cerulli.html"
       }
     ]
   },
@@ -3087,7 +3094,7 @@ window.ARCHIVE = [
     "provenance": "Wikisource transcription; print edition not identified on poem page",
     "location": "Complete poem",
     "translation": "Finnish literary provenance; original language is Swedish. Edition not identified. Credit author and Wikisource contributors; retain source/license, mark changes and observe ShareAlike where applicable. English passage: Fresh English translation by ChatGPT; draft for editorial review. Final 12 lines of 18-line poem. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "CC BY-SA 4.0 - linked transcription footer",
+    "rights": "Original text: public domain (author died 1877). A Creative Commons licence on the transcription site covers only that site's own contributions, not the poem.",
     "source": "",
     "id": "finland",
     "contextNote": "Runeberg wrote in Swedish, the language of Finland's educated class, soon after Finland passed from Swedish to Russian rule. He became Finland's national poet, and his words open the national anthem; this small lyric shows his gift for holding a single moment.",
@@ -3461,10 +3468,10 @@ window.ARCHIVE = [
     "originalDate": "c. 600 BCE (approximate composition period)",
     "editionDate": "1908 (Wharton, fifth edition)",
     "description": "A prayer about unreciprocated love.",
-    "provenance": "H. T. Wharton, Sappho: Memoir, Text; fifth edition, 1908",
+    "provenance": "H. T. Wharton, Sappho: Memoir, Text, Selected Renderings, fifth edition (John Lane, 1908); Greek text.",
     "location": "Ode I; literal prose, pp. 49-50",
-    "translation": "Use Wharton literal prose after Greek. Modern translations are separate. Passage update (29 October 2026): Last three stanzas of the ode, 12 lines. Greek text from the 1885 Wharton edition (Project Gutenberg). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public domain in USA - Project Gutenberg",
+    "translation": "New English translation from the Greek; Wharton's prose translation is not used. Passage update (29 October 2026): Last three stanzas of the ode, 12 lines. Greek text from the 1908 fifth edition of Wharton (Project Gutenberg). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Original text: ancient Greek, public domain. New English translation from the Greek; Wharton's prose translation is not used.",
     "source": "",
     "id": "greece",
     "contextNote": "Sappho lived on the island of Lesbos around 600 BCE and was so admired that later Greeks called her the tenth Muse. Almost all her work is lost; this prayer to Aphrodite is the only poem to survive complete, because an ancient critic quoted it as an example of perfect style.",
@@ -3890,7 +3897,7 @@ window.ARCHIVE = [
     "originalDate": "Before 1908; precise composition/publication date unknown",
     "editionDate": "Linked digital transcription/facsimile; precise edition date not established",
     "description": "A sonnet promising that the lovers will remain together beyond death, their souls ascending united through the stars. A sustained affirmation of enduring romantic union.",
-    "provenance": "Biblioteca Virtual Miguel de Cervantes, Sonetos del siglo XIX; UNAM biography confirms Honduran author 1875–1908.",
+    "provenance": "Spanish Wikisource, “Súrsum”; UNAM biography confirms Honduran author 1875–1908.",
     "location": "Juan Ramón Molina section, sonnet headed Sursum",
     "translation": "Use the original sonnet, not the modern anthology’s selection, introduction or commentary. Spiritual imagery serves the lovers’ union rather than a standalone devotional hymn. Passage update (29 October 2026): Complete sonnet, 14 lines (Spanish Wikisource text, titled “Súrsum”). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1908. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
@@ -3911,8 +3918,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Original text",
-        "url": "https://www.cervantesvirtual.com/obra-visor/sonetos-del-siglo-xix--0/html/00199522-82b2-11df-acc7-002185ce6064_29.html"
+        "label": "Read the whole work",
+        "url": "https://es.wikisource.org/wiki/S%C3%BArsum"
       },
       {
         "label": "Copyright duration rule",
@@ -3925,6 +3932,10 @@ window.ARCHIVE = [
       {
         "label": "Creator / country evidence",
         "url": "https://periodicodepoesia.unam.mx/autor/juan-ramon-molina/"
+      },
+      {
+        "label": "Earlier link: Original text",
+        "url": "https://www.cervantesvirtual.com/obra-visor/sonetos-del-siglo-xix--0/html/00199522-82b2-11df-acc7-002185ce6064_29.html"
       }
     ]
   },
@@ -4025,8 +4036,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://runeberg.org/hjrit/1/0033.html"
+        "label": "Read the whole work",
+        "url": "https://runeberg.org/hjrit/1/0035.html"
       },
       {
         "label": "Rights / basis",
@@ -4043,6 +4054,10 @@ window.ARCHIVE = [
       {
         "label": "Additional source",
         "url": "https://runeberg.org/hjrit/1/0035.html"
+      },
+      {
+        "label": "Earlier link: Read original",
+        "url": "https://runeberg.org/hjrit/1/0033.html"
       }
     ]
   },
@@ -4177,13 +4192,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Man",
     "originalDate": "14th century (exact composition date unknown)",
-    "editionDate": "1897 (Bell translation)",
+    "editionDate": "Persian text: Ganjoor online edition",
     "description": "Praise of the beloved in a ghazal.",
-    "provenance": "Poems from the Divan of Hafiz; Gertrude Lowthian Bell, Heinemann, 1897",
+    "provenance": "Divan of Hafez, ghazal 3; Persian text from Ganjoor.",
     "location": "Complete ghazal (Divan, ghazal 3), 9 couplets",
-    "translation": "Specifically Bell 1897, including her gender choices. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public domain in USA - Project Gutenberg",
-    "source": "",
+    "translation": "New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Original text: 14th-century poem, public domain. New English translation from the Persian; Gertrude Bell's 1897 translation is not used.",
+    "source": "Ganjoor: Hafez, ghazal 3",
     "id": "iran",
     "contextNote": "Hafez lived in Shiraz in the fourteenth century and is the best-loved poet in Persian; families across Iran still keep his Divan at home and open it at random for guidance. Legend says Timur, conqueror of Samarkand and Bukhara, summoned Hafez to ask how he dared give those cities away for a mole.",
     "formGroup": "Poem",
@@ -4405,13 +4420,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Man",
     "originalDate": "Late 13th century (Vita nuova; exact sonnet date unknown)",
-    "editionDate": "1899 (edition of Rossetti translation)",
+    "editionDate": "Italian text: Wikisource transcription",
     "description": "Praise of Beatrice and her effect upon the lover.",
-    "provenance": "The New Life; Dante Gabriel Rossetti translation; Siddal edition, Ellis and Elvey, London, 1899",
+    "provenance": "Dante, Vita nuova, sonnet “Tanto gentile e tanto onesta pare”; Italian text from Italian Wikisource.",
     "location": "Sonnet beginning My lady looks so gentle and so pure; p. 114",
-    "translation": "Specifically Rossetti’s English translation (translator died 1882); modern translations are separate. English passage: Fresh English translation by ChatGPT; draft for editorial review. Complete sonnet, 14 lines; translated from Italian, not the linked historical English version. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Public domain in USA - Project Gutenberg",
-    "source": "",
+    "translation": "New English translation from the Italian; Rossetti's translation is not used. Fresh English translation by ChatGPT; draft for editorial review. Complete sonnet, 14 lines; translated from Italian, not the linked historical English version. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
+    "rights": "Original text: Dante died 1321; public domain. New English translation from the Italian; Rossetti's translation is not used.",
+    "source": "Italian Wikisource: Tanto gentile e tanto onesta pare",
     "id": "italy",
     "contextNote": "This sonnet comes from the Vita nuova, Dante's account of his love for Beatrice, written in Florence in the 1290s. Writing about love in Italian rather than Latin was itself a bold choice; its best-known English translation is by the Victorian poet and painter Dante Gabriel Rossetti.",
     "formGroup": "Poem",
@@ -4428,8 +4443,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://www.gutenberg.org/files/41085/41085-h/41085-h.htm"
+        "label": "Read the whole work",
+        "url": "https://it.wikisource.org/wiki/Tanto_gentile_e_tanto_onesta_pare_(Lucas)"
       },
       {
         "label": "Rights / catalogue",
@@ -4446,6 +4461,10 @@ window.ARCHIVE = [
       {
         "label": "Passage text source",
         "url": "https://it.wikisource.org/wiki/Tanto_gentile_e_tanto_onesta_pare_(Lucas)"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://www.gutenberg.org/files/41085/41085-h/41085-h.htm"
       }
     ]
   },
@@ -4523,13 +4542,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Man",
     "originalDate": "10th century (poem); c. 1235 (anthology compilation)",
-    "editionDate": "1909 (Porter translation)",
+    "editionDate": "Japanese text: Ogura Hyakunin Isshu Cultural Foundation",
     "description": "A concealed love betrayed by the lover’s expression.",
-    "provenance": "A Hundred Verses from Old Japan; William N. Porter translation; Clarendon Press, Oxford, 1909",
+    "provenance": "Hyakunin Isshu, poem 40; Japanese text from the Ogura Hyakunin Isshu Cultural Foundation.",
     "location": "Poem 40: Alas! the blush upon my cheek",
-    "translation": "Specifically Porter 1909 (translator died 1929); modern translations are separate. Historical commentary is reproduced as period commentary, not independently endorsed. English passage: Fresh English translation by ChatGPT; draft for editorial review. Complete waka, 5 lines; original Japanese checked against the Ogura Hyakunin Isshu Cultural Foundation museum text. Fresh English rendering; short work is not padded.. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Public domain - Wikisource edition rights notice",
-    "source": "",
+    "translation": "New English translation from the Japanese; William Porter's 1909 translation is not used. Fresh English translation by ChatGPT; draft for editorial review. Complete waka, 5 lines; original Japanese checked against the Ogura Hyakunin Isshu Cultural Foundation museum text. Fresh English rendering; short work is not padded.. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
+    "rights": "Original text: Taira no Kanemori died 990; public domain. New English translation from the Japanese; William Porter's 1909 translation is not used.",
+    "source": "Ogura Hyakunin Isshu Cultural Foundation: poem 40",
     "id": "japan",
     "contextNote": "Taira no Kanemori was a court poet of Heian Japan, where poems were part of courtship itself. This one won a famous poetry contest at the imperial palace in 960, and was later chosen for the Hyakunin Isshu, a hundred poems still used in a popular New Year card game.",
     "formGroup": "Poem",
@@ -4546,8 +4565,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://en.wikisource.org/wiki/A_Hundred_Verses_from_Old_Japan/Poem_40"
+        "label": "Read the whole work",
+        "url": "https://www.samac.jp/search/poems_detail.php?id=40"
       },
       {
         "label": "Rights / catalogue",
@@ -4564,6 +4583,10 @@ window.ARCHIVE = [
       {
         "label": "Passage text source",
         "url": "https://www.samac.jp/search/poems_detail.php?id=40"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://en.wikisource.org/wiki/A_Hundred_Verses_from_Old_Japan/Poem_40"
       }
     ]
   },
@@ -5434,42 +5457,42 @@ window.ARCHIVE = [
     "continent": "Asia",
     "title": "Pantun Kasih",
     "titleEnglish": "Love Pantun",
-    "creator": "Traditional Malay pantun",
+    "creator": "Traditional Malay pantun; as printed by Hans Overbeck, 1922",
     "openOriginal": "Yes",
     "referenceType": "Named novel (original-language excerpt)",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "",
+    "year": "1922",
     "language": "Malay",
     "tradition": "",
     "formDetails": "Novel",
     "genderDetails": "Man author",
-    "originalDate": "Traditional oral verse; date unknown",
-    "editionDate": "Original Malay novel; original-language verse excerpt reproduced by MoMA",
-    "description": "Five traditional love pantun: leaving family to follow the beloved, a love no one else can equal, unrequited love, beauty in the lover’s eyes, and a lovesick heart no medicine can cure.",
-    "provenance": "Simon Soon, MoMA post, 2 February 2022, cites the 1925–26 Penang edition, pp.138–139, and reproduces original Malay verse. NUS Libraries confirms author dates and holdings.",
+    "originalDate": "Traditional oral verse; printed 1922",
+    "editionDate": "1922",
+    "description": "Four love pantun: a lover told not to weep but to send word, longing sent by every bird, a single day together worth dying for, and love that grows with distance.",
+    "provenance": "H. Overbeck, “The Malay Pantun”, Journal of the Straits Branch of the Royal Asiatic Society (1922); Malay text as printed, OCR spacing tidied.",
     "location": "Pantun Kasih, first five quatrains",
-    "translation": "Malacca-born author and Penang publication establish the Malaysian association; story is set in Egypt. Whether the novel adapts an unidentified Arabic source is debated. The identified 1925–26 published Malay text is public domain in the US; al-Hadi’s own text is also beyond life-plus-70. Exclude modern English translation, commentary and any independently protected source or image. Passage update (29 October 2026): Work changed (29 October 2026): the novel Hikayat Faridah Hanom, whose text could not be found online, is replaced by traditional Malay love pantun, a locally made oral form. Five quatrains (20 lines) from the “Pantun Kasih” section of Malay Wikisource. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Traditional anonymous oral verse; text from Malay Wikisource.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "translation": "Work changed (30 October 2026): the five pantun from Malay Wikisource, which had no traceable printed source, are replaced by four love pantun printed by Hans Overbeck in 1922. The earlier notes about a Malay novel no longer apply. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Traditional anonymous verse; Overbeck's 1922 printing is public domain (he died 1942). Overbeck's English is not used.",
+    "source": "Internet Archive (BioStor): Overbeck, The Malay Pantun, 1922",
     "id": "malaysia",
     "contextNote": "Pantun are four-line rhyming verses, centuries old, in which the first two lines paint a picture from nature and the last two carry the real message. They were sung and traded at weddings, harvests and courtships across the Malay world, and in 2020 UNESCO recognised the pantun as shared heritage of Malaysia and Indonesia.",
     "formGroup": "Poem",
     "display": {
       "title": "Pantun Kasih",
       "english": "Love Pantun",
-      "creator": "Traditional Malay pantun",
+      "creator": "Traditional Malay pantun; as printed by Hans Overbeck, 1922",
       "language": "Malay"
     },
     "passage": {
-      "original": "Nasi lemak buah bidara\nsayang selasih hamba lurutkan;\nBuang emak buang saudara\nkerana kekasih hamba turutkan\nDua tiga kucing berlari\nmana nak sama si kucing belang;\nDua tiga boleh kucari\nmana nak sama dikau seorang\nTanam selasih di tengah padang\nsudah bertangkai dirubung semut;\nKita kasih orang tak sayang\nhalai-balai tempurung hanyut\nAnak beruk di kayu rendang\nturun mandi ke dalam paya;\nBiar buruk di mata orang\ncantik manis di mata saya\nLimau purut lebat di pangkal\nsayang selasih condong di uratnya;\nAngin ribut dapat ditangkal\nhati kasih apa ubatnya",
-      "english": "Coconut rice and jujube fruit,\nsweet basil I strip from the stem;\nI leave my mother, I leave my kin,\nto follow the one I love.\nTwo or three cats go running by,\nbut none is like the striped one;\ntwo or three others I could find,\nbut none would be like you alone.\nBasil planted in the middle of the field,\nalready in stalk, swarmed by ants;\nI love, but am not loved in return:\ntossed about like a drifting coconut shell.\nA young macaque in the leafy tree\ncomes down to bathe in the swamp;\nlet others think you plain,\nto my eyes you are lovely and sweet.\nKaffir limes grow thick at the trunk,\nthe basil leans upon its roots;\na storm wind can be warded off,\nbut what can cure a loving heart?",
+      "original": "Buloh perindu di-atas atap,\nHendak di-buat bambu joran;\nKalau rindu jangan meratap,\nSiapa lalu baik di-pesan.\nAnak balam di-atas panggong,\nKalau tuan ka-Bandar Rekan;\nRindu sahaya tidak tertanggong,\nSakalian burong sahaya berpesan.\nMakan tebu di-luar serambi,\nAnak tekukur atas bumbongan;\nSa-hari bertemu, sa-hari mati,\nSa-ribu shukur atas junjongan.\nTanjong Katong ayer-nya biru,\nTempat berlaboh kochi Malaka;\nSedang sa-kampong lagi ku-rindu,\nInikan pula jauh di-mata.",
+      "english": "A longing-bamboo up on the roof,\nto be made into a fishing rod;\nif you long for me, do not weep:\nsend word by whoever passes.\nA young dove on the platform,\nif you are bound for Bandar Rekan:\nmy longing is more than I can bear;\nI send word by every bird.\nEating sugar cane outside the veranda,\na young turtle-dove on the roof ridge;\nto meet you for a day and die the next,\nI would give a thousand thanks to the Lord.\nThe water at Tanjong Katong is blue,\nwhere the boats of Malacca anchor;\neven in the same village I longed for you,\nhow much more now you are far from my eyes.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://ms.wikisource.org/wiki/Pantun"
+        "label": "Read the whole work",
+        "url": "https://archive.org/details/biostor-176400"
       },
       {
         "label": "Rights / catalogue",
@@ -5482,6 +5505,10 @@ window.ARCHIVE = [
       {
         "label": "Creator / country",
         "url": "https://blog.nus.edu.sg/linus/2025/04/03/al-imam-al-ikhwan-and-the-reformist-vision-of-syed-sheikh-al-hadi-key-intellectual-publications-in-nus-libraries-special-collections/"
+      },
+      {
+        "label": "Earlier link: Read original",
+        "url": "https://ms.wikisource.org/wiki/Pantun"
       }
     ]
   },
@@ -5594,7 +5621,7 @@ window.ARCHIVE = [
     "description": "The disappointed lover imagines seeing and hearing the beloved everywhere; the comfort of memory gives way to grief.",
     "provenance": "G. Cassar Pullicino’s study, University of Malta repository, quotes the manuscript-dated poem and identifies the 1901 printed heading.",
     "location": "Printed p. 52: three quoted excerpts, 16 lines, with omissions between them",
-    "translation": "The source says Tifkir tal-Biki was the intended title; the newspaper used L-Aħħar Poeżija. Preserve this distinction. Use the old Maltese verse, not the later essay. Passage update (29 October 2026): Three excerpts (16 lines) as quoted on printed p. 52 of the source, which marks omissions between them with dotted lines. Text read from the scan of p. 52 supplied by the project, correcting OCR damage (mbierka, nilmaħ, ’l qalbi, jgħidli). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "The source says Tifkir tal-Biki was the intended title; the newspaper used L-Aħħar Poeżija. Preserve this distinction. Use the old Maltese verse, not the later essay. Passage update (29 October 2026): Three excerpts (16 lines) as quoted on printed p. 52 of the source, which marks omissions between them with dotted lines. Text read from the scan of p. 52 supplied by the project, correcting OCR damage (mbierka, nilmaħ, ’l qalbi, jgħidli). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Note (30 October 2026): the sixteen lines are given exactly as quoted, continuously, in the source study, which may itself leave out stanzas of the poem.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1868. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "G. Cassar Pullicino’s study, University of Malta repository, quotes the manuscript-dated poem and identifies the 1901 printed heading.",
     "id": "malta",
@@ -6135,8 +6162,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Original text",
-        "url": "https://qaseda.com/abnzakur/هل-لصب-من-لماك-المزدري/"
+        "label": "Read the whole work",
+        "url": "https://adab.wiki/wiki/%D9%87%D9%84_%D9%84%D8%B5%D8%A8_%D9%85%D9%86_%D9%84%D9%85%D8%A7%D9%83_%D8%A7%D9%84%D9%85%D8%B2%D8%AF%D8%B1%D9%8A"
       },
       {
         "label": "Copyright duration rule",
@@ -6149,6 +6176,10 @@ window.ARCHIVE = [
       {
         "label": "Creator / country evidence",
         "url": "https://adab.wiki/wiki/هل_لصب_من_لماك_المزدري"
+      },
+      {
+        "label": "Earlier link: Original text",
+        "url": "https://qaseda.com/abnzakur/هل-لصب-من-لماك-المزدري/"
       }
     ]
   },
@@ -7173,7 +7204,7 @@ window.ARCHIVE = [
     "description": "A sensuous address to a woman’s dark eyes, comparing their beauty with birds, moonlight and dawn; tender glances stir desire.",
     "provenance": "Portal Guaraní reproduces Guaraní text from Encina Ramos and Tatajyva, Las cien mejores poesías en guaraní, 2nd ed. 1997; author born/died Asunción, 1880–1920.",
     "location": "Section TESA HU MOKÕIME, between El Pombero and the Spanish translation",
-    "translation": "Use Pane’s Guaraní original. Spanish free translation by Sinforiano Buzó Gómez is separately authored and is not covered by this original-rights assessment. Check modern orthographic editing before verbatim reuse. Passage update (29 October 2026): Complete poem, 20 lines, in Guaraní (text as printed in Las cien mejores poesías en guaraní, 1997). English translated from the Guaraní, checked against the free Spanish version printed with it. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Use Pane’s Guaraní original. Spanish free translation by Sinforiano Buzó Gómez is separately authored and is not covered by this original-rights assessment. Check modern orthographic editing before verbatim reuse. Passage update (29 October 2026): Complete poem, 20 lines, in Guaraní (text as printed in Las cien mejores poesías en guaraní, 1997). English translated from the Guaraní, checked against the free Spanish version printed with it. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026): the English was checked against a modern Spanish translation still in copyright, so the passage is withheld until a fresh translation from the Guaraní has been reviewed by a Guaraní speaker.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1920. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Linked full original text / credited edition",
     "id": "paraguay",
@@ -7185,14 +7216,9 @@ window.ARCHIVE = [
       "creator": "Ignacio Alberto Pane",
       "language": "Guaraní"
     },
-    "passage": {
-      "original": "Chopĩ haitýpe mokói oĩva,\nndojohejávai maramoĩte;\npeteĩchaitéva hữngue porãme\nha iporãnguépe katu kõingue.\nUpe hữnguépe he’i jakúpe\nha pyharépe: tapomohữ.\nTesapehápe he’i jasýpe\nku oike potávo: toroipyru.\nMa’ẽ saguýpe jahechapáma\nKa’a pa’ữme kuarahysẽ\nha om’ẽmbápe nahesakãiri\nhendy porãnte jasyichaite.\nMba’e mbyasýpe \"luto\" voíva\nha vy’ahápe tory rupa\nMa’ẽ hatãme chemopirĩva\nma’ẽ mbeguépe chemoãngaipa.\nOmoporãva kuñataĩnguéra\njáma hi’áva, jáma hete,\npe pende jara noikotevẽiri\nporã oñohẽgui pende pire.",
-      "english": "Two thrushes that are in their nest\nand never part from each other,\nalike in their beautiful blackness\nand twins in their beauty.\nFor their blackness they say to the pheasant\nand to the night: we will out-darken you;\nfor their shine they say to the moon,\nas it goes in: we will take your place.\nWhen they glance sideways, it is as if we saw\nthe sun rising between the woods,\nand when they look straight, they do not merely shine:\nthey blaze as brightly as the moon.\nFor sorrow they are ready mourning,\nfor joy a spring of delight;\nin hard looks they make me shiver,\nin soft looks they make me sin.\nWhat makes young women beautiful,\ntheir hair, their figure,\nyour mistress does not need,\nfor beauty overflows from you.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Original text",
+        "label": "Read the text",
         "url": "https://portalguarani.com/506_ignacio_alberto_pane__/9018_el_pombero_tesa_hu_mokoime_a_dos_ojos_negros__poesias_de_ignacio_a_pane.html"
       },
       {
@@ -7402,7 +7428,7 @@ window.ARCHIVE = [
     "provenance": "Wikisource transcription citing Obras completas de Luis de Camões, 1843, vol. II",
     "location": "Complete sonnet; historical spelling Amor he hum fogo",
     "translation": "Historical Portuguese text. For any copyrightable transcription material, credit author and Wikisource contributors, link source/license, mark changes and observe ShareAlike. Modern translations are separate. English passage: Fresh English translation by ChatGPT; draft for editorial review. Complete sonnet, 14 lines. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "CC BY-SA 4.0 - linked transcription footer",
+    "rights": "Original text: public domain (author died 1580). A Creative Commons licence on the transcription site covers only that site's own contributions, not the poem.",
     "source": "",
     "id": "portugal",
     "contextNote": "Luís de Camões, Portugal's national poet, lived as a soldier and exile in Asia during the age of Portuguese voyages and empire. Legend says he swam ashore from a shipwreck holding the manuscript of his epic, The Lusiads; this sonnet is still learnt by heart in Portugal and Brazil.",
@@ -7516,7 +7542,7 @@ window.ARCHIVE = [
     "provenance": "Wikisource transcription; print edition not identified on poem page",
     "location": "Complete poem",
     "translation": "Edition provenance is limited to the linked transcription. Credit author and Wikisource contributors; retain source/license, mark changes and observe ShareAlike where applicable. No translation included. English passage: Fresh English translation by ChatGPT; draft for editorial review. Lines 9–20, three consecutive stanzas. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "CC BY-SA 4.0 - linked transcription footer",
+    "rights": "Original text: public domain (author died 1889). A Creative Commons licence on the transcription site covers only that site's own contributions, not the poem.",
     "source": "",
     "id": "romania",
     "contextNote": "Mihai Eminescu is Romania's national poet, writing in the years when Romania won full independence in 1877–78. His own love life, above all his long and troubled affair with the poet Veronica Micle, runs through poems like this one.",
@@ -7568,13 +7594,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Man",
     "originalDate": "1829 (composition)",
-    "editionDate": "1888 (Panin translation)",
+    "editionDate": "Russian text: Pushkin Institute edition",
     "description": "A lover wishes happiness to someone he still loves.",
-    "provenance": "Poems; Ivan Panin translation; Cupples and Hurd, Boston, 1888",
+    "provenance": "Pushkin, “Я вас любил” (1829); Russian text from the Pushkin Institute.",
     "location": "Resigned Love, p. 136; Russian source referenced as IV.99",
-    "translation": "Specifically Panin’s 1888 translation (translator died 1942); modern translations are separate. English passage: Fresh English translation by ChatGPT; draft for editorial review. Complete poem, 8 lines; fresh translation from Russian, not a copy of an existing English version. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Public domain in USA - Project Gutenberg",
-    "source": "",
+    "translation": "New English translation from the Russian; Ivan Panin's 1888 translation is not used. Fresh English translation by ChatGPT; draft for editorial review. Complete poem, 8 lines; fresh translation from Russian, not a copy of an existing English version. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
+    "rights": "Original text: Pushkin died 1837; public domain. New English translation from the Russian; Ivan Panin's 1888 translation is not used.",
+    "source": "Pushkin Institute: Я вас любил",
     "id": "russia",
     "contextNote": "Pushkin wrote this in 1829, probably for Anna Olenina, who had turned down his proposal. He is Russia's national poet; his great-grandfather, Abram Gannibal, was an African brought to Russia as a captive child who rose to become a general.",
     "formGroup": "Poem",
@@ -7591,8 +7617,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://www.gutenberg.org/files/54991/54991-h/54991-h.htm"
+        "label": "Read the whole work",
+        "url": "https://ac.pushkininstitute.ru/storage/books/yavaslubil_text.pdf"
       },
       {
         "label": "Rights / catalogue",
@@ -7609,6 +7635,10 @@ window.ARCHIVE = [
       {
         "label": "Passage text source",
         "url": "https://ac.pushkininstitute.ru/storage/books/yavaslubil_text.pdf"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://www.gutenberg.org/files/54991/54991-h/54991-h.htm"
       }
     ]
   },
@@ -8043,7 +8073,7 @@ window.ARCHIVE = [
     "provenance": "Pesme, Matica srpska, Novi Sad, 1909; Wikisource",
     "location": "Printed p. 438 onward; closing stanzas on the imagined reunion",
     "translation": "Source explicitly marks original public domain in Serbia, USA and life-plus-70 countries; author died 1910. Religious imagery frames passionate personal love. Modern critical material and translations excluded. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Final two stanzas, 24 lines, on the lovers’ reunion; the refrain is the Venetian church’s name. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died undefined. Modern editorial additions and translations are separate.",
+    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1910. Modern editorial additions and translations are separate.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "serbia",
     "contextNote": "Laza Kostić, one of the great Serbian Romantic poets, wrote this in 1909, near the end of his life, for Lenka Dunđerski, the young woman he had loved decades earlier, who died in 1870. Its refrain names a church in Venice dedicated to the Virgin of Health.",
@@ -8402,7 +8432,7 @@ window.ARCHIVE = [
     "description": "The poet defends love of women as a natural human feeling and protests against those who shame him for being lovesick.",
     "provenance": "Roma Tre Centro Studi Somali preserves Galaal’s unmodernized typescript; Andrzejewski’s prefatory note dates its mimeographed publication to about 1964. Original Somali excerpt at p.31 under ILMI – BOONDHERI. Oxford scholarly source corroborates death in 1941.",
     "location": "Galaal p.31, five-line excerpt; 2016 bilingual collection pp.64–65 for a longer variant",
-    "translation": "The assessed reuse lead is the historical Somali wording, not the 1967 English translation, modern bilingual edition, musical setting or performance. Versions differ. The repository’s CC BY-NC-ND label is restrictive and is not treated as permission to translate or commercially reuse modern editorial material. Berbera is in Somaliland, within the workbook’s Somalia country grouping. Passage update (29 October 2026): The five-line excerpt printed in Galaal’s collection, p. 31, in its older Somali spelling. The English is a careful draft. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "The assessed reuse lead is the historical Somali wording, not the 1967 English translation, modern bilingual edition, musical setting or performance. Versions differ. The repository’s CC BY-NC-ND label is restrictive and is not treated as permission to translate or commercially reuse modern editorial material. Berbera is in Somaliland, within the workbook’s Somalia country grouping. Passage update (29 October 2026): The five-line excerpt printed in Galaal’s collection, p. 31, in its older Somali spelling. The English is a careful draft. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026): the passage is withheld while rights in Galaal's c.1964 written record of the oral poem are reviewed; the site links to the typescript instead.",
     "rights": "Poet died 1941: original composition is beyond the standard life-plus-70 term. A Somali excerpt was published c.1964. Reuse only the underlying historical Somali lines; later translations, editorial contributions, melodies, recordings and repository licence restrictions remain separate.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "somalia",
@@ -8414,14 +8444,9 @@ window.ARCHIVE = [
       "creator": "Cilmi Boodhari / Ilmi Bowndheri",
       "language": "Somali"
     },
-    "passage": {
-      "original": "Caashaqa haween waa horuu, Caaddil soo rogaye,\nSayidkii carshiga nuurayiyo, Caliba soo gaadhye,\nCidla lagama beermeen dadkoo, cuudi waahhidahe,\nWahha caynba cayn looga dhigay, hays cajebiyeene,\nSoomaalidaa caado hhune, iguma caydeene.",
-      "english": "Love for women was ordained long ago by the Just One;\nit touched even the Prophet of the shining Throne, and Ali too.\nPeople did not grow out of emptiness; they come from one root,\nand each kind was made unlike the next, so let them not marvel at one another.\nIt is the Somalis whose custom is cruel; let them not mock me.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Work / text",
+        "label": "Read the text",
         "url": "https://arcadia.sba.uniroma3.it/bitstream/2307/2567/3/A collection of somali literature.pdf"
       },
       {
@@ -8815,7 +8840,7 @@ window.ARCHIVE = [
     "provenance": "Gralstänk (1898); Wikisource transcription",
     "location": "Complete poem",
     "translation": "Credit author and Wikisource contributors; retain source/license, mark changes and observe ShareAlike for copyrightable site material. Modern translations and musical settings are separate. English passage: Fresh English translation by ChatGPT; draft for editorial review. Complete poem, 8 lines; shorter than requested because the work is short. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "CC BY-SA 4.0 - linked transcription footer",
+    "rights": "Original text: public domain (author died 1911). A Creative Commons licence on the transcription site covers only that site's own contributions, not the poem.",
     "source": "",
     "id": "sweden",
     "contextNote": "Gustaf Fröding is one of Sweden's best-loved poets, and spent long periods in hospital with mental illness. In 1896 he was prosecuted, and acquitted, over a poem about sexuality; this poem comes from the same years, and is just as frank.",
@@ -10035,13 +10060,13 @@ window.ARCHIVE = [
     "formDetails": "Poem",
     "genderDetails": "Woman",
     "originalDate": "Late 18th–early 19th century; exact date not established",
-    "editionDate": "1993 source edition; online transcription",
+    "editionDate": "1926 (Giai nhân di mặc)",
     "description": "A bold invitation to courtship, using betel’s red colour as a wish for lasting attachment.",
-    "provenance": "Thơ Hồ Xuân Hương; Lữ Huy Nguyên selection/introduction; NXB Văn học, Hanoi, 1993",
+    "provenance": "Nguyễn Hữu Tiến, Giai nhân di mặc (1926), part III; Vietnamese Wikisource.",
     "location": "Complete four-line poem",
-    "translation": "Traditional attribution to Hồ Xuân Hương; early print/manuscript provenance not established here. Original poem only; 1993 introduction, editorial matter and modern translations are separate. Passage update (29 October 2026): Complete poem, 4 lines (modern Vietnamese script; the source keeps the spelling “Huơng”). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable",
-    "source": "",
+    "translation": "Traditional attribution to Hồ Xuân Hương; early print/manuscript provenance not established here. Original poem only; 1993 introduction, editorial matter and modern translations are separate. Passage update (29 October 2026): Complete poem, 4 lines (modern Vietnamese script; the source keeps the spelling “Huơng”). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Source update (30 October 2026): text now follows Giai nhân di mặc (1926), where it is quoted in the story of Xuân Hương; “giầu” is the older spelling of “trầu” (betel), and line 2 reads “mới quệt rồi” (has just spread) instead of the 1993 “đã quệt rồi”.",
+    "rights": "Original poem c. 1800, public domain; text as printed in 1926 by Nguyễn Hữu Tiến (died 1941).",
+    "source": "Vietnamese Wikisource: Giai nhân di mặc/III",
     "id": "vietnam",
     "contextNote": "Hồ Xuân Hương, writing around 1800, is called the “queen of Nôm poetry”, poetry in Vietnamese written in its old characters. Her witty, often daring poems mocked the double standards imposed on women; offering betel was the traditional opening of a courtship.",
     "formGroup": "Poem",
@@ -10052,14 +10077,14 @@ window.ARCHIVE = [
       "language": "Vietnamese"
     },
     "passage": {
-      "original": "Quả cau nho nhỏ miếng trầu hôi\nNày của Xuân Huơng đã quệt rồi\nCó phải duyên nhau thì thắm lại\nĐừng xanh như lá bạc như vôi",
-      "english": "A tiny areca nut, a humble betel quid:\nhere, Xuân Hương has already spread the lime on it.\nIf we are fated for each other, let it turn deep red;\ndo not stay green as the leaf, or turn pale and faithless as the lime.",
+      "original": "Quả cau nho nhỏ, miếng giầu hôi,\nNày của Xuân-Hương mới quệt rồi.\nCó phải duyên nhau, thì thắm lại,\nĐừng xanh như lá, bạc như vôi.",
+      "english": "A tiny areca nut, a humble betel quid:\nhere, Xuân Hương has just spread the lime on it.\nIf we are fated for each other, let it turn deep red;\ndo not stay green as the leaf, or turn pale and faithless as the lime.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://vi.wikisource.org/wiki/Miếng_trầu"
+        "label": "Read the whole work",
+        "url": "https://vi.wikisource.org/wiki/Giai_nh%C3%A2n_di_m%E1%BA%B7c/III"
       },
       {
         "label": "Rights / catalogue",
@@ -10072,6 +10097,10 @@ window.ARCHIVE = [
       {
         "label": "Author / country",
         "url": "https://vi.wikisource.org/wiki/Quốc_văn_trích_diễm/Hồ_Xuân_Hương"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://vi.wikisource.org/wiki/Miếng_trầu"
       }
     ]
   },

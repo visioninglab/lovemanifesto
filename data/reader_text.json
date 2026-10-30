@@ -103,7 +103,8 @@
   "language": "Vietnamese"
  },
  "ML-161": {
-  "language": "Somali"
+  "language": "Somali",
+  "withholdPassage": true
  },
  "ML-240": {
   "language": "Uzbek"
@@ -130,6 +131,10 @@
   "language": "Oromo",
   "title": "Naggādiē naggāddīmā",
   "creator": "Traditional Oromo song, recorded by Onesimos Nesib and Aster Ganno",
-  "english": "O merchant, trader in goods"
+  "english": "O merchant, trader in goods",
+  "withholdPassage": true
+ },
+ "ML-137": {
+  "withholdPassage": true
  }
 }
