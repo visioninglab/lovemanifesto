@@ -60,10 +60,6 @@
  "ML-126": {
   "description": "A song about love; its title means “Flower of Beauty”."
  },
- "ML-131": {
-  "description": "An abandoned lover asks how to reach the beloved, remembering promises, union and parting.",
-  "withholdPassage": true
- },
  "ML-132": {
   "description": "Heer loves Ranjha so completely that she becomes him; the poem is also read as a song of Sufi mystical love."
  },
@@ -103,10 +99,6 @@
  "ML-241": {
   "language": "Vietnamese"
  },
- "ML-161": {
-  "language": "Somali",
-  "withholdPassage": true
- },
  "ML-240": {
   "language": "Uzbek"
  },
@@ -135,16 +127,7 @@
   "english": "O merchant, trader in goods",
   "withholdPassage": true
  },
- "ML-137": {
-  "withholdPassage": true
- },
- "ML-087": {
-  "withholdPassage": true
- },
  "ML-142": {
-  "withholdPassage": true
- },
- "ML-134": {
   "withholdPassage": true
  },
  "ML-092": {
