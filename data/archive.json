@@ -1466,7 +1466,7 @@
     "provenance": "Original lyric transcribed by Eugénio Tavares heritage project",
     "location": "Section II, A Força de Cretcheu",
     "translation": "Tavares died 1 June 1930. Original lyric is public domain in life-plus-70 jurisdictions; the website’s modern commentary, later musical arrangements and recordings are separate. Creole spelling varies between editions. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): First two stanzas, 15 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1930. Modern editorial additions and translations are separate.",
+    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1930. Modern editorial additions and translations are separate. Anthology review (30 October 2026): UK/EU public domain (Tavares died 1930). US — first published 1932; public domain from 1 January 2028. Publish after that date, or swap for a poem printed before 1931.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "cabo-verde",
     "contextNote": "Eugénio Tavares, from the island of Brava, made the morna, Cabo Verde’s slow song of longing, into poetry, and he wrote in Cape Verdean Creole when Portuguese colonial rule treated it as a mere dialect. Many of his mornas grew from the partings of an island of emigrants and sailors, and they are still sung today.",
@@ -2755,7 +2755,7 @@
     "provenance": "Ciudad Seva full original; also in Jícaras tristes at CEBES Perquín library. Government source confirms use of the collection since 1936.",
     "location": "Complete 14-line poem; last tercet for explicit romantic affirmation",
     "translation": "Modern editorial matter excluded. 1936 is collection-publication year, not composition. Original Spanish requires no translation. Passage update (29 October 2026): Complete sonnet, 14 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Original text: standard life-plus-70 term expired; author died 1928. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
+    "rights": "Original text: standard life-plus-70 term expired; author died 1928. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed. Anthology review (30 October 2026): UK — published posthumously in 1936, so protected for 50 years from publication, which ended in 1986. US — first published 1936, but Salvadoran law then protected works for 50 years after death (Espino died 1928), so it was out of copyright at home before 1996 and was not restored: public domain.",
     "source": "Linked full original text / credited edition",
     "id": "el-salvador",
     "contextNote": "Alfredo Espino wrote with great tenderness about rural El Salvador: its volcanoes, cattle and farmhouses. He died in 1928 at only 28, and his poems were gathered after his death as Jícaras tristes (Sad Gourds, 1936), still one of the most loved books in the country.",
@@ -3942,44 +3942,44 @@
     "refId": "ML-213",
     "country": "Hungary",
     "continent": "Europe",
-    "title": "Szerettelek (I loved you)",
-    "titleEnglish": "I Loved You",
-    "creator": "Margit Kaffka",
+    "title": "Szeptember végén",
+    "titleEnglish": "At the End of September",
+    "creator": "Sándor Petőfi",
     "openOriginal": "Yes",
     "referenceType": "Named work",
     "form": "Poetry",
-    "genderGroup": "Women",
-    "year": "1906",
+    "genderGroup": "Men",
+    "year": "1847",
     "language": "Hungarian",
     "tradition": "",
     "formDetails": "Poem",
-    "genderDetails": "Woman",
-    "originalDate": "1906 (composition); first printed 1943 according to Irodalomtörténet",
-    "editionDate": "Undated online transcription",
-    "description": "Love remembered and repeatedly mourned; a sorrowful rather than celebratory selection.",
-    "provenance": "Wikisource text; 1943 scholarly journal explains the 1906 manuscript and first publication",
+    "genderDetails": "Sándor Petőfi (1823–1849)",
+    "originalDate": "September 1847, Koltó",
+    "editionDate": "Hungarian Wikisource transcription in the original spelling",
+    "description": "Watching the first snow on the mountains, the young poet asks his wife whether she will marry again after his death, and promises to love her for ever.",
+    "provenance": "Written at Koltó, September 1847; Hungarian Wikisource, original spelling.",
     "location": "Complete poem",
-    "translation": "UK/life+70 basis is distinct from US publication-based rules; US reuse of this posthumously published poem is not cleared here. Modern translations are separate. English passage: Fresh English translation by ChatGPT; draft for editorial review. Final 10 lines. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography.",
-    "rights": "Public-domain original in life+70 jurisdictions (author died 1918)",
-    "source": "",
+    "translation": "Work changed (30 October 2026): Margit Kaffka's “Szerettelek”, first printed in 1943, is replaced by a poem published in the poet's lifetime. Complete poem, 24 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Public domain everywhere: Petőfi died 1849 and the poem was published in his lifetime.",
+    "source": "Hungarian Wikisource: Szeptember végén",
     "id": "hungary",
-    "contextNote": "Margit Kaffka was a pioneer of Hungarian modern writing and one of the first women in Hungary to make a living from writing. This poem stayed in manuscript and was published long after her death in the 1918 flu pandemic.",
+    "contextNote": "Sándor Petőfi, Hungary's national poet, wrote this at Koltó in September 1847, on his honeymoon with Júlia Szendrey. Less than two years later he was killed fighting in the Hungarian revolution of 1848–49, aged 26, and Júlia did marry again.",
     "formGroup": "Poem",
     "display": {
-      "title": "Szerettelek",
-      "english": "I Loved You",
-      "creator": "Margit Kaffka",
+      "title": "Szeptember végén",
+      "english": "At the End of September",
+      "creator": "Sándor Petőfi",
       "language": "Hungarian"
     },
     "passage": {
-      "original": "Meggyászoltalak én,\nPillangós ruhába\nSirattalak minden\nHangos kacagásba, -\nPénteken pirosba,\nSzombaton fehérbe, -\nMa is gyászollak tán,\nVirágvasárnapján,\nRózsapiruláskor,\nTalpig feketébe.",
-      "english": "I mourned for you,\nin a butterfly-patterned dress;\nI wept for you in every\nburst of ringing laughter—\nin red on Friday,\nin white on Saturday.\nPerhaps I mourn you even today,\non Palm Sunday,\nwhen the roses blush,\ndressed in black from head to foot.",
+      "original": "Még nyílnak a völgyben a kerti virágok,\nMég zöldel a nyárfa az ablak előtt,\nDe látod amottan a téli világot?\nMár hó takará el a bérczi tetőt.\nMég ifju szivemben a lángsugarú nyár\nS még benne virít az egész kikelet,\nDe íme sötét hajam őszbe vegyűl már,\nA tél dere már megüté fejemet.\nElhull a virág, eliramlik az élet...\nŰlj, hitvesem, űlj az ölembe ide!\nKi most fejedet kebelemre tevéd le,\nHolnap nem omolsz-e sirom fölibe?\nOh mondd: ha előbb halok el, tetemimre\nKönnyezve borítasz-e szemfödelet?\nS rábírhat-e majdan egy ifju szerelme,\nHogy elhagyod érte az én nevemet?\nHa eldobod egykor az özvegyi fátyolt,\nFejfámra sötét lobogóul akaszd,\nÉn feljövök érte a síri világból\nAz éj közepén, s oda leviszem azt,\nLetörleni véle könyűimet érted,\nKi könnyeden elfeledéd hivedet,\nS e szív sebeit bekötözni, ki téged\nMég akkor is, ott is, örökre szeret!",
+      "english": "The garden flowers still bloom in the valley,\nthe poplar is still green before the window,\nbut do you see the winter world over there?\nSnow already covers the mountain top.\nThe flame-bright summer still burns in my young heart,\nand the whole of spring still blossoms there,\nbut look, my dark hair is turning grey,\nthe frost of winter has already touched my head.\nThe flower falls, and life runs on…\nSit, my wife, come sit here on my lap!\nYou who now lay your head upon my breast,\nwill you not fall tomorrow weeping on my grave?\nOh tell me: if I die first, will you\nlay a shroud over my body, in tears?\nAnd could the love of some young man persuade you\none day to give up my name for his?\nIf one day you throw off the widow's veil,\nhang it on my grave-post like a dark flag;\nI will come up for it from the world of the dead\nat midnight, and take it down with me\nto wipe away my tears for you,\nwho so lightly forgot the one who was true to you,\nand to bind the wounds of this heart, which loves you\neven then, even there, for ever!",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://hu.wikisource.org/wiki/Szerettelek"
+        "label": "Read the whole work",
+        "url": "https://hu.wikisource.org/wiki/Szeptember_v%C3%A9g%C3%A9n"
       },
       {
         "label": "Rights / catalogue",
@@ -3992,6 +3992,10 @@
       {
         "label": "Author / country",
         "url": "https://hu.wikisource.org/wiki/Szerző:Kaffka_Margit"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://hu.wikisource.org/wiki/Szerettelek"
       }
     ]
   },
@@ -4139,7 +4143,7 @@
     "provenance": "Buah Rindu facsimile at Indonesian Wikisource; Indonesian education ministry monograph T. Amir Hamzah (2005) identifies this among poems to his human beloved Sendari.",
     "location": "Buah Rindu, poem headed Harum Rambutmu, printed p.44 onwards in linked scan",
     "translation": "Use Hamzah’s original words. Different editions modernise spelling and pagination; modern criticism, typesetting and translations separate. Date of first magazine appearance is distinguished from 1941 collection date. Passage update (29 October 2026): Complete poem, 24 lines, from the validated Indonesian Wikisource transcription of Buah Rindu, printed pp. 44–45. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Original text: standard life-plus-70 term expired; author died 1946. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
+    "rights": "Original text: standard life-plus-70 term expired; author died 1946. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed. Anthology review (30 October 2026): UK/EU public domain (Amir Hamzah died 1946). US — first published 1932; public domain from 1 January 2028. Publish after that date, or swap for a poem printed before 1931.",
     "source": "Linked full original text / credited edition",
     "id": "indonesia",
     "contextNote": "Amir Hamzah, from the royal family of Langkat in Sumatra, was the leading poet of the Pujangga Baru movement that shaped modern Indonesian literature. He wrote the poems of Buah Rindu (Fruits of Longing) as a young man in Java; he was killed in 1946, in the violent upheaval that followed independence.",
@@ -4610,7 +4614,7 @@
     "description": "The speaker discovers that advancing age has not extinguished his passion and defends romantic love against the charge that it is shameful.",
     "provenance": "Abu Dhabi Department of Culture and Tourism, poem 66871, eight bayts. Shoman Foundation’s scholarly volume corroborates 1899–1949; Birzeit holds the historical 1954 collection Ashiyyat Wadi al-Yabis.",
     "location": "Eight-bayt poem; seventh bayt defends chaste romantic passion",
-    "translation": "Identifier is the original incipit. Year 1949 is an upper bound. Birth-year disagreement is explicit. Reuse the author’s historical Arabic verses, excluding later commentary and translations; first-publication particulars for this individual poem have not been established. Passage update (29 October 2026): Complete poem, 8 couplets (16 half-lines), as printed in the Abu Dhabi Poetry Encyclopedia; the site’s decorative letter-stretching (tatweel) is removed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Identifier is the original incipit. Year 1949 is an upper bound. Birth-year disagreement is explicit. Reuse the author’s historical Arabic verses, excluding later commentary and translations; first-publication particulars for this individual poem have not been established. Passage update (29 October 2026): Complete poem, 8 couplets (16 half-lines), as printed in the Abu Dhabi Poetry Encyclopedia; the site’s decorative letter-stretching (tatweel) is removed. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026) for the anthology review. Jordan: the poem's first publication was in a 1954 collection, five years after the poet's death; its US status depends on Jordan's 1996 copyright term.",
     "rights": "Historical original composition; author died 1949, beyond the standard life-plus-70 term. Reuse the underlying historical original only, excluding modern translations, editorial matter, images, adaptations and recordings. Publication history and territorial exceptions should be checked for the edition used.",
     "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
     "id": "jordan",
@@ -4622,14 +4626,9 @@
       "creator": "Mustafa Wahbi al-Tall, 1899–1949",
       "language": "Arabic"
     },
-    "passage": {
-      "original": "ظننتني جزت عن طرد الهوى فإذا\nحسابه لم يزل في دفتري جاري\nوزند وجدي بربات الحجال على\nعهدي به كعشيات الصبا واري\nوالأربعون التي لاحت طلائعها\nفي لمتي ريحها استخذى لأعصاري\nظننتني جزت عن طرد الهوى فإذا\nموضوعه لم يزل موضوع أسماري\nوما توهمته زهداً ورحت به\nأعلل النفس غير الواقع الجاري\nشتان بين شعوري في حقيقته\nوبين رجعك يا أصداء أفكاري\nفليتق اللّه من ظن الهيام بهم\nغياً فما بالهوى العذري من عار\nوما يضر أخا الأردن كسوته\nجديدها أن يحل يوماً لاطماري",
-      "english": "I thought I had moved past the chase of passion, but lo,\nIts account is still running in my ledger;\nAnd the flint of my longing for the veiled beauties,\nAs I knew it in the evenings of youth, still strikes fire;\nAnd the forties, whose first signs have appeared\nIn my locks: their wind has bowed before my whirlwinds.\nI thought I had moved past the chase of passion, but lo,\nIt is still the subject of my night-time talk.\nWhat I imagined was renunciation, and went about\nConsoling my soul with, was not what was truly happening.\nHow far apart are my feeling as it truly is\nAnd your answer, O echoes of my thoughts!\nLet whoever thinks it folly to be lovesick for them\nFear God: there is no shame in chaste love.\nAnd what harm is it to a son of Jordan if his clothes,\nThe new ones, should one day turn to rags?",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Work / text",
+        "label": "Read the text",
         "url": "https://poetry.dct.gov.ae/poems/66871-ظننتني-جزت-عن-طرد-الهوى-فإذا"
       },
       {
@@ -4865,7 +4864,7 @@
     "description": "The poet praises Alymkan’s beauty, longs for her to visit, and asks her to listen and respond to his music: unfulfilled romantic love.",
     "provenance": "Kyrgyzpatent music archive explicitly credits Satylganov’s words and Bektemir Eginchiev’s music. Kyrgyz university anthology dates poet 1864–1933 and describes the love lyric.",
     "location": "Kyrgyzpatent lyric PDF, pp.1–2",
-    "translation": "Only the original lyrics are treated as open. Later music by Bektemir Eginchiev (1910–1964), recordings and modern translations remain separate. Oral/transcribed variants exist; choose and credit a single textual version. Passage update (29 October 2026): First five stanzas, 20 lines, from the Kyrgyzpatent lyric sheet. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Only the original lyrics are treated as open. Later music by Bektemir Eginchiev (1910–1964), recordings and modern translations remain separate. Oral/transcribed variants exist; choose and credit a single textual version. Passage update (29 October 2026): First five stanzas, 20 lines, from the Kyrgyzpatent lyric sheet. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026) for the anthology review. Kyrgyzstan: the words come from a modern lyric sheet, with no early printing of this version.",
     "rights": "Original text: standard life-plus-70 term expired; author died 1933. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
     "source": "Kyrgyzpatent original-lyrics PDF",
     "id": "kyrgyzstan",
@@ -4877,14 +4876,9 @@
       "creator": "Toktogul Satylganov, lyrics",
       "language": "Kyrgyz"
     },
-    "passage": {
-      "original": "Атка салган дилдейсиң,\nАчылган кызыл гүлдөйсүң.\nБир күн оору, бир күн соо,\nАлымкан, азабың тартсам билбейсиң.\nБетегелүү майданым,\nПейили жакшы жайдарым.\nКөлөкөлүү майданым,\nАлымкан, көңүлү жакшы жайдарым.\nКашкардын тоосу кайрылыш,\nКайрылып учат улуу куш.\nКайрылып мага келет,\nАлымкан, карыпка салбай кыйын иш.\nБукардын тоосу бурулуш,\nБурулуп учат улуу куш.\nБурулуп мага келет,\nАлымкан, муңдууга салбай кыйын иш.\nСаркештеп сайган жоолугуң,\nСарсанаа кылат жоругуң.\nКөркөмдөп сайган жоолугуң,\nАлымкан, көп санаа кылат жоругуң.",
-      "english": "You are like a gold ornament on a horse,\nYou are like a red flower in bloom.\nOne day sick, one day well:\nAlymkan, you do not know the torment I suffer.\nMy meadow of feather grass,\nMy cheerful one with a kind heart.\nMy shady meadow,\nAlymkan, my cheerful one with a good soul.\nThe mountains of Kashgar turn back,\nThe great birds turn and fly.\nIf only you would turn and come to me,\nAlymkan, and not lay hard trials on a poor man.\nThe mountains of Bukhara bend away,\nThe great birds wheel and fly.\nIf only you would wheel and come to me,\nAlymkan, and not lay hard trials on a grieving man.\nYour headscarf, embroidered in yellow,\nYour ways make me anxious.\nYour headscarf, beautifully embroidered,\nAlymkan, your ways give me many cares.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Original text",
+        "label": "Read the text",
         "url": "https://musicvault.patent.kg/media/pdf_texts/Алымкан.pdf"
       },
       {
@@ -5291,7 +5285,7 @@
     "provenance": "Wikisource identifies first publication and its author page gives life+70 public-domain notice",
     "location": "Complete poem",
     "translation": "Not a blanket worldwide clearance: US reuse of a 1931 first publication needs a separate check. No modern translation or recording is cleared. Passage update (29 October 2026): Complete poem, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public domain in life+70 jurisdictions; author page notice (died 1945)",
+    "rights": "Public domain in life+70 jurisdictions; author page notice (died 1945) Anthology review (30 October 2026): UK/EU public domain (Nėris died 1945). US — first published 1931, so public domain from 1 January 2027 at the latest.",
     "source": "",
     "id": "lithuania",
     "contextNote": "Salomėja Nėris was one of Lithuania’s most loved poets. This poem comes from her 1931 collection Pėdos smėly (Footprints in the Sand); its lovers’ wedding “without church or altars” was a daring image in Catholic Lithuania between the wars.",
@@ -5468,10 +5462,10 @@
     "genderDetails": "Man author",
     "originalDate": "Traditional oral verse; printed 1922",
     "editionDate": "1922",
-    "description": "Four love pantun: a lover told not to weep but to send word, longing sent by every bird, a single day together worth dying for, and love that grows with distance.",
-    "provenance": "H. Overbeck, “The Malay Pantun”, Journal of the Straits Branch of the Royal Asiatic Society (1922); Malay text as printed, OCR spacing tidied.",
+    "description": "Four love pantun: a lover told not to weep but to send word, longing sent by every bird, a single day together worth dying for, and a heart that hopes for one beloved alone.",
+    "provenance": "H. Overbeck, “The Malay Pantun”, Journal of the Straits Branch of the Royal Asiatic Society (Singapore, 1922); Malay text as printed, OCR errors corrected.",
     "location": "Pantun Kasih, first five quatrains",
-    "translation": "Work changed (30 October 2026): the five pantun from Malay Wikisource, which had no traceable printed source, are replaced by four love pantun printed by Hans Overbeck in 1922. The earlier notes about a Malay novel no longer apply. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Work changed (30 October 2026): the five pantun from Malay Wikisource, which had no traceable printed source, are replaced by four love pantun printed by Hans Overbeck in 1922. The earlier notes about a Malay novel no longer apply. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Update (30 October 2026): the Tanjong Katong pantun moves to the Singapore entry; a fourth pantun (“Harap hati ka-pada nan tuan”) is added from the same 1922 article.",
     "rights": "Traditional anonymous verse; Overbeck's 1922 printing is public domain (he died 1942). Overbeck's English is not used.",
     "source": "Internet Archive (BioStor): Overbeck, The Malay Pantun, 1922",
     "id": "malaysia",
@@ -5484,8 +5478,8 @@
       "language": "Malay"
     },
     "passage": {
-      "original": "Buloh perindu di-atas atap,\nHendak di-buat bambu joran;\nKalau rindu jangan meratap,\nSiapa lalu baik di-pesan.\nAnak balam di-atas panggong,\nKalau tuan ka-Bandar Rekan;\nRindu sahaya tidak tertanggong,\nSakalian burong sahaya berpesan.\nMakan tebu di-luar serambi,\nAnak tekukur atas bumbongan;\nSa-hari bertemu, sa-hari mati,\nSa-ribu shukur atas junjongan.\nTanjong Katong ayer-nya biru,\nTempat berlaboh kochi Malaka;\nSedang sa-kampong lagi ku-rindu,\nInikan pula jauh di-mata.",
-      "english": "A longing-bamboo up on the roof,\nto be made into a fishing rod;\nif you long for me, do not weep:\nsend word by whoever passes.\nA young dove on the platform,\nif you are bound for Bandar Rekan:\nmy longing is more than I can bear;\nI send word by every bird.\nEating sugar cane outside the veranda,\na young turtle-dove on the roof ridge;\nto meet you for a day and die the next,\nI would give a thousand thanks to the Lord.\nThe water at Tanjong Katong is blue,\nwhere the boats of Malacca anchor;\neven in the same village I longed for you,\nhow much more now you are far from my eyes.",
+      "original": "Buloh perindu di-atas atap,\nHendak di-buat bambu joran;\nKalau rindu jangan meratap,\nSiapa lalu baik di-pesan.\nAnak balam di-atas panggong,\nKalau tuan ka-Bandar Rekan;\nRindu sahaya tidak tertanggong,\nSakalian burong sahaya berpesan.\nMakan tebu di-luar serambi,\nAnak tekukur atas bumbongan;\nSa-hari bertemu, sa-hari mati,\nSa-ribu shukur atas junjongan.\nHarap harap kelapa puan,\nTidak puan kelapa Bali;\nHarap hati ka-pada nan tuan,\nTidak tuan, siapa lagi?",
+      "english": "A longing-bamboo up on the roof,\nto be made into a fishing rod;\nif you long for me, do not weep:\nsend word by whoever passes.\nA young dove on the platform,\nif you are bound for Bandar Rekan:\nmy longing is more than I can bear;\nI send word by every bird.\nEating sugar cane outside the veranda,\na young turtle-dove on the roof ridge;\nto meet you for a day and die the next,\nI would give a thousand thanks to the Lord.\nHoping, hoping for a puan coconut;\nif not a puan, a coconut from Bali;\nmy heart's hope is set on you alone:\nif not you, who else could it be?",
       "status": "draft"
     },
     "links": [
@@ -6203,7 +6197,7 @@
     "description": "A sonnet imagining the pleasure of reciprocal love and walking together hand in hand.",
     "provenance": "Portuguese distance-learning module, lesson 25; poem also discussed by Carmen Lúcia Tindó Secco, UFMG Literafro.",
     "location": "Lesson 25, printed pp.144–145",
-    "translation": "Sonetos appeared posthumously in 1946. Scholars document editorial alterations in that edition; compare the poem with a lifetime newspaper text before establishing a definitive version. Modern notes and revisions are separate. Passage update (29 October 2026): Complete sonnet, 14 lines (as printed in the school module, Lesson 25). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Sonetos appeared posthumously in 1946. Scholars document editorial alterations in that edition; compare the poem with a lifetime newspaper text before establishing a definitive version. Modern notes and revisions are separate. Passage update (29 October 2026): Complete sonnet, 14 lines (as printed in the school module, Lesson 25). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026) for the anthology review. Mozambique: published posthumously in 1946, and the editor is known to have altered the text.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1943. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Portuguese distance-learning module, lesson 25; poem also discussed by Carmen Lúcia Tindó Secco, UFMG Literafro.",
     "id": "mozambique",
@@ -6215,14 +6209,9 @@
       "creator": "Rui de Noronha",
       "language": "Portuguese"
     },
-    "passage": {
-      "original": "Amar é um prazer se nos amámos\nAlguém que pode amar-nos e nos ama,\nAmar é um prazer, se nos chama,\nAlguém continuamente que chamámos.\nEntão a vida inteira a rir levamos,\nQue o mesmo fogo ardente nos inflama\nOs ideais da vida, e bem, a fama,\nMãos dadas pelo mundo procuramos.\nNo encapelado mar da existência\nO amor é compassiva indulgência\nA culpa original de nossos pais.\nTudo na vida é fruto do amor\nQuem o tirar e olhar em seu redor\nEncontra só tristeza – e nada mais",
-      "english": "To love is a pleasure if we love\nsomeone who can love us, and does;\nto love is a pleasure if there calls to us\nsomeone we are always calling.\nThen we spend our whole life laughing,\nfor the same burning fire inflames us;\nlife’s ideals, and goodness, and fame\nwe seek hand in hand through the world.\nOn the stormy sea of existence\nlove is a compassionate forgiveness\nof the original sin of our first parents.\nEverything in life is the fruit of love;\nwhoever takes it away and looks around\nfinds only sadness, and nothing more.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Work / source text",
+        "label": "Read the text",
         "url": "https://dondzaneacademy.com/wp/wp-content/uploads/2024/07/modulo_5_portugues.pdf"
       },
       {
@@ -7045,7 +7034,7 @@
     "description": "The speaker addresses a rejecting beloved, sending longing and reproach through the stars and a singing bird. Romantic separation and unfulfilled affection.",
     "provenance": "Hindawi complete poetry, 2012 edition, book 25090535; Hindawi URL redirects to Safahat. Publisher explicitly declares the underlying text public domain.",
     "location": "Named chapter شوق وعتاب",
-    "translation": "Collection’s first issue date is listed as unknown; do not treat 2012 as composition date. Original Arabic only; modern translation and editorial material separate. Passage update (29 October 2026): Complete poem, 24 half-lines (Hindawi edition of the complete poems; the section dividers are omitted). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "Collection’s first issue date is listed as unknown; do not treat 2012 as composition date. Original Arabic only; modern translation and editorial material separate. Passage update (29 October 2026): Complete poem, 24 half-lines (Hindawi edition of the complete poems; the section dividers are omitted). Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026) for the anthology review. Palestine: the poem's first publication date is unknown; the linked text is a 2012 digital edition.",
     "rights": "Publisher explicitly states the underlying text is public domain. Author died 1941; standard life-plus-70 term expired. Modern translations and editorial additions excluded.",
     "source": "Linked full original text / credited edition",
     "id": "palestine",
@@ -7057,14 +7046,9 @@
       "creator": "Ibrahim Tuqan",
       "language": "Arabic"
     },
-    "passage": {
-      "original": "كيف أغويتَني وأمعنتَ صَدّا\nيا حبيبًا أعطى قليلًا وأكدى\nودَّ قلبي لو يجهل الحبَّ لما\nأنْ رآه يحول سَقْمًا ووَجْدا\nوشكتْ أضلعي من القلب نارًا\nهل عهدنَ الهوى سلامًا وبَردا؟!\nطلع الفجرُ باسمًا فتأمّلْ\nبنجوم الدجى تَرنَّحُ سُهْدا\nهي مثلي حيرى وعمّا قريبٍ\nتتوارى مع الظلام وتهدا\nلكَ حمّلتُها رسالةَ شوقٍ\nوعتابٍ، أظنّها لا تُؤدّى …\nقلتُ للطير حين أصبح يشدو\n«أيها الطيرُ عِمْ صباحًا!» فَردّا\nثم غنّى أنشودةً عن حبيبٍ\nلم يكن ظالمًا، ولا خان عهدا\nأضرمَ الذكرياتِ بي ثُمّ ولّى\nلا رماكَ الصيّادُ … أسرفتَ جِدّا\nجمع اللهُ في مُحيّا حبيبي\nأُقحوانًا وياسَمينًا وَوَردا\nوابتسامًا لا يهجر الثغرَ إلَّا\nعند قولي له: أَتُنجز وعدا؟\nلا عرفتَ الوَفا ولا كان وعدٌ\nيجعل البسمةَ الوديعةَ حِقدا",
-      "english": "How you seduced me, then turned ever further away!\nO beloved who gave a little, then gave no more.\nMy heart wished it knew nothing of love\nwhen it saw love turn to sickness and longing;\nand my ribs complained of the fire in my heart:\nhave they ever known love as cool and peaceful?\nDawn rose smiling: look at\nthe night’s stars swaying, sleepless.\nThey are bewildered like me, and soon\nthey will vanish with the dark and grow still.\nI gave them a message for you, of longing\nand reproach; I think it will not be delivered…\nI said to the bird when it began to sing at dawn,\n“Good morning, bird!” and it answered,\nthen sang a song about a beloved\nwho was never cruel and never broke a promise.\nIt kindled my memories, then flew away:\nmay no hunter ever shoot you… but you went too far!\nGod gathered in my beloved’s face\ncamomile, jasmine and rose,\nand a smile that leaves those lips only\nwhen I say: will you keep a promise?\nForget faithfulness, then: let there be no promise\nthat turns that gentle smile to bitterness.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Original text",
+        "label": "Read the text",
         "url": "https://www.safahat.org/books/25090535/7/"
       },
       {
@@ -7483,7 +7467,7 @@
     "description": "The lover’s heart is wounded by the beloved’s eyes and by separation.",
     "provenance": "Muhammad Ahmad al-Qudah’s article in Nizwa, Oman Ministry of Information, identifies the Doha poet, dates and 1963 diwan.",
     "location": "Four bayts following the account of the poet’s final pearl-diving voyage",
-    "translation": "The incipit is the identifier, not a verified authorial title. Source typography/OCR needs checking against the 1963 diwan. The 1995 criticism has separate rights. Passage update (29 October 2026): Four couplets (8 half-lines) of Nabati verse, as printed in Nizwa magazine. The reading of the last couplet is uncertain, and the English there is tentative. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "The incipit is the identifier, not a verified authorial title. Source typography/OCR needs checking against the 1963 diwan. The 1995 criticism has separate rights. Passage update (29 October 2026): Four couplets (8 half-lines) of Nabati verse, as printed in Nizwa magazine. The reading of the last couplet is uncertain, and the English there is tentative. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Moved to Poems to explore (30 October 2026) for the anthology review. Qatar: the poem was first collected in a 1963 diwan, and the 1995 excerpt's printing history is not established.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1907. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Muhammad Ahmad al-Qudah’s article in Nizwa, Oman Ministry of Information, identifies the Doha poet, dates and 1963 diwan.",
     "id": "qatar",
@@ -7495,14 +7479,9 @@
       "creator": "Majid ibn Salih al-Khulaifi",
       "language": "Arabic / Nabati"
     },
-    "passage": {
-      "original": "يامن رماني أو صاب احشاي نشابه\nيذكر حبيب سعى بالشين لاحبابه\nسليت لي من جفونك مرهف صارم\nلا واعذابي عن الصارم وجذابه\nظنية بك يا عديل الروح ظن ولا\nحققت ظني سوى بالهجر واكذابه\nونيت من هجركم ونت غريق هوى\nفى غية لايري برا ولا اخشابه",
-      "english": "O you who shot me, whose arrow struck my heart,\nit brings to mind a beloved who brought harm on those who loved him.\nFrom your eyelids you drew on me a keen, sharp sword:\nah, my torment from that sword and its pull!\nI thought well of you, O twin of my soul, but you\nfulfilled my hopes only with desertion and its lies.\nI moaned at your desertion, drowned in love,\nin a depth where neither shore nor ship’s timbers can be seen.",
-      "status": "draft"
-    },
     "links": [
       {
-        "label": "Work / source text",
+        "label": "Read the text",
         "url": "https://www.nizwa.om/الشاعر-القطري-ماجد-صالح-الخليفي-الفرو/"
       },
       {
@@ -8199,44 +8178,44 @@
     "refId": "ML-157",
     "country": "Singapore",
     "continent": "Asia",
-    "title": "丁丑清明节，为亡室陆氏筑坟成",
-    "titleEnglish": "Qingming 1937, on Completing the Grave of My Late Wife",
-    "creator": "Khoo Seok Wan / 丘菽园 (1874–1941)",
+    "title": "Pantun",
+    "titleEnglish": "Pantun of Love and Longing",
+    "creator": "Traditional Malay pantun; as printed by Hans Overbeck, 1922",
     "openOriginal": "Yes",
     "referenceType": "Named work (text)",
     "form": "Poetry",
-    "genderGroup": "Men",
-    "year": "1937",
-    "language": "Classical Chinese",
+    "genderGroup": "Unknown",
+    "year": "1922",
+    "language": "Malay",
     "tradition": "",
-    "formDetails": "Lyric poem",
-    "genderDetails": "Man author",
-    "originalDate": "1937, the Qingming following his wife’s death in 1936",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "The widower asks his beloved wife to understand why poverty delayed the building of her grave, expressing enduring marital love.",
-    "provenance": "University of Malaya scholarly article quotes and contextualises the Chinese poem; Bukit Brown heritage documentation reproduces its text. National Library Singapore confirms the poet’s dates and local literary role.",
+    "formDetails": "Pantun (four-line verses)",
+    "genderDetails": "Anonymous singers",
+    "originalDate": "Traditional oral verse; printed 1922",
+    "editionDate": "1922",
+    "description": "Four love pantun: longing that grows with distance, a heart the lover would open to show, love that should be whole or nothing, and sweet words from someone whose heart is elsewhere.",
+    "provenance": "H. Overbeck, “The Malay Pantun”, Journal of the Straits Branch of the Royal Asiatic Society (Singapore, 1922); Malay text as printed, OCR errors corrected.",
     "location": "Passage on Lu Jie’s death and the following Qingming; four-line poem beginning 几枚白石伴青珉",
-    "translation": "Incipit identifies the work; do not invent a formal title. Use Khoo’s Chinese verse only. Modern English translations, photographs and the scholarly article have separate rights. Passage update (29 October 2026): Complete poem, 4 lines, from 菽园诗集 vol. 6 on Shidian Guji (the originally linked PDF could not be opened). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1941. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "University of Malaya scholarly article quotes and contextualises the Chinese poem; Bukit Brown heritage documentation reproduces its text. National Library Singapore confirms the poet’s dates and local literary role.",
+    "translation": "Work changed (30 October 2026): Khoo Seok Wan's 1937 poem, whose first publication could not be established, is replaced by four love pantun printed in Singapore's Royal Asiatic Society journal in 1922; the first names Tanjong Katong, on Singapore's east coast. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "rights": "Traditional anonymous verse; Overbeck's 1922 printing is public domain (he died 1942). Overbeck's English is not used.",
+    "source": "Internet Archive (BioStor): Overbeck, The Malay Pantun, 1922",
     "id": "singapore",
-    "contextNote": "Khoo Seok Wan (Qiu Shuyuan) was a poet, newspaper founder and reformer who made his life in Singapore, then a British colony, and was a leading figure of its early Chinese literary world. He wrote this at the Qingming festival of 1937, a year after the death of his wife, née Lu, when he could at last afford to build her tomb; the once-wealthy poet had long since lost his fortune.",
+    "contextNote": "Malay is Singapore's national language, and the pantun, a four-line rhyming verse, was sung and traded in its villages. These were printed in 1922 in the journal of the Royal Asiatic Society's Straits Branch, based in Singapore; the first names Tanjong Katong, on the island's east coast.",
     "formGroup": "Poem",
     "display": {
-      "title": "丁丑清明节，为亡室陆氏筑坟成",
-      "english": "Qingming 1937, on Completing the Grave of My Late Wife",
-      "creator": "Khoo Seok Wan / 丘菽园",
-      "language": "Classical Chinese"
+      "title": "Pantun",
+      "english": "Pantun of Love and Longing",
+      "creator": "Traditional Malay pantun; as printed by Hans Overbeck, 1922",
+      "language": "Malay"
     },
     "passage": {
-      "original": "几枚白石伴青珉，\n小筑坟茔隔岁春。\n地下有灵相谅解，\n迟工原是为家贫。",
-      "english": "A few white stones beside the green jade stone:\na year on, in spring, I have built this small grave.\nIf your spirit below can know, forgive me:\nthe work was late only because we are poor.",
+      "original": "Tanjong Katong ayer-nya biru,\nTempat berlaboh kochi Malaka;\nSedang sa-kampong lagi ku-rindu,\nInikan pula jauh di-mata.\nKalau tidak karna kunchi,\nPapan peti sahaya belahkan;\nKalau tidak karna mati,\nBelah dada sahaya tunjokkan.\nAnak berok besar lengan,\nMasok ka-bendang makan padi;\nKalau kaseh alang-alangan,\nBiar ta’usah sa-kali-kali.\nLimau manis di-kebun raja,\nHilang di-bungkus puncha kain;\nMulut manis di-depan sahaja,\nHati sudah ka-pada lain.",
+      "english": "The water at Tanjong Katong is blue,\nwhere the boats of Malacca anchor;\neven in the same village I longed for you,\nhow much more now you are far from my eyes.\nIf it were not for the key,\nI would split the boards of the chest;\nif it were not that I would die,\nI would open my breast to show you.\nA young monkey with mighty arms\ngoes down to the rice field to eat the grain;\nif your love is only half-hearted,\nbetter there were none at all.\nSweet limes in the royal garden,\nlost when tied in the corner of a cloth;\nsweet words only to my face,\nbut your heart has gone to another.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://www.shidianguji.com/book/CADAL02026736/chapter/1l3iow7e7sd1c"
+        "label": "Read the whole work",
+        "url": "https://archive.org/details/biostor-176400"
       },
       {
         "label": "Reuse basis / copyright duration",
@@ -8253,6 +8232,10 @@
       {
         "label": "Additional evidence",
         "url": "https://bukitbrown.com/main/2012/khoo-soek-wan-poet-scholar-revolutionary-romantic/"
+      },
+      {
+        "label": "Earlier link: Read original",
+        "url": "https://www.shidianguji.com/book/CADAL02026736/chapter/1l3iow7e7sd1c"
       }
     ]
   },
@@ -9376,7 +9359,7 @@
     "provenance": "Arabic Wikisource original transcription",
     "location": "Opening praise and passages about the beloved reviving the speaker’s spirit",
     "translation": "Author died 1934. The transcription repeats a passage and lacks precise print-edition provenance; compare a scan before quoting. The original Arabic is public domain in life-plus-70 jurisdictions; modern translations and settings are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening 10 couplets (20 half-lines), Arabic Wikisource text. Words divided across the half-line break are kept as printed. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1934. Modern editorial additions and translations are separate.",
+    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1934. Modern editorial additions and translations are separate. Anthology review (30 October 2026): UK/EU — al-Shabbi died 1934, so the poem is out of copyright. US — first published after 1930, but Tunisian and Egyptian law then protected works for 50 years after death, so it was already out of copyright at home on 1 January 1996 and was not restored in the US: public domain.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "tunisia",
     "contextNote": "Abu al-Qasim al-Shabbi is Tunisia’s national poet, writing when Tunisia was a French protectorate; lines from his poem “The Will to Live” are in the Tunisian national anthem. He died in 1934, aged 25.",
