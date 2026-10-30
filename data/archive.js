@@ -495,44 +495,44 @@ window.ARCHIVE = [
     "refId": "ML-198",
     "country": "Austria",
     "continent": "Europe",
-    "title": "Erklärung (Declaration)",
-    "titleEnglish": "Declaration",
-    "creator": "Ada Christen",
+    "title": "Liebes-Lied",
+    "titleEnglish": "Love Song",
+    "creator": "Rainer Maria Rilke",
     "openOriginal": "Yes",
     "referenceType": "Named work",
     "form": "Poetry",
-    "genderGroup": "Women",
-    "year": "1868",
+    "genderGroup": "Men",
+    "year": "1907",
     "language": "German",
     "tradition": "",
     "formDetails": "Poem",
-    "genderDetails": "Woman",
-    "originalDate": "1868 (Lieder einer Verlorenen)",
-    "editionDate": "1868, Hoffmann und Campe, Hamburg",
-    "description": "Sceptical: the speaker hears declarations of love but fears future betrayal.",
-    "provenance": "Scan-backed transcription, Lieder einer Verlorenen",
+    "genderDetails": "Rainer Maria Rilke (1875–1926)",
+    "originalDate": "1907 (Neue Gedichte)",
+    "editionDate": "1907, Neue Gedichte (Leipzig: Insel-Verlag), p. 3",
+    "description": "Two lovers are so bound together that the poet cannot keep his soul from touching hers: everything that moves them draws one voice from two strings, like a bow.",
+    "provenance": "Rilke, Neue Gedichte (Leipzig: Insel-Verlag, 1907), p. 3; German Wikisource, transcribed from the 1907 scans.",
     "location": "p. 68",
-    "translation": "Original-language poem only; modern translations and recordings are separate. Retain attribution and source/license links for copyrightable transcription material. English passage: Earlier English draft by ChatGPT (replaced); draft for editorial review. 12-line passage on printed p.68. Original and English cells contain the same selection; line breaks are reading lines, not a claim of manuscript typography. Translation redone (30 October 2026) for the anthology review: fresh English translation by Claude (Anthropic AI) made directly from the original text, without reference to any other translation; draft for editorial review.",
-    "rights": "Public-domain German original; author died 1901",
-    "source": "",
+    "translation": "Work changed (30 October 2026): Ada Christen's “Erklärung”, a poem of distrust rather than love, is replaced by Rilke's best-known love poem. Complete poem, 13 lines. Fresh English translation by Claude (Anthropic AI) made directly from the German, deliberately not following published translations; draft for editorial review.",
+    "rights": "Anthology review (30 October 2026): published 1907; Rilke died 1926, so public domain in the UK, EU and US. Modern English translations (for example Stephen Mitchell's) are in copyright and are not used.",
+    "source": "German Wikisource: Liebes-Lied (Neue Gedichte, 1907)",
     "id": "austria",
-    "contextNote": "Ada Christen grew up poor in Vienna and worked as an actress before she published her first poems. Lieder einer Verlorenen ('Songs of a Lost Woman', 1868) shocked readers with its frank picture of poverty and women's lives, and this poem's distrust of fine words comes from that experience.",
+    "contextNote": "Rainer Maria Rilke was born in Prague in 1875, when it belonged to the Austrian Empire, and became one of the great poets of the German language. “Liebes-Lied” appears near the start of his Neue Gedichte (New Poems, 1907), written while he worked as secretary to the sculptor Auguste Rodin in Paris.",
     "formGroup": "Poem",
     "display": {
-      "title": "Erklärung",
-      "english": "Declaration",
-      "creator": "Ada Christen",
+      "title": "Liebes-Lied",
+      "english": "Love Song",
+      "creator": "Rainer Maria Rilke",
       "language": "German"
     },
     "passage": {
-      "original": "Ich hörte heute deine Schwüre –\nUnd es bewegt das Herz mir nicht,\nGlaub’ ich auch selbst, daß heiße Liebe\nAus jedem deiner Worte spricht.\nDenn unwillkürlich muß ich denken\nDer Zeit, wo du dich wirst bemühn,\nMit leeren Phrasen zu verhüllen\nDes leeren Herzens matt’res Glühn.\nWo endlich du des Kämpfens müde\nUnd satt der selbstgewählten Ketten,\nSchamlos dein eignes Wort verleugnend,\nEin Judas vor mich hin wirst treten.",
-      "english": "I heard your vows today,\nand they leave my heart unmoved,\nthough I believe myself that burning love\nspeaks out of every word.\nFor I can't help but think ahead\nto the time when you will strive\nto cover up with empty phrases\nthe feebler glow of an empty heart;\nwhen, at last worn out with fighting\nand sick of chains you chose yourself,\nshamelessly disowning your own word,\nyou will stand before me, a Judas.",
+      "original": "Wie soll ich meine Seele halten, daß\nsie nicht an deine rührt? Wie soll ich sie\nhinheben über dich zu andern Dingen?\nAch gerne möcht ich sie bei irgendwas\nVerlorenem im Dunkel unterbringen\nan einer fremden stillen Stelle, die\nnicht weiterschwingt wenn deine Tiefen schwingen.\nDoch alles was uns anrührt, dich und mich,\nnimmt uns zusammen wie ein Bogenstrich,\nder aus zwei Saiten eine Stimme zieht.\nAuf welches Instrument sind wir gespannt?\nUnd welcher Spieler hat uns in der Hand?\nO süßes Lied.",
+      "english": "How am I to hold my soul so that\nit does not touch on yours? How am I to\nlift it over you to other things?\nOh, I would gladly lodge it somewhere\nwith something lost in the dark,\nin a strange, still place\nthat does not go on trembling when your depths tremble.\nYet all that stirs us, you and me,\ngathers us up like a stroke of the bow\nthat pulls a single voice from two strings.\nOn what instrument are we strung?\nAnd which player has us in hand?\nO sweet song.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://de.wikisource.org/wiki/Seite:Christen_Lieder_0068.png"
+        "label": "Read the whole work",
+        "url": "https://de.wikisource.org/wiki/Liebes-Lied"
       },
       {
         "label": "Rights / catalogue",
@@ -545,6 +545,10 @@ window.ARCHIVE = [
       {
         "label": "Author / country",
         "url": "https://de.wikisource.org/wiki/Ada_Christen"
+      },
+      {
+        "label": "Earlier link: Read text",
+        "url": "https://de.wikisource.org/wiki/Seite:Christen_Lieder_0068.png"
       }
     ]
   },
