@@ -573,7 +573,7 @@ window.ARCHIVE = [
     "description": "Passionate love overwhelms the lover; imagery evokes the beloved’s face and legendary lovers.",
     "provenance": "Vikimənbə text, attributed to Natavan (1832–1897), with source link to Azadliq",
     "location": "Opening five couplets of the ghazal, 10 lines in the Wikisource transcription.",
-    "translation": "Natavan was a Shusha/Karabakh poet in present-day Azerbaijan. Original ghazal only; modern transliteration/editorial contributions may require attribution. English translation not supplied. Passage update (29 October 2026): Earlier English draft by ChatGPT (replaced); editorial draft, not a quoted published translation. Original and English contain the same selection. Latin transcription follows Wikisource, including cəkib as printed. Final couplet retains a historical dark-hair/light-face military conceit involving Abyssinia and Rum. Classical vocabulary merits specialist review. Translation redone (30 October 2026) for the anthology review: fresh English translation by Claude (Anthropic AI) made directly from the original text, without reference to any other translation; draft for editorial review.",
+    "translation": "Natavan was a Shusha/Karabakh poet in present-day Azerbaijan. Original ghazal only; modern transliteration/editorial contributions may require attribution. English translation not supplied. Passage update (29 October 2026): Earlier English draft by ChatGPT (replaced); editorial draft, not a quoted published translation. Original and English contain the same selection. Latin transcription follows Wikisource, including cəkib as printed. Final couplet retains a historical dark-hair/light-face military conceit involving Abyssinia and Rum. Classical vocabulary merits specialist review. Translation redone (30 October 2026) for the anthology review: fresh English translation by Claude (Anthropic AI) made directly from the original text, without reference to any other translation; draft for editorial review. Revision (30 October 2026, sensitivity review): final couplet left out (its image compares dark hair to an Abyssinian army); the passage is now couplets 1–4 of the ghazal.",
     "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable Anthology review (30 October 2026): the poet died centuries ago and the poem was in print long before 1989, so it is public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
     "source": "Passage source checked 29 October 2026. https://az.wikisource.org/wiki/Şuri-eşqin_başıma_axırı_sövda_gətirir",
     "id": "azerbaijan",
@@ -586,8 +586,8 @@ window.ARCHIVE = [
       "language": "Azerbaijani"
     },
     "passage": {
-      "original": "Şuri-eşqin başıma axırı sövda gətirir,\nBu müşəxəssdi ki, eşq aşiqə qovğa gətirir.\nTari-zülfündü məni böylə giriftar eləyib,\nNə gələ başıma, ol zülfi-mütərra gətirir.\nGül üzün görmək əgər mümkün olaydı bir dəm,\nHər zaman görmək onu nuri-mücəlla gətirir.\nQaşü göz, novki-mücə fitnə üçün cəm olmuş,\nOx atıb, tiğ cəkib, hər biri dəva gətirir.\nKönlümü qarət edir eylə ki, tari-zülfün,\nRumə, sanki həbəşi ləşgəri-yəğma gətirir.",
-      "english": "The frenzy of your love will drive me mad at last;\nthis much is certain: love brings the lover strife.\nIt is the strand of your hair that has snared me so;\nwhatever befalls me, those scented locks bring it on.\nIf I could look at your rose of a face for one moment,\neach look would bring a shining, radiant light.\nBrow, eye and lash-point have joined forces to stir up trouble:\none shoots arrows, one draws a blade, each picks a fight.\nThe strand of your hair so plunders my heart,\nit is as if an Abyssinian army brought sack and ruin to Rum.",
+      "original": "Şuri-eşqin başıma axırı sövda gətirir,\nBu müşəxəssdi ki, eşq aşiqə qovğa gətirir.\nTari-zülfündü məni böylə giriftar eləyib,\nNə gələ başıma, ol zülfi-mütərra gətirir.\nGül üzün görmək əgər mümkün olaydı bir dəm,\nHər zaman görmək onu nuri-mücəlla gətirir.\nQaşü göz, novki-mücə fitnə üçün cəm olmuş,\nOx atıb, tiğ cəkib, hər biri dəva gətirir.",
+      "english": "The frenzy of your love will drive me mad at last;\nthis much is certain: love brings the lover strife.\nIt is the strand of your hair that has snared me so;\nwhatever befalls me, those scented locks bring it on.\nIf I could look at your rose of a face for one moment,\neach look would bring a shining, radiant light.\nBrow, eye and lash-point have joined forces to stir up trouble:\none shoots arrows, one draws a blade, each picks a fight.",
       "status": "draft"
     },
     "links": [
@@ -1409,39 +1409,39 @@ window.ARCHIVE = [
     "refId": "ML-028",
     "country": "Burundi",
     "continent": "Africa",
-    "title": "Nakupenda",
-    "titleEnglish": "I Love You",
-    "creator": "Iry Tina and Pallaso; co-writing Daddy Andre; production Diggy Baur",
+    "title": "Amosozi y'urukundo",
+    "titleEnglish": "Tears of Love",
+    "creator": "Kidum (Jean-Pierre Nimbona)",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "English, Swahili, Luganda and additional language not named",
+    "genderGroup": "Men",
+    "year": "c. 2015",
+    "language": "Kirundi",
     "tradition": "",
-    "formDetails": "Song",
-    "genderDetails": "Unknown / not established",
-    "originalDate": "",
+    "formDetails": "Love song",
+    "genderDetails": "Kidum",
+    "originalDate": "c. 2015",
     "editionDate": "",
-    "description": "Two lovers promise each other loyalty and lasting love.",
-    "provenance": "Burundian Iry Tina collaborates with Ugandan Pallaso, 2021. Shared modern performance.",
+    "description": "A Kirundi ballad about the tears that love brings.",
+    "provenance": "Audio video with lyrics on Kidum's YouTube channel.",
     "location": "",
-    "translation": "No complete English translation verified. Original text, translation, edition and any recording require separate rights review. Passage update (29 October 2026): Not filled: a modern song and collaborators are identified, but no original lyrics have been supplied for translation. Supply the lyric text and the intended recorded version.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Notjustok East Africa, 14 October 2021",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: the duet whose singer could not be confirmed as Burundian is replaced by a Kirundi love song by Burundi's best-known singer.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Audio video with lyrics on Kidum's YouTube channel.",
     "id": "burundi",
-    "contextNote": "Burundi's singers often work across East Africa, where Swahili is widely understood. Iry Tina recorded this duet with the Ugandan star Pallaso, mixing several of the region's languages.",
+    "contextNote": "Kidum, born Jean-Pierre Nimbona in Burundi, became one of East Africa's best-loved singers after moving to Nairobi during Burundi's civil war. He sings in Kirundi, Swahili and English and has used his concerts to campaign for peace.",
     "formGroup": "Song",
     "display": {
-      "title": "Nakupenda",
-      "english": "I Love You",
-      "creator": "Iry Tina and Pallaso; co-writing Daddy Andre; production Diggy Baur",
-      "language": "English, Swahili, Luganda and additional language not named"
+      "title": "Amosozi y'urukundo",
+      "english": "Tears of Love",
+      "creator": "Kidum",
+      "language": "Kirundi"
     },
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=NcxGfZu-S7w"
+        "url": "https://www.youtube.com/watch?v=dUWJVNy7His"
       },
       {
         "label": "Earlier link: notjustok.com",
@@ -1989,55 +1989,39 @@ window.ARCHIVE = [
     "refId": "ML-039",
     "country": "Congo",
     "continent": "Africa",
-    "title": "The Vanishing Wife",
-    "titleEnglish": "The Vanishing Wife",
-    "creator": "Vili / Loango oral tradition; Richard Edward Dennett (1857–1921), published English version",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named work (text)",
-    "form": "Prose / folktale",
-    "genderGroup": "Unknown",
-    "year": "1898",
-    "language": "English historical version; Vili / Loango source tradition",
+    "title": "Bolingo Ebomi Nga",
+    "titleEnglish": "Love Has Killed Me",
+    "creator": "Roga Roga",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Men",
+    "year": "2026",
+    "language": "Lingala",
     "tradition": "",
-    "formDetails": "Prose / folktale",
-    "genderDetails": "Original oral creator / attribution not established",
-    "originalDate": "1898, Notes on the Folklore of the Fjort, chapter V",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Buite loves the mysterious woman who brings him comfort; breaking her condition causes her to disappear, leaving him grieving.",
-    "provenance": "Dennett’s named Loango tale, published 1898; source places his work in what is now the Republic of the Congo.",
-    "location": "Complete chapter V; the wife’s arrival and final disappearance",
-    "translation": "Historical English retelling through a colonial collector. Country is the Republic of the Congo, not the Democratic Republic of the Congo. Original Vili wording is not supplied.",
-    "rights": "The source identifies this historical English book as public domain. Dennett died 1921 and the 1898 version is beyond standard life-plus-70 terms. This does not clear all oral variants, community rights or later adaptations.",
-    "source": "Dennett’s named Loango tale, published 1898; source places his work in what is now the Republic of the Congo.",
+    "formDetails": "Love song",
+    "genderDetails": "Roga Roga (Extra Musica)",
+    "originalDate": "2026",
+    "editionDate": "",
+    "description": "A rumba love song in which the singer confesses that love has overwhelmed him.",
+    "provenance": "Official video on Roga Roga's YouTube channel.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: the 1898 folktale recorded by a British trader is replaced by a love song by one of Brazzaville's best-known musicians.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Official video on Roga Roga's YouTube channel.",
     "id": "congo",
-    "contextNote": "The Vili live on the Loango coast, once the heart of the Kingdom of Loango, which traded along the Atlantic for centuries, including in enslaved people. The British trader Richard Dennett wrote down these tales in the 1890s, when the coast was under French rule.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Roga Roga made his name in the 1990s as leader of Extra Musica, one of the bands that carried Congolese rumba from Brazzaville across Africa. Lingala, the language of the song, is spoken on both banks of the Congo River.",
+    "formGroup": "Song",
     "display": {
-      "title": "The Vanishing Wife",
-      "english": "",
-      "creator": "Vili / Loango oral tradition; Richard Edward Dennett, published English version",
-      "language": "English historical version; Vili / Loango source tradition"
+      "title": "Bolingo Ebomi Nga",
+      "english": "Love Has Killed Me",
+      "creator": "Roga Roga",
+      "language": "Lingala"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://sacred-texts.com/book/notes-on-the-folklore-of-the-fjort/v-the-vanishing-wife"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://sacred-texts.com/book/notes-on-the-folklore-of-the-fjort/v-the-vanishing-wife"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://sacred-texts.com/book/notes-on-the-folklore-of-the-fjort/v-the-vanishing-wife"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://sacred-texts.com/book/notes-on-the-folklore-of-the-fjort"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=FtxZzCEubBQ"
       }
     ]
   },
@@ -3619,39 +3603,39 @@ window.ARCHIVE = [
     "refId": "ML-070",
     "country": "Guinea",
     "continent": "Africa",
-    "title": "Titati",
-    "titleEnglish": "Titati — English meaning not yet verified",
-    "creator": "Traditional Manding melody; instrumental version by Habib Koite",
+    "title": "M'Bambou (Berce-moi)",
+    "titleEnglish": "Rock Me",
+    "creator": "Sékouba Bambino",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "Manding repertoire; instrumental version has no sung words",
+    "genderGroup": "Men",
+    "year": "2017",
+    "language": "Malinke",
     "tradition": "",
-    "formDetails": "Song",
-    "genderDetails": "Unknown (traditional / collective authorship)",
-    "originalDate": "",
+    "formDetails": "Love song",
+    "genderDetails": "Sékouba Bambino",
+    "originalDate": "2017",
     "editionDate": "",
-    "description": "A traditional Manding melody about a lover hoping their love will be returned. Habib Koité’s version is instrumental.",
-    "provenance": "Koite interview about Afriki (2007) describes the melody as popular in both Mali and Guinea. Shared repertoire.",
+    "description": "A tender love song in which the singer asks his beloved to cradle and rock him.",
+    "provenance": "Official video on the Syllart Records YouTube channel.",
     "location": "",
-    "translation": "English interview. No sung text or English lyric verified.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Afropop Worldwide, Banning Eyre / Sean Barlow interview conducted June 2007; webpage dated 2025",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Habib Koité's instrumental, which had no words and was also used for Mali, is replaced by a love song by Guinea's best-known singer.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Official video on the Syllart Records YouTube channel.",
     "id": "guinea",
-    "contextNote": "Titati belongs to the old Manding repertoire shared by Guinea, Mali and their neighbours, heirs of the medieval Mali Empire, and handed down by griots, the hereditary musicians and keepers of memory. Habib Koité, born into a Malian griot family, plays it on the guitar.",
+    "contextNote": "Sékouba Bambino began singing as a teenager with Bembeya Jazz, the band that became a symbol of Guinea's independence. He is one of the great voices of Manding music, the song tradition of the griots, the hereditary musicians and keepers of memory.",
     "formGroup": "Song",
     "display": {
-      "title": "Titati",
-      "english": "",
-      "creator": "Traditional Manding melody; instrumental version by Habib Koite",
-      "language": "Manding repertoire; instrumental version has no sung words"
+      "title": "M'Bambou",
+      "english": "Rock Me",
+      "creator": "Sékouba Bambino",
+      "language": "Malinke"
     },
     "links": [
       {
-        "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=wiNHFQ0idpI"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=oC4mS-401d0"
       },
       {
         "label": "Earlier link: old.afropop.org",
@@ -3703,60 +3687,39 @@ window.ARCHIVE = [
     "refId": "ML-072",
     "country": "Guyana",
     "continent": "South America",
-    "title": "The Negro Village",
-    "titleEnglish": "The Negro Village — passage on husband, wife and love",
-    "creator": "Egbert Martin, pen name Leo (c.1861–1890)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
+    "title": "This Is the Dark Time, My Love",
+    "titleEnglish": "This Is the Dark Time, My Love",
+    "creator": "Martin Carter (1927–1997)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1883",
+    "year": "1954",
     "language": "English",
     "tradition": "",
-    "formDetails": "Lyric poem",
-    "genderDetails": "Man author",
-    "originalDate": "1883, Leo’s Poetical Works",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Within a wider village portrait, the poet describes a young wife and her affectionate husband, then affirms the intensity of their capacity for love.",
-    "provenance": "Lehigh University digital poetry anthology transcribes the 1883 poem. David Dabydeen’s biographical discussion documents Martin’s Georgetown connection and death in 1890.",
-    "location": "Stanzas beginning with the youthful wife and continuing into the reflection on love",
-    "translation": "Only the specified passage concerns romantic/marital love; the entire poem is not a love lyric. Its racial and Christian language reflects the nineteenth-century setting. Passage update (29 October 2026): Two consecutive stanzas, 14 lines: the poet answers the claim that Black people cannot feel deep love. Original English; no translation needed. Original English text; not a translation.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1890. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Lehigh University digital poetry anthology transcribes the 1883 poem. David Dabydeen’s biographical discussion documents Martin’s Georgetown connection and death in 1890.",
+    "formDetails": "Poem",
+    "genderDetails": "Martin Carter",
+    "originalDate": "1954",
+    "editionDate": "",
+    "description": "A love poem written in a time of fear: the poet tells his beloved that the dark season has come, but speaks to her with tenderness and watchfulness while waiting for it to pass.",
+    "provenance": "Martin Carter, Poems of Resistance from British Guiana (London: Lawrence & Wishart, 1954).",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Egbert Martin's 1883 poem, whose title and theme centred on race, is dropped; this is Guyana's best-known love poem, by its national poet.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Martin Carter, Poems of Resistance from British Guiana (London: Lawrence & Wishart, 1954).",
     "id": "guyana",
-    "contextNote": "Egbert Martin was a Black poet writing in British Guiana less than fifty years after slavery ended there. In “The Negro Village” (1883) he paints village life with affection and answers the racist claim that Black people could not feel deep love; he died in 1890, still in his twenties.",
+    "contextNote": "Martin Carter is Guyana's national poet. He wrote this poem in 1953, when British troops landed in British Guiana and suspended its first elected government; he was imprisoned for his part in the independence movement, and later served as a minister after Guyana became independent in 1966.",
     "formGroup": "Poem",
     "display": {
-      "title": "The Negro Village",
-      "english": "The Negro Village — passage on husband, wife and love",
-      "creator": "Egbert Martin, pen name Leo",
+      "title": "This Is the Dark Time, My Love",
+      "english": "",
+      "creator": "Martin Carter",
       "language": "English"
-    },
-    "passage": {
-      "original": "And yet there are, who will in strength maintain,\nThe negro heart is foreign to all thought\nWhich breathes of hopeful love, affection’s reign,\nOr nobler passions in the bosom wrought;\nSuch reason in a blind conceit,\nWhere prejudice and false pride meet,\nYea! man is man with all emotions fraught.\nTheir hearts can love with all the lavish strength,\nImpetuous fervour of ungoverned will,\nRunning unbroken to its utmost length:\nPassion’s frenzy, but pure love’s offspring still;\nUnweaned by cold decorum’s laws,\nCleaving persistent to its cause,\nFree and natural as the mountain rill.",
-      "english": "And yet there are, who will in strength maintain,\nThe negro heart is foreign to all thought\nWhich breathes of hopeful love, affection’s reign,\nOr nobler passions in the bosom wrought;\nSuch reason in a blind conceit,\nWhere prejudice and false pride meet,\nYea! man is man with all emotions fraught.\nTheir hearts can love with all the lavish strength,\nImpetuous fervour of ungoverned will,\nRunning unbroken to its utmost length:\nPassion’s frenzy, but pure love’s offspring still;\nUnweaned by cold decorum’s laws,\nCleaving persistent to its cause,\nFree and natural as the mountain rill.",
-      "status": "english-original"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/egbert-martin-leo-the-negro-village-1883.1"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/egbert-martin-leo-the-negro-village-1883.1"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/egbert-martin-leo-the-negro-village-1883.1"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://www.morayhousetrust.com/press-clippings/selected-poems-by-egbert-martin/"
+        "label": "Read the text",
+        "url": "https://poems.com/poem/this-is-the-dark-time-my-love/"
       }
     ]
   },
@@ -4204,7 +4167,7 @@ window.ARCHIVE = [
     "description": "Praise of the beloved in a ghazal.",
     "provenance": "Divan of Hafez, ghazal 3; Persian text from Ganjoor.",
     "location": "Complete ghazal (Divan, ghazal 3), 9 couplets",
-    "translation": "New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (30 October 2026): retranslated from the Persian for the anthology review so that no line follows the wording of an earlier English version.",
+    "translation": "New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (30 October 2026): retranslated from the Persian for the anthology review so that no line follows the wording of an earlier English version. Revision (30 October 2026, sensitivity review): lūliyān (line 5) translated as 'wandering minstrel girls' rather than with an ethnic slur.",
     "rights": "Original text: 14th-century poem, public domain. New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Anthology review (30 October 2026): the poet died centuries ago and the poem was in print long before 1989, so it is public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
     "source": "Ganjoor: Hafez, ghazal 3",
     "id": "iran",
@@ -4218,7 +4181,7 @@ window.ARCHIVE = [
     },
     "passage": {
       "original": "اگر آن ترک شیرازی به‌ دست‌ آرد دل ما را\nبه خال هندویش بخشم سمرقند و بخارا را\nبده ساقی می باقی که در جنت نخواهی یافت\nکنار آب رکناباد و گل‌گشت مصلا را\nفغان! کاین لولیان شوخ شیرین‌کار شهرآشوب\nچنان بردند صبر از دل که ترکان خوان یغما را\nز عشق ناتمام ما جمال یار مستغنی‌ است\nبه آب و رنگ و خال و خط چه حاجت روی زیبا را؟\nمن از آن حسن روزافزون که یوسف داشت دانستم\nکه عشق از پردهٔ عصمت برون آرد زلیخا را\nاگر دشنام فرمایی و گر نفرین دعا گویم\nجواب تلخ می‌زیبد لب لعل شکرخا را\nنصیحت گوش کن جانا که از جان دوست‌تر دارند\nجوانان سعادتمند پند پیر دانا را\nحدیث از مطرب و می گو و راز دهر کمتر جو\nکه کس نگشود و نگشاید به حکمت این معما را\nغزل گفتی و در سفتی بیا و خوش بخوان حافظ\nکه بر نظم تو افشاند فلک عقد ثریا را",
-      "english": "If that Turk of Shiraz would only take my heart in hand,\nfor the dark mole on that cheek I'd give up Samarkand and Bukhara.\nBring the last of the wine, cupbearer: in paradise you won't find\nthe banks of the Ruknabad or the flowered paths of Musalla.\nAh, these playful gypsy girls, so charming, such trouble to the town,\nhave stripped the patience from my heart as Turks strip a table of its spoils.\nMy love is incomplete, but my beloved's beauty does not need it:\na lovely face has no use for powder, colour, beauty-spot or pencil.\nFrom that beauty of Joseph's, growing day by day, I learned\nhow love draws Zulaikha out from behind the curtain of virtue.\nAbuse me if you like, curse me: I'll pray for you all the same;\na bitter answer becomes a ruby lip that rains down sugar.\nTake some advice, my dear: young people blessed by fortune\nlove the counsel of a wise old man more than life itself.\nTalk of minstrels and wine, and don't dig into the world's secret,\nfor no one has solved this riddle by wisdom, and no one will.\nYou've made your ghazal and pierced your pearls; come, Hafez, sing it well,\nfor the sky scatters the string of the Pleiades over your verse.",
+      "english": "If that Turk of Shiraz would only take my heart in hand,\nfor the dark mole on that cheek I'd give up Samarkand and Bukhara.\nBring the last of the wine, cupbearer: in paradise you won't find\nthe banks of the Ruknabad or the flowered paths of Musalla.\nAh, these playful wandering minstrel girls, so charming, such trouble to the town,\nhave stripped the patience from my heart as Turks strip a table of its spoils.\nMy love is incomplete, but my beloved's beauty does not need it:\na lovely face has no use for powder, colour, beauty-spot or pencil.\nFrom that beauty of Joseph's, growing day by day, I learned\nhow love draws Zulaikha out from behind the curtain of virtue.\nAbuse me if you like, curse me: I'll pray for you all the same;\na bitter answer becomes a ruby lip that rains down sugar.\nTake some advice, my dear: young people blessed by fortune\nlove the counsel of a wise old man more than life itself.\nTalk of minstrels and wine, and don't dig into the world's secret,\nfor no one has solved this riddle by wisdom, and no one will.\nYou've made your ghazal and pierced your pearls; come, Hafez, sing it well,\nfor the sky scatters the string of the Pleiades over your verse.",
       "status": "draft"
     },
     "links": [
@@ -5523,43 +5486,39 @@ window.ARCHIVE = [
     "refId": "ML-105",
     "country": "Maldives",
     "continent": "Asia",
-    "title": "I Get to Love You (Acoustic)",
-    "titleEnglish": "I Get to Love You (Acoustic)",
-    "creator": "Mysha Didi; original writers to confirm",
+    "title": "Nunidhey",
+    "titleEnglish": "Nunidhey",
+    "creator": "Abdulla Livaaz",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Women",
-    "year": "",
-    "language": "English",
+    "genderGroup": "Men",
+    "year": "2026",
+    "language": "Dhivehi",
     "tradition": "",
-    "formDetails": "Song / cover",
-    "genderDetails": "Woman (performer); authorship unknown or unconfirmed",
-    "originalDate": "",
+    "formDetails": "Love song",
+    "genderDetails": "Abdulla Livaaz",
+    "originalDate": "2026",
     "editionDate": "",
-    "description": "A romantic wedding ballad, sung here as a cover version.",
-    "provenance": "Tristar Records 3 March 2023; Maldivian singer based Leeds performing international cover.",
+    "description": "A Dhivehi love song dedicated to those who love from a distance.",
+    "provenance": "Official music video on Abdulla Livaaz's YouTube channel.",
     "location": "",
-    "translation": "Performance provenance only; not Maldivian composition or Dhivehi song.",
-    "rights": "Review original text, edition and any translation separately. Website permission does not transfer to this book.",
-    "source": "Tristar distributor metadata; performer self-description",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: an English-language wedding cover is replaced by a love song in Dhivehi by a Maldivian singer-songwriter.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Official music video on Abdulla Livaaz's YouTube channel.",
     "id": "maldives",
-    "contextNote": "The Maldives is a nation of more than a thousand coral islands in the Indian Ocean, where Dhivehi is spoken. Mysha Didi is a UK-based singer of Maldivian heritage who performs love songs at weddings.",
+    "contextNote": "The Maldives is a nation of more than a thousand coral islands in the Indian Ocean. Dhivehi, its language, has its own script, Thaana, written from right to left; Abdulla Livaaz is one of a new generation of Maldivian singer-songwriters.",
     "formGroup": "Song",
     "display": {
-      "title": "I Get to Love You",
+      "title": "Nunidhey",
       "english": "",
-      "creator": "Mysha Didi",
-      "language": "English"
+      "creator": "Abdulla Livaaz",
+      "language": "Dhivehi"
     },
     "links": [
       {
-        "label": "Listen to the song",
-        "url": "https://open.spotify.com/track/1Pte35IwrE0KkvftaAofgw"
-      },
-      {
-        "label": "addtoevent.co.uk",
-        "url": "https://www.addtoevent.co.uk/suppliers/mysha-didi"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=1a_eRRkr3q8"
       }
     ]
   },
@@ -5567,39 +5526,39 @@ window.ARCHIVE = [
     "refId": "ML-106",
     "country": "Mali",
     "continent": "Africa",
-    "title": "Titati",
-    "titleEnglish": "Titati — English meaning not yet verified",
-    "creator": "Traditional Manding melody; instrumental version by Habib Koite",
+    "title": "Je pense à toi",
+    "titleEnglish": "I Think of You",
+    "creator": "Amadou & Mariam",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Unknown",
-    "year": "",
-    "language": "Manding repertoire; instrumental version has no sung words",
+    "genderGroup": "Mixed",
+    "year": "1998",
+    "language": "French and Bambara",
     "tradition": "",
-    "formDetails": "Song",
-    "genderDetails": "Unknown (traditional / collective authorship)",
-    "originalDate": "",
+    "formDetails": "Love song",
+    "genderDetails": "Amadou Bagayoko and Mariam Doumbia",
+    "originalDate": "1998",
     "editionDate": "",
-    "description": "A traditional Manding melody about a lover hoping their love will be returned. Habib Koité’s version is instrumental.",
-    "provenance": "Koite interview about Afriki (2007) describes the melody as popular in both Mali and Guinea. Shared repertoire.",
+    "description": "A married couple sing to each other of how they think of one another all the time.",
+    "provenance": "Official video on the Amadou & Mariam VEVO channel; song first released on Sou ni tilé (1998).",
     "location": "",
-    "translation": "English interview. No sung text or English lyric verified.",
-    "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
-    "source": "Afropop Worldwide, Banning Eyre / Sean Barlow interview conducted June 2007; webpage dated 2025",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Habib Koité's instrumental, which had no words and was also used for Guinea, is replaced by Mali's best-loved love song.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Official video on the Amadou & Mariam VEVO channel; song first released on Sou ni tilé (1998).",
     "id": "mali",
-    "contextNote": "Titati belongs to the old Manding repertoire shared by Guinea, Mali and their neighbours, heirs of the medieval Mali Empire, and handed down by griots, the hereditary musicians and keepers of memory. Habib Koité, born into a Malian griot family, plays it on the guitar.",
+    "contextNote": "Amadou Bagayoko and Mariam Doumbia met at Bamako's Institute for the Young Blind in the 1970s, married and began singing together. Known as 'the blind couple from Mali', they took Malian music to stages around the world.",
     "formGroup": "Song",
     "display": {
-      "title": "Titati",
-      "english": "",
-      "creator": "Traditional Manding melody; instrumental version by Habib Koite",
-      "language": "Manding repertoire; instrumental version has no sung words"
+      "title": "Je pense à toi",
+      "english": "I Think of You",
+      "creator": "Amadou & Mariam",
+      "language": "French and Bambara"
     },
     "links": [
       {
-        "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=wiNHFQ0idpI"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=gnvJEhRNkSw"
       },
       {
         "label": "Earlier link: old.afropop.org",
@@ -6779,7 +6738,7 @@ window.ARCHIVE = [
     "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1862. Modern editorial additions and translations are separate. Anthology review (30 October 2026): first published before 1931 and the poet died long before 1956, so public domain in the UK, EU and US.",
     "source": "Source text and provenance checked 28 October 2026.",
     "id": "north-macedonia",
-    "contextNote": "Konstantin Miladinov was a founder of Macedonian literature, writing when Macedonia was part of the Ottoman Empire. With his brother Dimitar he collected the folk songs of the Balkans; both brothers died in an Ottoman prison in Constantinople in 1862.",
+    "contextNote": "Konstantin Miladinov is honoured as a founding figure of literature in North Macedonia, and also claimed by Bulgaria, writing when the region was part of the Ottoman Empire. With his brother Dimitar he collected the folk songs of the Balkans; both brothers died in an Ottoman prison in Constantinople in 1862.",
     "formGroup": "Poem",
     "display": {
       "title": "Бисера / Bisera",
@@ -6889,7 +6848,7 @@ window.ARCHIVE = [
     "description": "Stopping at an abandoned camp, the poet greets it not for love of the place but for the women who lived there, and above all for one with long black hair, the eyes of a startled doe and a smile like lightning in a cloud.",
     "provenance": "Diwan of Sulayman al-Nabhani, first printed Damascus 1965 (ed. al-Tanukhi; reprinted Muscat 1985); text from aldiwan.net.",
     "location": "Couplets 8–14 of 21",
-    "translation": "Work changed (30 October 2026): Saʿid al-Busaʿidi's poem, for which no printing before 1989 could be established, is replaced by the love prelude of a qasida by Oman's best-known classical poet. Couplets 8–14 of 21. Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review.",
+    "translation": "Work changed (30 October 2026): Saʿid al-Busaʿidi's poem, for which no printing before 1989 could be established, is replaced by the love prelude of a qasida by Oman's best-known classical poet. Couplets 8–14 of 21. Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review. Revision (30 October 2026, sensitivity review): line 5 rendered 'tall and slender, soft and young'.",
     "rights": "Anthology review (30 October 2026): the poet died in the early 16th century and the diwan was printed in 1965, long before 1989: public domain everywhere.",
     "source": "aldiwan.net: أمرتبع أم أنت ليس بمنزل",
     "id": "oman",
@@ -6903,7 +6862,7 @@ window.ARCHIVE = [
     },
     "passage": {
       "original": "خليلي عوجا نمنحِ الربعَ ساعةً\nتحيَّةَ جازٍ بالوفا غيرِ مُؤتلِ\nولسنا نحيَّي الدار حُبّاً لِربَعها\nولكنه حُبٌّ لكالأدم خُذَّلِ\nشَناغيف هيفٍ ناعماتٍ نواهدٍ\nأماليدَ غيدٍ من عرانين نهشَلِ\nوفرْعاءَ غرَّاءِ المجرَّد طَفَلةٍ\nمن الخفرات الغُنِّ شمّا المقَّبلِ\nلها مقلتا مَذعورةٍ أم جوذرٍ\nوسالفتا براقَةِ الجيد مُغزِلِ\nوتستر مَتْنَيها بأسحمَ فاحمٍ\nكثيفٍ أثيثِ النّبت جعد المرجّلِ\nوتَبسمُ عن غُرٍّ كأن وميضها\nتلألؤُ برقٍ في حبيٍّ مكلَّلِ",
-      "english": "My two friends, turn aside; let us give this camp an hour,\nthe greeting of one who repays in full and never falls short.\nWe do not greet the dwelling out of love for its ground,\nbut for love of women like white gazelles that linger behind the herd,\ntall and slender, soft and full-breasted,\nsupple and graceful, from the noblest of Nahshal;\nand for one with long hair, gleaming where her skin is bare, tender,\none of the modest, soft-voiced girls, her mouth sweet to kiss;\nshe has the eyes of a startled doe with her fawn,\nand the neck of a gazelle with a gleaming throat;\nshe hides her back beneath hair black as charcoal,\nthick and abundant, curling where it is combed;\nand she smiles, showing white teeth whose gleam\nis like lightning flashing in a heaped-up cloud.",
+      "english": "My two friends, turn aside; let us give this camp an hour,\nthe greeting of one who repays in full and never falls short.\nWe do not greet the dwelling out of love for its ground,\nbut for love of women like white gazelles that linger behind the herd,\ntall and slender, soft and young,\nsupple and graceful, from the noblest of Nahshal;\nand for one with long hair, gleaming where her skin is bare, tender,\none of the modest, soft-voiced girls, her mouth sweet to kiss;\nshe has the eyes of a startled doe with her fawn,\nand the neck of a gazelle with a gleaming throat;\nshe hides her back beneath hair black as charcoal,\nthick and abundant, curling where it is combed;\nand she smiles, showing white teeth whose gleam\nis like lightning flashing in a heaped-up cloud.",
       "status": "draft"
     },
     "links": [
@@ -7797,7 +7756,7 @@ window.ARCHIVE = [
     "genderDetails": "Man",
     "originalDate": "",
     "editionDate": "",
-    "description": "Dance-floor attraction and sexual invitation.",
+    "description": "The soca love song that made Vincentian music a worldwide hit.",
     "provenance": "Breakthrough recording by Vincentian singer; artist biography documents origin.",
     "location": "",
     "translation": "No translation needed; recording, explicit context and co-writer credits require review.",
@@ -7921,14 +7880,14 @@ window.ARCHIVE = [
     "genderDetails": "Man author",
     "originalDate": "Written before 1890; collected posthumously in Versos, 1916",
     "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Love quatrains include exchanged kisses and praise of a dark-skinned beloved, alongside racial imagery shaped by colonial society.",
+    "description": "Playful love quatrains: the beloved's gaze makes the moon rise, kisses are stolen and given, the sea foam mistakes her for Venus, and the island itself becomes the sea's lover.",
     "provenance": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
     "location": "Section on Costa Alegre, poem Serões de São Tomé",
-    "translation": "The text contains racial comparisons requiring contextual reading. Modern commentary is separate. Composition date is not known; 1916 is the collection date. Passage update (29 October 2026): First four quatrains, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "The text contains racial comparisons requiring contextual reading. Modern commentary is separate. Composition date is not known; 1916 is the collection date. Passage update (29 October 2026): First four quatrains, 16 lines. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (30 October 2026, sensitivity review): re-excerpted to quatrains 1, 3, 4, 7 and 8 (20 lines), leaving out the quatrains built on slavery and skin-colour comparisons.",
     "rights": "Historical original text: standard life-plus-70 term has expired; author died 1890. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
     "source": "Original poem reproduced in the linked transcription; title and place in Costa Alegre’s work corroborated by UFMG Literafro scholars.",
     "id": "sao-tome-and-principe",
-    "contextNote": "Caetano da Costa Alegre was born on São Tomé and went to Lisbon to study medicine, where he wrote about being a Black man in love in white Portuguese society. He died of tuberculosis in 1890, aged 25, and his Versos (1916) are seen as an early voice of what became Negritude.",
+    "contextNote": "Caetano da Costa Alegre was born on São Tomé and went to Lisbon to study medicine, where he wrote about being a Black man in love in Portuguese society. He died of tuberculosis in 1890, aged 25; his Versos were published by friends in 1916.",
     "formGroup": "Poem",
     "display": {
       "title": "Serões de São Tomé",
@@ -7937,8 +7896,8 @@ window.ARCHIVE = [
       "language": "Portuguese"
     },
     "passage": {
-      "original": "Meus olhos são como a noite\nem que astro nenhum flutua\nmas se o teu olhar o fita\nna noite desponta a lua\nSe os escravos são comprados\nó branca de além do mar\nhomem livre eu, sou escravo\ncomprado por teu olhar\nMeu olhar é retratista\nò minha doce miragem\nsenão diz-me porque tenho\nno meu peito a tua imagem\nRoubei-te o primeiro beijo\no segundo foi-me dado\no terceiro, francamente,\ncreio que me foi roubado",
-      "english": "My eyes are like the night\nin which no star is floating,\nbut if your gaze rests on them,\nthe moon rises in that night.\nIf slaves are bought,\nO white woman from over the sea,\nI, a free man, am a slave\nbought by your gaze.\nMy gaze is a portrait painter,\nO my sweet mirage;\notherwise tell me why I carry\nyour image in my breast.\nI stole the first kiss from you,\nthe second was given to me,\nthe third, frankly,\nI believe was stolen from me.",
+      "original": "Meus olhos são como a noite\nem que astro nenhum flutua\nmas se o teu olhar o fita\nna noite desponta a lua\nMeu olhar é retratista\nò minha doce miragem\nsenão diz-me porque tenho\nno meu peito a tua imagem\nRoubei-te o primeiro beijo\no segundo foi-me dado\no terceiro, francamente,\ncreio que me foi roubado\nUm dia a espuma dos mares\nao ver em si meu amor\nFoi dizer baixinho à praia\n– a Vénus mudou de cor\nA nossa terra é tão bela\nduma beleza sem par\nE por ser assim formosa\nFê-la sua amante o mar…",
+      "english": "My eyes are like the night\nin which no star is floating,\nbut if your gaze rests on them,\nthe moon rises in that night.\nMy gaze is a portrait painter,\nO my sweet mirage;\notherwise tell me why I carry\nyour image in my breast.\nI stole the first kiss from you,\nthe second was given to me,\nthe third, frankly,\nI believe was stolen from me.\nOne day the foam of the seas,\nseeing my love reflected in it,\nwent and whispered to the shore:\n'Venus has changed her colour.'\nOur land is so lovely,\nof a beauty without equal,\nand because it is so fair\nthe sea has made it his lover…",
       "status": "draft"
     },
     "links": [
@@ -8489,56 +8448,39 @@ window.ARCHIVE = [
     "refId": "ML-162",
     "country": "South Africa",
     "continent": "Africa",
-    "title": "The Story of an African Farm",
-    "titleEnglish": "The Story of an African Farm",
-    "creator": "Olive Schreiner (published as Ralph Iron)",
-    "openOriginal": "Yes",
-    "referenceType": "Named literary work (original text)",
-    "form": "Prose / novel",
-    "genderGroup": "Women",
-    "year": "1883",
-    "language": "English",
+    "title": "Ingoma Yakho Eyangivusayo",
+    "titleEnglish": "The Hundredth Song of Love",
+    "creator": "Mazisi Kunene (1930–2006)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
+    "genderGroup": "Men",
+    "year": "1997",
+    "language": "Zulu",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Woman author",
-    "originalDate": "1883 first publication",
-    "editionDate": "Gutenberg digital edition: 1998; updated 2018",
-    "description": "Novel exploring romantic desire, marriage and women’s independence through Lyndall, Em and Gregory. Part II includes Em’s response to Gregory’s proposal and Lyndall’s reflections on love.",
-    "provenance": "Project Gutenberg ebook 1441, released 1998, updated 2018; English original, author 1855–1920. South African Karoo setting and author’s literary association.",
-    "location": "Part II, Em/Gregory courtship and Lyndall scenes; search “I do love you very much”",
-    "translation": "Prose novel rather than poem/song. Contains critical and painful relationships, not uniformly positive views. Historical racial language appears in the book. Gutenberg branding/licence separate from underlying novel. Passage update (29 October 2026): Eleven consecutive lines (one per paragraph or sentence) from Part II, Gregory’s declaration to Em at the cow-kraal gate. Original English; no translation needed. Original English text; not a translation.",
-    "rights": "Original text: standard life-plus-70 term expired; author died 1920. Reuse assessment applies to the original words, not modern translations, editorial additions, musical settings or recordings. Publication-history and territorial exceptions are not universally assessed.",
-    "source": "Project Gutenberg ebook 1441",
+    "formDetails": "Poem",
+    "genderDetails": "Mazisi Kunene",
+    "originalDate": "1997",
+    "editionDate": "",
+    "description": "The poet wakes to find himself lifted by his beloved's hundred songs, dazzled by the flash of her eyes.",
+    "provenance": "Mazisi Kunene, Igudu likaSomcabeko (1997); English version on Poetry International.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Olive Schreiner's settler novel is replaced by a recent love poem in Zulu by South Africa's first poet laureate.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Mazisi Kunene, Igudu likaSomcabeko (1997); English version on Poetry International.",
     "id": "south-africa",
-    "contextNote": "Olive Schreiner grew up on mission stations in the Cape Colony and worked as a governess on remote farms, where she wrote this novel. Published in London in 1883 under the name Ralph Iron, it caused a sensation with its free-thinking heroine and became a classic of South African writing.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Mazisi Kunene wrote in Zulu and spent more than thirty years in exile for his opposition to apartheid, returning home in 1993. In 2005 he became South Africa's first national poet laureate, a year before his death.",
+    "formGroup": "Poem",
     "display": {
-      "title": "The Story of an African Farm",
-      "english": "",
-      "creator": "Olive Schreiner",
-      "language": "English"
-    },
-    "passage": {
-      "original": "“But I’m sure you must be cold,” said Gregory, and put his hand under the cloak, and found there a small fist doubled up, soft, and very warm.\nHe held it fast in his hand.\n“Oh, Em, I love you better than all the world besides! Tell me, do you love me a little?”\n“Yes, I do,” said Em, hesitating, and trying softly to free her hand.\n“Better than everything; better than all the world, darling?” he asked, bending down so low that the yellow hair was blown into his eyes.\n“I don’t know,” said Em, gravely. “I do love you very much; but I love my cousin who is at school, and Waldo, very much. You see I have known them so long!”\n“Oh, Em, do not talk to me so coldly!” Gregory cried, seizing the little arm that rested on the gate, and pressing it till she was half afraid.\nThe herdsman had moved away to the other end of the kraal now, and the cows, busy with their calves, took no notice of the little human farce.\n“Em, if you talk so to me I will go mad! You must love me, love me better than all! You must give yourself to me. I have loved you since that first moment when I saw you walking by the stone wall with the jug in your hands. You were made for me, created for me! I will love you till I die! Oh, Em, do not be so cold, so cruel to me!”\nHe held her arm so tightly that her fingers relaxed their hold, and the cloak fluttered down on to the ground, and the wind played more roughly than ever with the little yellow head.\n“I do love you very much,” she said; “but I do not know if I want to marry you. I love you better than Waldo, but I can’t tell if I love you better than Lyndall. If you would let me wait for a week I think perhaps I could tell you.”",
-      "english": "“But I’m sure you must be cold,” said Gregory, and put his hand under the cloak, and found there a small fist doubled up, soft, and very warm.\nHe held it fast in his hand.\n“Oh, Em, I love you better than all the world besides! Tell me, do you love me a little?”\n“Yes, I do,” said Em, hesitating, and trying softly to free her hand.\n“Better than everything; better than all the world, darling?” he asked, bending down so low that the yellow hair was blown into his eyes.\n“I don’t know,” said Em, gravely. “I do love you very much; but I love my cousin who is at school, and Waldo, very much. You see I have known them so long!”\n“Oh, Em, do not talk to me so coldly!” Gregory cried, seizing the little arm that rested on the gate, and pressing it till she was half afraid.\nThe herdsman had moved away to the other end of the kraal now, and the cows, busy with their calves, took no notice of the little human farce.\n“Em, if you talk so to me I will go mad! You must love me, love me better than all! You must give yourself to me. I have loved you since that first moment when I saw you walking by the stone wall with the jug in your hands. You were made for me, created for me! I will love you till I die! Oh, Em, do not be so cold, so cruel to me!”\nHe held her arm so tightly that her fingers relaxed their hold, and the cloak fluttered down on to the ground, and the wind played more roughly than ever with the little yellow head.\n“I do love you very much,” she said; “but I do not know if I want to marry you. I love you better than Waldo, but I can’t tell if I love you better than Lyndall. If you would let me wait for a week I think perhaps I could tell you.”",
-      "status": "english-original"
+      "title": "Ingoma Yakho Eyangivusayo",
+      "english": "The Hundredth Song of Love",
+      "creator": "Mazisi Kunene",
+      "language": "Zulu"
     },
     "links": [
       {
-        "label": "Original text",
-        "url": "https://www.gutenberg.org/files/1441/1441-h/1441-h.htm"
-      },
-      {
-        "label": "Copyright duration rule",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Text / date evidence",
-        "url": "https://www.gutenberg.org/ebooks/1441"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.gutenberg.org/ebooks/1441"
+        "label": "Read the text",
+        "url": "https://www.poetryinternational.com/en/poets-poems/poems/poem/103-11289_THE-HUNDREDTH-SONG-OF-LOVE"
       }
     ]
   },
@@ -9068,55 +9010,39 @@ window.ARCHIVE = [
     "refId": "ML-173",
     "country": "Tanzania",
     "continent": "Africa",
-    "title": "L’intelligence des femmes",
-    "titleEnglish": "The Cleverness of Women",
-    "creator": "Swahili oral narrators (unnamed); Carl Velten; René Basset, French version",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named work (text)",
-    "form": "Prose / folktale",
-    "genderGroup": "Unknown",
-    "year": "1903",
-    "language": "French historical version; Swahili source",
+    "title": "Utanipenda?",
+    "titleEnglish": "Will You Love Me?",
+    "creator": "Diamond Platnumz",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Men",
+    "year": "2015",
+    "language": "Swahili",
     "tradition": "",
-    "formDetails": "Prose / folktale",
-    "genderDetails": "Original oral creator / attribution not established",
-    "originalDate": "French version 1903; Swahili/German source edition 1898",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Interlocking stories of attraction, courtship, marriage and secret lovers demonstrate women’s ingenuity.",
-    "provenance": "Basset no.98, pp.233–252, places the Swahili tradition in the Zanzibar region and cites Velten’s 1898 Swahili text, pp.110–119, and German version, pp.178–191.",
-    "location": "Opening love triangle and the vizier’s son’s courtship episodes",
-    "translation": "Includes adultery and polygamy; not an uncomplicated positive love story. The reusable text identified is the old French version, not a modern recording or a verified contemporary Swahili original.",
-    "rights": "Historical 1903 French version is public domain under standard life-plus-70 terms (Basset died 1924; Velten 1935); Commons marks the edition public domain. Native community rights and modern versions are separate.",
-    "source": "Basset no.98, pp.233–252, places the Swahili tradition in the Zanzibar region and cites Velten’s 1898 Swahili text, pp.110–119, and German version, pp.178–191.",
+    "formDetails": "Love song",
+    "genderDetails": "Diamond Platnumz",
+    "originalDate": "2015",
+    "editionDate": "",
+    "description": "The singer asks his beloved whether she would still love him if he lost his fame and fortune.",
+    "provenance": "Official lyric video with English translation, on Diamond Platnumz's YouTube channel.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: the tale collected under German colonial rule is replaced by a Swahili love song by Tanzania's biggest star.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "Official lyric video with English translation, on Diamond Platnumz's YouTube channel.",
     "id": "tanzania",
-    "contextNote": "These Swahili tales were collected by the German scholar Carl Velten in German East Africa in the 1890s and later translated into French by René Basset. Swahili, the coastal language of trade, is now Tanzania's national language.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Diamond Platnumz grew up in Dar es Salaam and is the leading star of bongo flava, the Tanzanian pop that blends Swahili lyrics with hip hop, taarab and East African rhythms. Swahili is Tanzania's national language.",
+    "formGroup": "Song",
     "display": {
-      "title": "L’intelligence des femmes",
-      "english": "The Cleverness of Women",
-      "creator": "Swahili oral narrators; Carl Velten; René Basset, French version",
-      "language": "French historical version; Swahili source"
+      "title": "Utanipenda?",
+      "english": "Will You Love Me?",
+      "creator": "Diamond Platnumz",
+      "language": "Swahili"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://fr.wikisource.org/wiki/Contes_populaires_d’Afrique_(Basset)/98"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://fr.wikisource.org/wiki/Contes_populaires_d’Afrique_(Basset)/98"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://fr.wikisource.org/wiki/Contes_populaires_d’Afrique_(Basset)/98"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://commons.wikimedia.org/wiki/File:Basset_-_Contes_populaires_d’Afrique,_1903.djvu"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=LSk_M7d_OWM"
       }
     ]
   },
@@ -9264,51 +9190,39 @@ window.ARCHIVE = [
     "refId": "ML-177",
     "country": "Tonga",
     "continent": "Oceania",
-    "title": "The lovers in the cavern of Hoonga (episode identifier)",
-    "titleEnglish": "The lovers in the cavern of Hoonga (episode identifier)",
-    "creator": "Unnamed Tongan narrator (an elderly matabule), recorded by William Mariner; compiled by John Martin",
-    "openOriginal": "Historical version only",
-    "referenceType": "Identified oral-tale episode (full historical text)",
-    "form": "Oral tale",
+    "title": "Ka Ta'e Feunga E Po Koe",
+    "titleEnglish": "Ka Ta'e Feunga E Po Koe",
+    "creator": "Tongan love song",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Unknown",
-    "year": "1817",
-    "language": "Tongan tradition; historical English version",
+    "year": "c. 2018",
+    "language": "Tongan",
     "tradition": "",
-    "formDetails": "Oral tale",
-    "genderDetails": "Traditional composer / storyteller unknown; see creator and version notes",
-    "originalDate": "Recorded during Mariner’s residence, 1806–1810; English account published 1817",
-    "editionDate": "An Account of the Natives of the Tonga Islands, vol.I, chapter IX; also later editions",
-    "description": "A young chief rescues a woman from a tyrant and hides her in a sea cave. They confess mutual love, flee to Fiji, then return to Tonga and live happily.",
-    "provenance": "John Martin’s 1817 Account from Mariner’s communications, chapter IX. The narrator is identified as an old matabule. Hoonga is Hunga in the Vavaʻu group, Tonga.",
-    "location": "Chapter IX, discovery of Hoonga cavern and the lovers’ escape; search for How happy were they",
-    "translation": "No standalone native title is supplied; the work column gives a descriptive episode identifier. Only the published historical English wording is established as reusable. A Tongan-language transcript is not supplied. Mariner and Martin are recorders, not the original traditional creators.",
-    "rights": "Reusable historical English text: published 1817, with nineteenth-century recorders. Native-language wording, modern retellings, recordings and community permissions are not covered.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "formDetails": "Love song",
+    "genderDetails": "Singer not named in the upload",
+    "originalDate": "c. 2018",
+    "editionDate": "",
+    "description": "A Tongan love song, one of the many sung across the islands and the diaspora.",
+    "provenance": "YouTube upload in a collection of Tongan love songs.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: William Mariner's 1817 account, written by an English outsider, is replaced by a love song in Tongan.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
+    "source": "YouTube upload in a collection of Tongan love songs.",
     "id": "tonga",
-    "contextNote": "Tonga is the only Pacific kingdom never formally colonised. William Mariner, an English teenager, lived there from 1806 to 1810 after his ship was attacked, and was adopted by the chief Fīnau; this tale comes from his account, published in 1817.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Tonga is the only Pacific kingdom never formally colonised. Love songs are at the heart of Tongan music, sung with guitars and ukuleles at family gatherings and celebrations in the islands and in Tongan communities in New Zealand, Australia and the United States.",
+    "formGroup": "Song",
     "display": {
-      "title": "The lovers in the cavern of Hoonga",
+      "title": "Ka Ta'e Feunga E Po Koe",
       "english": "",
-      "creator": "Unnamed Tongan narrator, recorded by William Mariner; compiled by John Martin",
-      "language": "Tongan tradition; historical English version"
+      "creator": "Tongan love song",
+      "language": "Tongan"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1817_Mariner_A710.01.html"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1817_Mariner_A710.01.html"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://en.wikisource.org/wiki/An_Account_of_the_Natives_of_the_Tonga_Islands/Chapter_IX"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1817_Mariner_A710.01.html"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=z5gAYr5YP_0"
       }
     ]
   },
@@ -9518,56 +9432,44 @@ window.ARCHIVE = [
     "refId": "ML-235",
     "country": "Türkiye",
     "continent": "Asia",
-    "title": "Աչքերդ (Achkerd / Your eyes)",
-    "titleEnglish": "Your Eyes",
-    "creator": "Sibil (Zabel Asadour)",
+    "title": "Ela Gözlü Nazlı Dilber",
+    "titleEnglish": "Hazel-Eyed, Coy Beauty",
+    "creator": "Karacaoğlan (17th century)",
     "openOriginal": "Yes",
-    "referenceType": "Named work",
+    "referenceType": "Named poem (original text)",
     "form": "Poetry",
-    "genderGroup": "Women",
-    "year": "1892",
-    "language": "Western Armenian",
-    "tradition": "",
-    "formDetails": "Poem",
-    "genderDetails": "Woman",
-    "originalDate": "1892 (date printed under the poem)",
-    "editionDate": "1965 collected edition; linked online transcription",
-    "description": "Admiration mixed with unrequited love: the beloved’s eyes hold many emotions but no love for the speaker.",
-    "provenance": "Sibil, Banasteghtsutyunner (1965 collection), p. 32; author is a woman from Istanbul",
+    "genderGroup": "Men",
+    "year": "c. 1650",
+    "language": "Turkish",
+    "tradition": "Âşık poetry",
+    "formDetails": "Türkü (folk poem, 4 quatrains)",
+    "genderDetails": "Karacaoğlan",
+    "originalDate": "17th century",
+    "editionDate": "",
+    "description": "The poet begs his hazel-eyed beloved not to treat him as a stranger: he would be her golden belt, a strand of her hair, her servant.",
+    "provenance": "Traditional text of Karacaoğlan's türkü, as given on Turkish Wikisource; sung widely in Turkey to this day.",
     "location": "Complete poem",
-    "translation": "Country is geographic: an Ottoman Armenian writer born and active in Istanbul, now Turkey; this is Armenian-language literature, not a claim of ethnic Turkish identity. 1965 editorial material and modern translations are separate. Passage update (29 October 2026): Complete poem, 30 lines (Armenian Wikisource; dated 1892). Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original in life+70 jurisdictions (author died 1934) Anthology review (30 October 2026): Sibil died 1934; the poet died before 1956 (UK/EU public domain); in the US, whatever the date of first publication, the poem was already out of copyright at home on 1 January 1996, so US copyright was never restored.",
-    "source": "",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Sibil's Armenian-language poem is replaced by a love poem in Turkish by the best-loved of the wandering folk poets of Anatolia. Complete poem, 16 lines. Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review. Lines 5–6 (hecin, a racing camel; 'yiğide ölüm gecine') are idiomatic and the English is tentative.",
+    "rights": "Sensitivity review (30 October 2026): 17th-century folk poem, transmitted orally and in print for centuries; public domain in the UK, EU and US. The online text is a transcription with no new authorship.",
+    "source": "Turkish Wikisource: Ela Gözlü Nazlı Dilber (Karacaoğlan)",
     "id": "t-rkiye",
-    "contextNote": "Sibil, the pen name of Zabel Asadour, was an Armenian poet, novelist and teacher in Constantinople and a leading voice for women’s education. She wrote in Western Armenian, the language of the Armenian community of the Ottoman capital, which was devastated by the genocide of 1915.",
+    "contextNote": "Karacaoğlan was a seventeenth-century âşık, a wandering poet-minstrel of the Turkmen nomads of southern Anatolia, who sang with the bağlama. His frank and tender love poems in everyday Turkish are still sung across Turkey.",
     "formGroup": "Poem",
     "display": {
-      "title": "Աչքերդ",
-      "english": "Your Eyes",
-      "creator": "Sibil",
-      "language": "Western Armenian"
+      "title": "Ela Gözlü Nazlı Dilber",
+      "english": "Hazel-Eyed, Coy Beauty",
+      "creator": "Karacaoğlan",
+      "language": "Turkish"
     },
     "passage": {
-      "original": "Ծով մը կապույտ կծավալի\nԱչքերուդ մեջ, ուր չըկա սեր,\nԾով մը հանդարտ, ըզմայլելի,\nՈւր կը ցոլան ցայտուն լույսեր․\nԲայց ըզգացումն հոն կհալի,\nԻնչպես տաքին՝ պատառ մը սեր։\nԵրբեմն անկե կանցնին բարակ\nՃառագայթներ պայծառ ու ջինջ,\nՋըղուտ հոգվույդ ցոլքեր կըրակ\nԵրևույթով մ'աղվոր, անջինջ․\nԲայց կմարին անոնք արագ,\nԻնչպես հովին դեմ կայծ մ'ոչինչ։\nՄերթ ծաղիկներ կըլլան փափուկ\nԳորշ կապույտով մանուշակին,\nԱյնքան նըրբին և խուսափուկ,\nՈր չունին գույն որոշակի․\nԲայց կթափին ինչպես հափուկ\nԴաժան շունչին դեմ խորշակի։\nՕր մ'ալ տեսնես շատ են հոգներ\nՄեծ թախծի խոհով մ'անանց․\nԱրցունքներու տակ կայլակներ\nԹարթիչներեդ կմաղվին թաց,\nՈր կթըվին սև ժանյակներ\nԳոհարներու շարքով բանված։\nԱշխարհներ են աչքերդ անհուն,\nՈւր կան լույսեր, հույզեր հըսկա․\nՍառույց, հըրդեհ, բոցեր փայլուն,\nԺըպիտն ու հույս չեն բացակա․\nԿուգան, կանցնին անկե սահուն\nԳութն ու արցունք, լոկ սեր չըկա։",
-      "english": "A blue sea spreads\nwithin your eyes, where there is no love,\na calm sea, enchanting,\nwhere bright lights glitter;\nbut feeling melts away there\nlike a scrap of cream in the heat.\nSometimes slender rays pass across it,\nbright and clear,\nflashes of fire from your nervous soul,\nlovely and unforgettable to see;\nbut they go out quickly,\nlike a feeble spark against the wind.\nAt times they become soft flowers\nwith the grey-blue of the violet,\nso delicate and elusive\nthat they have no definite colour;\nbut they scatter like petals\nbefore the cruel breath of the scorching wind.\nAnother day you see them weary\nwith the endless thought of a great sadness;\nunder the tears, drops\nsift wet through your lashes,\nso that they look like black lace\nworked with a row of jewels.\nYour eyes are boundless worlds,\nwith lights and vast emotions in them;\nice, conflagration, shining flames,\nsmiles and hope are not absent;\npity and tears come and pass through them smoothly:\nonly love is not there.",
+      "original": "Ela gözlü nazlı dilber\nKoma beni el yerine\nAltın kemerin olayım\nDola beni bel yerine\nHecine gönlüm hecine\nYiğide ölüm gecine\nAl beni zülfün ucuna\nSallanayım tel yerine\nGel kız karşımda dursana\nŞu benim halim sorsana\nZülfünden bir tel versene\nKoklıyayım gül yerine\nKarac'oğlan der n'olayım\nKolun boynuma dolayım\nNazlı yar kölen olayım\nKabul eyle kul yerine",
+      "english": "Hazel-eyed, coy beauty,\ndon't treat me like a stranger;\nlet me be your golden belt,\nwind me round your waist.\nMy heart runs like a racing camel;\na brave lad dies of it by night;\ntake me to the tip of your lock of hair,\nlet me swing there like a strand.\nCome, girl, stand before me,\nask me how I am;\ngive me one strand of your hair,\nlet me smell it as I would a rose.\nKaracaoğlan says: what am I to do?\nLet me wind your arm round my neck;\ncoy darling, let me be your slave,\ntake me as your servant.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read text",
-        "url": "https://hy.wikisource.org/wiki/Աչքերդ"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date evidence",
-        "url": "https://hy.wikisource.org/wiki/Ինդեքս:Collection_works_of_Sibil.djvu"
-      },
-      {
-        "label": "Author / country",
-        "url": "https://hy.wikisource.org/wiki/Հեղինակ:Սիպիլ"
+        "label": "Read the whole work",
+        "url": "https://tr.wikisource.org/wiki/Ela_G%C3%B6zl%C3%BC_Nazl%C4%B1_Dilber_(Karacao%C4%9Flan)"
       }
     ]
   },
