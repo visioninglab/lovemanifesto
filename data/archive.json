@@ -222,60 +222,39 @@
     "refId": "ML-005",
     "country": "Angola",
     "continent": "Africa",
-    "title": "Kicôla!",
-    "titleEnglish": "Absolutely Not!",
-    "creator": "Joaquim Dias Cordeiro da Matta (1857–1894)",
-    "openOriginal": "Yes",
-    "referenceType": "Named poem (excerpt)",
+    "title": "Namoro",
+    "titleEnglish": "Courtship",
+    "creator": "Viriato da Cruz (1928–1973)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1877",
-    "language": "Portuguese, with Kimbundu dialogue",
+    "year": "1961",
+    "language": "Portuguese",
     "tradition": "",
-    "formDetails": "Lyric poem",
-    "genderDetails": "Man author",
-    "originalDate": "Composed Luanda, 1877; published in Almanach, 1888",
-    "editionDate": "Historical poem quoted in modern scholarly studies",
-    "description": "A courtship encounter: the speaker asks a beautiful woman for a kiss and receives a refusal in Kimbundu.",
-    "provenance": "University of Brasília, Cerrados, p.183; publication history discussed in António Jacinto e a sua época, p.336.",
-    "location": "Kicôla!, first 13 quoted lines, Cerrados no.41 (2016), printed p.183 (PDF page 7).",
-    "translation": "Explicitly described as an imitation of verses by João E. da Cruz Toulson. Reuse the historical poem, not the modern criticism. The encounter ends in rejection. Passage update (29 October 2026): Earlier English draft by ChatGPT (replaced); editorial draft, not a quoted published translation. Original and English contain the same selection. Historical poem quoted in Sheila Ribeiro Jacob’s article. Kimbundu forms retain this source’s spelling and are followed by the poem’s Portuguese glosses, translated here. No independent Kimbundu translation is claimed. Other transcriptions differ. Opening excerpt, not complete poem. Translation redone (30 October 2026) for the anthology review: fresh English translation by Claude (Anthropic AI) made directly from the original text, without reference to any other translation; draft for editorial review.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1894. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed. Anthology review (30 October 2026): first published before 1931 and the poet died long before 1956, so public domain in the UK, EU and US. Almanach, 1888.",
-    "source": "University of Brasília, Cerrados, p.183; publication history discussed in António Jacinto e a sua época, p.336. Passage source checked 29 October 2026. https://periodicos.unb.br/index.php/cerrados/article/download/25396/22375/50283",
+    "formDetails": "Poem",
+    "genderDetails": "Viriato da Cruz",
+    "originalDate": "By 1961; collected in Poemas (1961)",
+    "editionDate": "",
+    "description": "A young man courts a girl with perfumed letters, a card and even a charm, and is turned down every time, until at a dance, to the beat of an African rumba, she finally says yes.",
+    "provenance": "Viriato da Cruz, Poemas (Lisbon: Casa dos Estudantes do Império, 1961).",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Cordeiro da Matta's 'Kicôla' (1877) is replaced by the best-loved courtship poem of the generation of Angolan poets who called for 'Let's discover Angola'.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
+    "source": "Viriato da Cruz, Poemas (Lisbon: Casa dos Estudantes do Império, 1961).",
     "id": "angola",
-    "contextNote": "Cordeiro da Matta wrote in Luanda when Angola was a Portuguese colony, and is counted among the first Angolan poets. He also compiled a Kimbundu dictionary and collected proverbs, part of an early effort to value African languages under colonial rule; the woman in this poem answers in Kimbundu.",
+    "contextNote": "Viriato da Cruz helped lead the 1948 movement 'Vamos descobrir Angola' ('Let's discover Angola'), urging young writers to find their subjects in Angolan life rather than in Portugal. A founder of the independence movement MPLA, he died in exile in China in 1973.",
     "formGroup": "Poem",
     "display": {
-      "title": "Kicôla!",
-      "english": "Absolutely Not!",
-      "creator": "Joaquim Dias Cordeiro da Matta",
-      "language": "Portuguese, with Kimbundu dialogue"
-    },
-    "passage": {
-      "original": "Nesta pequena cidade,\nvi uma certa donzela,\nque muito tinha de bela,\nde fada, huri e deidade,\na quem disse: - “minha q’rida,\npeço um beijo por favor,\nbem sabes ó meu amor,\nque eu por ti daria a vida!”\n- “Nguami-âmi, ngana-lame,\n“não quero, caro senhor” –\ndisse, sem mudar de cor –\n“maculo! quangandallâmi,\n“não creio no vosso amor”...",
-      "english": "In this small town\nI saw a certain young woman,\nblessed with great beauty,\nlike a fairy, a houri, a goddess,\nand I said to her: “My dear one,\nI ask you for a kiss, please;\nyou know very well, my love,\nI would give my life for you!”\n“Nguami-âmi, ngana-lame,\n‘I don't want to, kind sir,’”\nshe said, without a blush;\n“maculo! quangandallâmi,\n‘I don't believe in your love’…”",
-      "status": "draft"
+      "title": "Namoro",
+      "english": "Courtship",
+      "creator": "Viriato da Cruz",
+      "language": "Portuguese"
     },
     "links": [
       {
-        "label": "periodicos.unb.br",
-        "url": "https://periodicos.unb.br/index.php/cerrados/article/download/25396/22375/50283"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://www.periodicos.unb.br/index.php/cerrados/article/download/25396/22375/50283"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.periodicos.unb.br/index.php/cerrados/article/download/25396/22375/50283"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://lusosofia.ubi.pt/textos/20160322-tavares_ana_paul_silva_fabio_maio_pinheiro_luis_cunha_antonio_jacinto_e_a_sua_epoca.pdf"
+        "label": "Read the text",
+        "url": "https://www.portalsaofrancisco.com.br/obras-literarias/namoro"
       }
     ]
   },
@@ -555,56 +534,44 @@
     "refId": "ML-199",
     "country": "Azerbaijan",
     "continent": "Asia",
-    "title": "Şuri-eşqin başıma axırı sövda gətirir",
-    "titleEnglish": "The tumult of your love will finally drive me mad (first line)",
-    "creator": "Khurshidbanu Natavan",
+    "title": "Məni candan usandırdı",
+    "titleEnglish": "My love has made me weary of my life",
+    "creator": "Fuzuli (Məhəmməd Füzuli)",
     "openOriginal": "Yes",
-    "referenceType": "Named work",
+    "referenceType": "Named poem (original text)",
     "form": "Poetry",
-    "genderGroup": "Women",
-    "year": "c. 1870",
+    "genderGroup": "Men",
+    "year": "c. 1530",
     "language": "Azerbaijani",
     "tradition": "",
-    "formDetails": "Poem",
-    "genderDetails": "Woman",
-    "originalDate": "19th century; exact date not established",
-    "editionDate": "Undated transcription in modern Azerbaijani Latin script",
-    "description": "Passionate love overwhelms the lover; imagery evokes the beloved’s face and legendary lovers.",
-    "provenance": "Vikimənbə text, attributed to Natavan (1832–1897), with source link to Azadliq",
-    "location": "Opening five couplets of the ghazal, 10 lines in the Wikisource transcription.",
-    "translation": "Natavan was a Shusha/Karabakh poet in present-day Azerbaijan. Original ghazal only; modern transliteration/editorial contributions may require attribution. English translation not supplied. Passage update (29 October 2026): Earlier English draft by ChatGPT (replaced); editorial draft, not a quoted published translation. Original and English contain the same selection. Latin transcription follows Wikisource, including cəkib as printed. Final couplet retains a historical dark-hair/light-face military conceit involving Abyssinia and Rum. Classical vocabulary merits specialist review. Translation redone (30 October 2026) for the anthology review: fresh English translation by Claude (Anthropic AI) made directly from the original text, without reference to any other translation; draft for editorial review. Revision (30 October 2026, sensitivity review): final couplet left out (its image compares dark hair to an Abyssinian army); the passage is now couplets 1–4 of the ghazal.",
-    "rights": "Public-domain original; site transcription has CC BY-SA terms where applicable Anthology review (30 October 2026): the poet died centuries ago and the poem was in print long before 1989, so it is public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
-    "source": "Passage source checked 29 October 2026. https://az.wikisource.org/wiki/Şuri-eşqin_başıma_axırı_sövda_gətirir",
+    "formDetails": "Poem (ghazal, 7 couplets)",
+    "genderDetails": "Fuzuli",
+    "originalDate": "16th century",
+    "editionDate": "",
+    "description": "The poet burns with a love his beloved will not cure; he cannot tell whether she would believe him if he spoke, and asks whether he will ever tire of this passion.",
+    "provenance": "Fuzuli, Azerbaijani Divan; text from Azerbaijani Wikisource, following Məhəmməd Füzuli, Əsərləri, vol. 1 (Baku, 2005).",
+    "location": "Complete poem",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Natavan's ghazal, whose final couplet likens dark hair to an Abyssinian army, is replaced by the best-known love ghazal of Azerbaijan's greatest classical poet. Complete poem, 7 couplets (14 lines). Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review.",
+    "rights": "Whole-poem review (30 October 2026): Fuzuli died in 1556 and the poem has been printed and sung for centuries; public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
+    "source": "Fuzuli, Azerbaijani Divan; text from Azerbaijani Wikisource, following Məhəmməd Füzuli, Əsərləri, vol. 1 (Baku, 2005).",
     "id": "azerbaijan",
-    "contextNote": "Khurshidbanu Natavan, daughter of the last khan of Karabakh, was one of the best-known women poets of the nineteenth-century Caucasus, then under Russian rule. In her home city of Shusha she led a literary circle and paid for the town's first water supply.",
+    "contextNote": "Fuzuli lived in sixteenth-century Iraq, then ruled by the Ottomans, and wrote in Azerbaijani, Persian and Arabic. His ghazals and his Leyli and Majnun are the heart of classical Azerbaijani poetry, and in 1908 Uzeyir Hajibeyov made Leyli and Majnun into the first opera of the Muslim East.",
     "formGroup": "Poem",
     "display": {
-      "title": "Şuri-eşqin başıma axırı sövda gətirir",
-      "english": "The tumult of your love will finally drive me mad",
-      "creator": "Khurshidbanu Natavan",
+      "title": "Məni candan usandırdı",
+      "english": "My love has made me weary of my life",
+      "creator": "Fuzuli",
       "language": "Azerbaijani"
     },
     "passage": {
-      "original": "Şuri-eşqin başıma axırı sövda gətirir,\nBu müşəxəssdi ki, eşq aşiqə qovğa gətirir.\nTari-zülfündü məni böylə giriftar eləyib,\nNə gələ başıma, ol zülfi-mütərra gətirir.\nGül üzün görmək əgər mümkün olaydı bir dəm,\nHər zaman görmək onu nuri-mücəlla gətirir.\nQaşü göz, novki-mücə fitnə üçün cəm olmuş,\nOx atıb, tiğ cəkib, hər biri dəva gətirir.",
-      "english": "The frenzy of your love will drive me mad at last;\nthis much is certain: love brings the lover strife.\nIt is the strand of your hair that has snared me so;\nwhatever befalls me, those scented locks bring it on.\nIf I could look at your rose of a face for one moment,\neach look would bring a shining, radiant light.\nBrow, eye and lash-point have joined forces to stir up trouble:\none shoots arrows, one draws a blade, each picks a fight.",
+      "original": "Məni candan usandırdı, cəfadən yar usanmazmı?\nFələklər yandı ahimdən, muradım şəmi yanmazmı?\nQamu bimarinə canan dəvayi-dərd edər ehsan,\nNeçün qılmaz mənə dərman, məni bimar sanmazmı?\nQəmim pünhan tutardım mən, dedilər yarə qıl rövşən,\nDesəm, ol bivəfa bilmən, inanarmı, inanmazmı?\nŞəbi-hicran yanar canım, tökər qan çeşmi-giryanım,\nOyadar xəlqi əfqanım, qara bəxtim oyanmazmı?\nGüli-rüxsarinə qarşu gözümdən qanlı axar su,\nHəbibim, fəsli-güldür bu, axar sular bulanmazmı?\nDegildim mən sənə mail, sən etdin əqlimi zail,\nMənə tən eyləyən qafil səni görcək utanmazmı?\nFüzuli rindü şeydadır, həmişə xəlqə rüsvadır,\nSorun kim, bu nə sevdadır, bu sevdadən usanmazmı?",
+      "english": "My love has made me weary of my life: will she never weary of cruelty?\nThe heavens have caught fire from my sighs: will the candle of my longing never burn?\nTo all who are sick for her, my beloved kindly gives a cure;\nwhy does she give no remedy to me? Does she not think me sick?\nI kept my grief hidden; they told me, make it plain to her.\nIf I tell her, I cannot say whether that faithless one will believe me or not.\nOn the night of parting my soul burns, my weeping eyes pour blood;\nmy cries wake everyone: will my dark fortune never wake?\nBefore the rose of your cheek, a stream of blood runs from my eyes;\nmy darling, this is the season of roses: do running streams not turn cloudy then?\nI had no wish to fall for you; it was you who took my reason away.\nWill the thoughtless man who mocks me not feel ashamed when he sees you?\nFuzuli is a reckless, love-crazed drinker, forever a scandal to the people;\nask him: what passion is this? Will he never tire of this passion?",
       "status": "draft"
     },
     "links": [
       {
-        "label": "az.wikisource.org",
-        "url": "https://az.wikisource.org/wiki/Şuri-eşqin_başıma_axırı_sövda_gətirir"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://az.wikisource.org/wiki/Müəllif:Xurşidbanu_Natəvan"
-      },
-      {
-        "label": "Date evidence",
-        "url": "https://az.wikisource.org/wiki/Şuri-eşqin_başıma_axırı_sövda_gətirir"
-      },
-      {
-        "label": "Author / country",
-        "url": "https://az.wikisource.org/wiki/Müəllif:Xurşidbanu_Natəvan"
+        "label": "Read the whole work",
+        "url": "https://az.wikisource.org/wiki/M%C9%99ni_candan_usand%C4%B1rd%C4%B1"
       }
     ]
   },
@@ -3379,60 +3346,39 @@
     "refId": "ML-066",
     "country": "Ghana",
     "continent": "Africa",
-    "title": "Ethiopia Unbound: Studies in Race Emancipation",
-    "titleEnglish": "Ethiopia Unbound: Studies in Race Emancipation",
-    "creator": "J. E. Casely Hayford (1866–1930)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (catalogue / preview)",
-    "form": "Prose / novel",
+    "title": "The Mesh",
+    "titleEnglish": "The Mesh",
+    "creator": "Kwesi Brew (1928–2007)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1911",
+    "year": "1968",
     "language": "English",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "1911, London: C. M. Phillips",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "The novel interweaves romantic relationships, including Tandoh-Kuma and Ekuba, with debates about education, identity and African self-determination.",
-    "provenance": "Original 1911 edition catalogued with preview. O. R. Dathorne’s literary study, National Library of Nigeria repository, identifies the romantic subplot and Ghanaian author.",
-    "location": "Chapters III–IV, Love and Life / Love and Death; consult original edition for passage selection",
-    "translation": "This is a Ghanaian/Gold Coast work despite Ethiopia in the title. Do not substitute the separately copyrighted 1969 or 2024 editorial introductions. Full original passage not transcribed here. Passage update (29 October 2026): Twelve consecutive lines from Chapter III, “Love and Life”: Kwamankra’s proposal to Mansa (1911 first edition, Internet Archive scan, pp. 34–35). OCR spacing and line-break hyphens tidied; the letters were checked against the scan text. Original English; no translation needed. Original English text; not a translation.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1930. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Original 1911 edition catalogued with preview. O. R. Dathorne’s literary study, National Library of Nigeria repository, identifies the romantic subplot and Ghanaian author.",
+    "formDetails": "Poem",
+    "genderDetails": "Kwesi Brew",
+    "originalDate": "1968",
+    "editionDate": "",
+    "description": "Two people stand at a crossroads, unsure which way to go, until love lights the path they will take together.",
+    "provenance": "Kwesi Brew, Shadows of Laughter (London: Longmans, 1968).",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Casely Hayford's Ethiopia Unbound (1911) is replaced by a short love poem, one of the best loved in Ghanaian writing.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
+    "source": "Kwesi Brew, Shadows of Laughter (London: Longmans, 1968).",
     "id": "ghana",
-    "contextNote": "J. E. Casely Hayford was a Gold Coast lawyer, journalist and nationalist, and Ethiopia Unbound (1911) is one of the first African novels in English. Its hero studies law in London and marries Mansa, who shares his faith in the gods and dignity of their own people; the book argues for African self-determination under British rule.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Kwesi Brew was a Ghanaian poet and diplomat, born in Cape Coast, who served as his country's ambassador in several countries after independence in 1957. His first collection, Shadows of Laughter (1968), made 'The Mesh' one of the best-known love poems in African writing.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Ethiopia Unbound",
+      "title": "The Mesh",
       "english": "",
-      "creator": "J. E. Casely Hayford",
+      "creator": "Kwesi Brew",
       "language": "English"
-    },
-    "passage": {
-      "original": "“Yes, I know that.\nBut this also I do know, that the gods are wont to make use of human instruments in approaching men.\nThe Infinite finds expression in the finite, and the ideal is realised in the actual.\nAnd it has often occurred to me that the child-like hand that shall guide me through life’s labyrinthine ways is the self-same one that I now hold tenderly in my own.”\nShe began to understand.\nShe made an effort as if she would withdraw her hand.\nShe hesitated, and the next moment she surrendered the other also.\n“You will be my teacher, then?” asked Kwamankra, half-persuasively, half-triumphantly.\n“Yes,” she simply answered. “So may the gods of our race help me!”\nAs the days passed, the twain grew in that mutual understanding, the true basis of all happy unions.\nNow and again he would tell her of his prospects, which he laughingly said were nil, having inherited little else beyond a clear head and a willing heart for work, with which he hoped they would be able to forge their way in life together;\nto which Mansa would sweetly say that she wished she had a fortune to make things easy, but since she had it not, she would bring him the next best, a loyal heart and true, at which Kwamankra would chide her, and say that was the best of all.",
-      "english": "“Yes, I know that.\nBut this also I do know, that the gods are wont to make use of human instruments in approaching men.\nThe Infinite finds expression in the finite, and the ideal is realised in the actual.\nAnd it has often occurred to me that the child-like hand that shall guide me through life’s labyrinthine ways is the self-same one that I now hold tenderly in my own.”\nShe began to understand.\nShe made an effort as if she would withdraw her hand.\nShe hesitated, and the next moment she surrendered the other also.\n“You will be my teacher, then?” asked Kwamankra, half-persuasively, half-triumphantly.\n“Yes,” she simply answered. “So may the gods of our race help me!”\nAs the days passed, the twain grew in that mutual understanding, the true basis of all happy unions.\nNow and again he would tell her of his prospects, which he laughingly said were nil, having inherited little else beyond a clear head and a willing heart for work, with which he hoped they would be able to forge their way in life together;\nto which Mansa would sweetly say that she wished she had a fortune to make things easy, but since she had it not, she would bring him the next best, a loyal heart and true, at which Kwamankra would chide her, and say that was the best of all.",
-      "status": "english-original"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://archive.org/details/ethiopiaunbounds00hayf"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://nigeriareposit.nln.gov.ng/bitstreams/f12299b6-e836-4f17-a7d8-3f405bbbcfba/download"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://nigeriareposit.nln.gov.ng/bitstreams/f12299b6-e836-4f17-a7d8-3f405bbbcfba/download"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://msupress.org/9781609177652/ethiopia-unbound/"
+        "label": "Read the text",
+        "url": "https://brittlepaper.com/2013/02/africanvalentine-love-poem-kwesi-brew/"
       }
     ]
   },
@@ -3726,56 +3672,44 @@
     "refId": "ML-073",
     "country": "Haiti",
     "continent": "North America",
-    "title": "Choucoune",
-    "titleEnglish": "Choucoune (a woman's name)",
-    "creator": "Oswald Durand",
+    "title": "Loin de toi, près de toi",
+    "titleEnglish": "Far from you, near you",
+    "creator": "Etzer Vilaire (1872–1951)",
     "openOriginal": "Yes",
-    "referenceType": "Named work",
+    "referenceType": "Named poem (original text)",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1884",
-    "language": "Haitian Creole",
+    "year": "1914",
+    "language": "French",
     "tradition": "",
-    "formDetails": "Poetry",
-    "genderDetails": "Man",
-    "originalDate": "1884 (date printed with poem)",
-    "editionDate": "1923",
-    "description": "Courtship, admiration and continuing love after the beloved leaves for another man.",
-    "provenance": "Floréal, 2 June 1923, pp. 341–342; scan-linked Wikisource",
-    "location": "Poème en dialecte créole, before TRADUCTION",
-    "translation": "Durand died 1906. Use the Creole original; the accompanying French translation has a separate attribution question. Original includes historical racial language. Later songs and Yellow Bird adaptations are separate. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): Opening stanza (8 lines) and the first four lines of the last stanza. The 1923 journal transcription is unproofread OCR: three obvious slips are corrected (a full stop after “L’aut’jou” to a comma, “bell”” to “bell’”, and a missing opening « before “Ou trouvé”); the wording is unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original in the UK and other life-plus-70 jurisdictions: author died 1906. Modern editorial additions and translations are separate.",
-    "source": "Source text and provenance checked 28 October 2026.",
+    "formDetails": "Poem (3 stanzas)",
+    "genderDetails": "Etzer Vilaire",
+    "originalDate": "By 1914",
+    "editionDate": "",
+    "description": "Far from his beloved the poet's world is night and storm; near her, a new universe shines and the sky opens.",
+    "provenance": "Etzer Vilaire, Poésies complètes, tome 1: Années tendres (Paris, 1914); text from French Wikisource.",
+    "location": "Complete poem",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Oswald Durand's 'Choucoune', which uses colonial racial categories, is replaced by a love poem by one of Haiti's leading poets. Complete poem, 33 lines. Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review.",
+    "rights": "Whole-poem review (30 October 2026): first published 1914 (before 1931, so public domain in the US); Vilaire died in 1951, so public domain in the UK and EU since 2022. The online text is a transcription with no new authorship.",
+    "source": "Etzer Vilaire, Poésies complètes, tome 1: Années tendres (Paris, 1914); text from French Wikisource.",
     "id": "haiti",
-    "contextNote": "Oswald Durand was the most celebrated Haitian poet of his day, and he wrote Choucoune (1884) in Haitian Creole while in prison; set to music, it became a beloved song and later the English hit “Yellow Bird”. In the poem, Choucoune leaves the narrator for a white foreigner, a story that carried the weight of race and power in a country that had freed itself from French slavery in 1804.",
+    "contextNote": "Etzer Vilaire was a poet from Jérémie, on Haiti's south-west coast, a town so rich in writers that it is called the City of Poets. He was among the leading voices of Haitian poetry around 1900, and his collected poems were published in Paris in 1914.",
     "formGroup": "Poem",
     "display": {
-      "title": "Choucoune",
-      "english": "",
-      "creator": "Oswald Durand",
-      "language": "Haitian Creole"
+      "title": "Loin de toi, près de toi",
+      "english": "Far from you, near you",
+      "creator": "Etzer Vilaire",
+      "language": "French"
     },
     "passage": {
-      "original": "Dériè gnou gras touff’ pingouin,\nL’aut’jou, moin contré Choucoune ;\nLi sourit, l’heur’li ouè moin,\nMoin dit : « Ciel ! A là bell’ moune ! »\nLi dit : « Ou trouvé ca cher ! »…\nP’tits zoézeaux ta pé couté nous lan l’air…\nQuand moin songé Ça, moin gangnin la peine,\nCar dimpi jou-là, dé pieds moin lan chaîne !\nCa qui pis trist’lan tout ça,\nCa qui va surprendr’tout moune,\nCé ’pou ouè malgré temps-là,\nMoin aimé toujours Choucoune !",
-      "english": "Behind a thick clump of cactus,\nThe other day, I met Choucoune;\nShe smiled the moment she saw me,\nI said: “Heavens! What a beautiful girl!”\nShe said: “You think so, dear?”…\nLittle birds were listening to us up in the air…\nWhen I think of it, I am full of sorrow,\nFor since that day both my feet are in chains!\nThe saddest thing in all of this,\nThe thing that will surprise everyone,\nIs to see that, in spite of it all,\nI still love Choucoune!",
+      "original": "Loin de toi, c’est la nuit,\nC’est la nuit triste et sombre,\nEt mon cœur plein d’ennui\nS’ensevelit dans l’ombre.\nLoin de toi, tout fléchit :\nMon espoir, mon courage.\nLoin de toi, mon esprit\nSe voile d’un nuage.\nComme en un jour d’orage,\nTout tremble en moi\nLoin de toi !\nSans l’éclat de tes yeux,\nC’est mon printemps qui passe ;\nC’est dans le deuil des cieux\nMon soleil qui s’efface !\nSans le bruit de tes pas,\nSans ta voix, ton sourire,\nSans l’espace où tu vas,\nOù ta bouche respire,\nTout mon cœur se déchire :\nTout meurt en moi\nLoin de toi !\nPrès de toi, ma beauté,\nC’est la douceur du rêve\nFaite réalité :\nEt quelle aube se lève !\nUn Univers nouveau\nBrille, une proche étoile\nAllume son flambeau\nDans ma tremblante voile.\nOui, le ciel se dévoile\nEt s’ouvre à moi\nPrès de toi !",
+      "english": "Far from you, it is night,\nthe sad and sombre night,\nand my heart, full of weariness,\nburies itself in shadow.\nFar from you, everything gives way:\nmy hope, my courage.\nFar from you, my mind\nis veiled by a cloud.\nAs on a stormy day,\neverything trembles in me\nfar from you!\nWithout the brightness of your eyes,\nit is my springtime passing;\nit is my sun, in the mourning of the skies,\nfading away!\nWithout the sound of your steps,\nwithout your voice, your smile,\nwithout the air you move through,\nwhere your lips breathe,\nmy whole heart is torn:\neverything dies in me\nfar from you!\nNear you, my beauty,\nthe sweetness of the dream\ncomes true:\nand what a dawn is rising!\nA new universe\nshines; a nearby star\nlights its torch\nin my trembling sail.\nYes, the sky unveils itself\nand opens to me\nnear you!",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://fr.wikisource.org/wiki/Choucoune"
-      },
-      {
-        "label": "Rights / basis",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date evidence",
-        "url": "https://fr.wikisource.org/wiki/Choucoune"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://fr.wikisource.org/wiki/Choucoune"
+        "label": "Read the whole work",
+        "url": "https://fr.wikisource.org/wiki/Loin_de_toi,_pr%C3%A8s_de_toi"
       }
     ]
   },
@@ -4149,56 +4083,44 @@
     "refId": "ML-215",
     "country": "Iran",
     "continent": "Asia",
-    "title": "اگر آن ترک شیرازی / Agar an Turk-e Shirazi",
-    "titleEnglish": "If That Turk of Shiraz",
-    "creator": "Hafez",
+    "title": "دیده از دیدار خوبان برگرفتن مشکل است (غزل ۷۳)",
+    "titleEnglish": "It is hard to take your eyes from the beautiful (ghazal 73)",
+    "creator": "Saadi (سعدی)",
     "openOriginal": "Yes",
-    "referenceType": "Named work",
+    "referenceType": "Named poem (original text)",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "c. 1370",
+    "year": "c. 1260",
     "language": "Persian",
     "tradition": "",
-    "formDetails": "Poem",
-    "genderDetails": "Man",
-    "originalDate": "14th century (exact composition date unknown)",
-    "editionDate": "Persian text: Ganjoor online edition",
-    "description": "Praise of the beloved in a ghazal.",
-    "provenance": "Divan of Hafez, ghazal 3; Persian text from Ganjoor.",
-    "location": "Complete ghazal (Divan, ghazal 3), 9 couplets",
-    "translation": "New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Modern translations are separate. Mystical readings are possible. Passage update (29 October 2026): Complete ghazal, 9 couplets (18 half-lines). Persian text from Ganjoor (ghazal 3), with Ganjoor’s added short-vowel marks removed; the letters are unchanged. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (30 October 2026): retranslated from the Persian for the anthology review so that no line follows the wording of an earlier English version. Revision (30 October 2026, sensitivity review): lūliyān (line 5) translated as 'wandering minstrel girls' rather than with an ethnic slur.",
-    "rights": "Original text: 14th-century poem, public domain. New English translation from the Persian; Gertrude Bell's 1897 translation is not used. Anthology review (30 October 2026): the poet died centuries ago and the poem was in print long before 1989, so it is public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
-    "source": "Ganjoor: Hafez, ghazal 3",
+    "formDetails": "Poem (ghazal, 11 couplets)",
+    "genderDetails": "Saadi of Shiraz",
+    "originalDate": "13th century",
+    "editionDate": "",
+    "description": "The poet cannot stop gazing at his beloved, whatever the wise may say; as her caravan leaves he begs the camel driver to go gently, for his soul's peace rides in her litter.",
+    "provenance": "Saadi, Divan, ghazal 73; text from Ganjoor.",
+    "location": "Complete poem",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Hafez's 'Turk of Shiraz', whose second line uses an old image linking a 'Hindu' mole with dark skin and servitude, is replaced by a love ghazal by Shiraz's other great poet. Complete poem, 11 couplets (22 lines). Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review.",
+    "rights": "Whole-poem review (30 October 2026): Saadi died c. 1291 and the poem has been in print for centuries; public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
+    "source": "Saadi, Divan, ghazal 73; text from Ganjoor.",
     "id": "iran",
-    "contextNote": "Hafez lived in Shiraz in the fourteenth century and is the best-loved poet in Persian; families across Iran still keep his Divan at home and open it at random for guidance. Legend says Timur, conqueror of Samarkand and Bukhara, summoned Hafez to ask how he dared give those cities away for a mole.",
+    "contextNote": "Saadi of Shiraz lived in the thirteenth century and travelled for decades across the Muslim world before coming home to write his Bustan and Golestan. His lines on human kinship are woven into a carpet at the United Nations, and his love ghazals are still sung across Iran.",
     "formGroup": "Poem",
     "display": {
-      "title": "اگر آن ترک شیرازی / Agar an Turk-e Shirazi",
-      "english": "If That Turk of Shiraz",
-      "creator": "Hafez",
+      "title": "دیده از دیدار خوبان برگرفتن مشکل است",
+      "english": "It is hard to take your eyes from the beautiful",
+      "creator": "Saadi",
       "language": "Persian"
     },
     "passage": {
-      "original": "اگر آن ترک شیرازی به‌ دست‌ آرد دل ما را\nبه خال هندویش بخشم سمرقند و بخارا را\nبده ساقی می باقی که در جنت نخواهی یافت\nکنار آب رکناباد و گل‌گشت مصلا را\nفغان! کاین لولیان شوخ شیرین‌کار شهرآشوب\nچنان بردند صبر از دل که ترکان خوان یغما را\nز عشق ناتمام ما جمال یار مستغنی‌ است\nبه آب و رنگ و خال و خط چه حاجت روی زیبا را؟\nمن از آن حسن روزافزون که یوسف داشت دانستم\nکه عشق از پردهٔ عصمت برون آرد زلیخا را\nاگر دشنام فرمایی و گر نفرین دعا گویم\nجواب تلخ می‌زیبد لب لعل شکرخا را\nنصیحت گوش کن جانا که از جان دوست‌تر دارند\nجوانان سعادتمند پند پیر دانا را\nحدیث از مطرب و می گو و راز دهر کمتر جو\nکه کس نگشود و نگشاید به حکمت این معما را\nغزل گفتی و در سفتی بیا و خوش بخوان حافظ\nکه بر نظم تو افشاند فلک عقد ثریا را",
-      "english": "If that Turk of Shiraz would only take my heart in hand,\nfor the dark mole on that cheek I'd give up Samarkand and Bukhara.\nBring the last of the wine, cupbearer: in paradise you won't find\nthe banks of the Ruknabad or the flowered paths of Musalla.\nAh, these playful wandering minstrel girls, so charming, such trouble to the town,\nhave stripped the patience from my heart as Turks strip a table of its spoils.\nMy love is incomplete, but my beloved's beauty does not need it:\na lovely face has no use for powder, colour, beauty-spot or pencil.\nFrom that beauty of Joseph's, growing day by day, I learned\nhow love draws Zulaikha out from behind the curtain of virtue.\nAbuse me if you like, curse me: I'll pray for you all the same;\na bitter answer becomes a ruby lip that rains down sugar.\nTake some advice, my dear: young people blessed by fortune\nlove the counsel of a wise old man more than life itself.\nTalk of minstrels and wine, and don't dig into the world's secret,\nfor no one has solved this riddle by wisdom, and no one will.\nYou've made your ghazal and pierced your pearls; come, Hafez, sing it well,\nfor the sky scatters the string of the Pleiades over your verse.",
+      "original": "دیده از دیدار خوبان برگرفتن مشکل ست\nهر که ما را این نصیحت می کند بی حاصل ست\nیار زیبا گر هزارت وحشت از وی در دل ست\nبامدادان روی او دیدن صباح مقبل ست\nآن که در چاه زنخدانش دل بیچارگان\nچون ملک محبوس در زندان چاه بابل ست\nپیش از این من دعوی پرهیزگاری کردمی\nباز می گویم که هر دعوی که کردم باطل ست\nزهر نزدیک خردمندان اگر چه قاتل ست\nچون ز دست دوست می گیری شفای عاجل ست\nمن قدم بیرون نمی یارم نهاد از کوی دوست\nدوستان معذور داریدم که پایم در گل ست\nباش تا دیوانه گویندم همه فرزانگان\nترک جان نتوان گرفتن تا تو گویی عاقل ست\nآن که می گوید نظر در صورت خوبان خطاست\nاو همین صورت همی بیند ز معنی غافل ست\nساربان آهسته ران کآرام جان در محمل ست\nچارپایان بار بر پشتند و ما را بر دل ست\nگر به صد منزل فراق افتد میان ما و دوست\nهمچنانش در میان جان شیرین منزل ست\nسعدی آسان ست با هر کس گرفتن دوستی\nلیک چون پیوند شد خو باز کردن مشکل ست",
+      "english": "It is hard to take your eyes from the sight of the beautiful;\nwhoever gives me that advice is wasting his breath.\nThough a lovely beloved fills your heart with a thousand fears,\nto see that face at daybreak makes a blessed morning.\nIn the well of her chin the hearts of the helpless\nare held like the angels imprisoned in the well of Babylon.\nOnce I used to claim I was above temptation;\nnow I say that every claim I made was false.\nThe wise know poison kills, and yet\ntaken from the beloved's hand it is an instant cure.\nI dare not set one foot outside my beloved's street;\nforgive me, friends: my feet are stuck fast in the clay.\nLet all the clever people call me mad:\nno one gives up his soul just to be called sensible.\nWhoever says it is wrong to gaze at beautiful faces\nsees only the outward form and misses the meaning.\nCamel driver, go gently: my soul's peace rides in that litter;\nthe beasts bear their loads on their backs, and I bear mine on my heart.\nThough parting sets a hundred stages between my love and me,\nshe still has her dwelling in the midst of my sweet soul.\nSaadi, it is easy to make friends with anyone,\nbut once the bond is made, the habit is hard to break.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://ganjoor.net/hafez/ghazal/sh3"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://www.gutenberg.org/ebooks/74883"
-      },
-      {
-        "label": "Date evidence",
-        "url": "https://www.gutenberg.org/cache/epub/74883/pg74883-images.html"
-      },
-      {
-        "label": "Author / country",
-        "url": "https://www.gutenberg.org/ebooks/74883"
+        "label": "Read the whole work",
+        "url": "https://ganjoor.net/saadi/divan/ghazals/sh73"
       }
     ]
   },
@@ -5069,60 +4991,39 @@
     "refId": "ML-097",
     "country": "Liberia",
     "continent": "Africa",
-    "title": "Guanya Pau: A Story of an African Princess",
-    "titleEnglish": "Guanya Pau: A Story of an African Princess",
-    "creator": "Joseph Jeffrey Walters (c.1860s–1894)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Prose / novel",
-    "genderGroup": "Men",
-    "year": "1891",
+    "title": "Nyanken Hne",
+    "titleEnglish": "Nyanken Hne",
+    "creator": "Patricia Jabbeh Wesley",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
+    "genderGroup": "Women",
+    "year": "1998",
     "language": "English",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "1891, Cleveland: Lauer & Mattill",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Guanya resists an arranged marriage because she loves Momo and seeks the freedom to choose her partner.",
-    "provenance": "University of Zurich hosts a facsimile of the original novel. Editor John Victor Singler documents the author’s Vai/Liberian origin and death on 12 November 1894.",
-    "location": "Original p.24 and subsequent flight/courtship narrative",
-    "translation": "Use the 1891 novel. Modern Broadview introduction and annotations are excluded. The work combines opposition to forced marriage with a nineteenth-century Christian missionary perspective. Passage update (29 October 2026): Nine consecutive sentences in which Guanya Pau tells how Momo declared his love (1891 edition, Internet Archive scan, pp. 128–129), including his words in Vai. OCR spacing and line-break hyphens tidied; the letters were checked against the scan text. Original English; no translation needed. Original English text; not a translation.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1894. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "University of Zurich hosts a facsimile of the original novel. Editor John Victor Singler documents the author’s Vai/Liberian origin and death on 12 November 1894.",
+    "formDetails": "Poem",
+    "genderDetails": "Patricia Jabbeh Wesley",
+    "originalDate": "1998",
+    "editionDate": "",
+    "description": "The poet celebrates her husband: the women and the whole town admire him as he passes, but his love has stayed with her alone.",
+    "provenance": "Patricia Jabbeh Wesley, Before the Palm Could Bloom: Poems of Africa (New Issues Press, 1998); text on the Scottish Poetry Library website.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Walters' Guanya Pau (1891), written from a missionary viewpoint, is replaced by a love poem by one of Liberia's leading poets.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
+    "source": "Patricia Jabbeh Wesley, Before the Palm Could Bloom: Poems of Africa (New Issues Press, 1998); text on the Scottish Poetry Library website.",
     "id": "liberia",
-    "contextNote": "Joseph Jeffrey Walters, a Vai man from Liberia, wrote Guanya Pau while studying at Oberlin College in Ohio; published in 1891, it is one of the earliest novels by a West African. Its heroine runs away rather than be forced into a polygamous marriage; the book also carries its author’s Christian missionary outlook.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Patricia Jabbeh Wesley was born in Liberia and fled with her family to the United States during the civil war of the 1990s. Writing about Liberian life, loss and survival, she has published several collections and teaches at Penn State University.",
+    "formGroup": "Poem",
     "display": {
-      "title": "Guanya Pau: A Story of an African Princess",
+      "title": "Nyanken Hne",
       "english": "",
-      "creator": "Joseph Jeffrey Walters",
+      "creator": "Patricia Jabbeh Wesley",
       "language": "English"
-    },
-    "passage": {
-      "original": "“Well, when this had gone on over two years, one evening about twilight, when I had finished my work, I went and sat under the cola-tree behind our house and pretended to be stringing my beads;\nBut my true object was soon realized.\nMomo soon joined me and sat down by my side.\nWho can picture our feelings as that evening we sat beneath the shadows of that stately cola, in the clear moonlight?\nWe sat side by side on the green grass, talking little nothings.\nBy and by he took a long breath, somehow I felt anxious just because of that sigh.\nHe then took both my hands in his, sending a thrill clean through me.\nPlanting his frank, honest eyes on mine which soon were directed to the ground, he said: ‘Guanya Pau, nah Edear (I love you); ya in dear wah?’ (Do you love me?)\nWhat could I say but to whisper faintly: ‘Da keker’ (with all my heart).",
-      "english": "“Well, when this had gone on over two years, one evening about twilight, when I had finished my work, I went and sat under the cola-tree behind our house and pretended to be stringing my beads;\nBut my true object was soon realized.\nMomo soon joined me and sat down by my side.\nWho can picture our feelings as that evening we sat beneath the shadows of that stately cola, in the clear moonlight?\nWe sat side by side on the green grass, talking little nothings.\nBy and by he took a long breath, somehow I felt anxious just because of that sigh.\nHe then took both my hands in his, sending a thrill clean through me.\nPlanting his frank, honest eyes on mine which soon were directed to the ground, he said: ‘Guanya Pau, nah Edear (I love you); ya in dear wah?’ (Do you love me?)\nWhat could I say but to whisper faintly: ‘Da keker’ (with all my heart).",
-      "status": "english-original"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://archive.org/details/guanyapaustorya00waltgoog"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://johnvictorsingler.wordpress.com/wp-content/uploads/2022/12/singler-1990-the-day-will-come.pdf"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://johnvictorsingler.wordpress.com/wp-content/uploads/2022/12/singler-1990-the-day-will-come.pdf"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://broadviewpress.com/product/guanya-pau/"
+        "label": "Read the text",
+        "url": "https://www.scottishpoetrylibrary.org.uk/poem/nyanken-hne/"
       }
     ]
   },
@@ -7264,56 +7165,44 @@
     "refId": "ML-139",
     "country": "Philippines",
     "continent": "Asia",
-    "title": "Florante at Laura — Cay Celia",
-    "titleEnglish": "Florante and Laura — To Celia",
-    "creator": "Francisco Balagtas / Baltazar",
+    "title": "Lihim ng mga Titig",
+    "titleEnglish": "The Secret of Glances",
+    "creator": "Pascual de León (1893–1925)",
     "openOriginal": "Yes",
-    "referenceType": "Named work",
+    "referenceType": "Named poem (original text)",
     "form": "Poetry",
     "genderGroup": "Men",
-    "year": "1838",
+    "year": "1915",
     "language": "Tagalog",
     "tradition": "",
-    "formDetails": "Poetry",
-    "genderDetails": "Man",
-    "originalDate": "1838 (work); linked edition 1921",
-    "editionDate": "1921",
-    "description": "The poet addresses Celia, remembering his first love and offering the work to her.",
-    "provenance": "Florante at Laura, Manila, 1921; Project Gutenberg eBook 15845",
-    "location": "Cay Celia dedication, pp. 2–5; opening Cong pag saulang cong basahin sa isip",
-    "translation": "Original Tagalog dedication only; exclude the modern digital notes and unrelated commentary. Author died 1862; commentator died 1941. Old spelling and transcription errors require comparison with a scan. The selection is the original-language text; an existing English translation is not required. Passage update (29 October 2026): First four stanzas of the dedication, 16 lines. The edition’s footnote numbers are removed, and the Gutenberg stand-in “n~g” is written “ñg” for the old Tagalog ng with a tilde. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
-    "rights": "Public-domain original; Project Gutenberg explicitly labels the Tagalog edition public domain in the USA, and the author’s life-plus-70 term has elapsed.",
-    "source": "Source text and provenance checked 28 October 2026.",
+    "formDetails": "Poem (4 quatrains)",
+    "genderDetails": "Pascual de León",
+    "originalDate": "1915",
+    "editionDate": "",
+    "description": "The poet tries to read the secret in his beloved's glances, which by turns offer tenderness, scorn and jealousy, and finds their answer: he is loved.",
+    "provenance": "Pascual de León, 1915; text from Tagalog Wikisource.",
+    "location": "Complete poem",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: the dedication of Florante at Laura, an epic whose enemies are 'Moros' seen through the Christian outlook of Spanish rule, is replaced by a Tagalog love poem. Complete poem, 16 lines. Fresh English translation by Claude (Anthropic AI) made directly from the original; draft for editorial review.",
+    "rights": "Whole-poem review (30 October 2026): first published 1915 (before 1931, so public domain in the US); de León died in 1925, so public domain in the UK and EU. The online text is a transcription with no new authorship.",
+    "source": "Pascual de León, 1915; text from Tagalog Wikisource.",
     "id": "philippines",
-    "contextNote": "Francisco Balagtas wrote Florante at Laura in 1838, under Spanish colonial rule; tradition says he had lost his beloved, called Celia here, to a rich rival who had him imprisoned. It became the most famous work of Tagalog literature, and this dedication is still learnt in Philippine schools.",
+    "contextNote": "Pascual de León was one of the young Tagalog poets of Manila in the early 1900s, when writers under American rule turned to their own language to write about love and freedom. He died in 1925, aged 32.",
     "formGroup": "Poem",
     "display": {
-      "title": "Florante at Laura — Cay Celia",
-      "english": "Florante and Laura — To Celia",
-      "creator": "Francisco Balagtas / Baltazar",
+      "title": "Lihim ng mga Titig",
+      "english": "The Secret of Glances",
+      "creator": "Pascual de León",
       "language": "Tagalog"
     },
     "passage": {
-      "original": "Cong pag saulang cong basahin sa isip\nang nañgacaraang arao ñg pag-ibig,\nmay mahahaguilap cayang natititic\nliban na cay Celiang namugad sa dibdib?\nYaong Celiang laguing pinañgañganiban\nbaca macalimot sa pag-iibigan;\nang iquinalubog niyaring capalaran\nsa lubhang malalim na caralitaan.\nMacaligtaang co cayang di basahin\nnagdaáng panahón ñg suyuan namin?\ncaniyang pagsintáng guinugol sa aquin\nat pinuhunan cong pagod at hilahil?\nLumipas ang arao na lubhang matamis\nat ualáng nátira condi ang pag-ibig ,\ntapat na pag suyong lalagui sa dibdib\nhanggang sa libiñgan bangcay co,i, maidlip.",
-      "english": "When I go back and read over in my mind\nthe days of love that have passed,\ncan anything be found written there\nexcept Celia, who nested in my heart?\nThat Celia whom I always feared\nmight forget our love;\nthe one who sank this fortune of mine\ninto the deepest poverty.\nCould I neglect to read over\nthe past time of our courtship,\nthe love she spent on me,\nand the toil and sorrow I gave for it?\nThe sweetest days have gone by,\nand nothing is left but love,\na faithful devotion that will stay in my heart\nuntil my body sleeps in the grave.",
+      "original": "Ibig kong hulaan sa silong ng̃ Lang̃it\nang lihim na saklaw niyang mg̃a titig,\nisang suliraning nagpapahiwatig,\nng̃ maraming bagay, ng̃ luha’t pag-ibig.\nAko’y manghuhula sa bagay na iyan,\npagka’t nababasa, sa hugis, sa galaw\nng̃ mga titig mong halik ng̃ kundiman\nang ibig sabihin at pita ng̃ buhay.\nIkaw’y nagtatapon nang minsa’y pagsuyo,\nminsa’y pang-aaba’t minsa’y panibugho,\nminsa’y paanyaya sa tibok ng̃ puso\nnang upang sumamba’t sa iyo’y sumamo.\nAng mga titig mo’y may saklaw na lihim,\nat maraming bagay ang ibig sabihin,\nng̃uni’t sa palad ko’y isang suliraning\nnagkakahulugang ako’y ginigiliw.",
+      "english": "Beneath the sky I long to divine\nthe secret held within those glances,\na riddle that hints\nat many things, at tears and love.\nI can read the signs in such things,\nfor I can see, in the shape and movement\nof your glances, kisses of a kundiman,\nwhat they mean, and what life desires.\nNow you cast me tenderness,\nnow scorn, and now jealousy,\nnow an invitation to the beating of the heart,\nto come and worship you and plead with you.\nYour glances hold a secret,\nand they mean many things,\nbut for me they are one riddle\nwhose answer is: I am loved.",
       "status": "draft"
     },
     "links": [
       {
-        "label": "Read original",
-        "url": "https://www.gutenberg.org/cache/epub/15845/pg15845-images.html"
-      },
-      {
-        "label": "Rights / basis",
-        "url": "https://www.gutenberg.org/ebooks/15845"
-      },
-      {
-        "label": "Date evidence",
-        "url": "https://www.gutenberg.org/ebooks/15845"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://www.gutenberg.org/ebooks/15845"
+        "label": "Read the whole work",
+        "url": "https://tl.wikisource.org/wiki/Lihim_ng_mga_Titig"
       }
     ]
   },
@@ -9208,60 +9097,39 @@
     "refId": "ML-178",
     "country": "Trinidad and Tobago",
     "continent": "North America",
-    "title": "Emmanuel Appadocca; or, Blighted Life — Lorenzo and Agnes episode",
-    "titleEnglish": "Emmanuel Appadocca; or, Blighted Life — Lorenzo and Agnes episode",
-    "creator": "Michel Maxwell Philip (1829–1888)",
-    "openOriginal": "Yes",
-    "referenceType": "Named work (text)",
-    "form": "Prose / novel",
+    "title": "Hello",
+    "titleEnglish": "Hello",
+    "creator": "Kes the Band",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
     "genderGroup": "Men",
-    "year": "1854",
-    "language": "English",
+    "year": "2018",
+    "language": "English / Trinidadian English",
     "tradition": "",
-    "formDetails": "Novel",
-    "genderDetails": "Man author",
-    "originalDate": "1854, London: Charles J. Skeet",
-    "editionDate": "Historical work reproduced in linked digital source; modern editorial material is separate",
-    "description": "Lorenzo’s love for Agnes includes anxious longing and a letter declaring his feelings. The wider novel concerns slavery, abandonment and buccaneers.",
-    "provenance": "Project Gutenberg transcription of the 1854 first volume; catalogue identifies author dates and original publisher. Trinidad-born author and Trinidad setting.",
-    "location": "Volume I, chapters X–XI, approximately original pp.140–155",
-    "translation": "Select the actual human love episode; the novel’s connection to Romanticism is not itself evidence of romantic love. Historical language and captivity context need attention. Passage update (29 October 2026): Ten consecutive sentences from Lorenzo’s letter to Agnes and her response (Volume I, original pp. 143–144). Original English; no translation needed. Original English text; not a translation.",
-    "rights": "Historical original text: standard life-plus-70 term has expired; author died 1888. Assessment excludes modern translations, commentary, editorial alterations, musical settings and recordings. Territorial and unusual publication-history exceptions are not comprehensively assessed.",
-    "source": "Project Gutenberg transcription of the 1854 first volume; catalogue identifies author dates and original publisher. Trinidad-born author and Trinidad setting.",
+    "formDetails": "Love song",
+    "genderDetails": "Kees Dieffenthaller (Kes)",
+    "originalDate": "2018",
+    "editionDate": "",
+    "description": "A soca love song in which the singer calls out to the woman who has caught his heart.",
+    "provenance": "Official music video on the Kes the Band YouTube channel.",
+    "location": "",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Philip's Emmanuel Appadocca (1854), which caricatures a Black boy and calls Indigenous people 'savages', is replaced; no love poem by a Trinidadian poet that could be linked was found, so this is a love song by one of Trinidad's leading soca bands.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
+    "source": "Official music video on the Kes the Band YouTube channel.",
     "id": "trinidad-and-tobago",
-    "contextNote": "Michel Maxwell Philip, a Trinidadian of mixed African and European descent, wrote this novel in 1854, twenty years after slavery was abolished. Its hero becomes a pirate to take revenge on the white father who abandoned him; Philip later became Trinidad’s Solicitor General.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Kes the Band, led by the singer Kees Dieffenthaller, is one of Trinidad and Tobago's best-known soca bands. Soca grew out of calypso in Trinidad in the 1970s and is the music of the islands' Carnival, now played at carnivals across the world.",
+    "formGroup": "Song",
     "display": {
-      "title": "Emmanuel Appadocca",
+      "title": "Hello",
       "english": "",
-      "creator": "Michel Maxwell Philip",
-      "language": "English"
-    },
-    "passage": {
-      "original": "She hastily and eagerly glanced over it, raised her head for a time, and then read, and read, and read again.\nThe letter was this:—\n“Lady, though I am a pirate, recoil not from me.\nI am sensible to the feelings of honor, and need not be feared by any lady;\nin the uprightness of my soul I have dared to love you;\ndeign to cast but one look on me, and let me believe I may hope.\nLorenzo.”\nAgnes read this over and over again in nervous trepidation, then folded it, and put it by.\nShe was a victim to strong contending emotions.\nShe felt she knew not what for Lorenzo, but he was a pirate.",
-      "english": "She hastily and eagerly glanced over it, raised her head for a time, and then read, and read, and read again.\nThe letter was this:—\n“Lady, though I am a pirate, recoil not from me.\nI am sensible to the feelings of honor, and need not be feared by any lady;\nin the uprightness of my soul I have dared to love you;\ndeign to cast but one look on me, and let me believe I may hope.\nLorenzo.”\nAgnes read this over and over again in nervous trepidation, then folded it, and put it by.\nShe was a victim to strong contending emotions.\nShe felt she knew not what for Lorenzo, but he was a pirate.",
-      "status": "english-original"
+      "creator": "Kes the Band",
+      "language": "English / Trinidadian English"
     },
     "links": [
       {
-        "label": "Work / source text",
-        "url": "https://www.gutenberg.org/files/75313/75313-h/75313-h.htm"
-      },
-      {
-        "label": "Reuse basis / copyright duration",
-        "url": "https://www.gov.uk/copyright/how-long-copyright-lasts"
-      },
-      {
-        "label": "Date / edition evidence",
-        "url": "https://www.gutenberg.org/files/75313/75313-h/75313-h.htm"
-      },
-      {
-        "label": "Creator / country evidence",
-        "url": "https://www.gutenberg.org/files/75313/75313-h/75313-h.htm"
-      },
-      {
-        "label": "Additional evidence",
-        "url": "https://www.gutenberg.org/ebooks/75313"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=6bC5ctyjr6c"
       }
     ]
   },
