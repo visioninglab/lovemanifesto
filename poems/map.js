@@ -37,8 +37,8 @@
   // Shade each country by the age of its work: darker is older
   const shade = (entry) => `period-${periodOf(entry) || "none"}`;
   // Fallback fills if a browser pairs this script with an older stylesheet; styles.css overrides them
-  const FALLBACK_FILL = { "before-1500": "#1d5631", "1500-1899": "#2f7a47", "1900-1999": "#4f9d64", "2000": "#7dbb8a" };
-  const fallbackFill = (entry) => FALLBACK_FILL[periodOf(entry)] || "#d6cfc3";
+  const FALLBACK_FILL = { "before-1500": "#223f44", "1500-1899": "#3b666c", "1900-1999": "#5a878c", "2000": "#86adb0" };
+  const fallbackFill = (entry) => FALLBACK_FILL[periodOf(entry)] || "#ddd3c6";
 
   const entries = window.ARCHIVE || [];
   const byAtlasName = new Map(entries.map((e) => [ATLAS_NAMES[e.country] || e.country, e]));
@@ -157,7 +157,7 @@
       .join("path")
       .attr("d", path)
       .attr("class", (d) => (d.entry ? `country ${shade(d.entry)}` : "country no-entry"))
-      .attr("fill", (d) => (d.entry ? fallbackFill(d.entry) : "#f0ebe4"))
+      .attr("fill", (d) => (d.entry ? fallbackFill(d.entry) : "#efe9de"))
       .filter((d) => d.entry)
       .call(interactive);
 

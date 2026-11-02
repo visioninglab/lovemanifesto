@@ -1,40 +1,41 @@
 /* Love Manifesto: shared styles */
 
+/* Colours from the Manifesto for Love cover: cream paper, burgundy title, and its watercolour teal for the map */
 :root {
-  --paper: #faf6f1;
-  --card: #fffdfa;
-  --ink: #2e2622;
+  --paper: #f8f4eb;
+  --card: #fdfbf6;
+  --ink: #2e2420;
   --muted: #74675f;
-  --line: #e8dfd5;
-  --accent: #a34a4a;
-  --accent-soft: #f3e3df;
+  --line: #e6ddd0;
+  --accent: #7b1a26;
+  --accent-soft: #f3dcd6;
   --serif: "Cormorant Garamond", Georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
-  /* Map: one green, darker for older works; traditional or undated works stay neutral */
-  --period-before-1500: #1d5631;
-  --period-1500-1899: #2f7a47;
-  --period-1900-1999: #4f9d64;
-  --period-2000: #7dbb8a;
-  --period-none: #d6cfc3;
-  --no-entry: #f0ebe4;
+  /* Map: one teal, darker for older works; traditional or undated works stay neutral */
+  --period-before-1500: #223f44;
+  --period-1500-1899: #3b666c;
+  --period-1900-1999: #5a878c;
+  --period-2000: #86adb0;
+  --period-none: #ddd3c6;
+  --no-entry: #efe9de;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --paper: #1c1816;
-    --card: #24201d;
-    --ink: #efe7df;
+    --paper: #1c1618;
+    --card: #241d1f;
+    --ink: #f1e9df;
     --muted: #b0a399;
-    --line: #3a332e;
-    --accent: #e08e85;
-    --accent-soft: #3b2724;
+    --line: #3b3133;
+    --accent: #eeb5ab;
+    --accent-soft: #3d2427;
     /* Dark mode: the ramp flips so older works are the brightest */
-    --period-before-1500: #a6dbb0;
-    --period-1500-1899: #6fbf82;
-    --period-1900-1999: #43965a;
-    --period-2000: #2d6e41;
-    --period-none: #4a443e;
-    --no-entry: #2e2825;
+    --period-before-1500: #b6d2d4;
+    --period-1500-1899: #82adb1;
+    --period-1900-1999: #55878c;
+    --period-2000: #355f65;
+    --period-none: #4a4042;
+    --no-entry: #2e2628;
   }
 }
 
@@ -487,7 +488,7 @@ a { color: var(--accent); }
   border: 1px solid var(--line);
   border-radius: 0.5rem;
   background: var(--card);
-  box-shadow: 0 4px 16px rgba(46, 38, 34, 0.12);
+  box-shadow: 0 4px 16px rgba(46, 36, 32, 0.12);
   font-size: 0.875rem;
   line-height: 1.35;
   pointer-events: none;
@@ -728,3 +729,46 @@ a { color: var(--accent); }
   font-size: 0.95rem;
   text-align: center;
 }
+
+/* The watercolour ring from the book cover, as an emblem above each page title.
+   Its cream matches the page; the soft round edge turns it into a medallion in dark mode. */
+.hero-emblem {
+  display: block;
+  width: 9rem;
+  height: 9rem;
+  margin: 0 auto 1rem;
+  border-radius: 50%;
+  -webkit-mask-image: radial-gradient(closest-side, #000 88%, transparent 100%);
+  mask-image: radial-gradient(closest-side, #000 88%, transparent 100%);
+}
+
+@media (max-width: 40rem) {
+  .hero-emblem { width: 6.5rem; height: 6.5rem; margin-bottom: 0.75rem; }
+}
+
+/* The book, in the About section */
+.about-book {
+  display: grid;
+  gap: 1.25rem 1.75rem;
+  align-items: center;
+  max-width: 40rem;
+  margin: 2.5rem auto 0;
+}
+
+@media (min-width: 36rem) {
+  .about-book { grid-template-columns: 11rem 1fr; }
+}
+
+.about-book img {
+  display: block;
+  width: 11rem;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0.25rem;
+  box-shadow: 0 6px 24px rgba(46, 36, 32, 0.18);
+}
+
+.about-book h3 { margin: 0 0 0.35rem; font-family: var(--serif); font-size: 1.6rem; font-weight: 500; }
+.about-book p { margin: 0; }
+.about-book .book-status { margin-top: 0.5rem; color: var(--accent); font-size: 0.85rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; }
