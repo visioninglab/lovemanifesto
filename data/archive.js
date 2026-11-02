@@ -3441,6 +3441,46 @@ window.ARCHIVE = [
     ]
   },
   {
+    "refId": "ML-242",
+    "country": "Greenland",
+    "continent": "North America",
+    "title": "Asanaqigavit",
+    "titleEnglish": "You Are So Loving",
+    "creator": "Rasmus Lyberth",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Men",
+    "year": "2006",
+    "language": "Greenlandic (Kalaallisut)",
+    "tradition": "",
+    "formDetails": "Love song",
+    "genderDetails": "Man",
+    "originalDate": "Album Asanaqigavit, 2006",
+    "editionDate": "",
+    "description": "A tender love song in Greenlandic, telling the beloved how loving she is.",
+    "provenance": "Rasmus Lyberth, Asanaqigavit (Exlibris, 2006); official audio on YouTube.",
+    "location": "",
+    "translation": "Added 2 November 2026. No Greenlandic love poem with a text available online was found, so this is a love song by Greenland's best-known singer. Title given in Greenlandic and Danish on the release: 'Asanaqigavit / Du er så kærlig'.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
+    "source": "Official audio, Rasmus Lyberth – Topic (The Orchard)",
+    "id": "greenland",
+    "contextNote": "Greenland, the world's largest island, is home to about 56,000 people, most of them Inuit; Greenlandic (Kalaallisut) is its official language. Rasmus Lyberth, born in Maniitsoq in 1951, is its best-loved singer, known for songs in Greenlandic about love, faith and the Arctic landscape.",
+    "formGroup": "Song",
+    "display": {
+      "title": "Asanaqigavit",
+      "english": "You Are So Loving",
+      "creator": "Rasmus Lyberth",
+      "language": "Greenlandic"
+    },
+    "links": [
+      {
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=mPWifJcqZGs"
+      }
+    ]
+  },
+  {
     "refId": "ML-068",
     "country": "Grenada",
     "continent": "North America",
@@ -8814,6 +8854,46 @@ window.ARCHIVE = [
       {
         "label": "Creator / country",
         "url": "https://dspace.univ-mila.dz/jspui/bitstream/123456789/1608/1/مظاهر الاتساق والانسجام في.pdf"
+      }
+    ]
+  },
+  {
+    "refId": "ML-243",
+    "country": "Taiwan",
+    "continent": "Asia",
+    "title": "情詩",
+    "titleEnglish": "Love Poem",
+    "creator": "Yang Mu (楊牧)",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
+    "genderGroup": "Men",
+    "year": "1974",
+    "language": "Chinese (Mandarin)",
+    "tradition": "",
+    "formDetails": "Poem",
+    "genderDetails": "Man",
+    "originalDate": "First published 1974",
+    "editionDate": "",
+    "description": "A love poem spoken by a humble Taiwanese tree to a beloved from a graceful, fragrant family of plants, set against the tree's own plain name and bitter story.",
+    "provenance": "Yang Mu, 'Qing shi' (1974); English translation by Colin Bramwell and Wen-chi Li, Paper Republic, January 2026.",
+    "location": "",
+    "translation": "Added 2 November 2026. Linked to the published English translation; the poem is in copyright.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
+    "source": "Paper Republic, 'A Rebellious Love Letter: Composing Taiwan Between Languages'",
+    "id": "taiwan",
+    "contextNote": "Yang Mu (1940–2020), born in Hualien on Taiwan's east coast, was one of the most admired poets writing in Chinese. This poem speaks in the voice of a native Taiwanese tree, and his love for the island's plants, mountains and sea runs through his work.",
+    "formGroup": "Poem",
+    "display": {
+      "title": "情詩",
+      "english": "Love Poem",
+      "creator": "Yang Mu",
+      "language": "Chinese"
+    },
+    "links": [
+      {
+        "label": "Read the text",
+        "url": "https://paper-republic.org/pubs/read/love-poem/"
       }
     ]
   },
