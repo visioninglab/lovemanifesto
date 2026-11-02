@@ -1993,6 +1993,46 @@ window.ARCHIVE = [
     ]
   },
   {
+    "refId": "ML-245",
+    "country": "Cook Islands",
+    "continent": "Oceania",
+    "title": "My Endless Love",
+    "titleEnglish": "My Endless Love",
+    "creator": "Papa Turoa Taia (Tongareva 5); sung by Valerie Veiao with Rudolph Daniel",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Mixed",
+    "year": "2019",
+    "language": "Cook Islands song",
+    "tradition": "",
+    "formDetails": "Love song",
+    "genderDetails": "Man composer; woman singer",
+    "originalDate": "Composed for Tongareva 5's first album; this performance 2019",
+    "editionDate": "",
+    "description": "Papa Turoa Taia's song about his first love: as the deer longs for flowing streams, so he longs for her.",
+    "provenance": "Performance by Valerie Veiao and Rudolph Daniel for The Coconet TV, 2019.",
+    "location": "",
+    "translation": "Added 2 November 2026. No Cook Islands love poem with a text online was found, so this is a love song.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
+    "source": "The Coconet TV, YouTube",
+    "id": "cook-islands",
+    "contextNote": "The Cook Islands, fifteen islands in the South Pacific, govern themselves in free association with New Zealand. Papa Turoa Taia, lead singer of the band Tongareva 5, wrote this song about his first love, borrowing an image from Psalm 42; Valerie Veiao, whose grandfather played in the band, sings it here.",
+    "formGroup": "Song",
+    "display": {
+      "title": "My Endless Love",
+      "english": "",
+      "creator": "Papa Turoa Taia; sung by Valerie Veiao with Rudolph Daniel",
+      "language": "Cook Islands song"
+    },
+    "links": [
+      {
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=AU66ag8PemQ"
+      }
+    ]
+  },
+  {
     "refId": "ML-040",
     "country": "Costa Rica",
     "continent": "North America",
@@ -4726,6 +4766,46 @@ window.ARCHIVE = [
     ]
   },
   {
+    "refId": "ML-244",
+    "country": "Kosovo",
+    "continent": "Europe",
+    "title": "Dashuro",
+    "titleEnglish": "Love",
+    "creator": "Nexhmije Pagarusha",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Women",
+    "year": "20th century",
+    "language": "Albanian",
+    "tradition": "",
+    "formDetails": "Love song",
+    "genderDetails": "Woman",
+    "originalDate": "20th century; collected 2017",
+    "editionDate": "",
+    "description": "A love song telling the beloved that without them there would be no song and no light.",
+    "provenance": "Official channel of Nexhmije Pagarusha (Bzzz Entertainment, 2017 collection).",
+    "location": "",
+    "translation": "Added 2 November 2026. No Kosovar love poem with an English text online was found, so this is a love song by Kosovo's best-loved singer.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
+    "source": "Official YouTube channel, Nexhmije Pagarusha",
+    "id": "kosovo",
+    "contextNote": "Kosovo declared independence from Serbia in 2008; about 100 countries recognise it, though Serbia does not, and most of its people speak Albanian. Nexhmije Pagarusha (1933–2020), known as the 'Nightingale of Kosovo', was its best-loved singer.",
+    "formGroup": "Song",
+    "display": {
+      "title": "Dashuro",
+      "english": "Love",
+      "creator": "Nexhmije Pagarusha",
+      "language": "Albanian"
+    },
+    "links": [
+      {
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=oUnUCxmBsxE"
+      }
+    ]
+  },
+  {
     "refId": "ML-091",
     "country": "Kuwait",
     "continent": "Asia",
@@ -6594,6 +6674,46 @@ window.ARCHIVE = [
       {
         "label": "Earlier link: Read about it",
         "url": "https://www.okayafrica.com/ckay-love-nwantiti-trending-tiktok"
+      }
+    ]
+  },
+  {
+    "refId": "ML-246",
+    "country": "Niue",
+    "continent": "Oceania",
+    "title": "The Bond of Time: An Epic Love Poem",
+    "titleEnglish": "The Bond of Time: An Epic Love Poem",
+    "creator": "John Puhiatau Pule",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
+    "genderGroup": "Men",
+    "year": "1985",
+    "language": "English",
+    "tradition": "",
+    "formDetails": "Book-length poem",
+    "genderDetails": "Man",
+    "originalDate": "First published 1985; new edition Canterbury University Press, 2014",
+    "editionDate": "",
+    "description": "A book-length poem of dreamlike images, which the poet calls a love poem to Polynesia, to Niue and to the village where he was born.",
+    "provenance": "John Puhiatau Pule, The Bond of Time: An Epic Love Poem (1985; Canterbury University Press, 2014).",
+    "location": "",
+    "translation": "Added 2 November 2026. Linked to the publisher's page; the poem is in copyright.",
+    "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
+    "source": "Canterbury University Press catalogue",
+    "id": "niue",
+    "contextNote": "Niue, one of the world's largest coral islands, governs itself in free association with New Zealand; about 1,700 people live there, and many more Niueans live in New Zealand. John Puhiatau Pule, born in Liku in 1962, left as a small child and wrote this poem at 21 in Auckland.",
+    "formGroup": "Poem",
+    "display": {
+      "title": "The Bond of Time: An Epic Love Poem",
+      "english": "",
+      "creator": "John Puhiatau Pule",
+      "language": "English"
+    },
+    "links": [
+      {
+        "label": "Read about it",
+        "url": "https://www.canterbury.ac.nz/about-uc/what-we-do/canterbury-university-press/canterbury-university-press-catalogue/the-bond-of-time-an-epic-love-poem"
       }
     ]
   },

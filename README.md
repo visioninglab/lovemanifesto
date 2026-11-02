@@ -65,7 +65,7 @@ http://localhost:8000
 
 ## Love poetry archive
 
-The home page (`index.html`) is a searchable catalogue of love poems, songs, stories and oral traditions from 195 countries, plus Greenland and Taiwan. Its source document is the master spreadsheet, copied into `data/source/Manifesto_for_Love_MASTER.xlsx`.
+The home page (`index.html`) is a searchable catalogue of love poems, songs, stories and oral traditions from 195 countries, plus Greenland, Taiwan, Kosovo, the Cook Islands and Niue. Its source document is the master spreadsheet, copied into `data/source/Manifesto_for_Love_MASTER.xlsx`.
 
 The pages are written for casual readers. All entries are listed together. Works that are out of copyright show their passage in the original language beside English; the rest are described, with a link to the work at its source. Search ignores accents and knows other country names ("Turkey", "Burma", "UK"). Search sits behind a Search button that drops down a text box. Filters for region, type and period, and a sort by country or date, sit beside it (behind a Filters button on phones); each option shows how many results it would give, and the choices are kept in the address (`?q=`, `region=`, `type=`, `period=`, `sort=`) so a filtered view can be shared. "Titles only" shows a compact list that opens one entry at a time. The page ends with a short About section. Research notes, evidence links and cataloguing remarks stay in the spreadsheet and `data/archive.json` and are not shown; the build script also strips bracketed notes such as "(incipit)" from displayed titles and names. A footer line says that English versions are new translations made with AI assistance.
 

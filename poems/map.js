@@ -27,6 +27,7 @@
     "Solomon Islands": "Solomon Is.",
     "South Sudan": "S. Sudan",
     "Türkiye": "Turkey",
+    "Cook Islands": "Cook Is.",
     "United States": "United States of America",
   };
   // Not in the 1:50m map at all: [longitude, latitude]
