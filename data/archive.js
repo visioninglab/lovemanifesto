@@ -1807,7 +1807,7 @@ window.ARCHIVE = [
     "description": "A lover waits for a girl and treasures her gifts.",
     "provenance": "Shijing (Classic of Poetry), Airs of Bei, “Jing nü”; Chinese text from Chinese Wikisource.",
     "location": "Complete poem, arranged as 12 lines",
-    "translation": "The traditional collection title does not mean Confucius authored the poem; modern translations are separate. Passage update (29 October 2026): Complete poem, arranged as 12 lines, original Chinese with English. The precise identity of 彤管, rendered “red reed”, is uncertain. In the last stanza, the speaker addresses the gift. Translation update (30 October 2026): English newly translated from the Chinese, replacing an earlier English version whose origin was not recorded; Cranmer-Byng's 1909 version is not used. Fresh English translation by Claude (Anthropic AI); draft for editorial review.",
+    "translation": "The traditional collection title does not mean Confucius authored the poem; modern translations are separate. Passage update (29 October 2026): Complete poem, arranged as 12 lines, original Chinese with English. In the last stanza, the speaker addresses the gift. Translation update (30 October 2026): English newly translated from the Chinese, replacing an earlier English version whose origin was not recorded; Cranmer-Byng's 1909 version is not used. Fresh English translation by Claude (Anthropic AI); draft for editorial review. Revision (2 November 2026): 彤管 (literally 'red tube') is now translated 'red writing brush'. The oldest commentary (Mao) explains it as the red-lacquered brush used by literate women of the court to keep records, and writing brushes were made from such bamboo tubes; some later readers take it as a red reed or shoot.",
     "rights": "Ancient anonymous poem, public domain. New English translation from the Chinese; Cranmer-Byng's 1909 version is not used. Anthology review (30 October 2026): the poet died centuries ago and the poem was in print long before 1989, so it is public domain in the UK, EU and US; the online text is a transcription of a historical text, with no new authorship.",
     "source": "Chinese Wikisource: 詩經/靜女",
     "id": "china",
@@ -1821,13 +1821,13 @@ window.ARCHIVE = [
     },
     "passage": {
       "original": "靜女其姝，\n俟我於城隅，\n愛而不見，\n搔首踟躕。\n靜女其孌，\n貽我彤管，\n彤管有煒，\n說懌女美。\n自牧歸荑，\n洵美且異，\n匪女之為美，\n美人之貽。",
-      "english": "The quiet girl is lovely;\nshe waits for me at the corner of the city wall.\nShe hides and will not show herself;\nI scratch my head and walk up and down.\nThe quiet girl is fair;\nshe gives me a red reed.\nThe red reed glows,\nand I delight in how fine you are.\nFrom the pastures she brings me a young shoot,\ntruly beautiful and rare.\nIt is not you, little shoot, that are beautiful:\nyou are the gift of a beautiful girl.",
+      "english": "The quiet girl is lovely;\nshe waits for me at the corner of the city wall.\nShe hides and will not show herself;\nI scratch my head and walk up and down.\nThe quiet girl is fair;\nshe gives me a red writing brush.\nThe red brush gleams,\nand I delight in how fine you are.\nFrom the pastures she brings me a young shoot,\ntruly beautiful and rare.\nIt is not you, little shoot, that are beautiful:\nyou are the gift of a beautiful girl.",
       "status": "draft"
     },
     "links": [
       {
         "label": "Read the whole work",
-        "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9D%9C%E5%A5%B3"
+        "url": "https://ctext.org/book-of-poetry/jing-nu/ens"
       },
       {
         "label": "Rights / catalogue",
@@ -1842,8 +1842,8 @@ window.ARCHIVE = [
         "url": "https://www.gutenberg.org/ebooks/390"
       },
       {
-        "label": "Earlier link: Read text",
-        "url": "https://www.gutenberg.org/cache/epub/390/pg390-images.html"
+        "label": "Chinese text: Chinese Wikisource",
+        "url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93/%E9%9D%9C%E5%A5%B3"
       }
     ]
   },
