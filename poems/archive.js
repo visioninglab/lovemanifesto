@@ -131,6 +131,24 @@
       layoutSwitch.append(button);
     });
 
+    // Search sits behind a button and drops down a text box
+    const searchToggle = $("search-toggle");
+    const searchDrop = $("search-drop");
+    const setSearchOpen = (open, focus = true) => {
+      searchToggle.setAttribute("aria-expanded", open);
+      searchDrop.hidden = !open;
+      searchBadge();
+      if (open && focus) search.focus();
+    };
+    searchToggle.addEventListener("click", () => setSearchOpen(searchDrop.hidden));
+    search.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        setSearchOpen(false);
+        searchToggle.focus();
+      }
+    });
+    if (state.q) setSearchOpen(true, false); // opened by a shared link: no keyboard pop-up
+
     filterToggle.addEventListener("click", () => {
       const open = filterToggle.getAttribute("aria-expanded") !== "true";
       filterToggle.setAttribute("aria-expanded", open);
@@ -174,6 +192,11 @@
     $("filters").addEventListener("click", (event) => {
       if (!event.target.closest("input, select, button, a, label") && window.scrollY > 0) toTop();
     });
+  }
+
+  // A dot on the Search button when a search is active but its box is closed
+  function searchBadge() {
+    $("search-badge").hidden = !(state.q.trim() && $("search-drop").hidden);
   }
 
   function showLayout() {
@@ -247,6 +270,7 @@
     resultCount.textContent = `${shown} ${shown === 1 ? "result" : "results"}`;
 
     showEmpty(shown);
+    searchBadge();
     saveToAddress();
   }
 

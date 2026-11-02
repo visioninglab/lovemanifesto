@@ -114,14 +114,18 @@ a { color: var(--accent); }
   border-bottom: 1px solid var(--line);
 }
 
-.filter-bar { display: flex; gap: 0.5rem; align-items: center; }
-.search { flex: 1; }
+/* One row: the Search button, then the filters (behind a Filters button on phones) */
+.filter-bar { display: flex; flex-wrap: wrap; gap: 0.5rem 0.75rem; align-items: flex-end; }
+.search { display: block; }
+/* The search box opens on its own line: below the filters on computers, straight under the buttons on phones */
+.search-drop { flex-basis: 100%; order: 2; margin-top: 0.1rem; }
+.search-drop[hidden] { display: none; }
 
 .filter-toggle {
-  display: none;
+  display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  padding: 0.7rem 1rem;
+  padding: 0.4rem 1rem;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: var(--card);
@@ -130,6 +134,10 @@ a { color: var(--accent); }
   font-size: 0.95rem;
   cursor: pointer;
 }
+
+.filter-toggle[aria-expanded="true"] { border-color: var(--accent); background: var(--accent-soft); }
+.toggle-icon { font-size: 1.15rem; line-height: 1; }
+.filters-only { display: none; }
 
 .filter-badge {
   min-width: 1.35rem;
@@ -148,8 +156,6 @@ a { color: var(--accent); }
   flex-wrap: wrap;
   gap: 0.75rem 1rem;
   align-items: flex-end;
-  justify-content: space-between;
-  margin-top: 0.75rem;
 }
 
 .filter-selects { display: flex; flex-wrap: wrap; gap: 0.5rem; }
@@ -189,12 +195,13 @@ a { color: var(--accent); }
   cursor: pointer;
 }
 
-/* Phones: search and a Filters button; the options open beneath them */
+/* Phones: Search and Filters buttons side by side; each opens beneath them */
 @media (max-width: 40rem) {
-  .filter-toggle { display: inline-flex; }
+  .filter-toggle { flex: 1; justify-content: center; padding: 0.65rem 1rem; }
+  .filters-only { display: inline-flex; }
   .filter-panel { display: none; }
-  .filters.panel-open .filter-panel { display: block; }
-  .filter-selects { display: grid; grid-template-columns: 1fr 1fr; margin-top: 0.75rem; }
+  .filters.panel-open .filter-panel { display: block; flex-basis: 100%; order: 3; }
+  .filter-selects { display: grid; grid-template-columns: 1fr 1fr; margin-top: 0.25rem; }
   .filter-select select { width: 100%; padding: 0.55rem 0.5rem; font-size: 1rem; }
   .search input { padding: 0.7rem 1rem; }
 }
