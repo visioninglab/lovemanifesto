@@ -57,8 +57,9 @@
     period: params.get("period") || "",
     sort: params.get("sort") || "country",
   };
-  let layout = "full";
-  try { layout = localStorage.getItem("lm-layout") || "full"; } catch (e) { /* storage unavailable */ }
+  // Phones start with the compact list; a reader's own choice is remembered
+  let layout = window.matchMedia("(max-width: 40rem)").matches ? "titles" : "full";
+  try { layout = localStorage.getItem("lm-layout") || layout; } catch (e) { /* storage unavailable */ }
 
   function renderEntry(entry) {
     const item = el("li", entry.passage ? "entry has-poem" : "entry");
@@ -161,6 +162,20 @@
     });
   }
 
+  // Back to the top: a button that appears once the reader has scrolled, and a tap on the search bar's background
+  function setUpBackToTop() {
+    const button = $("back-to-top");
+    const smooth = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+    const toTop = () => window.scrollTo({ top: 0, behavior: smooth });
+    button.addEventListener("click", toTop);
+    const onScroll = () => { button.hidden = window.scrollY < window.innerHeight; };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+    $("filters").addEventListener("click", (event) => {
+      if (!event.target.closest("input, select, button, a, label") && window.scrollY > 0) toTop();
+    });
+  }
+
   function showLayout() {
     list.classList.toggle("titles-only", layout === "titles");
     layoutSwitch.querySelectorAll(".chip").forEach((b) => b.setAttribute("aria-pressed", b.dataset.layout === layout));
@@ -260,6 +275,7 @@
   // A link to a country (e.g. from the map) opens that entry
   const linked = entries.find((e) => e.id === decodeURIComponent(location.hash.slice(1)));
   buildControls();
+  setUpBackToTop();
   showLayout();
   sortEntries();
   update();
