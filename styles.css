@@ -10,8 +10,12 @@
   --accent-soft: #f3e3df;
   --serif: "Cormorant Garamond", Georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
-  /* Map: every country with an entry */
-  --cat-poem: #a34a4a;
+  /* Map: one green, darker for older works; traditional or undated works stay neutral */
+  --period-before-1500: #1d5631;
+  --period-1500-1899: #2f7a47;
+  --period-1900-1999: #4f9d64;
+  --period-2000: #7dbb8a;
+  --period-none: #d6cfc3;
   --no-entry: #f0ebe4;
 }
 
@@ -24,7 +28,12 @@
     --line: #3a332e;
     --accent: #e08e85;
     --accent-soft: #3b2724;
-    --cat-poem: #e08e85;
+    /* Dark mode: the ramp flips so older works are the brightest */
+    --period-before-1500: #a6dbb0;
+    --period-1500-1899: #6fbf82;
+    --period-1900-1999: #43965a;
+    --period-2000: #2d6e41;
+    --period-none: #4a443e;
     --no-entry: #2e2825;
   }
 }
@@ -385,7 +394,23 @@ a { color: var(--accent); }
 }
 
 #map .country.no-entry { fill: var(--no-entry); }
-#map .cat-poem { fill: var(--cat-poem); }
+#map .period-before-1500 { fill: var(--period-before-1500); }
+#map .period-1500-1899 { fill: var(--period-1500-1899); }
+#map .period-1900-1999 { fill: var(--period-1900-1999); }
+#map .period-2000 { fill: var(--period-2000); }
+#map .period-none { fill: var(--period-none); }
+
+.legend-wrap { font-size: 0.9rem; }
+.legend-title { margin: 0 0 0.25rem; color: var(--muted); font-size: 0.8rem; }
+.legend { display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; margin: 0; padding: 0; list-style: none; }
+.legend li { display: flex; gap: 0.4rem; align-items: center; }
+.legend-count { color: var(--muted); }
+.swatch { width: 0.8rem; height: 0.8rem; border-radius: 3px; }
+.swatch.period-before-1500 { background: var(--period-before-1500); }
+.swatch.period-1500-1899 { background: var(--period-1500-1899); }
+.swatch.period-1900-1999 { background: var(--period-1900-1999); }
+.swatch.period-2000 { background: var(--period-2000); }
+.swatch.period-none { background: var(--period-none); }
 
 #map .country:not(.no-entry), #map .dot { cursor: pointer; }
 #map .country:not(.no-entry):hover { opacity: 0.8; }

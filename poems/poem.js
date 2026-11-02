@@ -93,5 +93,33 @@ window.Poem = (function () {
     return a;
   }
 
-  return { el, heading, passage, historyNote, sourceLink };
+  // A sortable year from labels such as "c. 600 BCE", "13th century", "before 1933" or "by 2016"
+  function sortYear(label) {
+    const text = (label || "").toLowerCase();
+    const century = text.match(/(\d+)(st|nd|rd|th) century/);
+    if (century) return (Number(century[1]) - 1) * 100 + 50;
+    const number = text.match(/\d+/);
+    if (!number) return null;
+    const year = Number(number[0]);
+    if (/bce/.test(text) || text.trim().startsWith("-")) return -year;
+    if (/before/.test(text)) return year - 1;
+    if (/early \d+s/.test(text)) return year + 10;
+    return year;
+  }
+
+  // Periods, oldest first (shared by the Poems page filter and the map's shading)
+  const PERIODS = [
+    ["before-1500", "Before 1500", (y) => y < 1500],
+    ["1500-1899", "1500 to 1899", (y) => y >= 1500 && y < 1900],
+    ["1900-1999", "1900 to 1999", (y) => y >= 1900 && y < 2000],
+    ["2000", "2000 onwards", (y) => y >= 2000],
+  ];
+
+  function periodOf(entry) {
+    const year = sortYear(entry.year);
+    const found = year === null ? null : PERIODS.find(([, , test]) => test(year));
+    return found ? found[0] : null;
+  }
+
+  return { el, heading, passage, historyNote, sourceLink, sortYear, PERIODS, periodOf };
 })();

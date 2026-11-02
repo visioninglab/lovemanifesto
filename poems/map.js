@@ -32,7 +32,9 @@
   // Not in the 1:50m map at all: [longitude, latitude]
   const EXTRA_POINTS = { Tuvalu: [179.2, -8.5] };
 
-  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink, PERIODS, periodOf } = window.Poem;
+  // Shade each country by the age of its work: darker is older
+  const shade = (entry) => `period-${periodOf(entry) || "none"}`;
 
   const entries = window.ARCHIVE || [];
   const byAtlasName = new Map(entries.map((e) => [ATLAS_NAMES[e.country] || e.country, e]));
@@ -49,6 +51,17 @@
   let selectedId = null;
   let zoomScale = 1;
 
+  function renderLegend() {
+    const legend = document.getElementById("legend");
+    const keys = [...PERIODS.map(([key, label]) => [key, label]), ["none", "Traditional or undated"]];
+    keys.forEach(([key, label]) => {
+      const count = entries.filter((e) => (periodOf(e) || "none") === key).length;
+      const li = el("li");
+      li.append(el("span", `swatch period-${key}`), label, el("span", "legend-count", String(count)));
+      legend.append(li);
+    });
+  }
+
   function renderSelect() {
     entries.forEach((e) => select.add(new Option(e.country, e.id)));
     select.addEventListener("change", () => select.value && choose(select.value, true));
@@ -60,7 +73,8 @@
     country.textContent = entry.country;
     const title = document.createElement("span");
     title.textContent = entry.display.english || entry.display.title;
-    tooltip.append(country, title);
+    const when = el("span", "tooltip-year", entry.year);
+    tooltip.append(country, title, when);
     tooltip.hidden = false;
     const box = frame.getBoundingClientRect();
     const x = event.clientX - box.left;
@@ -138,7 +152,7 @@
       .data(features)
       .join("path")
       .attr("d", path)
-      .attr("class", (d) => (d.entry ? "country cat-poem" : "country no-entry"))
+      .attr("class", (d) => (d.entry ? `country ${shade(d.entry)}` : "country no-entry"))
       .filter((d) => d.entry)
       .call(interactive);
 
@@ -154,7 +168,7 @@
       .selectAll("g.dot")
       .data(dots)
       .join("g")
-      .attr("class", "dot cat-poem")
+      .attr("class", (d) => `dot ${shade(d.entry)}`)
       .attr("transform", (d) => `translate(${d.point})`)
       .call(interactive);
     dot.append("circle").attr("class", "dot-hit");
@@ -213,6 +227,7 @@
   document.getElementById("zoom-out").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 1 / 1.8));
   document.getElementById("zoom-reset").addEventListener("click", () => svg.transition().call(zoom.transform, d3.zoomIdentity));
 
+  renderLegend();
   renderSelect();
 
   const chooseFromLink = () => {
