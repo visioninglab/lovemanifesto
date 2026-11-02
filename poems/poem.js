@@ -79,7 +79,7 @@ window.Poem = (function () {
   // Labels from the spreadsheet that say what the reader will find; anything else is a research note
   const READER_LABELS = new Set([
     "Listen to the song", "Listen to the poem", "Watch the video", "Read the lyrics", "Read the text",
-    "Read about it", "Read about the poet",
+    "Read about it", "Read about the poet", "Read the story",
   ]);
 
   function sourceLink(entry) {
