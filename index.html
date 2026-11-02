@@ -25,22 +25,37 @@
   </header>
 
   <main class="archive">
-    <form class="filters" role="search" onsubmit="return false">
-      <label class="search">
-        <span class="visually-hidden">Search the poems</span>
-        <input id="search" type="search" placeholder="Search by country, poet or word" autocomplete="off">
-      </label>
-      <div class="view-switch" id="view-switch" role="group" aria-label="What to show"></div>
-      <p class="view-note" id="view-note" aria-live="polite"></p>
+    <form class="filters" id="filters" role="search" onsubmit="return false">
+      <div class="filter-bar">
+        <label class="search">
+          <span class="visually-hidden">Search the poems</span>
+          <input id="search" type="search" placeholder="Search a country, poet, language or word" autocomplete="off" enterkeyhint="search">
+        </label>
+        <button type="button" class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filter-panel">Filters<span class="filter-badge" id="filter-badge" hidden></span></button>
+      </div>
+      <div class="filter-panel" id="filter-panel">
+        <div class="view-switch" id="view-switch" role="group" aria-label="What to show"></div>
+        <div class="filter-selects">
+          <label class="filter-select"><span>Region</span><select id="filter-region"></select></label>
+          <label class="filter-select"><span>Type</span><select id="filter-type"></select></label>
+          <label class="filter-select"><span>Period</span><select id="filter-period"></select></label>
+          <label class="filter-select"><span>Sort</span><select id="filter-sort"></select></label>
+        </div>
+      </div>
+      <div class="filter-summary">
+        <p class="result-count" id="result-count" aria-live="polite"></p>
+        <button type="button" class="link-button" id="clear-filters" hidden>Clear all</button>
+        <div class="layout-switch" id="layout-switch" role="group" aria-label="How to show each entry"></div>
+      </div>
     </form>
+
+    <p class="view-note" id="view-note"></p>
 
     <nav class="alphabet" id="alphabet" aria-label="Jump to countries by letter"></nav>
 
-    <p class="result-count" id="result-count" aria-live="polite"></p>
-
     <ol class="entries" id="entries"></ol>
 
-    <p class="empty" id="empty" hidden>Nothing matches that search.</p>
+    <div class="empty" id="empty" hidden></div>
 
     <section class="about" id="about" aria-labelledby="about-title">
       <h2 id="about-title">About this project</h2>
