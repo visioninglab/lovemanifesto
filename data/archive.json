@@ -9904,51 +9904,39 @@
     "refId": "ML-190",
     "country": "Vanuatu",
     "continent": "Oceania",
-    "title": "The Story of Basi and Dovaowari",
-    "titleEnglish": "The Story of Basi and Dovaowari",
-    "creator": "Unnamed local narrator/writer; translated by R. H. Codrington (1830–1922)",
-    "openOriginal": "Historical version only",
-    "referenceType": "Named oral tale (full historical translation)",
-    "form": "Oral tale",
-    "genderGroup": "Unknown",
-    "year": "1891",
-    "language": "Maewo (Aurora) tradition; historical English translation",
+    "title": "Miracle of Love",
+    "titleEnglish": "Miracle of Love",
+    "creator": "Vanessa Quai",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Song",
+    "genderGroup": "Women",
+    "year": "2018",
+    "language": "English",
     "tradition": "",
-    "formDetails": "Oral tale",
-    "genderDetails": "Traditional composer / storyteller unknown; see creator and version notes",
-    "originalDate": "Written down before 1887; published Oxford, 1891",
-    "editionDate": "The Melanesians: Studies in their Anthropology and Folklore, chapter XIX, III.12",
-    "description": "Basi chooses Dovaowari despite his poverty and insists on becoming his wife. Their marriage ends tragically after he plots to kill her snake-mother.",
-    "provenance": "Codrington, 1891, chapter XIX, Wonder Tales, no.12, explicitly labelled Aurora (Maewo, Vanuatu). Introduction says these stories were translated from manuscripts written by islanders.",
-    "location": "Chapter XIX, III.12, The Story of Basi and Dovaowari",
-    "translation": "Romantic attraction and choice open the tale, followed by marital cruelty and a fatal family conflict. Reuse is limited to Codrington’s historical English version. Native manuscripts, modern translations and customary community rights are separate.",
-    "rights": "Historical English translation published 1891; translator Codrington died 1922, beyond life-plus-70. This does not establish reuse rights for every native version, modern adaptation, image or recording.",
-    "source": "Work-specific text, date and provenance sources checked 29 October 2026.",
+    "formDetails": "Love song",
+    "genderDetails": "Woman",
+    "originalDate": "Album Promise, 2018",
+    "editionDate": "",
+    "description": "A love song from Promise (2018), the album by Vanuatu's best-known singer.",
+    "provenance": "Vanessa Quai, Promise (CHM Supersound, 2018); official audio on YouTube.",
+    "location": "",
+    "translation": "Romantic attraction and choice open the tale, followed by marital cruelty and a fatal family conflict. Reuse is limited to Codrington’s historical English version. Native manuscripts, modern translations and customary community rights are separate. Work changed (2 November 2026): the 1891 tale recorded by the missionary R. H. Codrington, whose account dwells on 'natives', is replaced by a modern love song by a ni-Vanuatu singer. No ni-Vanuatu love poem with a text online was found.",
+    "rights": "In copyright: described and linked only; no recording is reproduced here. Changed 2 November 2026.",
+    "source": "Official audio, Vanessa Quai – Topic",
     "id": "vanuatu",
-    "contextNote": "The English missionary Robert Codrington gathered this tale on Maewo and published it in The Melanesians (1891). The islands, ruled jointly by Britain and France as the New Hebrides, became independent as Vanuatu in 1980.",
-    "formGroup": "Narrative & oral",
+    "contextNote": "Vanuatu, a nation of more than 80 islands in the South Pacific, became independent in 1980. More than 100 languages are spoken there, the most for its size of any country, with Bislama as the language everyone shares. Vanessa Quai is one of its best-known singers, with a following across the Pacific.",
+    "formGroup": "Song",
     "display": {
-      "title": "The Story of Basi and Dovaowari",
+      "title": "Miracle of Love",
       "english": "",
-      "creator": "Unnamed local narrator/writer; translated by R. H. Codrington",
-      "language": "Maewo tradition; historical English translation"
+      "creator": "Vanessa Quai",
+      "language": "English"
     },
     "links": [
       {
-        "label": "Work / text",
-        "url": "https://en.wikisource.org/wiki/The_Melanesians:_Studies_in_their_Anthropology_and_Folklore/Chapter_19"
-      },
-      {
-        "label": "Rights / catalogue",
-        "url": "https://en.wikisource.org/wiki/The_Melanesians:_Studies_in_their_Anthropology_and_Folklore/Chapter_19"
-      },
-      {
-        "label": "Date / edition",
-        "url": "https://en.wikisource.org/wiki/The_Melanesians:_Studies_in_their_Anthropology_and_Folklore"
-      },
-      {
-        "label": "Creator / country",
-        "url": "https://anglicanhistory.org/oceania/codrington/obituary1922.html"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=6o59vb1In0c"
       }
     ]
   },
