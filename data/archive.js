@@ -8396,7 +8396,7 @@ window.ARCHIVE = [
     "rights": "In copyright. Not reproduced; listed with a description and link only.",
     "source": "Official music video on the Real 17 YouTube channel",
     "id": "solomon-islands",
-    "contextNote": "Pijin is the shared language of the Solomon Islands, where more than 60 languages are spoken; it grew from the plantation English of the nineteenth-century labour trade.",
+    "contextNote": "Pijin is the shared language of the Solomon Islands, where more than 60 languages are spoken; it grew from the plantation English of the nineteenth-century labour trade. Real 17 released this song in 2023 on the artist's own YouTube channel, featuring the singer Slum Kid, alongside other love songs such as “Kilim Love” and “Aiyo Joyce”.",
     "formGroup": "Song",
     "display": {
       "title": "Ghema Mi Lovem You",
