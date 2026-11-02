@@ -957,7 +957,7 @@ window.ARCHIVE = [
     "description": "The breakout hit of the Cotonou singer Madano, an afrobeat love song sung in French.",
     "provenance": "Recording",
     "location": "",
-    "translation": "Work changed (30 October 2026): replaced L’Esclave (Félix Couchoro (1900–1968)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "translation": "Work changed (30 October 2026): replaced L’Esclave (Félix Couchoro (1900–1968)), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online. Link changed (2 November 2026) to a version without adverts: alternative upload.",
     "rights": "In copyright. Not reproduced; listed with a description and link only.",
     "source": "Official music video on Madano's YouTube channel; Benin Web TV on his 2023 Primud performance",
     "id": "benin",
@@ -972,7 +972,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=4TfTQVkelBY"
+        "url": "https://www.youtube.com/watch?v=ljXWL34EhD4"
       }
     ]
   },
@@ -1393,7 +1393,7 @@ window.ARCHIVE = [
     "description": "A Kirundi ballad about the tears that love brings.",
     "provenance": "Audio video with lyrics on Kidum's YouTube channel.",
     "location": "",
-    "translation": "Work changed (30 October 2026) after the sensitivity review: the duet whose singer could not be confirmed as Burundian is replaced by a Kirundi love song by Burundi's best-known singer.",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: the duet whose singer could not be confirmed as Burundian is replaced by a Kirundi love song by Burundi's best-known singer. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
     "source": "Audio video with lyrics on Kidum's YouTube channel.",
     "id": "burundi",
@@ -1408,7 +1408,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=dUWJVNy7His"
+        "url": "https://www.youtube.com/watch?v=dWycqNufhKo"
       },
       {
         "label": "Earlier link: notjustok.com",
@@ -1998,37 +1998,37 @@ window.ARCHIVE = [
     "continent": "Oceania",
     "title": "My Endless Love",
     "titleEnglish": "My Endless Love",
-    "creator": "Papa Turoa Taia (Tongareva 5); sung by Valerie Veiao with Rudolph Daniel",
+    "creator": "Tongareva Five (song by Papa Turoa Taia)",
     "openOriginal": "No",
     "referenceType": "Named work",
     "form": "Song",
-    "genderGroup": "Mixed",
-    "year": "2019",
+    "genderGroup": "Men",
+    "year": "by 2026",
     "language": "Cook Islands song",
     "tradition": "",
     "formDetails": "Love song",
-    "genderDetails": "Man composer; woman singer",
-    "originalDate": "Composed for Tongareva 5's first album; this performance 2019",
+    "genderDetails": "Men",
+    "originalDate": "From Tongareva Five's first album, My Endless Love",
     "editionDate": "",
     "description": "Papa Turoa Taia's song about his first love: as the deer longs for flowing streams, so he longs for her.",
-    "provenance": "Performance by Valerie Veiao and Rudolph Daniel for The Coconet TV, 2019.",
+    "provenance": "Tongareva Five, 'Materau / My Endless Love' (official visualiser on the band's YouTube channel).",
     "location": "",
-    "translation": "Added 2 November 2026. No Cook Islands love poem with a text online was found, so this is a love song.",
+    "translation": "Added 2 November 2026. No Cook Islands love poem with a text online was found, so this is a love song. Link changed (2 November 2026) to a version without adverts: Tongareva Five's official visualiser.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
     "source": "The Coconet TV, YouTube",
     "id": "cook-islands",
-    "contextNote": "The Cook Islands, fifteen islands in the South Pacific, govern themselves in free association with New Zealand. Papa Turoa Taia, lead singer of the band Tongareva 5, wrote this song about his first love, borrowing an image from Psalm 42; Valerie Veiao, whose grandfather played in the band, sings it here.",
+    "contextNote": "The Cook Islands, fifteen islands in the South Pacific, govern themselves in free association with New Zealand. Papa Turoa Taia, lead singer of the band Tongareva 5, wrote this song about his first love, borrowing an image from Psalm 42; the band came from Tongareva (Penrhyn), the most remote of the northern Cook Islands.",
     "formGroup": "Song",
     "display": {
       "title": "My Endless Love",
       "english": "",
-      "creator": "Papa Turoa Taia; sung by Valerie Veiao with Rudolph Daniel",
+      "creator": "Tongareva Five",
       "language": "Cook Islands song"
     },
     "links": [
       {
-        "label": "Watch the video",
-        "url": "https://www.youtube.com/watch?v=AU66ag8PemQ"
+        "label": "Listen to the song",
+        "url": "https://www.youtube.com/watch?v=lwPl2AFONBA"
       }
     ]
   },
@@ -3646,7 +3646,7 @@ window.ARCHIVE = [
     "description": "A tender love song in which the singer asks his beloved to cradle and rock him.",
     "provenance": "Official video on the Syllart Records YouTube channel.",
     "location": "",
-    "translation": "Work changed (30 October 2026) after the sensitivity review: Habib Koité's instrumental, which had no words and was also used for Mali, is replaced by a love song by Guinea's best-known singer.",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: Habib Koité's instrumental, which had no words and was also used for Mali, is replaced by a love song by Guinea's best-known singer. Link changed (2 November 2026) to a version without adverts: live performance by Sékouba Bambino with Gabriel Saglio & Le Bal des Griots.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
     "source": "Official video on the Syllart Records YouTube channel.",
     "id": "guinea",
@@ -3661,7 +3661,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Watch the video",
-        "url": "https://www.youtube.com/watch?v=oC4mS-401d0"
+        "url": "https://www.youtube.com/watch?v=yi46bCrY0xM"
       },
       {
         "label": "Earlier link: old.afropop.org",
@@ -4786,7 +4786,7 @@ window.ARCHIVE = [
     "description": "A love song telling the beloved that without them there would be no song and no light.",
     "provenance": "Official channel of Nexhmije Pagarusha (Bzzz Entertainment, 2017 collection).",
     "location": "",
-    "translation": "Added 2 November 2026. No Kosovar love poem with an English text online was found, so this is a love song by Kosovo's best-loved singer.",
+    "translation": "Added 2 November 2026. No Kosovar love poem with an English text online was found, so this is a love song by Kosovo's best-loved singer. Link changed (2 November 2026) to a version without adverts: official audio.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Added 2 November 2026.",
     "source": "Official YouTube channel, Nexhmije Pagarusha",
     "id": "kosovo",
@@ -4801,7 +4801,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=oUnUCxmBsxE"
+        "url": "https://www.youtube.com/watch?v=z6fSdYqt2Pc"
       }
     ]
   },
@@ -5379,7 +5379,7 @@ window.ARCHIVE = [
     "description": "A Malagasy love song; fitiavana means love and mahery means strong.",
     "provenance": "Recording",
     "location": "",
-    "translation": "Work changed (30 October 2026): replaced None (Malagasy community poets), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online.",
+    "translation": "Work changed (30 October 2026): replaced None (Malagasy community poets), which had no copy the public can read or hear online, with a work by a local writer or artist that can be found online. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "In copyright. Not reproduced; listed with a description and link only.",
     "source": "Official video on Mr Sayda's YouTube channel",
     "id": "madagascar",
@@ -5394,7 +5394,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=VcWoROFzJ8Q"
+        "url": "https://www.youtube.com/watch?v=wLCpyV46urM"
       }
     ]
   },
@@ -5959,7 +5959,7 @@ window.ARCHIVE = [
     "description": "A plea for time to love before destruction; love is linked with antiwar themes.",
     "provenance": "Monaco Eurovision entry, 1967. Singer later acquired Monegasque nationality; country tag here refers to representation.",
     "location": "",
-    "translation": "No complete English translation verified. Original text, translation, edition and any recording require separate rights review.",
+    "translation": "No complete English translation verified. Original text, translation, edition and any recording require separate rights review. Link changed (2 November 2026) to a version without adverts: same Eurovision 1967 performance.",
     "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
     "source": "EBU credits; lyric evidence:",
     "id": "monaco",
@@ -5973,8 +5973,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=aPwd6IKgGQQ"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=K3sDCRt_yhc"
       },
       {
         "label": "eurovision-spain.com",
@@ -7676,7 +7676,7 @@ window.ARCHIVE = [
     "description": "A love duet by Rwandan singer The Ben and Ugandan singer Rema Namakula.",
     "provenance": "Rwandan-Ugandan duet; distributor dates 30 December 2020.",
     "location": "",
-    "translation": "Full credited English translation not selected; original, translation and recording rights require separate review.",
+    "translation": "Full credited English translation not selected; original, translation and recording rights require separate review. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
     "source": "Mdundo 4 January 2021; primary distributor",
     "id": "rwanda",
@@ -7691,7 +7691,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=8_kLaHOMYMw"
+        "url": "https://www.youtube.com/watch?v=7R-eP7-tHiM"
       },
       {
         "label": "music.apple.com",
@@ -7808,7 +7808,7 @@ window.ARCHIVE = [
     "description": "The soca love song that made Vincentian music a worldwide hit.",
     "provenance": "Breakthrough recording by Vincentian singer; artist biography documents origin.",
     "location": "",
-    "translation": "No translation needed; recording, explicit context and co-writer credits require review.",
+    "translation": "No translation needed; recording, explicit context and co-writer credits require review. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
     "source": "Artist-owned SoundCloud biography and named breakout song",
     "id": "saint-vincent-and-the-grenadines",
@@ -7823,7 +7823,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=GP3Exc5tCtc"
+        "url": "https://www.youtube.com/watch?v=EMleRHUGezU"
       },
       {
         "label": "Earlier link: soundcloud.com",
@@ -8121,7 +8121,7 @@ window.ARCHIVE = [
     "description": "Singer explains original song mourns a girlfriend who died.",
     "provenance": "2015 Seychellois remake recorded Kidion Records, Mont Buxton.",
     "location": "",
-    "translation": "Adaptation from Reunion repertoire, not claimed as Seychelles original. Translator/adaptor and permission to verify.",
+    "translation": "Adaptation from Reunion repertoire, not claimed as Seychelles original. Translator/adaptor and permission to verify. Link changed (2 November 2026) to a version without adverts: alternative upload.",
     "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
     "source": "Seychelles News Agency, direct interview 16 April 2016",
     "id": "seychelles",
@@ -8136,7 +8136,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=12-R1xUHHIs"
+        "url": "https://www.youtube.com/watch?v=6BD_tXBva1k"
       },
       {
         "label": "Earlier link: seychellesnewsagency.com",
@@ -9095,7 +9095,7 @@ window.ARCHIVE = [
     "description": "The singer asks his beloved whether she would still love him if he lost his fame and fortune.",
     "provenance": "Official lyric video with English translation, on Diamond Platnumz's YouTube channel.",
     "location": "",
-    "translation": "Work changed (30 October 2026) after the sensitivity review: the tale collected under German colonial rule is replaced by a Swahili love song by Tanzania's biggest star.",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: the tale collected under German colonial rule is replaced by a Swahili love song by Tanzania's biggest star. Link changed (2 November 2026) to a version without adverts: same lyric video with English translation.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
     "source": "Official lyric video with English translation, on Diamond Platnumz's YouTube channel.",
     "id": "tanzania",
@@ -9110,7 +9110,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Watch the video",
-        "url": "https://www.youtube.com/watch?v=LSk_M7d_OWM"
+        "url": "https://www.youtube.com/watch?v=tC6yYfM62vU"
       }
     ]
   },
@@ -9187,7 +9187,7 @@ window.ARCHIVE = [
     "description": "A love song in Tetum; its title means “Illusion”.",
     "provenance": "Single launched Dili 11 February 2022, reported by national agency Tatoli.",
     "location": "",
-    "translation": "Full credited translation and exact lyric scope still to verify.",
+    "translation": "Full credited translation and exact lyric scope still to verify. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "Lyric, musical setting, translation, performance and recording rights require separate review. Age or online access is not permission.",
     "source": "Tatoli, artist press conference and national provenance",
     "id": "timor-leste",
@@ -9202,7 +9202,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=82TyzOo_L8U"
+        "url": "https://www.youtube.com/watch?v=ryyvNHTG2Go"
       },
       {
         "label": "Earlier link: tatoli.tl",
@@ -9275,7 +9275,7 @@ window.ARCHIVE = [
     "description": "A Tongan love song, one of the many sung across the islands and the diaspora.",
     "provenance": "YouTube upload in a collection of Tongan love songs.",
     "location": "",
-    "translation": "Work changed (30 October 2026) after the sensitivity review: William Mariner's 1817 account, written by an English outsider, is replaced by a love song in Tongan.",
+    "translation": "Work changed (30 October 2026) after the sensitivity review: William Mariner's 1817 account, written by an English outsider, is replaced by a love song in Tongan. Link changed (2 November 2026) to a version without adverts: lyric video.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Sensitivity review, 30 October 2026.",
     "source": "YouTube upload in a collection of Tongan love songs.",
     "id": "tonga",
@@ -9290,7 +9290,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=z5gAYr5YP_0"
+        "url": "https://www.youtube.com/watch?v=tBCWu4RpkTQ"
       }
     ]
   },
@@ -9315,7 +9315,7 @@ window.ARCHIVE = [
     "description": "A soca love song in which the singer calls out to the woman who has caught his heart.",
     "provenance": "Official music video on the Kes the Band YouTube channel.",
     "location": "",
-    "translation": "Work changed (30 October 2026) after the whole-poem review: Philip's Emmanuel Appadocca (1854), which caricatures a Black boy and calls Indigenous people 'savages', is replaced; no love poem by a Trinidadian poet that could be linked was found, so this is a love song by one of Trinidad's leading soca bands.",
+    "translation": "Work changed (30 October 2026) after the whole-poem review: Philip's Emmanuel Appadocca (1854), which caricatures a Black boy and calls Indigenous people 'savages', is replaced; no love poem by a Trinidadian poet that could be linked was found, so this is a love song by one of Trinidad's leading soca bands. Link changed (2 November 2026) to a version without adverts: Kes performing it for BBC Radio 1 Xtra's Live Lounge.",
     "rights": "In copyright: described and linked only; no text or recording is reproduced here. Whole-poem review, 30 October 2026.",
     "source": "Official music video on the Kes the Band YouTube channel.",
     "id": "trinidad-and-tobago",
@@ -9330,7 +9330,7 @@ window.ARCHIVE = [
     "links": [
       {
         "label": "Watch the video",
-        "url": "https://www.youtube.com/watch?v=6bC5ctyjr6c"
+        "url": "https://www.youtube.com/watch?v=sLV8r4FZM5Y"
       }
     ]
   },
@@ -10233,7 +10233,7 @@ window.ARCHIVE = [
     "description": "Mtukudzi's love song to his wife Daisy, whom he calls his rib: the one made for him and closest to his heart.",
     "provenance": "Oliver Mtukudzi, Svovi Yangu (Tuku Music, 1996); official audio on YouTube.",
     "location": "",
-    "translation": "Foreign British author; country association is the imagined Zimbabwe setting. Colonial stereotypes, antisemitism and coercive obsession occur in the novel. The mutual love of Benita and Robert is distinct from Meyer’s pursuit. Use original text critically. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only. Revision (30 October 2026): the linked recording is 'Mbabvu Yangu' from the album Svovi Yangu (1996), so the entry now uses the song's own title.",
+    "translation": "Foreign British author; country association is the imagined Zimbabwe setting. Colonial stereotypes, antisemitism and coercive obsession occur in the novel. The mutual love of Benita and Robert is distinct from Meyer’s pursuit. Use original text critically. Work changed (29 October 2026): the earlier work, by an outsider writing about the country, is replaced by a work by a local poet or musician. Listed with a description and link only. Revision (30 October 2026): the linked recording is 'Mbabvu Yangu' from the album Svovi Yangu (1996), so the entry now uses the song's own title. Link changed (2 November 2026) to a version without adverts: Mtukudzi's live acoustic version.",
     "rights": "In copyright. Not reproduced; listed with a link.",
     "source": "African Arguments: tribute to Oliver Mtukudzi",
     "id": "zimbabwe",
@@ -10247,8 +10247,8 @@ window.ARCHIVE = [
     },
     "links": [
       {
-        "label": "Listen to the song",
-        "url": "https://www.youtube.com/watch?v=Y2nmxwMrcQ8"
+        "label": "Watch the video",
+        "url": "https://www.youtube.com/watch?v=Y8rsJbAct74"
       },
       {
         "label": "Earlier link: Read about it",
