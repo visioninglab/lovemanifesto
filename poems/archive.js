@@ -1,16 +1,14 @@
 // Renders the love poetry archive from window.ARCHIVE (data/archive.js), with search, filters and sorting.
 
 (function () {
-  const { el, heading, passage, historyNote, sourceLink, viewNote: fillViewNote } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
   const entries = window.ARCHIVE || [];
 
   const $ = (id) => document.getElementById(id);
   const list = $("entries");
   const search = $("search");
-  const viewSwitch = $("view-switch");
   const alphabet = $("alphabet");
   const resultCount = $("result-count");
-  const viewNote = $("view-note");
   const empty = $("empty");
   const clearButton = $("clear-filters");
   const filterToggle = $("filter-toggle");
@@ -55,7 +53,6 @@
     ["2000", "2000 onwards", (y) => y >= 2000],
   ];
   const SORTS = [["country", "Country A–Z"], ["oldest", "Oldest first"], ["newest", "Newest first"]];
-  const VIEWS = [["read", "Poems to read"], ["explore", "Poems to explore"], ["all", "Everything"]];
 
   // A sortable year from labels such as "c. 600 BCE", "13th century", "before 1933" or "by 2016"
   function sortYear(label) {
@@ -75,7 +72,6 @@
   const params = new URLSearchParams(location.search);
   const state = {
     q: params.get("q") || "",
-    view: params.has("explore") ? "explore" : (params.get("view") || "read"),
     region: params.get("region") || "",
     type: params.get("type") || "",
     period: params.get("period") || "",
@@ -134,13 +130,6 @@
   }
 
   function buildControls() {
-    VIEWS.forEach(([value]) => {
-      const button = el("button", "chip");
-      button.type = "button";
-      button.dataset.view = value;
-      button.addEventListener("click", () => update({ view: value }));
-      viewSwitch.append(button);
-    });
     fillSelect($("filter-region"), "All regions", REGIONS.map((r) => [r, r]));
     fillSelect($("filter-type"), "Poems, songs and stories", TYPES.map(([v, l]) => [v, l]));
     fillSelect($("filter-period"), "Any period", PERIODS.map(([v, l]) => [v, l]));
@@ -199,7 +188,6 @@
 
   // Does an entry pass every filter, optionally ignoring one of them (for the counts beside each option)?
   function passes(entry, terms, ignore) {
-    if (ignore !== "view" && state.view !== "all" && Boolean(entry.passage) !== (state.view === "read")) return false;
     if (ignore !== "region" && state.region && entry.continent !== state.region) return false;
     if (ignore !== "type" && state.type && !TYPES.find(([v]) => v === state.type)[2](entry)) return false;
     if (ignore !== "period" && state.period) {
@@ -230,12 +218,6 @@
     const terms = fold(state.q).trim().split(/\s+/).filter(Boolean);
 
     // Option labels show how many results each choice would give
-    viewSwitch.querySelectorAll(".chip").forEach((button) => {
-      const value = button.dataset.view;
-      const n = countWhere(terms, "view", (e) => value === "all" || Boolean(e.passage) === (value === "read"));
-      button.textContent = `${VIEWS.find(([v]) => v === value)[1]} (${n})`;
-      button.setAttribute("aria-pressed", value === state.view);
-    });
     [["region", REGIONS.map((r) => [r, (e) => e.continent === r])],
      ["type", TYPES.map(([v, , test]) => [v, test])],
      ["period", PERIODS.map(([v, , test]) => [v, (e) => e.sortYear !== null && test(e.sortYear)])]].forEach(([key, tests]) => {
@@ -263,36 +245,21 @@
     alphabet.hidden = state.sort !== "country" || shown < 20;
     alphabet.querySelectorAll("a").forEach((a) => a.classList.toggle("disabled", !visibleLetters.has(a.dataset.letter)));
 
-    const active = [state.region, state.type, state.period].filter(Boolean).length
-      + (state.sort !== "country" ? 1 : 0) + (state.view !== "read" ? 1 : 0);
+    const active = [state.region, state.type, state.period].filter(Boolean).length + (state.sort !== "country" ? 1 : 0);
     filterBadge.hidden = !active;
     filterBadge.textContent = active;
     clearButton.hidden = !(active || terms.length);
     resultCount.textContent = `${shown} ${shown === 1 ? "result" : "results"}`;
 
-    if (state.view === "all") viewNote.replaceChildren(fillViewNote(true, el("span")), " ", fillViewNote(false, el("span")));
-    else fillViewNote(state.view === "read", viewNote);
-
-    showEmpty(shown, terms);
+    showEmpty(shown);
     saveToAddress();
   }
 
-  // When nothing matches, point to the other section if it has matches, or offer to clear the filters
-  function showEmpty(shown, terms) {
+  // When nothing matches, offer to clear the search and filters
+  function showEmpty(shown) {
     empty.hidden = shown > 0;
     if (shown) return;
     empty.replaceChildren(el("p", "", "Nothing matches."));
-    if (state.view !== "all") {
-      const other = state.view === "read" ? "explore" : "read";
-      const n = countWhere(terms, "view", (e) => Boolean(e.passage) === (other === "read"));
-      if (n) {
-        const button = el("button", "button button-quiet", `Show ${n} in ${VIEWS.find(([v]) => v === other)[1]}`);
-        button.type = "button";
-        button.addEventListener("click", () => update({ view: other }));
-        empty.append(button);
-        return;
-      }
-    }
     const button = el("button", "button button-quiet", "Clear the search and filters");
     button.type = "button";
     button.addEventListener("click", () => clearButton.click());
@@ -302,8 +269,6 @@
   function saveToAddress() {
     const parts = [];
     const add = (key, value) => parts.push(`${key}=${encodeURIComponent(value)}`);
-    if (state.view === "explore") parts.push("explore"); // the form older links use
-    if (state.view === "all") add("view", "all");
     if (state.q.trim()) add("q", state.q.trim());
     ["region", "type", "period"].forEach((key) => state[key] && add(key, state[key]));
     if (state.sort !== "country") add("sort", state.sort);
@@ -312,9 +277,8 @@
   }
 
   entries.forEach((entry) => list.append(renderEntry(entry)));
-  // A link to a country (e.g. from the map) opens whichever view that country is in
+  // A link to a country (e.g. from the map) opens that entry
   const linked = entries.find((e) => e.id === decodeURIComponent(location.hash.slice(1)));
-  if (linked) state.view = linked.passage ? "read" : "explore";
   buildControls();
   showLayout();
   sortEntries();

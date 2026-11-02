@@ -32,12 +32,7 @@
   // Not in the 1:50m map at all: [longitude, latitude]
   const EXTRA_POINTS = { Tuvalu: [179.2, -8.5] };
 
-  const CATEGORIES = [
-    { key: "poem", label: "Poems to read" },
-    { key: "listed", label: "Poems to explore" },
-  ];
-  const categoryOf = (entry) => (entry.passage ? "poem" : "listed");
-  const { el, heading, passage, historyNote, sourceLink, viewNote } = window.Poem;
+  const { el, heading, passage, historyNote, sourceLink } = window.Poem;
 
   const entries = window.ARCHIVE || [];
   const byAtlasName = new Map(entries.map((e) => [ATLAS_NAMES[e.country] || e.country, e]));
@@ -53,16 +48,6 @@
   const layer = svg.append("g");
   let selectedId = null;
   let zoomScale = 1;
-
-  function renderLegend() {
-    const legend = document.getElementById("legend");
-    CATEGORIES.forEach((c) => {
-      const count = entries.filter((e) => categoryOf(e) === c.key).length;
-      const li = document.createElement("li");
-      li.innerHTML = `<span class="swatch cat-${c.key}"></span>${c.label} <span class="legend-count">${count}</span>`;
-      legend.append(li);
-    });
-  }
 
   function renderSelect() {
     entries.forEach((e) => select.add(new Option(e.country, e.id)));
@@ -100,10 +85,9 @@
     const source = sourceLink(entry);
     if (source) links.append(source);
     const onPoems = el("a", "", "See on the Poems page");
-    onPoems.href = `../index.html${entry.passage ? "" : "?explore"}#${entry.id}`;
+    onPoems.href = `../index.html#${entry.id}`;
     links.append(onPoems);
     card.append(links);
-    card.append(viewNote(Boolean(entry.passage)));
     card.hidden = false;
   }
 
@@ -154,7 +138,7 @@
       .data(features)
       .join("path")
       .attr("d", path)
-      .attr("class", (d) => (d.entry ? `country cat-${categoryOf(d.entry)}` : "country no-entry"))
+      .attr("class", (d) => (d.entry ? "country cat-poem" : "country no-entry"))
       .filter((d) => d.entry)
       .call(interactive);
 
@@ -170,7 +154,7 @@
       .selectAll("g.dot")
       .data(dots)
       .join("g")
-      .attr("class", (d) => `dot cat-${categoryOf(d.entry)}`)
+      .attr("class", "dot cat-poem")
       .attr("transform", (d) => `translate(${d.point})`)
       .call(interactive);
     dot.append("circle").attr("class", "dot-hit");
@@ -229,7 +213,6 @@
   document.getElementById("zoom-out").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 1 / 1.8));
   document.getElementById("zoom-reset").addEventListener("click", () => svg.transition().call(zoom.transform, d3.zoomIdentity));
 
-  renderLegend();
   renderSelect();
 
   const chooseFromLink = () => {

@@ -10,9 +10,8 @@
   --accent-soft: #f3e3df;
   --serif: "Cormorant Garamond", Georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
-  /* Map: countries with a poem to read stand out; the rest recede */
+  /* Map: every country with an entry */
   --cat-poem: #a34a4a;
-  --cat-listed: #d9ccbf;
   --no-entry: #f0ebe4;
 }
 
@@ -26,7 +25,6 @@
     --accent: #e08e85;
     --accent-soft: #3b2724;
     --cat-poem: #e08e85;
-    --cat-listed: #4a403a;
     --no-entry: #2e2825;
   }
 }
@@ -187,7 +185,6 @@ a { color: var(--accent); }
   .filter-toggle { display: inline-flex; }
   .filter-panel { display: none; }
   .filters.panel-open .filter-panel { display: block; }
-  .filters.panel-open .view-switch { margin-top: 0; }
   .filter-selects { display: grid; grid-template-columns: 1fr 1fr; margin-top: 0.75rem; }
   .filter-select select { width: 100%; padding: 0.55rem 0.5rem; font-size: 1rem; }
   .search input { padding: 0.7rem 1rem; }
@@ -205,7 +202,6 @@ a { color: var(--accent); }
 
 .search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 
-.view-switch { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 
 .chip {
   padding: 0.3rem 0.85rem;
@@ -370,22 +366,6 @@ a { color: var(--accent); }
   font: inherit;
 }
 
-.legend {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 1.1rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  font-size: 0.9rem;
-}
-
-.legend li { display: flex; gap: 0.4rem; align-items: center; }
-.legend-count { color: var(--muted); }
-.swatch { width: 0.8rem; height: 0.8rem; border-radius: 3px; }
-.swatch.cat-poem { background: var(--cat-poem); }
-.swatch.cat-listed { background: var(--cat-listed); }
-
 .map-frame {
   position: relative;
   overflow: hidden;
@@ -406,7 +386,6 @@ a { color: var(--accent); }
 
 #map .country.no-entry { fill: var(--no-entry); }
 #map .cat-poem { fill: var(--cat-poem); }
-#map .cat-listed { fill: var(--cat-listed); }
 
 #map .country:not(.no-entry), #map .dot { cursor: pointer; }
 #map .country:not(.no-entry):hover { opacity: 0.8; }
@@ -675,8 +654,6 @@ a { color: var(--accent); }
   .country-picker select { max-width: none; width: 100%; padding: 0.6rem 0.75rem; }
 }
 
-.view-note { margin: 0.75rem 0 0.5rem; color: var(--muted); font-size: 0.9rem; }
-.view-note span + span { display: block; margin-top: 0.2rem; }
 
 /* Invitation to contribute */
 .wip-note {
