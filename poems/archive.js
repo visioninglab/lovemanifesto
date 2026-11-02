@@ -116,7 +116,10 @@
     fillSelect($("filter-period"), "Any period", PERIODS.map(([v, l]) => [v, l]));
     $("filter-sort").replaceChildren(...SORTS.map(([v, l]) => new Option(l, v)));
     ["region", "type", "period", "sort"].forEach((key) => {
-      $(`filter-${key}`).addEventListener("change", (event) => update({ [key]: event.target.value }));
+      $(`filter-${key}`).addEventListener("change", (event) => {
+        update({ [key]: event.target.value });
+        toResults();
+      });
     });
 
     [["full", "Full poems"], ["titles", "Titles only"]].forEach(([value, label]) => {
@@ -127,6 +130,7 @@
         layout = value;
         try { localStorage.setItem("lm-layout", value); } catch (e) { /* storage unavailable */ }
         showLayout();
+        toResults();
       });
       layoutSwitch.append(button);
     });
@@ -157,13 +161,17 @@
     clearButton.addEventListener("click", () => {
       search.value = "";
       update({ q: "", region: "", type: "", period: "", sort: "country" });
+      toResults();
     });
 
     let typing;
     search.value = state.q;
     search.addEventListener("input", () => {
       clearTimeout(typing);
-      typing = setTimeout(() => update({ q: search.value }), 120);
+      typing = setTimeout(() => {
+        update({ q: search.value });
+        toResults();
+      }, 120);
     });
 
     const letters = [...new Set(entries.map((e) => fold(e.country)[0].toUpperCase()))];
@@ -180,14 +188,30 @@
     });
   }
 
-  // Back to the top: a button that appears once the reader has scrolled, and a tap on the search bar's background
+  // Scrolling: back to the start of the results after a filter changes, and back to the top of the page on request
+  const smooth = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
+  const resultsTop = () => list.closest("main").getBoundingClientRect().top + window.scrollY;
+  const toTop = () => window.scrollTo({ top: 0, behavior: smooth });
+
+  function toResults() {
+    const top = resultsTop();
+    if (window.scrollY > top + 1) window.scrollTo({ top, behavior: "auto" });
+  }
+
+  // A floating button once the reader has scrolled, a Top link in the bar that stays on screen,
+  // and a tap on that bar's background
   function setUpBackToTop() {
     const button = $("back-to-top");
-    const smooth = window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth";
-    const toTop = () => window.scrollTo({ top: 0, behavior: smooth });
+    const link = $("top-link");
     button.addEventListener("click", toTop);
-    const onScroll = () => { button.hidden = window.scrollY < window.innerHeight; };
+    link.addEventListener("click", toTop);
+    const onScroll = () => {
+      const past = window.scrollY > resultsTop() + 40;
+      link.hidden = !past;
+      button.hidden = window.scrollY < window.innerHeight * 0.75;
+    };
     window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
     onScroll();
     $("filters").addEventListener("click", (event) => {
       if (!event.target.closest("input, select, button, a, label") && window.scrollY > 0) toTop();

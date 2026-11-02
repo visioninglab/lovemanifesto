@@ -184,6 +184,8 @@ a { color: var(--accent); }
 }
 
 .layout-switch { display: flex; gap: 0.35rem; margin-left: auto; }
+.top-link { font-weight: 600; text-decoration: none; }
+.top-link[hidden] { display: none; }
 
 .link-button {
   padding: 0;
