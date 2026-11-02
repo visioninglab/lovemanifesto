@@ -10072,6 +10072,46 @@ window.ARCHIVE = [
     ]
   },
   {
+    "refId": "ML-247",
+    "country": "Western Sahara",
+    "continent": "Africa",
+    "title": "Qalb El Haulia",
+    "titleEnglish": "Qalb El Haulia",
+    "creator": "Bahia Mahmud Awah",
+    "openOriginal": "No",
+    "referenceType": "Named work",
+    "form": "Poetry",
+    "genderGroup": "Men",
+    "year": "2007",
+    "language": "Spanish, with Hassaniya words",
+    "tradition": "",
+    "formDetails": "Poem",
+    "genderDetails": "Man",
+    "originalDate": "Versos refugiados, 2007",
+    "editionDate": "",
+    "description": "Far from home, the poet receives letters from his Bedouin love telling how the desert comes back to life after rain, and answers with a vow of steady love.",
+    "provenance": "Bahia Mahmud Awah, Versos refugiados (Universidad de Alcalá, 2007); English translation by Joseph Mulligan, on Pierre Joris's blog.",
+    "location": "",
+    "translation": "Added 2 November 2026. Linked to a published English translation; the poem is in copyright.",
+    "rights": "In copyright: described and linked only; no text is reproduced here. Added 2 November 2026.",
+    "source": "Pierre Joris, 'More Sahrawi Poetry'",
+    "id": "western-sahara",
+    "contextNote": "Western Sahara, on Africa's Atlantic coast, was a Spanish colony until 1975, and its status is still disputed: Morocco controls most of the territory, while the Sahrawi Arab Democratic Republic, recognised by about 45 countries and a member of the African Union, claims it. Many Sahrawis have lived for decades in refugee camps near Tindouf in Algeria. Bahia Mahmud Awah, born in Western Sahara in 1960, writes in Spanish and helped found the Generación de la Amistad, a group of Sahrawi poets.",
+    "formGroup": "Poem",
+    "display": {
+      "title": "Qalb El Haulia",
+      "english": "",
+      "creator": "Bahia Mahmud Awah",
+      "language": "Spanish, with Hassaniya words"
+    },
+    "links": [
+      {
+        "label": "Read the text",
+        "url": "https://pierrejoris.com/blog/more-sahrawi-poetry/"
+      }
+    ]
+  },
+  {
     "refId": "ML-193",
     "country": "Yemen",
     "continent": "Asia",

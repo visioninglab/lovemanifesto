@@ -28,6 +28,7 @@
     "South Sudan": "S. Sudan",
     "Türkiye": "Turkey",
     "Cook Islands": "Cook Is.",
+    "Western Sahara": "W. Sahara",
     "United States": "United States of America",
   };
   // Not in the 1:50m map at all: [longitude, latitude]
